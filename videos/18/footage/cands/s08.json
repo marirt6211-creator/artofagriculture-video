@@ -1,0 +1,764 @@
+{
+ "shot": "s08",
+ "text": "and plant growth",
+ "need": "young plant / seedling growing, roots visible",
+ "queries": [
+  "plant growing time lapse",
+  "seedling roots",
+  "young plant growth"
+ ],
+ "kind": "video",
+ "items": [
+  {
+   "source": "pixabay",
+   "id": "89536",
+   "kind": "video",
+   "title": "vine, grow, plant, spiral, sweet potato, spin, nature, timelapse, time lapse, leaves, leaf, green, twirl",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-89536/",
+   "thumb": "https://cdn.pixabay.com/video/2021/09/24/89536-614024920_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2021/09/24/89536-614024920_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 20,
+   "year": null,
+   "author": "BlenderTimer",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2021/09/24/89536-614024920_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 20758851
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/09/24/89536-614024920_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 10127014
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/09/24/89536-614024920_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 6997051
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "vine, grow, plant, spiral, sweet potato, spin, nature, timelapse, time lapse, leaves, leaf, green, twirl · BlenderTimer · Pixabay · Pixabay Content License",
+   "q": "plant growing time lapse"
+  },
+  {
+   "source": "pixabay",
+   "id": "339922",
+   "kind": "video",
+   "title": "nature, sustainability, eco, green, seedling, plant, environment, earth, growth, ecology, hands, soil, organic, bioluminescent, roots, conservation, climate, clean energy, hope, future, garden, natural, macro, life, renewable",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-339922/",
+   "thumb": "https://cdn.pixabay.com/video/2026/03/12/339922_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2026/03/12/339922_tiny.mp4",
+   "w": 1080,
+   "h": 1920,
+   "dur": 8,
+   "year": null,
+   "author": "haruudu",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2026/03/12/339922_large.mp4",
+     "w": 1080,
+     "h": 1920,
+     "size": 4715989
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/03/12/339922_medium.mp4",
+     "w": 720,
+     "h": 1280,
+     "size": 1894478
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/03/12/339922_small.mp4",
+     "w": 540,
+     "h": 960,
+     "size": 1179351
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "nature, sustainability, eco, green, seedling, plant, environment, earth, growth, ecology, hands, soil, organic, bioluminescent, roots, conservation, climate, clean energy, hope, future, garden, natural, macro, life, renewable · haruudu · Pixabay · Pixabay Content License",
+   "q": "seedling roots"
+  },
+  {
+   "source": "pixabay",
+   "id": "5635",
+   "kind": "video",
+   "title": "plant, watering, grow, gardening, ewer, watering can, watering pot, water, nature, green, care, garden, spring, ecology, growth, environment, growing, summer, young, agriculture",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-5635/",
+   "thumb": "https://cdn.pixabay.com/video/2016/09/22/5635-183850259_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2016/09/22/5635-183850259_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 14,
+   "year": null,
+   "author": "Coverr-Free-Footage",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2016/09/22/5635-183850259_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 7665545
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2016/09/22/5635-183850259_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 4276351
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2016/09/22/5635-183850259_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 2385817
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "plant, watering, grow, gardening, ewer, watering can, watering pot, water, nature, green, care, garden, spring, ecology, growth, environment, growing, summer, young, agriculture · Coverr-Free-Footage · Pixabay · Pixabay Content License",
+   "q": "young plant growth"
+  },
+  {
+   "source": "pixabay",
+   "id": "24105",
+   "kind": "video",
+   "title": "plant, petals, blossom, bloom, anthers, wild flower, time lapse, timelapse",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-24105/",
+   "thumb": "https://cdn.pixabay.com/video/2019/05/31/24105-340394810_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2019/05/31/24105-340394810_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 29,
+   "year": null,
+   "author": "adege",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2019/05/31/24105-340394810_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 46883461
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/05/31/24105-340394810_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 18238445
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/05/31/24105-340394810_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 10385833
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "plant, petals, blossom, bloom, anthers, wild flower, time lapse, timelapse · adege · Pixabay · Pixabay Content License",
+   "q": "plant growing time lapse"
+  },
+  {
+   "source": "pixabay",
+   "id": "260395",
+   "kind": "video",
+   "title": "seedling, germinate, grow, germination, potato seedling, nature, growth, plant",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-260395/",
+   "thumb": "https://cdn.pixabay.com/video/2025/02/23/260395_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2025/02/23/260395_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 40,
+   "year": null,
+   "author": "adege",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2025/02/23/260395_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 42870344
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/02/23/260395_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 12571561
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/02/23/260395_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 6707672
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "seedling, germinate, grow, germination, potato seedling, nature, growth, plant · adege · Pixabay · Pixabay Content License",
+   "q": "seedling roots"
+  },
+  {
+   "source": "pixabay",
+   "id": "1124",
+   "kind": "video",
+   "title": "leaves, tree, park, green, nature, summer, natural, plant, environment, ecological, earth globe, clean, fresh, smooth, young, greenery, life, growth, season, spring, botany, freshness, healthy, foliage, day, outdoor, sunlight, light, landscape, scenic, bright, sunny day, lush, oxygen, breathing, calm, air",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-1124/",
+   "thumb": "https://cdn.pixabay.com/video/2015/10/21/1124-143368880_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2015/10/21/1124-143368880_tiny.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 18,
+   "year": null,
+   "author": "Interesting_Images",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2015/10/21/1124-143368880_medium.mp4",
+     "w": 0,
+     "h": 0,
+     "size": 0
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2015/10/21/1124-143368880_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 5713608
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2015/10/21/1124-143368880_small.mp4",
+     "w": 640,
+     "h": 360,
+     "size": 1678968
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "leaves, tree, park, green, nature, summer, natural, plant, environment, ecological, earth globe, clean, fresh, smooth, young, greenery, life, growth, season, spring, botany, freshness, healthy, foliage, day, outdoor, sunlight, light, landscape, scenic, bright, sunny day, lush, oxygen, breathing, calm, air · Interesting_Images · Pixabay · Pixabay Content License",
+   "q": "young plant growth"
+  },
+  {
+   "source": "pixabay",
+   "id": "163333",
+   "kind": "video",
+   "title": "dandelion, blossom, bloom, faded, flying seeds, seeds, seed stand, plant, nature, time lapse",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-163333/",
+   "thumb": "https://cdn.pixabay.com/video/2023/05/16/163333-827461514_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2023/05/16/163333-827461514_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 41,
+   "year": null,
+   "author": "adege",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2023/05/16/163333-827461514_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 110267192
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2023/05/16/163333-827461514_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 49231856
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2023/05/16/163333-827461514_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 29154850
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "dandelion, blossom, bloom, faded, flying seeds, seeds, seed stand, plant, nature, time lapse · adege · Pixabay · Pixabay Content License",
+   "q": "plant growing time lapse"
+  },
+  {
+   "source": "pixabay",
+   "id": "22983",
+   "kind": "video",
+   "title": "germinate, germination, seedling, book seedling, plug, grow, sprout, development, grows, growth, sapling, time lapse",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-22983/",
+   "thumb": "https://cdn.pixabay.com/video/2019/04/22/22983-332257703_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2019/04/22/22983-332257703_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 25,
+   "year": null,
+   "author": "adege",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2019/04/22/22983-332257703_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 52414089
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/04/22/22983-332257703_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 24466118
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/04/22/22983-332257703_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 15190578
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "germinate, germination, seedling, book seedling, plug, grow, sprout, development, grows, growth, sapling, time lapse · adege · Pixabay · Pixabay Content License",
+   "q": "seedling roots"
+  },
+  {
+   "source": "pixabay",
+   "id": "1123",
+   "kind": "video",
+   "title": "palm, tree, dangling, leaves, green, nature, summer, natural, plant, environment, ecological, clean, fresh, smooth, young, greenery, life, growth, season, spring, botany, freshness, healthy, foliage, day, outdoor, sunlight, light, landscape, scenic, bright, sunny day, lush, oxygen, breathing, calm, air, park, sparkle, joy, freedom, existence",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-1123/",
+   "thumb": "https://cdn.pixabay.com/video/2015/10/21/1123-143407449_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2015/10/21/1123-143407449_tiny.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 11,
+   "year": null,
+   "author": "Interesting_Images",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2015/10/21/1123-143407449_medium.mp4",
+     "w": 0,
+     "h": 0,
+     "size": 0
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2015/10/21/1123-143407449_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 3474725
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2015/10/21/1123-143407449_small.mp4",
+     "w": 640,
+     "h": 360,
+     "size": 1050470
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "palm, tree, dangling, leaves, green, nature, summer, natural, plant, environment, ecological, clean, fresh, smooth, young, greenery, life, growth, season, spring, botany, freshness, healthy, foliage, day, outdoor, sunlight, light, landscape, scenic, bright, sunny day, lush, oxygen, breathing, calm, air, park, sparkle, joy, freedom, existence · Interesting_Images · Pixabay · Pixabay Content License",
+   "q": "young plant growth"
+  },
+  {
+   "source": "mixkit",
+   "id": "47540",
+   "kind": "video",
+   "title": "Time lapse of seedlings growing ",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/time-lapse-of-seedlings-growing-47540/",
+   "thumb": "https://assets.mixkit.co/videos/47540/47540-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/47540/47540-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/47540/47540-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/47540/47540-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Time lapse of seedlings growing  · Mixkit · Mixkit Free License",
+   "q": "plant growing time lapse"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822",
+   "kind": "video",
+   "title": "A woman cleans soil from lettuce roots",
+   "desc": "A close-up shot of a woman cleaning soil off of the roots of a lettuce plant.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-cleans-soil-from-lettuce-roots-phbqnscvn6",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 20.937583,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman cleans soil from lettuce roots · Coverr · Coverr License",
+   "q": "seedling roots"
+  },
+  {
+   "source": "mixkit",
+   "id": "47274",
+   "kind": "video",
+   "title": "Worker in a greenhouse watering young plants with a hose",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/worker-in-a-greenhouse-watering-young-plants-with-a-hose-47274/",
+   "thumb": "https://assets.mixkit.co/videos/47274/47274-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/47274/47274-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/47274/47274-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/47274/47274-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Worker in a greenhouse watering young plants with a hose · Mixkit · Mixkit Free License",
+   "q": "young plant"
+  },
+  {
+   "source": "mixkit",
+   "id": "38373",
+   "kind": "video",
+   "title": "Green plants slowly growing above the ground",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/green-plants-slowly-growing-above-the-ground-38373/",
+   "thumb": "https://assets.mixkit.co/videos/38373/38373-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/38373/38373-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/38373/38373-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/38373/38373-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Green plants slowly growing above the ground · Mixkit · Mixkit Free License",
+   "q": "plant growing"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-woman-picks-lettuce-on-a-farm-2718",
+   "kind": "video",
+   "title": "A woman picks lettuce on a farm",
+   "desc": "A medium shot of a woman harvesting lettuce.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-picks-lettuce-on-a-farm-uhy2z1rlrh",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-woman-picks-lettuce-on-a-farm-2718/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-woman-picks-lettuce-on-a-farm-2718/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 15.015,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-woman-picks-lettuce-on-a-farm-2718/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman picks lettuce on a farm · Coverr · Coverr License",
+   "q": "seedling roots"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-man-types-on-iphone-15",
+   "kind": "video",
+   "title": "Young Man Texting on iPhone 15 in Cozy Room with Plants",
+   "desc": "A man types on his iPhone 15 while sitting in a room with lush green plants and a red armchair in the background. The setting highlights the blend of modern technology and a comfortable, stylish living space.",
+   "tags": "",
+   "page": "https://coverr.co/videos/young-man-texting-on-iphone-15-in-cozy-room-with-plants",
+   "thumb": "https://cdn.coverr.co/videos/coverr-man-types-on-iphone-15/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-man-types-on-iphone-15/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 8.875,
+   "year": 2024,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-man-types-on-iphone-15/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Young Man Texting on iPhone 15 in Cozy Room with Plants · Coverr · Coverr License",
+   "q": "young plant growth"
+  },
+  {
+   "source": "mixkit",
+   "id": "9762",
+   "kind": "video",
+   "title": "Plant growing in the ground",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/plant-growing-in-the-ground-9762/",
+   "thumb": "https://assets.mixkit.co/videos/9762/9762-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/9762/9762-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/9762/9762-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/9762/9762-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Plant growing in the ground · Mixkit · Mixkit Free License",
+   "q": "plant growing"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-woman-shows-harvested-peas-8954",
+   "kind": "video",
+   "title": "A woman shows harvested peas",
+   "desc": "A close-up shot of a woman’s hand as she shows freshly picked green peas.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-shows-harvested-peas-spfj1r5pcz",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-woman-shows-harvested-peas-8954/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-woman-shows-harvested-peas-8954/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 14.055708,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-woman-shows-harvested-peas-8954/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman shows harvested peas · Coverr · Coverr License",
+   "q": "seedling roots"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-elegant-lady-texting-in-evening-cityscape",
+   "kind": "video",
+   "title": "Elegant Young Lady Texting in Evening Cityscape",
+   "desc": "A stylish young woman sits on a planter, texting on her smartphone. The city lights create a vibrant backdrop, highlighting her sophistication and connection to urban life.",
+   "tags": "",
+   "page": "https://coverr.co/videos/elegant-lady-texting-in-evening-cityscape",
+   "thumb": "https://cdn.coverr.co/videos/coverr-elegant-lady-texting-in-evening-cityscape/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-elegant-lady-texting-in-evening-cityscape/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 11.666667,
+   "year": 2024,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-elegant-lady-texting-in-evening-cityscape/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Elegant Young Lady Texting in Evening Cityscape · Coverr · Coverr License",
+   "q": "young plant growth"
+  }
+ ]
+}

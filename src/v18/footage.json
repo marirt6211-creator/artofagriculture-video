@@ -1,0 +1,670 @@
+{
+ "clips": {
+  "c01": {
+   "file": "v18/footage/c01.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 3.403,
+   "fps": 29.97,
+   "in": 8.6,
+   "out": 12,
+   "audio": false,
+   "focus": [
+    0.635,
+    0.5
+   ],
+   "source": "mixkit",
+   "id": "2851",
+   "title": "A person sowing a seed",
+   "page": "https://mixkit.co/free-stock-video/a-person-sowing-a-seed-2851/",
+   "author": "",
+   "year": null,
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "A person sowing a seed · Mixkit · Mixkit Free License",
+   "shot": "s01"
+  },
+  "c02": {
+   "file": "v18/footage/c02.mp4",
+   "kind": "video",
+   "w": 1080,
+   "h": 1920,
+   "dur": 10,
+   "fps": 60,
+   "in": 0,
+   "out": 10,
+   "audio": false,
+   "focus": [
+    0.5,
+    0.708
+   ],
+   "source": "pixabay",
+   "id": "337745",
+   "title": "sprout, seedling, plant, growth, growing, nature, soil, agriculture, gardening, spring, macro, close-up, life, new life, green, leaves, earth, eco, environment, emerging, seed, botany, dirt",
+   "page": "https://pixabay.com/videos/id-337745/",
+   "author": "WhiteHatDesigner",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "sprout, seedling, plant, growth, growing, nature, soil, agriculture, gardening, spring, macro, close-up, life, new life, green, leaves, earth, eco, environment, emerging, seed, botany, dirt · WhiteHatDesigner · Pixabay · Pixabay Content License",
+   "shot": "s02"
+  },
+  "c03": {
+   "file": "v18/footage/c03.mp4",
+   "kind": "video",
+   "w": 1080,
+   "h": 1920,
+   "dur": 5.6,
+   "fps": 50,
+   "in": 0,
+   "out": 5.6,
+   "audio": false,
+   "focus": [
+    0.5,
+    0.719
+   ],
+   "source": "pixabay",
+   "id": "279388",
+   "title": "fields, farmlands, sunrise, morning light, green, landscape, agriculture, rural, nature, horizon, panoramic, tranquility, sky, open space, golden hour, sunlight, crops, summer, peaceful, outdoors, aerial, vibrant, scenic, countryside, ai, ai generated",
+   "page": "https://pixabay.com/videos/id-279388/",
+   "author": "Positive_Hedgehog",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "fields, farmlands, sunrise, morning light, green, landscape, agriculture, rural, nature, horizon, panoramic, tranquility, sky, open space, golden hour, sunlight, crops, summer, peaceful, outdoors, aerial, vibrant, scenic, countryside, ai, ai generated · Positive_Hedgehog · Pixabay · Pixabay Content License",
+   "shot": "s03"
+  },
+  "c04": {
+   "file": "v18/footage/c04.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 8.008,
+   "fps": 29.97,
+   "in": 8,
+   "out": 16,
+   "audio": false,
+   "focus": [
+    0.521,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "217708",
+   "title": "plant, leaves, foliage, outdoors, environment, water droplets, green, close-up, raindrops, dewdrop, moisture, rain, raining, morning, macro, botany, delicate, spring, nature",
+   "page": "https://pixabay.com/videos/id-217708/",
+   "author": "YanaHD",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "plant, leaves, foliage, outdoors, environment, water droplets, green, close-up, raindrops, dewdrop, moisture, rain, raining, morning, macro, botany, delicate, spring, nature · YanaHD · Pixabay · Pixabay Content License",
+   "shot": "s04"
+  },
+  "c05": {
+   "file": "v18/footage/c05.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 10.01,
+   "fps": 29.97,
+   "in": 4,
+   "out": 14,
+   "audio": false,
+   "focus": [
+    0.469,
+    0.5
+   ],
+   "source": "mixkit",
+   "id": "17803",
+   "title": "Several pink lily flowers opening",
+   "page": "https://mixkit.co/free-stock-video/several-pink-lily-flowers-opening-17803/",
+   "author": "",
+   "year": null,
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Several pink lily flowers opening · Mixkit · Mixkit Free License",
+   "shot": "s05"
+  },
+  "c06": {
+   "file": "v18/footage/c06.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 8,
+   "fps": 25,
+   "in": 20,
+   "out": 28,
+   "audio": false,
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "source": "mixkit",
+   "id": "7692",
+   "title": "Tractor spraying crops",
+   "page": "https://mixkit.co/free-stock-video/tractor-spraying-crops-7692/",
+   "author": "",
+   "year": null,
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Tractor spraying crops · Mixkit · Mixkit Free License",
+   "shot": "s06"
+  },
+  "c07": {
+   "file": "v18/footage/c07.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 7.007,
+   "fps": 23.976,
+   "in": 6,
+   "out": 13,
+   "audio": false,
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "27626",
+   "title": "biology, worm, earthworm, insect, soil, invertebrates, compost, nature, earth, fertilizer, organic, ecological, humus, trash, recycle",
+   "page": "https://pixabay.com/videos/id-27626/",
+   "author": "padrinan",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "biology, worm, earthworm, insect, soil, invertebrates, compost, nature, earth, fertilizer, organic, ecological, humus, trash, recycle · padrinan · Pixabay · Pixabay Content License",
+   "shot": "s07"
+  },
+  "c08": {
+   "file": "v18/footage/c08.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 10.01,
+   "fps": 29.97,
+   "in": 2,
+   "out": 12,
+   "audio": false,
+   "focus": [
+    0.167,
+    0.5
+   ],
+   "source": "mixkit",
+   "id": "38373",
+   "title": "Green plants slowly growing above the ground",
+   "page": "https://mixkit.co/free-stock-video/green-plants-slowly-growing-above-the-ground-38373/",
+   "author": "",
+   "year": null,
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Green plants slowly growing above the ground · Mixkit · Mixkit Free License",
+   "shot": "s08"
+  },
+  "c09": {
+   "file": "v18/footage/c09.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 8,
+   "fps": 50,
+   "in": 1,
+   "out": 9,
+   "audio": false,
+   "focus": [
+    0.156,
+    0.5
+   ],
+   "source": "mixkit",
+   "id": "11933",
+   "title": "Red and green Tomatos",
+   "page": "https://mixkit.co/free-stock-video/red-and-green-tomatos-11933/",
+   "author": "",
+   "year": null,
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Red and green Tomatos · Mixkit · Mixkit Free License",
+   "shot": "s11"
+  },
+  "c10": {
+   "file": "v18/footage/c10.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 8,
+   "fps": 25,
+   "in": 5,
+   "out": 13,
+   "audio": false,
+   "focus": [
+    0.583,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "44765",
+   "title": "watering, sprinkler, garden, green, agriculture, bio garden, irrigated, bio, irrigation, plant, water, food, grow, summer, growth, organic, farm, gardening, fresh, healthy, cultures, farmer, sun",
+   "page": "https://pixabay.com/videos/id-44765/",
+   "author": "FreeCreativeStuff",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "watering, sprinkler, garden, green, agriculture, bio garden, irrigated, bio, irrigation, plant, water, food, grow, summer, growth, organic, farm, gardening, fresh, healthy, cultures, farmer, sun · FreeCreativeStuff · Pixabay · Pixabay Content License",
+   "shot": "s10"
+  },
+  "c11": {
+   "file": "v18/footage/c11.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 8.52,
+   "fps": 25,
+   "in": 0,
+   "out": 8.5,
+   "audio": false,
+   "focus": [
+    0.51,
+    0.5
+   ],
+   "source": "mixkit",
+   "id": "46563",
+   "title": "Picking fresh tomatoes from the vine",
+   "page": "https://mixkit.co/free-stock-video/picking-fresh-tomatoes-from-the-vine-46563/",
+   "author": "",
+   "year": null,
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Picking fresh tomatoes from the vine · Mixkit · Mixkit Free License",
+   "shot": "s11"
+  },
+  "c12a": {
+   "file": "v18/footage/c12a.mp4",
+   "kind": "video",
+   "w": 2048,
+   "h": 1080,
+   "dur": 8,
+   "fps": 25,
+   "in": 2,
+   "out": 10,
+   "audio": false,
+   "focus": [
+    0.625,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "262188",
+   "title": "scientist, laboratory, biology, science, researcher, specimen, experiment, chemistry, research, testing, medical, precision, technology, clinical, investigation, equipment, examine, biological, probe, visualization, gloves, analysis, education, innovation",
+   "page": "https://pixabay.com/videos/id-262188/",
+   "author": "Kost9n4",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "scientist, laboratory, biology, science, researcher, specimen, experiment, chemistry, research, testing, medical, precision, technology, clinical, investigation, equipment, examine, biological, probe, visualization, gloves, analysis, education, innovation · Kost9n4 · Pixabay · Pixabay Content License",
+   "shot": "s12"
+  },
+  "c12b": {
+   "file": "v18/footage/c12b.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 7.16,
+   "fps": 25,
+   "in": 2,
+   "out": 10,
+   "audio": false,
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "source": "mixkit",
+   "id": "47063",
+   "title": "Clasped hands holding a sprouting plant",
+   "page": "https://mixkit.co/free-stock-video/clasped-hands-holding-a-sprouting-plant-47063/",
+   "author": "",
+   "year": null,
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Clasped hands holding a sprouting plant · Mixkit · Mixkit Free License",
+   "shot": "s07"
+  },
+  "c12c": {
+   "file": "v18/footage/c12c.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 10,
+   "fps": 25,
+   "in": 10,
+   "out": 20,
+   "audio": false,
+   "focus": [
+    0.438,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "129079",
+   "title": "mist, fog, field, trees, birds, morning, farmland, sunrise, netherlands, drenthe, forest",
+   "page": "https://pixabay.com/videos/id-129079/",
+   "author": "Matthias_Groeneveld",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "mist, fog, field, trees, birds, morning, farmland, sunrise, netherlands, drenthe, forest · Matthias_Groeneveld · Pixabay · Pixabay Content License",
+   "shot": "s12"
+  },
+  "c13a": {
+   "file": "v18/footage/c13a.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 8.008,
+   "fps": 29.97,
+   "in": 1,
+   "out": 9,
+   "audio": false,
+   "focus": [
+    0.313,
+    0.5
+   ],
+   "source": "mixkit",
+   "id": "38410",
+   "title": "Peasant walking through a wheat field",
+   "page": "https://mixkit.co/free-stock-video/peasant-walking-through-a-wheat-field-38410/",
+   "author": "",
+   "year": null,
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Peasant walking through a wheat field · Mixkit · Mixkit Free License",
+   "shot": "s12"
+  },
+  "c13b": {
+   "file": "v18/footage/c13b.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 8,
+   "fps": 30,
+   "in": 4,
+   "out": 12,
+   "audio": false,
+   "focus": [
+    0.521,
+    0.5
+   ],
+   "source": "mixkit",
+   "id": "8864",
+   "title": "Hand touching wheat in golden sunset",
+   "page": "https://mixkit.co/free-stock-video/hand-touching-wheat-in-golden-sunset-8864/",
+   "author": "",
+   "year": null,
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Hand touching wheat in golden sunset · Mixkit · Mixkit Free License",
+   "shot": "s13"
+  },
+  "c13c": {
+   "file": "v18/footage/c13c.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 8.008,
+   "fps": 23.976,
+   "in": 4,
+   "out": 12,
+   "audio": false,
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "source": "mixkit",
+   "id": "27821",
+   "title": "Childs eye looking around",
+   "page": "https://mixkit.co/free-stock-video/childs-eye-looking-around-27821/",
+   "author": "",
+   "year": null,
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Childs eye looking around · Mixkit · Mixkit Free License",
+   "shot": "s13"
+  },
+  "c14": {
+   "file": "v18/footage/c14.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 8.52,
+   "fps": 25,
+   "in": 0,
+   "out": 8.5,
+   "audio": false,
+   "focus": [
+    0.156,
+    0.5
+   ],
+   "source": "mixkit",
+   "id": "8622",
+   "title": "Aerial timelapse flyover farmland countryside",
+   "page": "https://mixkit.co/free-stock-video/aerial-timelapse-flyover-farmland-countryside-8622/",
+   "author": "",
+   "year": null,
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Aerial timelapse flyover farmland countryside · Mixkit · Mixkit Free License",
+   "shot": "s14"
+  },
+  "c15": {
+   "file": "v18/footage/c15.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 10.01,
+   "fps": 23.976,
+   "in": 8,
+   "out": 18,
+   "audio": false,
+   "focus": [
+    0.417,
+    0.5
+   ],
+   "source": "mixkit",
+   "id": "1709",
+   "title": "Sunlight crossing the branches of trees",
+   "page": "https://mixkit.co/free-stock-video/sunlight-crossing-the-branches-of-trees-1709/",
+   "author": "",
+   "year": null,
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Sunlight crossing the branches of trees · Mixkit · Mixkit Free License",
+   "shot": "s15"
+  }
+ },
+ "shots": {
+  "s01": {
+   "t0": null,
+   "t1": null,
+   "text": "Have you ever wondered how much science,"
+  },
+  "s02": {
+   "t0": null,
+   "t1": null,
+   "text": "innovation, and wonder are hidden behind a tiny seed?"
+  },
+  "s03": {
+   "t0": null,
+   "t1": null,
+   "text": "Welcome to the Art of Agriculture!"
+  },
+  "s04": {
+   "t0": null,
+   "t1": null,
+   "text": "Here, we'll explore the fascinating world of plants,"
+  },
+  "s05": {
+   "t0": null,
+   "t1": null,
+   "text": "discover the secrets of nature,"
+  },
+  "s06": {
+   "t0": null,
+   "t1": null,
+   "text": "and learn about modern farming technologies."
+  },
+  "s07": {
+   "t0": null,
+   "t1": null,
+   "text": "From soil health"
+  },
+  "s08": {
+   "t0": null,
+   "t1": null,
+   "text": "and plant growth"
+  },
+  "s09": {
+   "t0": null,
+   "t1": null,
+   "text": "to smart agriculture,"
+  },
+  "s10": {
+   "t0": null,
+   "t1": null,
+   "text": "sustainable farming,"
+  },
+  "s11": {
+   "t0": null,
+   "t1": null,
+   "text": "and profitable crops..."
+  },
+  "s12": {
+   "t0": null,
+   "t1": null,
+   "text": "We'll bring you fascinating discoveries, useful knowledge, and inspiring stories from the world of agriculture."
+  },
+  "s13": {
+   "t0": null,
+   "t1": null,
+   "text": "Whether you're a farmer, a nature lover, or simply curious about the world around you, there's something here for you!"
+  },
+  "s14": {
+   "t0": null,
+   "t1": null,
+   "text": "Art of Agriculture — Knowledge Today, Agriculture Tomorrow."
+  },
+  "s15": {
+   "t0": null,
+   "t1": null,
+   "text": "Join us, and let's grow together!"
+  }
+ }
+}

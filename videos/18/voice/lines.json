@@ -1,0 +1,58 @@
+[
+ {
+  "n": 1,
+  "sp": "A",
+  "fa": "[curious] Have you ever wondered how much science, innovation, and wonder are hidden behind a tiny seed?",
+  "check": "Have you ever wondered how much science, innovation, and wonder are hidden behind a tiny seed?",
+  "gap": 0.35
+ },
+ {
+  "n": 2,
+  "sp": "A",
+  "fa": "[warm, excited] Welcome to the Art of Agriculture!",
+  "check": "Welcome to the Art of Agriculture!",
+  "gap": 0.4
+ },
+ {
+  "n": 3,
+  "sp": "A",
+  "fa": "[warm] Here, we'll explore the fascinating world of plants, discover the secrets of nature, and learn about modern farming technologies.",
+  "check": "Here, we'll explore the fascinating world of plants, discover the secrets of nature, and learn about modern farming technologies.",
+  "gap": 0.3
+ },
+ {
+  "n": 4,
+  "sp": "A",
+  "fa": "[warm] From soil health and plant growth to smart agriculture, sustainable farming, and profitable crops...",
+  "check": "From soil health and plant growth to smart agriculture, sustainable farming, and profitable crops...",
+  "gap": 0.35
+ },
+ {
+  "n": 5,
+  "sp": "A",
+  "fa": "[warm] We'll bring you fascinating discoveries, useful knowledge, and inspiring stories from the world of agriculture.",
+  "check": "We'll bring you fascinating discoveries, useful knowledge, and inspiring stories from the world of agriculture.",
+  "gap": 0.35
+ },
+ {
+  "n": 6,
+  "sp": "A",
+  "fa": "[friendly] Whether you're a farmer, a nature lover, or simply curious about the world around you, there's something here for you!",
+  "check": "Whether you're a farmer, a nature lover, or simply curious about the world around you, there's something here for you!",
+  "gap": 0.45
+ },
+ {
+  "n": 7,
+  "sp": "A",
+  "fa": "[confident] Art of Agriculture — Knowledge Today, Agriculture Tomorrow.",
+  "check": "Art of Agriculture — Knowledge Today, Agriculture Tomorrow.",
+  "gap": 0.35
+ },
+ {
+  "n": 8,
+  "sp": "A",
+  "fa": "[warm, inviting] Join us, and let's grow together!",
+  "check": "Join us, and let's grow together!",
+  "gap": 0.6
+ }
+]

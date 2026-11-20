@@ -1,0 +1,808 @@
+{
+ "shot": "s06",
+ "text": "ریشه‌ها غذا و اکسیژن رو مستقیم می‌گیرن، برای همین گیاه سریع‌تر رشد می‌کنه.",
+ "need": "healthy roots and fast growing plant, time-lapse growth",
+ "queries": [
+  "plant growth timelapse",
+  "lettuce growing timelapse",
+  "plant roots"
+ ],
+ "kind": "video",
+ "items": [
+  {
+   "source": "nasa",
+   "id": "248_SpaceGardening",
+   "kind": "video",
+   "title": "ScienceCasts: Space Gardening",
+   "desc": "Scientists have been studying plant growth on the International Space Station. The results could help boost the productivity of both extraterrestrial and earthly gardens.",
+   "page": "https://images.nasa.gov/details/248_SpaceGardening",
+   "thumb": "https://images-assets.nasa.gov/video/248_SpaceGardening/248_SpaceGardening~medium.jpg",
+   "preview": "https://images-assets.nasa.gov/video/248_SpaceGardening/248_SpaceGardening~small.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 268,
+   "year": 2017,
+   "author": "HQ",
+   "licence": {
+    "code": "gov",
+    "name": "Public domain (NASA)",
+    "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://images-assets.nasa.gov/video/248_SpaceGardening/248_SpaceGardening~orig.mp4",
+     "label": "orig",
+     "w": 1920,
+     "h": 1080,
+     "dur": 268,
+     "size": 0
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/248_SpaceGardening/248_SpaceGardening~orig.mp4",
+     "label": "orig"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/248_SpaceGardening/248_SpaceGardening~large.mp4",
+     "label": "large"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/248_SpaceGardening/248_SpaceGardening~medium.mp4",
+     "label": "medium"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/248_SpaceGardening/248_SpaceGardening~small.mp4",
+     "label": "small"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/248_SpaceGardening/248_SpaceGardening~mobile.mp4",
+     "label": "mobile"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/248_SpaceGardening/248_SpaceGardening~preview.mp4",
+     "label": "preview"
+    }
+   ],
+   "collection": "https://images-assets.nasa.gov/video/248_SpaceGardening/collection.json",
+   "notes": [
+    "NASA: no logo or endorsement; check third-party material"
+   ],
+   "flags": [],
+   "credit": "ScienceCasts: Space Gardening · HQ · NASA · Public domain (NASA)",
+   "q": "plant growth"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822",
+   "kind": "video",
+   "title": "A woman cleans soil from lettuce roots",
+   "desc": "A close-up shot of a woman cleaning soil off of the roots of a lettuce plant.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-cleans-soil-from-lettuce-roots-phbqnscvn6",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 20.937583,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman cleans soil from lettuce roots · Coverr · Coverr License",
+   "q": "lettuce growing timelapse"
+  },
+  {
+   "source": "nasa",
+   "id": "KSC-20231208-VP-MWC01-001-ISS25TH-HORIZONTAL-M1852-BATCH-3-UHD",
+   "kind": "video",
+   "title": "ISS@25: Operations",
+   "desc": "Sustained success does not happen by accident. Daily operations on the space station fuel research in plant growth, medical science and life support technology that improves life on Earth.",
+   "page": "https://images.nasa.gov/details/KSC-20231208-VP-MWC01-001-ISS25TH-HORIZONTAL-M1852-BATCH-3-UHD",
+   "thumb": "https://images-assets.nasa.gov/video/KSC-20231208-VP-MWC01-001-ISS25TH-HORIZONTAL-M1852-BATCH-3-UHD/KSC-20231208-VP-MWC01-001-ISS25TH-HORIZONTAL-M1852-BATCH-3-UHD~medium.jpg",
+   "preview": "https://images-assets.nasa.gov/video/KSC-20231208-VP-MWC01-001-ISS25TH-HORIZONTAL-M1852-BATCH-3-UHD/KSC-20231208-VP-MWC01-001-ISS25TH-HORIZONTAL-M1852-BATCH-3-UHD~small.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 172,
+   "year": 2023,
+   "author": "NASA",
+   "licence": {
+    "code": "gov",
+    "name": "Public domain (NASA)",
+    "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://images-assets.nasa.gov/video/KSC-20231208-VP-MWC01-001-ISS25TH-HORIZONTAL-M1852-BATCH-3-UHD/KSC-20231208-VP-MWC01-001-ISS25TH-HORIZONTAL-M1852-BATCH-3-UHD~orig.mp4",
+     "label": "orig",
+     "w": 3840,
+     "h": 2160,
+     "dur": 172,
+     "size": 0
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/KSC-20231208-VP-MWC01-001-ISS25TH-HORIZONTAL-M1852-BATCH-3-UHD/KSC-20231208-VP-MWC01-001-ISS25TH-HORIZONTAL-M1852-BATCH-3-UHD~large.mp4",
+     "label": "large"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/KSC-20231208-VP-MWC01-001-ISS25TH-HORIZONTAL-M1852-BATCH-3-UHD/KSC-20231208-VP-MWC01-001-ISS25TH-HORIZONTAL-M1852-BATCH-3-UHD~medium.mp4",
+     "label": "medium"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/KSC-20231208-VP-MWC01-001-ISS25TH-HORIZONTAL-M1852-BATCH-3-UHD/KSC-20231208-VP-MWC01-001-ISS25TH-HORIZONTAL-M1852-BATCH-3-UHD~small.mp4",
+     "label": "small"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/KSC-20231208-VP-MWC01-001-ISS25TH-HORIZONTAL-M1852-BATCH-3-UHD/KSC-20231208-VP-MWC01-001-ISS25TH-HORIZONTAL-M1852-BATCH-3-UHD~mobile.mp4",
+     "label": "mobile"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/KSC-20231208-VP-MWC01-001-ISS25TH-HORIZONTAL-M1852-BATCH-3-UHD/KSC-20231208-VP-MWC01-001-ISS25TH-HORIZONTAL-M1852-BATCH-3-UHD~preview.mp4",
+     "label": "preview"
+    }
+   ],
+   "collection": "https://images-assets.nasa.gov/video/KSC-20231208-VP-MWC01-001-ISS25TH-HORIZONTAL-M1852-BATCH-3-UHD/collection.json",
+   "notes": [
+    "NASA: no logo or endorsement; check third-party material"
+   ],
+   "flags": [],
+   "credit": "ISS@25: Operations · NASA · NASA · Public domain (NASA)",
+   "q": "plant growth"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-woman-picks-lettuce-on-a-farm-2718",
+   "kind": "video",
+   "title": "A woman picks lettuce on a farm",
+   "desc": "A medium shot of a woman harvesting lettuce.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-picks-lettuce-on-a-farm-uhy2z1rlrh",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-woman-picks-lettuce-on-a-farm-2718/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-woman-picks-lettuce-on-a-farm-2718/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 15.015,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-woman-picks-lettuce-on-a-farm-2718/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman picks lettuce on a farm · Coverr · Coverr License",
+   "q": "lettuce growing timelapse"
+  },
+  {
+   "source": "nasa",
+   "id": "Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092",
+   "kind": "video",
+   "title": "Surprisingly STEM: Microgravity Plant Scientist",
+   "desc": "Matt Mickens, a NASA horticulturalist, is a pretty fun-gi! In his in-tree-guing role, he researches methods for the unique challenge of growing plants in space! Learn more about how Matt uses light to influence plant growth, shape, and even taste! Matt also talks about his roots as a NASA intern and how his early days at the agency helped grow his career to new heights.",
+   "page": "https://images.nasa.gov/details/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092",
+   "thumb": "https://images-assets.nasa.gov/video/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092~medium.jpg",
+   "preview": "https://images-assets.nasa.gov/video/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092~small.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 320,
+   "year": 2024,
+   "author": "Kevin Anderson",
+   "licence": {
+    "code": "gov",
+    "name": "Public domain (NASA)",
+    "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://images-assets.nasa.gov/video/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092~orig.mp4",
+     "label": "orig",
+     "w": 1920,
+     "h": 1080,
+     "dur": 320,
+     "size": 0
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092~orig.mp4",
+     "label": "orig"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092~large.mp4",
+     "label": "large"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092~medium.mp4",
+     "label": "medium"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092~small.mp4",
+     "label": "small"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092~mobile.mp4",
+     "label": "mobile"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092~preview.mp4",
+     "label": "preview"
+    }
+   ],
+   "collection": "https://images-assets.nasa.gov/video/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092/collection.json",
+   "notes": [
+    "NASA: no logo or endorsement; check third-party material"
+   ],
+   "flags": [],
+   "credit": "Surprisingly STEM: Microgravity Plant Scientist · Kevin Anderson · NASA · Public domain (NASA)",
+   "q": "plant roots"
+  },
+  {
+   "source": "nasa",
+   "id": "jsc2023m000162_SCIENCETASIA FINAL_v07_HighQuality_1080_MP4",
+   "kind": "video",
+   "title": "Sciencetasia",
+   "desc": "Take a musical journey to the International Space Station, where amazing science awaits. This is Sciencetasia! Astronaut Woody Hoburg introduces you to a swirling, colorful and mesmerizing collection of real science experiments conducted in space…all set to classical music! You will see… Plant growth experiments! Astronaut Christina Koch helps you discover how NASA’s garden grows in space. Watch o",
+   "page": "https://images.nasa.gov/details/jsc2023m000162_SCIENCETASIA%20FINAL_v07_HighQuality_1080_MP4",
+   "thumb": "https://images-assets.nasa.gov/video/jsc2023m000162_SCIENCETASIA FINAL_v07_HighQuality_1080_MP4/jsc2023m000162_SCIENCETASIA FINAL_v07_HighQuality_1080_MP4~medium.jpg",
+   "preview": "https://images-assets.nasa.gov/video/jsc2023m000162_SCIENCETASIA FINAL_v07_HighQuality_1080_MP4/jsc2023m000162_SCIENCETASIA FINAL_v07_HighQuality_1080_MP4~small.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 763,
+   "year": 2023,
+   "author": "JSC",
+   "licence": {
+    "code": "gov",
+    "name": "Public domain (NASA)",
+    "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://images-assets.nasa.gov/video/jsc2023m000162_SCIENCETASIA FINAL_v07_HighQuality_1080_MP4/jsc2023m000162_SCIENCETASIA FINAL_v07_HighQuality_1080_MP4~orig.mp4",
+     "label": "orig",
+     "w": 1920,
+     "h": 1080,
+     "dur": 763,
+     "size": 0
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/jsc2023m000162_SCIENCETASIA FINAL_v07_HighQuality_1080_MP4/jsc2023m000162_SCIENCETASIA FINAL_v07_HighQuality_1080_MP4~orig.mp4",
+     "label": "orig"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/jsc2023m000162_SCIENCETASIA FINAL_v07_HighQuality_1080_MP4/jsc2023m000162_SCIENCETASIA FINAL_v07_HighQuality_1080_MP4~large.mp4",
+     "label": "large"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/jsc2023m000162_SCIENCETASIA FINAL_v07_HighQuality_1080_MP4/jsc2023m000162_SCIENCETASIA FINAL_v07_HighQuality_1080_MP4~medium.mp4",
+     "label": "medium"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/jsc2023m000162_SCIENCETASIA FINAL_v07_HighQuality_1080_MP4/jsc2023m000162_SCIENCETASIA FINAL_v07_HighQuality_1080_MP4~small.mp4",
+     "label": "small"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/jsc2023m000162_SCIENCETASIA FINAL_v07_HighQuality_1080_MP4/jsc2023m000162_SCIENCETASIA FINAL_v07_HighQuality_1080_MP4~mobile.mp4",
+     "label": "mobile"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/jsc2023m000162_SCIENCETASIA FINAL_v07_HighQuality_1080_MP4/jsc2023m000162_SCIENCETASIA FINAL_v07_HighQuality_1080_MP4~preview.mp4",
+     "label": "preview"
+    }
+   ],
+   "collection": "https://images-assets.nasa.gov/video/jsc2023m000162_SCIENCETASIA FINAL_v07_HighQuality_1080_MP4/collection.json",
+   "notes": [
+    "NASA: no logo or endorsement; check third-party material"
+   ],
+   "flags": [],
+   "credit": "Sciencetasia · JSC · NASA · Public domain (NASA)",
+   "q": "plant growth"
+  },
+  {
+   "source": "nasa",
+   "id": "ksc_070104_plantg",
+   "kind": "video",
+   "title": "KSC-04-S-00207",
+   "desc": "Scientists in Kennedy Space Center's Space Life Sciences Lab are growing ordinary salad ingredients in a pretty extraordinary way. But they're not growing the food for themselves -- they're trying to find the best ways to grow plants in space. Plant physiologist Ray Wheeler and his colleagues are experimenting with how plants grow in different kinds of lighting, carbon dioxide levels and temperatu",
+   "page": "https://images.nasa.gov/details/ksc_070104_plantg",
+   "thumb": "https://images-assets.nasa.gov/video/ksc_070104_plantg/ksc_070104_plantg~small.jpg",
+   "preview": "https://images-assets.nasa.gov/video/ksc_070104_plantg/ksc_070104_plantg~mobile.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": 2004,
+   "author": "NASA or National Aeronautics and Space Administration",
+   "licence": {
+    "code": "gov",
+    "name": "Public domain (NASA)",
+    "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://images-assets.nasa.gov/video/ksc_070104_plantg/ksc_070104_plantg~orig.mp4",
+     "label": "orig",
+     "w": 0,
+     "h": 0,
+     "dur": 0,
+     "size": 0
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/ksc_070104_plantg/ksc_070104_plantg~mobile.mp4",
+     "label": "mobile"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/ksc_070104_plantg/ksc_070104_plantg~preview.mp4",
+     "label": "preview"
+    }
+   ],
+   "collection": "https://images-assets.nasa.gov/video/ksc_070104_plantg/collection.json",
+   "notes": [
+    "NASA: no logo or endorsement; check third-party material"
+   ],
+   "flags": [],
+   "credit": "KSC-04-S-00207 · NASA or National Aeronautics and Space Administration · NASA · Public domain (NASA)",
+   "q": "lettuce growing"
+  },
+  {
+   "source": "mixkit",
+   "id": "21117",
+   "kind": "video",
+   "title": "Roots growing into swamp water",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/roots-growing-into-swamp-water-21117/",
+   "thumb": "https://assets.mixkit.co/videos/21117/21117-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/21117/21117-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/21117/21117-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/21117/21117-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Roots growing into swamp water · Mixkit · Mixkit Free License",
+   "q": "plant roots"
+  },
+  {
+   "source": "mixkit",
+   "id": "9762",
+   "kind": "video",
+   "title": "Plant growing in the ground",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/plant-growing-in-the-ground-9762/",
+   "thumb": "https://assets.mixkit.co/videos/9762/9762-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/9762/9762-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/9762/9762-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/9762/9762-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Plant growing in the ground · Mixkit · Mixkit Free License",
+   "q": "plant growth"
+  },
+  {
+   "source": "nasa",
+   "id": "ksc_102805_gardening",
+   "kind": "video",
+   "title": "KSC-05-S-00303",
+   "desc": "Thanks to Discovery's return to flight mission, scientists at NASA's Kennedy Space Center in Florida will for the first time test units used to grow plants aboard the International Space Station. Dr. Jay Garland, chief scientist for the project, is excited about the chance to study the modules from the Lada greenhouse units firsthand to ensure the space-grown crops are safe for astronauts to eat. ",
+   "page": "https://images.nasa.gov/details/ksc_102805_gardening",
+   "thumb": "https://images-assets.nasa.gov/video/ksc_102805_gardening/ksc_102805_gardening~small.jpg",
+   "preview": "https://images-assets.nasa.gov/video/ksc_102805_gardening/ksc_102805_gardening~mobile.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": 2005,
+   "author": "NASA or National Aeronautics and Space Administration",
+   "licence": {
+    "code": "gov",
+    "name": "Public domain (NASA)",
+    "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://images-assets.nasa.gov/video/ksc_102805_gardening/ksc_102805_gardening~orig.mp4",
+     "label": "orig",
+     "w": 0,
+     "h": 0,
+     "dur": 0,
+     "size": 0
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/ksc_102805_gardening/ksc_102805_gardening~mobile.mp4",
+     "label": "mobile"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/ksc_102805_gardening/ksc_102805_gardening~preview.mp4",
+     "label": "preview"
+    }
+   ],
+   "collection": "https://images-assets.nasa.gov/video/ksc_102805_gardening/collection.json",
+   "notes": [
+    "NASA: no logo or endorsement; check third-party material"
+   ],
+   "flags": [],
+   "credit": "KSC-05-S-00303 · NASA or National Aeronautics and Space Administration · NASA · Public domain (NASA)",
+   "q": "plant roots"
+  },
+  {
+   "source": "mixkit",
+   "id": "14879",
+   "kind": "video",
+   "title": "Plant growing in a black background",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/plant-growing-in-a-black-background-14879/",
+   "thumb": "https://assets.mixkit.co/videos/14879/14879-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/14879/14879-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/14879/14879-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/14879/14879-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Plant growing in a black background · Mixkit · Mixkit Free License",
+   "q": "plant growth"
+  },
+  {
+   "source": "nasa",
+   "id": "KSC-20200115-MH-GEB01_0001-VEG-03_JKL_Preparations_for_NG-13-3240940",
+   "kind": "video",
+   "title": "VEG-03 J/K/L Preparations for NG-13",
+   "desc": "VEG-03 J/K/L prelaunch preparations. These experiments will test seed film with red romaine lettuce, Amara mustard, and Extra Dwarf pak choi.",
+   "page": "https://images.nasa.gov/details/KSC-20200115-MH-GEB01_0001-VEG-03_JKL_Preparations_for_NG-13-3240940",
+   "thumb": "https://images-assets.nasa.gov/video/KSC-20200115-MH-GEB01_0001-VEG-03_JKL_Preparations_for_NG-13-3240940/KSC-20200115-MH-GEB01_0001-VEG-03_JKL_Preparations_for_NG-13-3240940~medium.jpg",
+   "preview": "https://images-assets.nasa.gov/video/KSC-20200115-MH-GEB01_0001-VEG-03_JKL_Preparations_for_NG-13-3240940/KSC-20200115-MH-GEB01_0001-VEG-03_JKL_Preparations_for_NG-13-3240940~small.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 720,
+   "year": 2020,
+   "author": "NASA/Glenn Benson",
+   "licence": {
+    "code": "gov",
+    "name": "Public domain (NASA)",
+    "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://images-assets.nasa.gov/video/KSC-20200115-MH-GEB01_0001-VEG-03_JKL_Preparations_for_NG-13-3240940/KSC-20200115-MH-GEB01_0001-VEG-03_JKL_Preparations_for_NG-13-3240940~orig.mp4",
+     "label": "orig",
+     "w": 3840,
+     "h": 2160,
+     "dur": 720,
+     "size": 0
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/KSC-20200115-MH-GEB01_0001-VEG-03_JKL_Preparations_for_NG-13-3240940/KSC-20200115-MH-GEB01_0001-VEG-03_JKL_Preparations_for_NG-13-3240940~large.mp4",
+     "label": "large"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/KSC-20200115-MH-GEB01_0001-VEG-03_JKL_Preparations_for_NG-13-3240940/KSC-20200115-MH-GEB01_0001-VEG-03_JKL_Preparations_for_NG-13-3240940~medium.mp4",
+     "label": "medium"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/KSC-20200115-MH-GEB01_0001-VEG-03_JKL_Preparations_for_NG-13-3240940/KSC-20200115-MH-GEB01_0001-VEG-03_JKL_Preparations_for_NG-13-3240940~small.mp4",
+     "label": "small"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/KSC-20200115-MH-GEB01_0001-VEG-03_JKL_Preparations_for_NG-13-3240940/KSC-20200115-MH-GEB01_0001-VEG-03_JKL_Preparations_for_NG-13-3240940~mobile.mp4",
+     "label": "mobile"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/KSC-20200115-MH-GEB01_0001-VEG-03_JKL_Preparations_for_NG-13-3240940/KSC-20200115-MH-GEB01_0001-VEG-03_JKL_Preparations_for_NG-13-3240940~preview.mp4",
+     "label": "preview"
+    }
+   ],
+   "collection": "https://images-assets.nasa.gov/video/KSC-20200115-MH-GEB01_0001-VEG-03_JKL_Preparations_for_NG-13-3240940/collection.json",
+   "notes": [
+    "NASA: no logo or endorsement; check third-party material"
+   ],
+   "flags": [],
+   "credit": "VEG-03 J/K/L Preparations for NG-13 · NASA/Glenn Benson · NASA · Public domain (NASA)",
+   "q": "lettuce growing"
+  },
+  {
+   "source": "nasa",
+   "id": "KSC-20201709-VP-FJM01-0001_Plant Habitat02_rev4",
+   "kind": "video",
+   "title": "Radish Experiment Ready for Launch",
+   "desc": "As we prepare to send humans back to the Moon and on to Mars, the need for astronauts to grow fresh food in space is greater than ever. Plant Habitat-02, or PH-02, is an experiment launching on Northrop Grumman’s 14th resupply mission to the International Space Station. Lifting off from NASA’s Wallops Flight Facility in Virginia, PH-02 will study the growth of radishes inside the space station’s A",
+   "page": "https://images.nasa.gov/details/KSC-20201709-VP-FJM01-0001_Plant%20Habitat02_rev4",
+   "thumb": "https://images-assets.nasa.gov/video/KSC-20201709-VP-FJM01-0001_Plant Habitat02_rev4/KSC-20201709-VP-FJM01-0001_Plant Habitat02_rev4~medium.jpg",
+   "preview": "https://images-assets.nasa.gov/video/KSC-20201709-VP-FJM01-0001_Plant Habitat02_rev4/KSC-20201709-VP-FJM01-0001_Plant Habitat02_rev4~small.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 105,
+   "year": 2020,
+   "author": "NASA/John Sackman",
+   "licence": {
+    "code": "gov",
+    "name": "Public domain (NASA)",
+    "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://images-assets.nasa.gov/video/KSC-20201709-VP-FJM01-0001_Plant Habitat02_rev4/KSC-20201709-VP-FJM01-0001_Plant Habitat02_rev4~orig.mp4",
+     "label": "orig",
+     "w": 3840,
+     "h": 2160,
+     "dur": 105,
+     "size": 0
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/KSC-20201709-VP-FJM01-0001_Plant Habitat02_rev4/KSC-20201709-VP-FJM01-0001_Plant Habitat02_rev4~large.mp4",
+     "label": "large"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/KSC-20201709-VP-FJM01-0001_Plant Habitat02_rev4/KSC-20201709-VP-FJM01-0001_Plant Habitat02_rev4~medium.mp4",
+     "label": "medium"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/KSC-20201709-VP-FJM01-0001_Plant Habitat02_rev4/KSC-20201709-VP-FJM01-0001_Plant Habitat02_rev4~small.mp4",
+     "label": "small"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/KSC-20201709-VP-FJM01-0001_Plant Habitat02_rev4/KSC-20201709-VP-FJM01-0001_Plant Habitat02_rev4~mobile.mp4",
+     "label": "mobile"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/KSC-20201709-VP-FJM01-0001_Plant Habitat02_rev4/KSC-20201709-VP-FJM01-0001_Plant Habitat02_rev4~preview.mp4",
+     "label": "preview"
+    }
+   ],
+   "collection": "https://images-assets.nasa.gov/video/KSC-20201709-VP-FJM01-0001_Plant Habitat02_rev4/collection.json",
+   "notes": [
+    "NASA: no logo or endorsement; check third-party material"
+   ],
+   "flags": [],
+   "credit": "Radish Experiment Ready for Launch · NASA/John Sackman · NASA · Public domain (NASA)",
+   "q": "plant roots"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-ocimum-basilicum-threw-in-slow-motion-8791",
+   "kind": "video",
+   "title": "Basil thrown in slow motion",
+   "desc": "Extreme close-up of basil being thrown in slow motion.",
+   "tags": "",
+   "page": "https://coverr.co/videos/basil-thrown-in-slow-motion-kebsn2vqvp",
+   "thumb": "https://cdn.coverr.co/videos/coverr-ocimum-basilicum-threw-in-slow-motion-8791/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-ocimum-basilicum-threw-in-slow-motion-8791/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 7.583333,
+   "year": 2023,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-ocimum-basilicum-threw-in-slow-motion-8791/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Basil thrown in slow motion · Coverr · Coverr License",
+   "q": "lettuce growing timelapse"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-walnuts-thrown-in-slow-motion-9855",
+   "kind": "video",
+   "title": "Walnuts thrown in slow motion",
+   "desc": "Extreme close-up of walnuts being thrown in slow motion.",
+   "tags": "",
+   "page": "https://coverr.co/videos/walnuts-thrown-in-slow-motion-e2sqj9qcmw",
+   "thumb": "https://cdn.coverr.co/videos/coverr-walnuts-thrown-in-slow-motion-9855/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-walnuts-thrown-in-slow-motion-9855/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 6.083333,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-walnuts-thrown-in-slow-motion-9855/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Walnuts thrown in slow motion · Coverr · Coverr License",
+   "q": "plant growth timelapse"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0027-0753",
+   "kind": "video",
+   "title": "Back view of a female gardener collecting vegetables",
+   "desc": "Rear-view, medium shot of a woman walking with vegetables she harvested.",
+   "tags": "",
+   "page": "https://coverr.co/videos/back-view-of-a-female-gardener-collecting-vegetables-utfqxeawqv",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0027-0753/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0027-0753/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 29.612917,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0027-0753/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Back view of a female gardener collecting vegetables · Coverr · Coverr License",
+   "q": "lettuce growing timelapse"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-croft-with-mature-vegetables-4297",
+   "kind": "video",
+   "title": "A croft with mature vegetables",
+   "desc": "A mini farm with a small wooden shed.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-croft-with-mature-vegetables-y6ksobu4m2",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 14.681333,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A croft with mature vegetables · Coverr · Coverr License",
+   "q": "plant roots"
+  }
+ ]
+}

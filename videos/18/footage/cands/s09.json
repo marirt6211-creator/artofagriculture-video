@@ -1,0 +1,763 @@
+{
+ "shot": "s09",
+ "text": "to smart agriculture,",
+ "need": "modern greenhouse or hydroponic farm with rows of plants",
+ "queries": [
+  "hydroponic farm",
+  "modern greenhouse rows of plants",
+  "vertical farming led"
+ ],
+ "kind": "video",
+ "items": [
+  {
+   "source": "pixabay",
+   "id": "359785",
+   "kind": "video",
+   "title": "cannabis cultivation, medical marijuana, hemp plant, cbd production, herbal medicine, legal grow, commercial farming, agricultural science, botanical research, holistic wellness, natural remedy, plant therapy, therapeutic herbs, hydroponic system, indoor plantation, macro shot, close up, selective focus, no people, copyspace, backlight effect, bokeh background, green, orange, ai generated",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-359785/",
+   "thumb": "https://cdn.pixabay.com/video/2026/06/21/359785_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2026/06/21/359785_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 9,
+   "year": null,
+   "author": "MrWashingt0n",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2026/06/21/359785_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 14023897
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/06/21/359785_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 6511851
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/06/21/359785_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 4168918
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "cannabis cultivation, medical marijuana, hemp plant, cbd production, herbal medicine, legal grow, commercial farming, agricultural science, botanical research, holistic wellness, natural remedy, plant therapy, therapeutic herbs, hydroponic system, indoor plantation, macro shot, close up, selective focus, no people, copyspace, backlight effect, bokeh background, green, orange, ai generated · MrWashingt0n · Pixabay · Pixabay Content License",
+   "q": "hydroponic farm"
+  },
+  {
+   "source": "pixabay",
+   "id": "76994",
+   "kind": "video",
+   "title": "tomatoes, greenhouse, plant, vegetables, green, immature, food, cottage, harvest, garden, nutrition, diet, fresh, cultivation, vegetarianism",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-76994/",
+   "thumb": "https://cdn.pixabay.com/video/2021/06/09/76994-561052270_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2021/06/09/76994-561052270_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 9,
+   "year": null,
+   "author": "My_movie",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2021/06/09/76994-561052270_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 5922425
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/06/09/76994-561052270_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 3072176
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/06/09/76994-561052270_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 1867209
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "tomatoes, greenhouse, plant, vegetables, green, immature, food, cottage, harvest, garden, nutrition, diet, fresh, cultivation, vegetarianism · My_movie · Pixabay · Pixabay Content License",
+   "q": "modern greenhouse rows of plants"
+  },
+  {
+   "source": "pixabay",
+   "id": "307864",
+   "kind": "video",
+   "title": "wind, electricity, windpower, rice, vietnam, nature, farming, green, sunset",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-307864/",
+   "thumb": "https://cdn.pixabay.com/video/2025/10/04/307864_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2025/10/04/307864_tiny.mp4",
+   "w": 2160,
+   "h": 3840,
+   "dur": 19,
+   "year": null,
+   "author": "Ponnguyenduy",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2025/10/04/307864_large.mp4",
+     "w": 2160,
+     "h": 3840,
+     "size": 33310852
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/10/04/307864_medium.mp4",
+     "w": 1440,
+     "h": 2560,
+     "size": 12281342
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/10/04/307864_small.mp4",
+     "w": 1080,
+     "h": 1920,
+     "size": 7014036
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "wind, electricity, windpower, rice, vietnam, nature, farming, green, sunset · Ponnguyenduy · Pixabay · Pixabay Content License",
+   "q": "vertical farming led"
+  },
+  {
+   "source": "pixabay",
+   "id": "174452",
+   "kind": "video",
+   "title": "cow herd, cows, farm, animals, drone, vietnam",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-174452/",
+   "thumb": "https://cdn.pixabay.com/video/2023/08/03/174452-851475304_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2023/08/03/174452-851475304_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 19,
+   "year": null,
+   "author": "Ponnguyenduy",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2023/08/03/174452-851475304_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 62291934
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2023/08/03/174452-851475304_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 33924271
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2023/08/03/174452-851475304_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 14230121
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "cow herd, cows, farm, animals, drone, vietnam · Ponnguyenduy · Pixabay · Pixabay Content License",
+   "q": "hydroponic farm"
+  },
+  {
+   "source": "pixabay",
+   "id": "72884",
+   "kind": "video",
+   "title": "leaf, cucumber, flower, sheet, vegetable garden, green, plant, harvest, greenhouse, vegetables, seedlings",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-72884/",
+   "thumb": "https://cdn.pixabay.com/video/2021/05/02/72884-545276933_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2021/05/02/72884-545276933_tiny.mp4",
+   "w": 3996,
+   "h": 2160,
+   "dur": 7,
+   "year": null,
+   "author": "AlexKopeykin",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2021/05/02/72884-545276933_large.mp4",
+     "w": 3996,
+     "h": 2160,
+     "size": 19655494
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/05/02/72884-545276933_medium.mp4",
+     "w": 2664,
+     "h": 1440,
+     "size": 11283744
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/05/02/72884-545276933_small.mp4",
+     "w": 1998,
+     "h": 1080,
+     "size": 4565270
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "leaf, cucumber, flower, sheet, vegetable garden, green, plant, harvest, greenhouse, vegetables, seedlings · AlexKopeykin · Pixabay · Pixabay Content License",
+   "q": "modern greenhouse rows of plants"
+  },
+  {
+   "source": "pixabay",
+   "id": "232561",
+   "kind": "video",
+   "title": "tractor, field, wheat, harvest, combine, agriculture, grain, farming, summer, machine, technology, equipment, landscape",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-232561/",
+   "thumb": "https://cdn.pixabay.com/video/2024/09/21/232561_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2024/09/21/232561_tiny.mp4",
+   "w": 2560,
+   "h": 1440,
+   "dur": 19,
+   "year": null,
+   "author": "Ivan267",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2024/09/21/232561_large.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 57628754
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2024/09/21/232561_medium.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 30591181
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2024/09/21/232561_small.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 10983446
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "tractor, field, wheat, harvest, combine, agriculture, grain, farming, summer, machine, technology, equipment, landscape · Ivan267 · Pixabay · Pixabay Content License",
+   "q": "vertical farming led"
+  },
+  {
+   "source": "pixabay",
+   "id": "66810",
+   "kind": "video",
+   "title": "grass, dew, field, fog, morning, nature, sunshine, green, grassland, farm, sunlight, sunrise, sun",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-66810/",
+   "thumb": "https://cdn.pixabay.com/video/2021/03/03/66810-520427372_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2021/03/03/66810-520427372_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 28,
+   "year": null,
+   "author": "JustYøu",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2021/03/03/66810-520427372_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 68134517
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/03/03/66810-520427372_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 41900107
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/03/03/66810-520427372_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 20356412
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "grass, dew, field, fog, morning, nature, sunshine, green, grassland, farm, sunlight, sunrise, sun · JustYøu · Pixabay · Pixabay Content License",
+   "q": "hydroponic farm"
+  },
+  {
+   "source": "pixabay",
+   "id": "41140",
+   "kind": "video",
+   "title": "garden, greenhouse, botanical, forest, rainforest, tropical, exotic, plant, bloom, purple, flower, blossom, nature, fern, leaf, summer, amazon, brazil, europe, tree, flora, environment",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-41140/",
+   "thumb": "https://cdn.pixabay.com/video/2020/06/05/41140-428253063_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2020/06/05/41140-428253063_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 20,
+   "year": null,
+   "author": "caelan",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2020/06/05/41140-428253063_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 13320995
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/06/05/41140-428253063_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 6855421
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/06/05/41140-428253063_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 3466980
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "garden, greenhouse, botanical, forest, rainforest, tropical, exotic, plant, bloom, purple, flower, blossom, nature, fern, leaf, summer, amazon, brazil, europe, tree, flora, environment · caelan · Pixabay · Pixabay Content License",
+   "q": "modern greenhouse rows of plants"
+  },
+  {
+   "source": "pixabay",
+   "id": "154787",
+   "kind": "video",
+   "title": "flowers, clouds, sun, blossom, sunrise, peaceful, vertical, nature",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-154787/",
+   "thumb": "https://cdn.pixabay.com/video/2023/03/15/154787-808530571_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2023/03/15/154787-808530571_tiny.mp4",
+   "w": 2160,
+   "h": 3840,
+   "dur": 7,
+   "year": null,
+   "author": "nitin1111",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2023/03/15/154787-808530571_large.mp4",
+     "w": 2160,
+     "h": 3840,
+     "size": 20432839
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2023/03/15/154787-808530571_medium.mp4",
+     "w": 1440,
+     "h": 2560,
+     "size": 10970221
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2023/03/15/154787-808530571_small.mp4",
+     "w": 1080,
+     "h": 1920,
+     "size": 4304730
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "flowers, clouds, sun, blossom, sunrise, peaceful, vertical, nature · nitin1111 · Pixabay · Pixabay Content License",
+   "q": "vertical farming led"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-woman-picks-lettuce-on-a-farm-2718",
+   "kind": "video",
+   "title": "A woman picks lettuce on a farm",
+   "desc": "A medium shot of a woman harvesting lettuce.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-picks-lettuce-on-a-farm-uhy2z1rlrh",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-woman-picks-lettuce-on-a-farm-2718/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-woman-picks-lettuce-on-a-farm-2718/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 15.015,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-woman-picks-lettuce-on-a-farm-2718/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman picks lettuce on a farm · Coverr · Coverr License",
+   "q": "hydroponic farm"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-man-types-on-iphone-15",
+   "kind": "video",
+   "title": "Young Man Texting on iPhone 15 in Cozy Room with Plants",
+   "desc": "A man types on his iPhone 15 while sitting in a room with lush green plants and a red armchair in the background. The setting highlights the blend of modern technology and a comfortable, stylish living space.",
+   "tags": "",
+   "page": "https://coverr.co/videos/young-man-texting-on-iphone-15-in-cozy-room-with-plants",
+   "thumb": "https://cdn.coverr.co/videos/coverr-man-types-on-iphone-15/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-man-types-on-iphone-15/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 8.875,
+   "year": 2024,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-man-types-on-iphone-15/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Young Man Texting on iPhone 15 in Cozy Room with Plants · Coverr · Coverr License",
+   "q": "modern greenhouse rows of plants"
+  },
+  {
+   "source": "mixkit",
+   "id": "101709",
+   "kind": "video",
+   "title": "Vertical Abstract Lights",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/vertical-abstract-lights-101709/",
+   "thumb": "https://assets.mixkit.co/videos/101709/101709-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/101709/101709-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/101709/101709-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/101709/101709-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Vertical Abstract Lights · Mixkit · Mixkit Free License",
+   "q": "vertical farming"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-croft-with-mature-vegetables-4297",
+   "kind": "video",
+   "title": "A croft with mature vegetables",
+   "desc": "A mini farm with a small wooden shed.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-croft-with-mature-vegetables-y6ksobu4m2",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 14.681333,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A croft with mature vegetables · Coverr · Coverr License",
+   "q": "hydroponic farm"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-banana-leaves-9278",
+   "kind": "video",
+   "title": "Banana leaves",
+   "desc": "Close-up shot of banana leaves. ",
+   "tags": "",
+   "page": "https://coverr.co/videos/banana-leaves-iomizqhayw",
+   "thumb": "https://cdn.coverr.co/videos/coverr-banana-leaves-9278/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-banana-leaves-9278/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 11.76175,
+   "year": 2021,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-banana-leaves-9278/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Banana leaves · Coverr · Coverr License",
+   "q": "modern greenhouse rows of plants"
+  },
+  {
+   "source": "mixkit",
+   "id": "100017",
+   "kind": "video",
+   "title": "Vertical video of a vibrant yellow substance injected from top to bottom into a black liquid creating a mesmerizing fluid show",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/vertical-video-of-a-vibrant-yellow-substance-injected-from-top-100017/",
+   "thumb": "https://assets.mixkit.co/videos/100017/100017-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/100017/100017-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/100017/100017-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/100017/100017-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Vertical video of a vibrant yellow substance injected from top to bottom into a black liquid creating a mesmerizing fluid show · Mixkit · Mixkit Free License",
+   "q": "vertical farming"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822",
+   "kind": "video",
+   "title": "A woman cleans soil from lettuce roots",
+   "desc": "A close-up shot of a woman cleaning soil off of the roots of a lettuce plant.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-cleans-soil-from-lettuce-roots-phbqnscvn6",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 20.937583,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman cleans soil from lettuce roots · Coverr · Coverr License",
+   "q": "hydroponic farm"
+  },
+  {
+   "source": "mixkit",
+   "id": "101476",
+   "kind": "video",
+   "title": "Spinning Woman in Rippling Reflection",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/spinning-woman-in-rippling-reflection-101476/",
+   "thumb": "https://assets.mixkit.co/videos/101476/101476-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/101476/101476-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/101476/101476-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/101476/101476-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Spinning Woman in Rippling Reflection · Mixkit · Mixkit Free License",
+   "q": "vertical farming"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-woman-shows-harvested-peas-8954",
+   "kind": "video",
+   "title": "A woman shows harvested peas",
+   "desc": "A close-up shot of a woman’s hand as she shows freshly picked green peas.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-shows-harvested-peas-spfj1r5pcz",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-woman-shows-harvested-peas-8954/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-woman-shows-harvested-peas-8954/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 14.055708,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-woman-shows-harvested-peas-8954/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman shows harvested peas · Coverr · Coverr License",
+   "q": "hydroponic farm"
+  }
+ ]
+}

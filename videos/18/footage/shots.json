@@ -1,0 +1,383 @@
+{
+ "video": "18",
+ "orient": "vertical",
+ "note": "For each shot write need (what must literally be on screen for this sentence), 2-4 English queries (concrete first, then broader), kind (video|image), look (modern = today's colour HD footage, archive = old film and historical pictures, any), min (shortest side in px, optional) and avoid. Then: footage find <NN>.",
+ "shots": [
+  {
+   "id": "s01",
+   "line": 1,
+   "text": "Have you ever wondered how much science,",
+   "t0": null,
+   "t1": null,
+   "dur": null,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "min": 1080,
+   "src": [
+    "pixabay",
+    "mixkit",
+    "coverr"
+   ],
+   "need": "macro of a single seed resting in a palm or on soil, shallow depth of field",
+   "queries": [
+    "seed in hand macro",
+    "seeds in palm close up",
+    "seed macro"
+   ],
+   "avoid": "logos, watermarks, text, people faces close-up",
+   "picks": []
+  },
+  {
+   "id": "s02",
+   "line": 1,
+   "text": "innovation, and wonder are hidden behind a tiny seed?",
+   "t0": null,
+   "t1": null,
+   "dur": null,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "min": 1080,
+   "src": [
+    "pixabay",
+    "mixkit",
+    "coverr"
+   ],
+   "need": "time-lapse of a seed germinating, sprout pushing out of soil",
+   "queries": [
+    "seed germination time lapse",
+    "sprout growing time lapse",
+    "seedling emerging soil"
+   ],
+   "avoid": "logos, watermarks, text, people faces close-up",
+   "picks": []
+  },
+  {
+   "id": "s03",
+   "line": 2,
+   "text": "Welcome to the Art of Agriculture!",
+   "t0": null,
+   "t1": null,
+   "dur": null,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "min": 1080,
+   "src": [
+    "pixabay",
+    "mixkit",
+    "coverr"
+   ],
+   "need": "cinematic aerial drone shot over green agricultural fields",
+   "queries": [
+    "aerial green farm fields drone",
+    "drone flight over green fields",
+    "aerial agriculture field sunrise"
+   ],
+   "avoid": "logos, watermarks, text, people faces close-up",
+   "picks": []
+  },
+  {
+   "id": "s04",
+   "line": 3,
+   "text": "Here, we'll explore the fascinating world of plants,",
+   "t0": null,
+   "t1": null,
+   "dur": null,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "min": 1080,
+   "src": [
+    "pixabay",
+    "mixkit",
+    "coverr"
+   ],
+   "need": "macro of green leaves with dew drops, backlit",
+   "queries": [
+    "green leaf dew drops macro",
+    "leaf macro sunlight",
+    "plant leaves close up"
+   ],
+   "avoid": "logos, watermarks, text, people faces close-up",
+   "picks": []
+  },
+  {
+   "id": "s05",
+   "line": 3,
+   "text": "discover the secrets of nature,",
+   "t0": null,
+   "t1": null,
+   "dur": null,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "min": 1080,
+   "src": [
+    "pixabay",
+    "mixkit",
+    "coverr"
+   ],
+   "need": "flower blooming time-lapse or bee pollinating a flower",
+   "queries": [
+    "flower blooming time lapse",
+    "bee pollinating flower macro",
+    "flower opening"
+   ],
+   "avoid": "logos, watermarks, text, people faces close-up",
+   "picks": []
+  },
+  {
+   "id": "s06",
+   "line": 3,
+   "text": "and learn about modern farming technologies.",
+   "t0": null,
+   "t1": null,
+   "dur": null,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "min": 1080,
+   "src": [
+    "pixabay",
+    "mixkit",
+    "coverr"
+   ],
+   "need": "agricultural drone flying over crop field",
+   "queries": [
+    "agricultural drone flying over field",
+    "drone spraying crops",
+    "farm drone"
+   ],
+   "avoid": "logos, watermarks, text, people faces close-up",
+   "picks": []
+  },
+  {
+   "id": "s07",
+   "line": 4,
+   "text": "From soil health",
+   "t0": null,
+   "t1": null,
+   "dur": null,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "min": 1080,
+   "src": [
+    "pixabay",
+    "mixkit",
+    "coverr"
+   ],
+   "need": "dark healthy soil with earthworm, or hands holding rich soil",
+   "queries": [
+    "earthworm in soil",
+    "hands holding soil",
+    "fertile soil close up"
+   ],
+   "avoid": "logos, watermarks, text, people faces close-up",
+   "picks": []
+  },
+  {
+   "id": "s08",
+   "line": 4,
+   "text": "and plant growth",
+   "t0": null,
+   "t1": null,
+   "dur": null,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "min": 1080,
+   "src": [
+    "pixabay",
+    "mixkit",
+    "coverr"
+   ],
+   "need": "young plant / seedling growing, roots visible",
+   "queries": [
+    "plant growing time lapse",
+    "seedling roots",
+    "young plant growth"
+   ],
+   "avoid": "logos, watermarks, text, people faces close-up",
+   "picks": []
+  },
+  {
+   "id": "s09",
+   "line": 4,
+   "text": "to smart agriculture,",
+   "t0": null,
+   "t1": null,
+   "dur": null,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "min": 1080,
+   "src": [
+    "pixabay",
+    "mixkit",
+    "coverr"
+   ],
+   "need": "modern greenhouse or hydroponic farm with rows of plants",
+   "queries": [
+    "hydroponic farm",
+    "modern greenhouse rows of plants",
+    "vertical farming led"
+   ],
+   "avoid": "logos, watermarks, text, people faces close-up",
+   "picks": []
+  },
+  {
+   "id": "s10",
+   "line": 4,
+   "text": "sustainable farming,",
+   "t0": null,
+   "t1": null,
+   "dur": null,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "min": 1080,
+   "src": [
+    "pixabay",
+    "mixkit",
+    "coverr"
+   ],
+   "need": "drip irrigation watering crops, water drops",
+   "queries": [
+    "drip irrigation",
+    "irrigation sprinkler field",
+    "watering crops"
+   ],
+   "avoid": "logos, watermarks, text, people faces close-up",
+   "picks": []
+  },
+  {
+   "id": "s11",
+   "line": 4,
+   "text": "and profitable crops...",
+   "t0": null,
+   "t1": null,
+   "dur": null,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "min": 1080,
+   "src": [
+    "pixabay",
+    "mixkit",
+    "coverr"
+   ],
+   "need": "harvest: hands picking ripe fruit/tomatoes, orchard",
+   "queries": [
+    "harvest tomatoes hands",
+    "picking apples orchard",
+    "fruit harvest"
+   ],
+   "avoid": "logos, watermarks, text, people faces close-up",
+   "picks": []
+  },
+  {
+   "id": "s12",
+   "line": 5,
+   "text": "We'll bring you fascinating discoveries, useful knowledge, and inspiring stories from the world of agriculture.",
+   "t0": null,
+   "t1": null,
+   "dur": null,
+   "clips": 3,
+   "kind": "video",
+   "look": "modern",
+   "min": 1080,
+   "src": [
+    "pixabay",
+    "mixkit",
+    "coverr"
+   ],
+   "need": "three panels: scientist examining plant in lab, farmer in field, sunrise over farmland",
+   "queries": [
+    "scientist examining plant laboratory",
+    "farmer walking in wheat field",
+    "sunrise over farmland"
+   ],
+   "avoid": "logos, watermarks, text, people faces close-up",
+   "picks": []
+  },
+  {
+   "id": "s13",
+   "line": 6,
+   "text": "Whether you're a farmer, a nature lover, or simply curious about the world around you, there's something here for you!",
+   "t0": null,
+   "t1": null,
+   "dur": null,
+   "clips": 3,
+   "kind": "video",
+   "look": "modern",
+   "min": 1080,
+   "src": [
+    "pixabay",
+    "mixkit",
+    "coverr"
+   ],
+   "need": "farmer at work; person walking in nature touching plants; curious person looking closely at a plant",
+   "queries": [
+    "farmer working in field",
+    "hand touching wheat field",
+    "woman in nature forest walk",
+    "child looking at plant"
+   ],
+   "avoid": "logos, watermarks, text, people faces close-up",
+   "picks": []
+  },
+  {
+   "id": "s14",
+   "line": 7,
+   "text": "Art of Agriculture — Knowledge Today, Agriculture Tomorrow.",
+   "t0": null,
+   "t1": null,
+   "dur": null,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "min": 1080,
+   "src": [
+    "pixabay",
+    "mixkit",
+    "coverr"
+   ],
+   "need": "golden hour aerial over fields (background for brand reveal, blurred)",
+   "queries": [
+    "golden hour aerial fields",
+    "wheat field sunset",
+    "aerial farmland sunset"
+   ],
+   "avoid": "logos, watermarks, text, people faces close-up",
+   "picks": []
+  },
+  {
+   "id": "s15",
+   "line": 8,
+   "text": "Join us, and let's grow together!",
+   "t0": null,
+   "t1": null,
+   "dur": null,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "min": 1080,
+   "src": [
+    "pixabay",
+    "mixkit",
+    "coverr"
+   ],
+   "need": "end card background: soft green bokeh leaves / sunlight through leaves",
+   "queries": [
+    "sunlight through leaves bokeh",
+    "green leaves bokeh",
+    "sun rays through trees"
+   ],
+   "avoid": "logos, watermarks, text, people faces close-up",
+   "picks": []
+  }
+ ]
+}

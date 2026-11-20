@@ -1,0 +1,506 @@
+{
+ "shot": "s01",
+ "text": "گیاه بدون خاک؟ آره، با کشت هیدروپونیک!",
+ "need": "lettuce plants growing in a hydroponic system, no soil",
+ "queries": [
+  "hydroponic lettuce",
+  "hydroponics farm",
+  "hydroponic plants"
+ ],
+ "kind": "video",
+ "items": [
+  {
+   "source": "coverr",
+   "id": "coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822",
+   "kind": "video",
+   "title": "A woman cleans soil from lettuce roots",
+   "desc": "A close-up shot of a woman cleaning soil off of the roots of a lettuce plant.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-cleans-soil-from-lettuce-roots-phbqnscvn6",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 20.937583,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman cleans soil from lettuce roots · Coverr · Coverr License",
+   "q": "hydroponic lettuce"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-woman-picks-lettuce-on-a-farm-2718",
+   "kind": "video",
+   "title": "A woman picks lettuce on a farm",
+   "desc": "A medium shot of a woman harvesting lettuce.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-picks-lettuce-on-a-farm-uhy2z1rlrh",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-woman-picks-lettuce-on-a-farm-2718/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-woman-picks-lettuce-on-a-farm-2718/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 15.015,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-woman-picks-lettuce-on-a-farm-2718/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman picks lettuce on a farm · Coverr · Coverr License",
+   "q": "hydroponics farm"
+  },
+  {
+   "source": "nasa",
+   "id": "jcs2025m000053_Space to Ground_553_250110",
+   "kind": "video",
+   "title": "Space to Ground: In the Year 2025: Jan. 10, 2025",
+   "desc": "NASA has big plans for science, research, and exploration aboard the International Space Station in 2025. From spacewalks, to hydroponic and aeroponic plant growth techniques, there's a lot to look forward to in low Earth orbit. This November, we will celebrate 25 years of continuous human presence on the International Space Station.",
+   "page": "https://images.nasa.gov/details/jcs2025m000053_Space%20to%20Ground_553_250110",
+   "thumb": "https://images-assets.nasa.gov/video/jcs2025m000053_Space to Ground_553_250110/jcs2025m000053_Space to Ground_553_250110~medium.jpg",
+   "preview": "https://images-assets.nasa.gov/video/jcs2025m000053_Space to Ground_553_250110/jcs2025m000053_Space to Ground_553_250110~small.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 206,
+   "year": 2025,
+   "author": "JSC",
+   "licence": {
+    "code": "gov",
+    "name": "Public domain (NASA)",
+    "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://images-assets.nasa.gov/video/jcs2025m000053_Space to Ground_553_250110/jcs2025m000053_Space to Ground_553_250110~orig.mp4",
+     "label": "orig",
+     "w": 1920,
+     "h": 1080,
+     "dur": 206,
+     "size": 0
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/jcs2025m000053_Space to Ground_553_250110/jcs2025m000053_Space to Ground_553_250110~orig.mp4",
+     "label": "orig"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/jcs2025m000053_Space to Ground_553_250110/jcs2025m000053_Space to Ground_553_250110~large.mp4",
+     "label": "large"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/jcs2025m000053_Space to Ground_553_250110/jcs2025m000053_Space to Ground_553_250110~medium.mp4",
+     "label": "medium"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/jcs2025m000053_Space to Ground_553_250110/jcs2025m000053_Space to Ground_553_250110~small.mp4",
+     "label": "small"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/jcs2025m000053_Space to Ground_553_250110/jcs2025m000053_Space to Ground_553_250110~mobile.mp4",
+     "label": "mobile"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/jcs2025m000053_Space to Ground_553_250110/jcs2025m000053_Space to Ground_553_250110~preview.mp4",
+     "label": "preview"
+    }
+   ],
+   "collection": "https://images-assets.nasa.gov/video/jcs2025m000053_Space to Ground_553_250110/collection.json",
+   "notes": [
+    "NASA: no logo or endorsement; check third-party material"
+   ],
+   "flags": [],
+   "credit": "Space to Ground: In the Year 2025: Jan. 10, 2025 · JSC · NASA · Public domain (NASA)",
+   "q": "hydroponic plants"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-croft-with-mature-vegetables-4297",
+   "kind": "video",
+   "title": "A croft with mature vegetables",
+   "desc": "A mini farm with a small wooden shed.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-croft-with-mature-vegetables-y6ksobu4m2",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 14.681333,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A croft with mature vegetables · Coverr · Coverr License",
+   "q": "hydroponics farm"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0014-6567",
+   "kind": "video",
+   "title": "A man cutting the roots off lettuce",
+   "desc": "A close-up shot of a man cutting off the roots from a head of lettuce.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-man-cutting-the-roots-off-lettuce-cweur1ho0w",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0014-6567/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0014-6567/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 23.690333,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0014-6567/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A man cutting the roots off lettuce · Coverr · Coverr License",
+   "q": "hydroponic lettuce"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-guy-rolling-up-a-hosepipe-after-watering-shrubs-9470",
+   "kind": "video",
+   "title": "Guy rolling up a hosepipe after watering shrubs",
+   "desc": "Panning shot of a guy rolling up a hosepipe after watering shrubs.\\n",
+   "tags": "",
+   "page": "https://coverr.co/videos/guy-rolling-up-a-hosepipe-after-watering-shrubs-rwz9auaoqk",
+   "thumb": "https://cdn.coverr.co/videos/coverr-guy-rolling-up-a-hosepipe-after-watering-shrubs-9470/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-guy-rolling-up-a-hosepipe-after-watering-shrubs-9470/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 24.125,
+   "year": 2021,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-guy-rolling-up-a-hosepipe-after-watering-shrubs-9470/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Guy rolling up a hosepipe after watering shrubs · Coverr · Coverr License",
+   "q": "hydroponic lettuce"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-woman-shows-harvested-peas-8954",
+   "kind": "video",
+   "title": "A woman shows harvested peas",
+   "desc": "A close-up shot of a woman’s hand as she shows freshly picked green peas.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-shows-harvested-peas-spfj1r5pcz",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-woman-shows-harvested-peas-8954/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-woman-shows-harvested-peas-8954/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 14.055708,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-woman-shows-harvested-peas-8954/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman shows harvested peas · Coverr · Coverr License",
+   "q": "hydroponics farm"
+  },
+  {
+   "source": "nasa",
+   "id": "ksc_070104_plantg",
+   "kind": "video",
+   "title": "KSC-04-S-00207",
+   "desc": "Scientists in Kennedy Space Center's Space Life Sciences Lab are growing ordinary salad ingredients in a pretty extraordinary way. But they're not growing the food for themselves -- they're trying to find the best ways to grow plants in space. Plant physiologist Ray Wheeler and his colleagues are experimenting with how plants grow in different kinds of lighting, carbon dioxide levels and temperatu",
+   "page": "https://images.nasa.gov/details/ksc_070104_plantg",
+   "thumb": "https://images-assets.nasa.gov/video/ksc_070104_plantg/ksc_070104_plantg~small.jpg",
+   "preview": "https://images-assets.nasa.gov/video/ksc_070104_plantg/ksc_070104_plantg~mobile.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": 2004,
+   "author": "NASA or National Aeronautics and Space Administration",
+   "licence": {
+    "code": "gov",
+    "name": "Public domain (NASA)",
+    "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://images-assets.nasa.gov/video/ksc_070104_plantg/ksc_070104_plantg~orig.mp4",
+     "label": "orig",
+     "w": 0,
+     "h": 0,
+     "dur": 0,
+     "size": 0
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/ksc_070104_plantg/ksc_070104_plantg~mobile.mp4",
+     "label": "mobile"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/ksc_070104_plantg/ksc_070104_plantg~preview.mp4",
+     "label": "preview"
+    }
+   ],
+   "collection": "https://images-assets.nasa.gov/video/ksc_070104_plantg/collection.json",
+   "notes": [
+    "NASA: no logo or endorsement; check third-party material"
+   ],
+   "flags": [],
+   "credit": "KSC-04-S-00207 · NASA or National Aeronautics and Space Administration · NASA · Public domain (NASA)",
+   "q": "hydroponic plants"
+  },
+  {
+   "source": "nasa",
+   "id": "jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4",
+   "kind": "video",
+   "title": "The Case of the Missing Space Tomatoes",
+   "desc": "Two rogue tomatoes have been recovered nearly a year after astronaut Frank Rubio accidentally lost track of them while harvesting for the XROOTS experiment, proving Rubio did not eat the tomatoes as they previously suspected. The rogue fruit was found in a plastic bag dehydrated and slightly squished with some discoloration but with no visible microbial or fungal growth. XROOTS uses hydroponic and",
+   "page": "https://images.nasa.gov/details/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4",
+   "thumb": "https://images-assets.nasa.gov/video/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4~medium.jpg",
+   "preview": "https://images-assets.nasa.gov/video/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4~small.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 128,
+   "year": 2023,
+   "author": "JSC",
+   "licence": {
+    "code": "gov",
+    "name": "Public domain (NASA)",
+    "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://images-assets.nasa.gov/video/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4~orig.mp4",
+     "label": "orig",
+     "w": 1920,
+     "h": 1080,
+     "dur": 128,
+     "size": 0
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4~orig.mp4",
+     "label": "orig"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4~large.mp4",
+     "label": "large"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4~medium.mp4",
+     "label": "medium"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4~small.mp4",
+     "label": "small"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4~mobile.mp4",
+     "label": "mobile"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4~preview.mp4",
+     "label": "preview"
+    }
+   ],
+   "collection": "https://images-assets.nasa.gov/video/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4/collection.json",
+   "notes": [
+    "NASA: no logo or endorsement; check third-party material"
+   ],
+   "flags": [],
+   "credit": "The Case of the Missing Space Tomatoes · JSC · NASA · Public domain (NASA)",
+   "q": "hydroponic plants"
+  },
+  {
+   "source": "commons",
+   "id": "File:Urban hydroponic farms offer sustainable water solutions.webm",
+   "kind": "video",
+   "title": "Urban hydroponic farms offer sustainable water solutions",
+   "desc": "News21 fellows Nicole Tyau and Jackie Wang visited a hydroponic farm in Berkeley, Calif., to see how this sustainable farming practice preserves and conserves water quality.",
+   "page": "https://commons.wikimedia.org/wiki/File:Urban_hydroponic_farms_offer_sustainable_water_solutions.webm",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Urban_hydroponic_farms_offer_sustainable_water_solutions.webm/960px--Urban_hydroponic_farms_offer_sustainable_water_solutions.webm.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/70/Urban_hydroponic_farms_offer_sustainable_water_solutions.webm/Urban_hydroponic_farms_offer_sustainable_water_solutions.webm.240p.vp9.webm",
+   "w": 1920,
+   "h": 1080,
+   "dur": 58.546,
+   "year": 2017,
+   "author": "News21",
+   "licence": {
+    "code": "by",
+    "name": "CC BY 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0",
+    "verdict": "credit",
+    "attr": true,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Urban_hydroponic_farms_offer_sustainable_water_solutions.webm",
+     "w": 1920,
+     "h": 1080,
+     "size": 19748510,
+     "mime": "video/webm",
+     "label": "original"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/70/Urban_hydroponic_farms_offer_sustainable_water_solutions.webm/Urban_hydroponic_farms_offer_sustainable_water_solutions.webm.240p.vp9.webm",
+     "w": 426,
+     "h": 240,
+     "mime": "video/webm",
+     "label": "240p.vp9.webm"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/70/Urban_hydroponic_farms_offer_sustainable_water_solutions.webm/Urban_hydroponic_farms_offer_sustainable_water_solutions.webm.360p.mpeg4.mov",
+     "w": 640,
+     "h": 360,
+     "mime": "video/quicktime",
+     "label": "360p.mpeg4.mov"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/70/Urban_hydroponic_farms_offer_sustainable_water_solutions.webm/Urban_hydroponic_farms_offer_sustainable_water_solutions.webm.480p.vp9.webm",
+     "w": 854,
+     "h": 480,
+     "mime": "video/webm",
+     "label": "480p.vp9.webm"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/70/Urban_hydroponic_farms_offer_sustainable_water_solutions.webm/Urban_hydroponic_farms_offer_sustainable_water_solutions.webm.1080p.vp9.webm",
+     "w": 1920,
+     "h": 1080,
+     "mime": "video/webm",
+     "label": "1080p.vp9.webm"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Urban hydroponic farms offer sustainable water solutions · News21 · Wikimedia Commons · CC BY 3.0",
+   "q": "hydroponic plants"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0040-8346",
+   "kind": "video",
+   "title": "Close-up of watering a vegetable garden",
+   "desc": "A close-up shot of a man watering his vegetable garden with a garden hose.",
+   "tags": "",
+   "page": "https://coverr.co/videos/close-up-of-watering-a-vegetable-garden-puysekco1h",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0040-8346/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0040-8346/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 13.138125,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0040-8346/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Close-up of watering a vegetable garden · Coverr · Coverr License",
+   "q": "hydroponic plants"
+  }
+ ]
+}

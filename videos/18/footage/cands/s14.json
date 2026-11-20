@@ -1,0 +1,766 @@
+{
+ "shot": "s14",
+ "text": "Art of Agriculture — Knowledge Today, Agriculture Tomorrow.",
+ "need": "golden hour aerial over fields (background for brand reveal, blurred)",
+ "queries": [
+  "golden hour aerial fields",
+  "wheat field sunset",
+  "aerial farmland sunset"
+ ],
+ "kind": "video",
+ "items": [
+  {
+   "source": "pixabay",
+   "id": "123204",
+   "kind": "video",
+   "title": "trees, sunset, forest, sun, light, golden hour, aerial, drone, nature, landscape, field, woods, sunbeams",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-123204/",
+   "thumb": "https://cdn.pixabay.com/video/2022/07/05/123204-727221492_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2022/07/05/123204-727221492_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 30,
+   "year": null,
+   "author": "Borobstacle",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2022/07/05/123204-727221492_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 95149843
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2022/07/05/123204-727221492_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 52146672
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2022/07/05/123204-727221492_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 22147369
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "trees, sunset, forest, sun, light, golden hour, aerial, drone, nature, landscape, field, woods, sunbeams · Borobstacle · Pixabay · Pixabay Content License",
+   "q": "golden hour aerial fields"
+  },
+  {
+   "source": "pixabay",
+   "id": "245681",
+   "kind": "video",
+   "title": "golden hour, wheat, field, nature, barley, grain, landscape, rural, countryside, harvest, sunset, sunrise, golden, gold, orange, sun, light, beautiful, wheat field, wind, breeze",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-245681/",
+   "thumb": "https://cdn.pixabay.com/video/2024/12/09/245681_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2024/12/09/245681_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 23,
+   "year": null,
+   "author": "JoshuaWoroniecki",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2024/12/09/245681_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 30817618
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2024/12/09/245681_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 11319641
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2024/12/09/245681_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 6505226
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "golden hour, wheat, field, nature, barley, grain, landscape, rural, countryside, harvest, sunset, sunrise, golden, gold, orange, sun, light, beautiful, wheat field, wind, breeze · JoshuaWoroniecki · Pixabay · Pixabay Content License",
+   "q": "wheat field sunset"
+  },
+  {
+   "source": "pixabay",
+   "id": "346830",
+   "kind": "video",
+   "title": "aerial, drone, village, town, farmland, fields, countryside, landscape, nature, sunset, sunrise, goldenhour, light, sky, scenic, view, rural, agriculture, buildings, outdoor, environment, travel, calm, wide, ai, ai generated",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-346830/",
+   "thumb": "https://cdn.pixabay.com/video/2026/04/16/346830_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2026/04/16/346830_tiny.mp4",
+   "w": 3836,
+   "h": 2160,
+   "dur": 5,
+   "year": null,
+   "author": "Positive_Hedgehog",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2026/04/16/346830_large.mp4",
+     "w": 3836,
+     "h": 2160,
+     "size": 10189050
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/04/16/346830_medium.mp4",
+     "w": 2556,
+     "h": 1439,
+     "size": 5149606
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/04/16/346830_small.mp4",
+     "w": 1918,
+     "h": 1080,
+     "size": 3123128
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "aerial, drone, village, town, farmland, fields, countryside, landscape, nature, sunset, sunrise, goldenhour, light, sky, scenic, view, rural, agriculture, buildings, outdoor, environment, travel, calm, wide, ai, ai generated · Positive_Hedgehog · Pixabay · Pixabay Content License",
+   "q": "aerial farmland sunset"
+  },
+  {
+   "source": "pixabay",
+   "id": "123207",
+   "kind": "video",
+   "title": "trees, forest, sunset, sun, light, field, aerial, drone, nature, golden hour, woods, landscape, sunbeams",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-123207/",
+   "thumb": "https://cdn.pixabay.com/video/2022/07/05/123207-727221493_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2022/07/05/123207-727221493_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 32,
+   "year": null,
+   "author": "Borobstacle",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2022/07/05/123207-727221493_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 98516326
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2022/07/05/123207-727221493_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 54142302
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2022/07/05/123207-727221493_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 23170600
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "trees, forest, sunset, sun, light, field, aerial, drone, nature, golden hour, woods, landscape, sunbeams · Borobstacle · Pixabay · Pixabay Content License",
+   "q": "golden hour aerial fields"
+  },
+  {
+   "source": "pixabay",
+   "id": "62390",
+   "kind": "video",
+   "title": "wheat, field, barley, grass, sunset, wind, sunrise, golden, harvest, farmer, rural, cereals, grain, countryside, meadow, 4k",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-62390/",
+   "thumb": "https://cdn.pixabay.com/video/2021/01/19/62390-504238714_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2021/01/19/62390-504238714_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 10,
+   "year": null,
+   "author": "JoshuaWoroniecki",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2021/01/19/62390-504238714_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 26337510
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/01/19/62390-504238714_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 14527758
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/01/19/62390-504238714_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 6245720
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "wheat, field, barley, grass, sunset, wind, sunrise, golden, harvest, farmer, rural, cereals, grain, countryside, meadow, 4k · JoshuaWoroniecki · Pixabay · Pixabay Content License",
+   "q": "wheat field sunset"
+  },
+  {
+   "source": "pixabay",
+   "id": "290060",
+   "kind": "video",
+   "title": "wheat, field, beehives, drone, farmland, golden, crops, aerial, trees, nature, harvest, summer, agriculture, landscape, green, meadow, organic, sunset, light, rural, farming, honey, earth, peace, ai, ai generated",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-290060/",
+   "thumb": "https://cdn.pixabay.com/video/2025/07/07/290060_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2025/07/07/290060_tiny.mp4",
+   "w": 1440,
+   "h": 2560,
+   "dur": 5,
+   "year": null,
+   "author": "Positive_Hedgehog",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2025/07/07/290060_large.mp4",
+     "w": 1440,
+     "h": 2560,
+     "size": 41768390
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/07/07/290060_medium.mp4",
+     "w": 1080,
+     "h": 1920,
+     "size": 20411545
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/07/07/290060_small.mp4",
+     "w": 720,
+     "h": 1280,
+     "size": 5682920
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "wheat, field, beehives, drone, farmland, golden, crops, aerial, trees, nature, harvest, summer, agriculture, landscape, green, meadow, organic, sunset, light, rural, farming, honey, earth, peace, ai, ai generated · Positive_Hedgehog · Pixabay · Pixabay Content License",
+   "q": "aerial farmland sunset"
+  },
+  {
+   "source": "pixabay",
+   "id": "130532",
+   "kind": "video",
+   "title": "road, building, cars, village, drone, bird's eye view, aerial view, sunset, golden hour, fields, meadow, landscape",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-130532/",
+   "thumb": "https://cdn.pixabay.com/video/2022/09/07/130532-747472738_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2022/09/07/130532-747472738_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 17,
+   "year": null,
+   "author": "Joschade",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2022/09/07/130532-747472738_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 56299050
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2022/09/07/130532-747472738_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 26367921
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2022/09/07/130532-747472738_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 13245166
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "road, building, cars, village, drone, bird's eye view, aerial view, sunset, golden hour, fields, meadow, landscape · Joschade · Pixabay · Pixabay Content License",
+   "q": "golden hour aerial fields"
+  },
+  {
+   "source": "pixabay",
+   "id": "86697",
+   "kind": "video",
+   "title": "field, sunset, wheat, barley, colorful, sky, mountains, nature, clouds, 4k, evening, landscape",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-86697/",
+   "thumb": "https://cdn.pixabay.com/video/2021/08/28/86697-594416768_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2021/08/28/86697-594416768_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 13,
+   "year": null,
+   "author": "JoshuaWoroniecki",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2021/08/28/86697-594416768_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 34128682
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/08/28/86697-594416768_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 18312291
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/08/28/86697-594416768_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 7768182
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "field, sunset, wheat, barley, colorful, sky, mountains, nature, clouds, 4k, evening, landscape · JoshuaWoroniecki · Pixabay · Pixabay Content License",
+   "q": "wheat field sunset"
+  },
+  {
+   "source": "pixabay",
+   "id": "279388",
+   "kind": "video",
+   "title": "fields, farmlands, sunrise, morning light, green, landscape, agriculture, rural, nature, horizon, panoramic, tranquility, sky, open space, golden hour, sunlight, crops, summer, peaceful, outdoors, aerial, vibrant, scenic, countryside, ai, ai generated",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-279388/",
+   "thumb": "https://cdn.pixabay.com/video/2025/05/15/279388_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2025/05/15/279388_tiny.mp4",
+   "w": 1440,
+   "h": 2560,
+   "dur": 5,
+   "year": null,
+   "author": "Positive_Hedgehog",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2025/05/15/279388_large.mp4",
+     "w": 1440,
+     "h": 2560,
+     "size": 9643891
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/05/15/279388_medium.mp4",
+     "w": 1080,
+     "h": 1920,
+     "size": 5717540
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/05/15/279388_small.mp4",
+     "w": 720,
+     "h": 1280,
+     "size": 1822338
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "fields, farmlands, sunrise, morning light, green, landscape, agriculture, rural, nature, horizon, panoramic, tranquility, sky, open space, golden hour, sunlight, crops, summer, peaceful, outdoors, aerial, vibrant, scenic, countryside, ai, ai generated · Positive_Hedgehog · Pixabay · Pixabay Content License",
+   "q": "aerial farmland sunset"
+  },
+  {
+   "source": "mixkit",
+   "id": "8622",
+   "kind": "video",
+   "title": "Aerial timelapse flyover farmland countryside",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/aerial-timelapse-flyover-farmland-countryside-8622/",
+   "thumb": "https://assets.mixkit.co/videos/8622/8622-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/8622/8622-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/8622/8622-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/8622/8622-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Aerial timelapse flyover farmland countryside · Mixkit · Mixkit Free License",
+   "q": "aerial farmland"
+  },
+  {
+   "source": "mixkit",
+   "id": "100926",
+   "kind": "video",
+   "title": "Sunset Silhouette of a Couple",
+   "desc": "A couple stands together at golden hour, their silhouettes glowing against the sunset. Soft, intimate, and full of warmth. Perfect for love story edits, music videos, or any project capturing romance and connection.",
+   "page": "https://mixkit.co/free-stock-video/sunset-silhouette-of-a-couple-100926/",
+   "thumb": "https://assets.mixkit.co/videos/100926/100926-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/100926/100926-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/100926/100926-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/100926/100926-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Sunset Silhouette of a Couple · Mixkit · Mixkit Free License",
+   "q": "golden hour"
+  },
+  {
+   "source": "mixkit",
+   "id": "34035",
+   "kind": "video",
+   "title": "Tractor in a wheat field at sunset done in CGI",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/tractor-in-a-wheat-field-at-sunset-done-in-cgi-34035/",
+   "thumb": "https://assets.mixkit.co/videos/34035/34035-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/34035/34035-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/34035/34035-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/34035/34035-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Tractor in a wheat field at sunset done in CGI · Mixkit · Mixkit Free License",
+   "q": "wheat field sunset"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-aerial-panning-shot-of-a-beautiful-valley-1114",
+   "kind": "video",
+   "title": "Aerial panning shot of a beautiful valley",
+   "desc": "Aerial panning shot of a beautiful valley at sunset.",
+   "tags": "",
+   "page": "https://coverr.co/videos/aerial-panning-shot-of-a-beautiful-valley-knjyfesehr",
+   "thumb": "https://cdn.coverr.co/videos/coverr-aerial-panning-shot-of-a-beautiful-valley-1114/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-aerial-panning-shot-of-a-beautiful-valley-1114/360p.mp4",
+   "w": 2048,
+   "h": 1080,
+   "dur": 15,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-aerial-panning-shot-of-a-beautiful-valley-1114/1080p.mp4",
+     "w": 2048,
+     "h": 1080,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Aerial panning shot of a beautiful valley · Coverr · Coverr License",
+   "q": "aerial farmland sunset"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-beautiful-valley-at-golden-hour-3055",
+   "kind": "video",
+   "title": "Beautiful valley at golden hour",
+   "desc": "Wide shot of a beautiful valley at sunset with hills in the distance.",
+   "tags": "",
+   "page": "https://coverr.co/videos/beautiful-valley-at-golden-hour-qwur7vu6tf",
+   "thumb": "https://cdn.coverr.co/videos/coverr-beautiful-valley-at-golden-hour-3055/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-beautiful-valley-at-golden-hour-3055/360p.mp4",
+   "w": 2048,
+   "h": 1080,
+   "dur": 15,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-beautiful-valley-at-golden-hour-3055/1080p.mp4",
+     "w": 2048,
+     "h": 1080,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Beautiful valley at golden hour · Coverr · Coverr License",
+   "q": "golden hour aerial fields"
+  },
+  {
+   "source": "mixkit",
+   "id": "47162",
+   "kind": "video",
+   "title": "Little girl runs happily in a wheat field at sunset",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/little-girl-runs-happily-in-a-wheat-field-at-sunset-47162/",
+   "thumb": "https://assets.mixkit.co/videos/47162/47162-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/47162/47162-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/47162/47162-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/47162/47162-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Little girl runs happily in a wheat field at sunset · Mixkit · Mixkit Free License",
+   "q": "wheat field sunset"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-road-near-a-field-6275",
+   "kind": "video",
+   "title": "Road near a field",
+   "desc": "Aerial shot of a road near a field. ",
+   "tags": "",
+   "page": "https://coverr.co/videos/road-near-a-field-99deg5kknk",
+   "thumb": "https://cdn.coverr.co/videos/coverr-road-near-a-field-6275/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-road-near-a-field-6275/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 14.723042,
+   "year": 2020,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-road-near-a-field-6275/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Road near a field · Coverr · Coverr License",
+   "q": "golden hour aerial fields"
+  },
+  {
+   "source": "mixkit",
+   "id": "17764",
+   "kind": "video",
+   "title": "Sunset over a wheat field",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/sunset-over-a-wheat-field-17764/",
+   "thumb": "https://assets.mixkit.co/videos/17764/17764-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/17764/17764-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/17764/17764-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/17764/17764-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Sunset over a wheat field · Mixkit · Mixkit Free License",
+   "q": "wheat field sunset"
+  },
+  {
+   "source": "mixkit",
+   "id": "7839",
+   "kind": "video",
+   "title": "Drone over farmland",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/drone-over-farmland-7839/",
+   "thumb": "https://assets.mixkit.co/videos/7839/7839-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/7839/7839-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/7839/7839-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/7839/7839-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Drone over farmland · Mixkit · Mixkit Free License",
+   "q": "aerial farmland"
+  }
+ ]
+}

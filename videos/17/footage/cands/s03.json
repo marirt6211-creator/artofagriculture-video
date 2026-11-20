@@ -1,0 +1,402 @@
+{
+ "shot": "s03",
+ "text": "اول بذرها توی پشم‌سنگ یا کوکوپیت جوونه می‌زنن.",
+ "need": "seeds sprouting in rockwool cubes or coco peat",
+ "queries": [
+  "seedlings rockwool",
+  "seed germination sprouts",
+  "microgreens sprouting"
+ ],
+ "kind": "video",
+ "items": [
+  {
+   "source": "coverr",
+   "id": "coverr-colorful-salad-bowl-1709",
+   "kind": "video",
+   "title": "Colorful salad bowl",
+   "desc": "Close-up of a colorful bowl of salad. ",
+   "tags": "",
+   "page": "https://coverr.co/videos/colorful-salad-bowl-wairqdmbit",
+   "thumb": "https://cdn.coverr.co/videos/coverr-colorful-salad-bowl-1709/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-colorful-salad-bowl-1709/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 10.969292,
+   "year": 2021,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-colorful-salad-bowl-1709/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Colorful salad bowl · Coverr · Coverr License",
+   "q": "seedlings rockwool"
+  },
+  {
+   "source": "commons",
+   "id": "File:Lentil sprouting Haft-sin time lapse.webm",
+   "kind": "video",
+   "title": "Lentil sprouting Haft-sin time lapse",
+   "desc": "Lentil sprouting Haft-sin , Nowruz time lapse. Sabzeh, which is fresh sprouting seeds, is the first item on any Haft-seen table and represents rebirth.",
+   "page": "https://commons.wikimedia.org/wiki/File:Lentil_sprouting_Haft-sin_time_lapse.webm",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Lentil_sprouting_Haft-sin_time_lapse.webm/960px--Lentil_sprouting_Haft-sin_time_lapse.webm.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7f/Lentil_sprouting_Haft-sin_time_lapse.webm/Lentil_sprouting_Haft-sin_time_lapse.webm.240p.vp9.webm",
+   "w": 3840,
+   "h": 2160,
+   "dur": 111.99900000000001,
+   "year": 2020,
+   "author": "Always Shooting",
+   "licence": {
+    "code": "by",
+    "name": "CC BY 2.0",
+    "url": "https://creativecommons.org/licenses/by/2.0",
+    "verdict": "credit",
+    "attr": true,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Lentil_sprouting_Haft-sin_time_lapse.webm",
+     "w": 3840,
+     "h": 2160,
+     "size": 179213237,
+     "mime": "video/webm",
+     "label": "original"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7f/Lentil_sprouting_Haft-sin_time_lapse.webm/Lentil_sprouting_Haft-sin_time_lapse.webm.240p.vp9.webm",
+     "w": 426,
+     "h": 240,
+     "mime": "video/webm",
+     "label": "240p.vp9.webm"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7f/Lentil_sprouting_Haft-sin_time_lapse.webm/Lentil_sprouting_Haft-sin_time_lapse.webm.360p.mpeg4.mov",
+     "w": 640,
+     "h": 360,
+     "mime": "video/quicktime",
+     "label": "360p.mpeg4.mov"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7f/Lentil_sprouting_Haft-sin_time_lapse.webm/Lentil_sprouting_Haft-sin_time_lapse.webm.480p.vp9.webm",
+     "w": 854,
+     "h": 480,
+     "mime": "video/webm",
+     "label": "480p.vp9.webm"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7f/Lentil_sprouting_Haft-sin_time_lapse.webm/Lentil_sprouting_Haft-sin_time_lapse.webm.1080p.vp9.webm",
+     "w": 1920,
+     "h": 1080,
+     "mime": "video/webm",
+     "label": "1080p.vp9.webm"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Lentil sprouting Haft-sin time lapse · Always Shooting · Wikimedia Commons · CC BY 2.0",
+   "q": "seed germination sprouts"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-croft-with-mature-vegetables-4297",
+   "kind": "video",
+   "title": "A croft with mature vegetables",
+   "desc": "A mini farm with a small wooden shed.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-croft-with-mature-vegetables-y6ksobu4m2",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 14.681333,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A croft with mature vegetables · Coverr · Coverr License",
+   "q": "microgreens sprouting"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-sun-setting-over-a-barley-crop-field-2451",
+   "kind": "video",
+   "title": "Sun setting over a barley crop field",
+   "desc": "Aerial shot of the sun setting over a barley crop field. ",
+   "tags": "",
+   "page": "https://coverr.co/videos/sun-setting-over-a-barley-crop-field-tho30foset",
+   "thumb": "https://cdn.coverr.co/videos/coverr-sun-setting-over-a-barley-crop-field-2451/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-sun-setting-over-a-barley-crop-field-2451/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 15.181833,
+   "year": 2020,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-sun-setting-over-a-barley-crop-field-2451/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Sun setting over a barley crop field · Coverr · Coverr License",
+   "q": "seedlings rockwool"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-morning-stretching-routine-in-park",
+   "kind": "video",
+   "title": "Serene Stretching Routine at the Park on a Sunny Morning",
+   "desc": "A young woman in a grey T-shirt is working out at the park on a sunny morning. She is warming up by performing a stretching exercise as part of her workout routine. ",
+   "tags": "",
+   "page": "https://coverr.co/videos/morning-stretching-routine-in-park",
+   "thumb": "https://cdn.coverr.co/videos/coverr-morning-stretching-routine-in-park/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-morning-stretching-routine-in-park/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 19.76,
+   "year": 2024,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-morning-stretching-routine-in-park/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Serene Stretching Routine at the Park on a Sunny Morning · Coverr · Coverr License",
+   "q": "seed germination sprouts"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0035-2083",
+   "kind": "video",
+   "title": "Washing a garden shovel",
+   "desc": "A close-up shot of a woman opening a faucet with water to wash a small garden shovel.",
+   "tags": "",
+   "page": "https://coverr.co/videos/washing-a-garden-shovel-vzu96zlvj1",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0035-2083/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0035-2083/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 35.869167,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0035-2083/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Washing a garden shovel · Coverr · Coverr License",
+   "q": "microgreens sprouting"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-barley-crop-field-4381",
+   "kind": "video",
+   "title": "Barley crop field",
+   "desc": "Aerial shot of a barley crop field. ",
+   "tags": "",
+   "page": "https://coverr.co/videos/barley-crop-field-bdr5nfqz19",
+   "thumb": "https://cdn.coverr.co/videos/coverr-barley-crop-field-4381/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-barley-crop-field-4381/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 10.051708,
+   "year": 2020,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-barley-crop-field-4381/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Barley crop field · Coverr · Coverr License",
+   "q": "seedlings rockwool"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0034-3713",
+   "kind": "video",
+   "title": "A woman washing a small shovel",
+   "desc": "A close-up shot of a woman washing a small garden shovel under a faucet.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-washing-a-small-shovel-m1qfgt9pal",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0034-3713/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0034-3713/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 25.233542,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0034-3713/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman washing a small shovel · Coverr · Coverr License",
+   "q": "microgreens sprouting"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0026-0785",
+   "kind": "video",
+   "title": "A smiling female gardener",
+   "desc": "A medium shot of a female gardener holding fresh vegetables and smiling at the camera.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-smiling-female-gardener-jhjkirpisq",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0026-0785/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0026-0785/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 16.558208,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0026-0785/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A smiling female gardener · Coverr · Coverr License",
+   "q": "seed germination sprouts"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0032-7458",
+   "kind": "video",
+   "title": "A woman washes a small shovel",
+   "desc": "A medium shot of a woman washing a small garden shovel under a faucet.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-washes-a-small-shovel-rnsgdiztth",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0032-7458/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0032-7458/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 28.695333,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0032-7458/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman washes a small shovel · Coverr · Coverr License",
+   "q": "microgreens sprouting"
+  }
+ ]
+}

@@ -1,0 +1,178 @@
+{
+ "video": "17",
+ "orient": "vertical",
+ "note": "For each shot write need (what must literally be on screen for this sentence), 2-4 English queries (concrete first, then broader), kind (video|image), look (modern = today's colour HD footage, archive = old film and historical pictures, any), min (shortest side in px, optional) and avoid. Then: footage find <NN>.",
+ "shots": [
+  {
+   "id": "s01",
+   "line": 1,
+   "text": "گیاه بدون خاک؟ آره، با کشت هیدروپونیک!",
+   "t0": 0.2,
+   "t1": 4.245,
+   "dur": 4.04,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "need": "lettuce plants growing in a hydroponic system, no soil",
+   "queries": [
+    "hydroponic lettuce",
+    "hydroponics farm",
+    "hydroponic plants"
+   ],
+   "avoid": "",
+   "picks": []
+  },
+  {
+   "id": "s02",
+   "line": 2,
+   "text": "اینجا ریشه‌ها به‌جای خاک، توی آبِ پر از مواد مغذی رشد می‌کنن.",
+   "t0": 4.595,
+   "t1": 9.851,
+   "dur": 5.26,
+   "clips": 1,
+   "kind": "video",
+   "look": "any",
+   "need": "close-up of white plant roots hanging in water",
+   "queries": [
+    "plant roots in water",
+    "hydroponic roots",
+    "roots underwater"
+   ],
+   "avoid": "",
+   "picks": []
+  },
+  {
+   "id": "s03",
+   "line": 3,
+   "text": "اول بذرها توی پشم‌سنگ یا کوکوپیت جوونه می‌زنن.",
+   "t0": 10.201,
+   "t1": 14.217,
+   "dur": 4.02,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "need": "seeds sprouting in rockwool cubes or coco peat",
+   "queries": [
+    "seedlings rockwool",
+    "seed germination sprouts",
+    "microgreens sprouting"
+   ],
+   "avoid": "",
+   "picks": []
+  },
+  {
+   "id": "s04",
+   "line": 4,
+   "text": "بعد نشاها رو توی گلدون‌های توری، روی لوله‌ها یا سینی‌های آب می‌ذارن.",
+   "t0": 14.567,
+   "t1": 19.806,
+   "dur": 5.24,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "need": "seedlings in net pots placed in PVC pipes or trays",
+   "queries": [
+    "hydroponic net pots",
+    "hydroponic pipes lettuce",
+    "seedlings tray greenhouse"
+   ],
+   "avoid": "",
+   "picks": []
+  },
+  {
+   "id": "s05",
+   "line": 5,
+   "text": "یه پمپ کوچیک، محلول غذایی رو مدام دور ریشه‌ها می‌چرخونه.",
+   "t0": 20.156,
+   "t1": 24.677,
+   "dur": 4.52,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "need": "water flowing / circulating through hydroponic channels, pump",
+   "queries": [
+    "hydroponic water flow",
+    "nutrient film technique",
+    "water pump bubbles"
+   ],
+   "avoid": "",
+   "picks": []
+  },
+  {
+   "id": "s06",
+   "line": 6,
+   "text": "ریشه‌ها غذا و اکسیژن رو مستقیم می‌گیرن، برای همین گیاه سریع‌تر رشد می‌کنه.",
+   "t0": 25.027,
+   "t1": 31.215,
+   "dur": 6.19,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "need": "healthy roots and fast growing plant, time-lapse growth",
+   "queries": [
+    "plant growth timelapse",
+    "lettuce growing timelapse",
+    "plant roots"
+   ],
+   "avoid": "",
+   "picks": []
+  },
+  {
+   "id": "s07",
+   "line": 7,
+   "text": "تا نود درصد آب کمتری مصرف می‌شه، و می‌شه طبقه‌طبقه، حتی وسط شهر کشت کرد.",
+   "t0": 31.565,
+   "t1": 39.805,
+   "dur": 8.24,
+   "clips": 2,
+   "kind": "video",
+   "look": "modern",
+   "need": "vertical farm with stacked shelves under LED lights, indoor/urban",
+   "queries": [
+    "vertical farm",
+    "indoor vertical farming LED",
+    "urban farming"
+   ],
+   "avoid": "",
+   "picks": []
+  },
+  {
+   "id": "s08",
+   "line": 8,
+   "text": "کاهو، توت‌فرنگی، گوجه و سبزی‌ها، همه بدون خاک!",
+   "t0": 40.155,
+   "t1": 45.245,
+   "dur": 5.09,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "need": "harvested lettuce, strawberries, tomatoes in hydroponic greenhouse",
+   "queries": [
+    "hydroponic strawberries",
+    "hydroponic tomatoes greenhouse",
+    "fresh lettuce harvest"
+   ],
+   "avoid": "",
+   "picks": []
+  },
+  {
+   "id": "s09",
+   "line": 9,
+   "text": "برای ترفندهای بیشتر، هنر کشاورزی رو دنبال کن.",
+   "t0": 45.595,
+   "t1": 49.435,
+   "dur": 3.84,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "need": "fresh green leafy plants, beautiful closing shot of greenhouse",
+   "queries": [
+    "greenhouse lettuce rows",
+    "green leaves greenhouse",
+    "hydroponic greenhouse"
+   ],
+   "avoid": "",
+   "picks": []
+  }
+ ]
+}

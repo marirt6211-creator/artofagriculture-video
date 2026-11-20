@@ -1,0 +1,690 @@
+{
+ "shot": "s07",
+ "text": "تا نود درصد آب کمتری مصرف می‌شه، و می‌شه طبقه‌طبقه، حتی وسط شهر کشت کرد.",
+ "need": "vertical farm with stacked shelves under LED lights, indoor/urban",
+ "queries": [
+  "vertical farm",
+  "indoor vertical farming LED",
+  "urban farming"
+ ],
+ "kind": "video",
+ "items": [
+  {
+   "source": "coverr",
+   "id": "coverr-a-croft-with-mature-vegetables-4297",
+   "kind": "video",
+   "title": "A croft with mature vegetables",
+   "desc": "A mini farm with a small wooden shed.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-croft-with-mature-vegetables-y6ksobu4m2",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 14.681333,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A croft with mature vegetables · Coverr · Coverr License",
+   "q": "indoor vertical farming LED"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-urban-oasis-city-beyond-the-trees",
+   "kind": "video",
+   "title": "Panoramic Urban Oasis: Cityscape Beyond Lush Trees",
+   "desc": "A panoramic view of the city skyline framed by lush green trees. The wide-angle shot highlights the harmonious blend of nature and the bustling city in the background.",
+   "tags": "",
+   "page": "https://coverr.co/videos/panoramic-urban-oasis-cityscape-beyond-lush-trees",
+   "thumb": "https://cdn.coverr.co/videos/coverr-urban-oasis-city-beyond-the-trees/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-urban-oasis-city-beyond-the-trees/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 16.433083,
+   "year": 2024,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-urban-oasis-city-beyond-the-trees/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Panoramic Urban Oasis: Cityscape Beyond Lush Trees · Coverr · Coverr License",
+   "q": "urban farming"
+  },
+  {
+   "source": "commons",
+   "id": "File:Aasen agrivoltaics solar plant with walls of vertical bifacial modules near Donaueschingen Germany 03.webm",
+   "kind": "video",
+   "title": "Aasen agrivoltaics solar plant with walls of vertical bifacial modules near Donaueschingen Germany 03",
+   "desc": "Aerial video of an agrivoltaics solar plant, developed by Next2Sun, with walls of vertical bifacial modules near Aasen, Donaueschingen, Germany. The 4.1 MW(p) solar plant covers an area of 14 ha, around 90% of the area can still be used for agricultural purposes, in this case growing grass as fodder. The 10 m spacing between rows of modules allows for making hay using farm machines.",
+   "page": "https://commons.wikimedia.org/wiki/File:Aasen_agrivoltaics_solar_plant_with_walls_of_vertical_bifacial_modules_near_Donaueschingen_Germany_03.webm",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Aasen_agrivoltaics_solar_plant_with_walls_of_vertical_bifacial_modules_near_Donaueschingen_Germany_03.webm/960px--Aasen_agrivoltaics_solar_plant_with_walls_of_vertical_bifacial_modules_near_Donaueschingen_Germany_03.webm.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/45/Aasen_agrivoltaics_solar_plant_with_walls_of_vertical_bifacial_modules_near_Donaueschingen_Germany_03.webm/Aasen_agrivoltaics_solar_plant_with_walls_of_vertical_bifacial_modules_near_Donaueschingen_Germany_03.webm.240p.vp9.webm",
+   "w": 3840,
+   "h": 2160,
+   "dur": 53.453,
+   "year": 2020,
+   "author": "Tobi Kellner",
+   "licence": {
+    "code": "cc0",
+    "name": "CC0",
+    "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Aasen_agrivoltaics_solar_plant_with_walls_of_vertical_bifacial_modules_near_Donaueschingen_Germany_03.webm",
+     "w": 3840,
+     "h": 2160,
+     "size": 898063544,
+     "mime": "video/webm",
+     "label": "original"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/45/Aasen_agrivoltaics_solar_plant_with_walls_of_vertical_bifacial_modules_near_Donaueschingen_Germany_03.webm/Aasen_agrivoltaics_solar_plant_with_walls_of_vertical_bifacial_modules_near_Donaueschingen_Germany_03.webm.240p.vp9.webm",
+     "w": 426,
+     "h": 240,
+     "mime": "video/webm",
+     "label": "240p.vp9.webm"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/45/Aasen_agrivoltaics_solar_plant_with_walls_of_vertical_bifacial_modules_near_Donaueschingen_Germany_03.webm/Aasen_agrivoltaics_solar_plant_with_walls_of_vertical_bifacial_modules_near_Donaueschingen_Germany_03.webm.360p.mpeg4.mov",
+     "w": 640,
+     "h": 360,
+     "mime": "video/quicktime",
+     "label": "360p.mpeg4.mov"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/45/Aasen_agrivoltaics_solar_plant_with_walls_of_vertical_bifacial_modules_near_Donaueschingen_Germany_03.webm/Aasen_agrivoltaics_solar_plant_with_walls_of_vertical_bifacial_modules_near_Donaueschingen_Germany_03.webm.480p.vp9.webm",
+     "w": 854,
+     "h": 480,
+     "mime": "video/webm",
+     "label": "480p.vp9.webm"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/45/Aasen_agrivoltaics_solar_plant_with_walls_of_vertical_bifacial_modules_near_Donaueschingen_Germany_03.webm/Aasen_agrivoltaics_solar_plant_with_walls_of_vertical_bifacial_modules_near_Donaueschingen_Germany_03.webm.1080p.vp9.webm",
+     "w": 1920,
+     "h": 1080,
+     "mime": "video/webm",
+     "label": "1080p.vp9.webm"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Aasen agrivoltaics solar plant with walls of vertical bifacial modules near Donaueschingen Germany 03 · Tobi Kellner · Wikimedia Commons · CC0",
+   "q": "vertical farm"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0040-8346",
+   "kind": "video",
+   "title": "Close-up of watering a vegetable garden",
+   "desc": "A close-up shot of a man watering his vegetable garden with a garden hose.",
+   "tags": "",
+   "page": "https://coverr.co/videos/close-up-of-watering-a-vegetable-garden-puysekco1h",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0040-8346/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0040-8346/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 13.138125,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0040-8346/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Close-up of watering a vegetable garden · Coverr · Coverr License",
+   "q": "indoor vertical farming LED"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-urban-oasis-skyline-beyond-the-trees",
+   "kind": "video",
+   "title": "Urban Oasis: Magnificent Skyline Beyond the Trees",
+   "desc": "The city skyline peeks through a natural frame of trees in an urban park, blending the tranquility of greenery with the distant hustle of urban life. The scene captures a serene balance between nature and the modern cityscape.",
+   "tags": "",
+   "page": "https://coverr.co/videos/urban-oasis-magnificent-skyline-beyond-the-trees",
+   "thumb": "https://cdn.coverr.co/videos/coverr-urban-oasis-skyline-beyond-the-trees/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-urban-oasis-skyline-beyond-the-trees/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 12.26225,
+   "year": 2024,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-urban-oasis-skyline-beyond-the-trees/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Urban Oasis: Magnificent Skyline Beyond the Trees · Coverr · Coverr License",
+   "q": "urban farming"
+  },
+  {
+   "source": "commons",
+   "id": "File:Aasen agrivoltaics solar plant with walls of vertical bifacial modules near Donaueschingen Germany 06.webm",
+   "kind": "video",
+   "title": "Aasen agrivoltaics solar plant with walls of vertical bifacial modules near Donaueschingen Germany 06",
+   "desc": "Aerial video of an agrivoltaics solar plant, developed by Next2Sun, with walls of vertical bifacial modules near Aasen, Donaueschingen, Germany. The 4.1 MW(p) solar plant covers an area of 14 ha, around 90% of the area can still be used for agricultural purposes, in this case growing grass as fodder. The 10 m spacing between rows of modules allows for making hay using farm machines.",
+   "page": "https://commons.wikimedia.org/wiki/File:Aasen_agrivoltaics_solar_plant_with_walls_of_vertical_bifacial_modules_near_Donaueschingen_Germany_06.webm",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Aasen_agrivoltaics_solar_plant_with_walls_of_vertical_bifacial_modules_near_Donaueschingen_Germany_06.webm/960px--Aasen_agrivoltaics_solar_plant_with_walls_of_vertical_bifacial_modules_near_Donaueschingen_Germany_06.webm.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e7/Aasen_agrivoltaics_solar_plant_with_walls_of_vertical_bifacial_modules_near_Donaueschingen_Germany_06.webm/Aasen_agrivoltaics_solar_plant_with_walls_of_vertical_bifacial_modules_near_Donaueschingen_Germany_06.webm.240p.vp9.webm",
+   "w": 3840,
+   "h": 2160,
+   "dur": 22.456,
+   "year": 2020,
+   "author": "Tobi Kellner",
+   "licence": {
+    "code": "cc0",
+    "name": "CC0",
+    "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Aasen_agrivoltaics_solar_plant_with_walls_of_vertical_bifacial_modules_near_Donaueschingen_Germany_06.webm",
+     "w": 3840,
+     "h": 2160,
+     "size": 425588856,
+     "mime": "video/webm",
+     "label": "original"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e7/Aasen_agrivoltaics_solar_plant_with_walls_of_vertical_bifacial_modules_near_Donaueschingen_Germany_06.webm/Aasen_agrivoltaics_solar_plant_with_walls_of_vertical_bifacial_modules_near_Donaueschingen_Germany_06.webm.240p.vp9.webm",
+     "w": 426,
+     "h": 240,
+     "mime": "video/webm",
+     "label": "240p.vp9.webm"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e7/Aasen_agrivoltaics_solar_plant_with_walls_of_vertical_bifacial_modules_near_Donaueschingen_Germany_06.webm/Aasen_agrivoltaics_solar_plant_with_walls_of_vertical_bifacial_modules_near_Donaueschingen_Germany_06.webm.360p.mpeg4.mov",
+     "w": 640,
+     "h": 360,
+     "mime": "video/quicktime",
+     "label": "360p.mpeg4.mov"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e7/Aasen_agrivoltaics_solar_plant_with_walls_of_vertical_bifacial_modules_near_Donaueschingen_Germany_06.webm/Aasen_agrivoltaics_solar_plant_with_walls_of_vertical_bifacial_modules_near_Donaueschingen_Germany_06.webm.480p.vp9.webm",
+     "w": 854,
+     "h": 480,
+     "mime": "video/webm",
+     "label": "480p.vp9.webm"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e7/Aasen_agrivoltaics_solar_plant_with_walls_of_vertical_bifacial_modules_near_Donaueschingen_Germany_06.webm/Aasen_agrivoltaics_solar_plant_with_walls_of_vertical_bifacial_modules_near_Donaueschingen_Germany_06.webm.1080p.vp9.webm",
+     "w": 1920,
+     "h": 1080,
+     "mime": "video/webm",
+     "label": "1080p.vp9.webm"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Aasen agrivoltaics solar plant with walls of vertical bifacial modules near Donaueschingen Germany 06 · Tobi Kellner · Wikimedia Commons · CC0",
+   "q": "vertical farm"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0039-5710",
+   "kind": "video",
+   "title": "A man watering a vegetable garden",
+   "desc": "A man watering his vegetable garden with a garden hose.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-man-watering-a-vegetable-garden-kvgan9ipx7",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0039-5710/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0039-5710/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 9.801458,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0039-5710/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A man watering a vegetable garden · Coverr · Coverr License",
+   "q": "indoor vertical farming LED"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-close-up-of-a-young-man-renting-an-electric-scooter-7805",
+   "kind": "video",
+   "title": "Close-up of a young man renting an electric scooter",
+   "desc": "A close-up of a young man renting an electric scooter using a mobile app, demonstrating the urban use of Eco transport.",
+   "tags": "",
+   "page": "https://coverr.co/videos/close-up-of-a-young-man-renting-an-electric-scooter-izxxeixoyo",
+   "thumb": "https://cdn.coverr.co/videos/coverr-close-up-of-a-young-man-renting-an-electric-scooter-7805/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-close-up-of-a-young-man-renting-an-electric-scooter-7805/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 9.467792,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-close-up-of-a-young-man-renting-an-electric-scooter-7805/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Close-up of a young man renting an electric scooter · Coverr · Coverr License",
+   "q": "urban farming"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-woman-picks-lettuce-on-a-farm-2718",
+   "kind": "video",
+   "title": "A woman picks lettuce on a farm",
+   "desc": "A medium shot of a woman harvesting lettuce.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-picks-lettuce-on-a-farm-uhy2z1rlrh",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-woman-picks-lettuce-on-a-farm-2718/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-woman-picks-lettuce-on-a-farm-2718/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 15.015,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-woman-picks-lettuce-on-a-farm-2718/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman picks lettuce on a farm · Coverr · Coverr License",
+   "q": "vertical farm"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0031-5312",
+   "kind": "video",
+   "title": "Garden tool shovel for planting",
+   "desc": "Close-up shot of a woman carrying a small shovel for gardening.",
+   "tags": "",
+   "page": "https://coverr.co/videos/garden-tool-shovel-for-planting-swjdklxwuv",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0031-5312/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0031-5312/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 18.560208,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0031-5312/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Garden tool shovel for planting · Coverr · Coverr License",
+   "q": "indoor vertical farming LED"
+  },
+  {
+   "source": "mixkit",
+   "id": "101047",
+   "kind": "video",
+   "title": "Asian Woman in Urban Setting Black and White",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/asian-woman-in-urban-setting-black-and-white-101047/",
+   "thumb": "https://assets.mixkit.co/videos/101047/101047-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/101047/101047-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/101047/101047-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/101047/101047-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Asian Woman in Urban Setting Black and White · Mixkit · Mixkit Free License",
+   "q": "indoor vertical"
+  },
+  {
+   "source": "mixkit",
+   "id": "2391",
+   "kind": "video",
+   "title": "Small town in a cultivation area",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/small-town-in-a-cultivation-area-2391/",
+   "thumb": "https://assets.mixkit.co/videos/2391/2391-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/2391/2391-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/2391/2391-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/2391/2391-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Small town in a cultivation area · Mixkit · Mixkit Free License",
+   "q": "urban farming"
+  },
+  {
+   "source": "mixkit",
+   "id": "101042",
+   "kind": "video",
+   "title": "Young Asian Woman Immersed in Thought",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/young-asian-woman-immersed-in-thought-101042/",
+   "thumb": "https://assets.mixkit.co/videos/101042/101042-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/101042/101042-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/101042/101042-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/101042/101042-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Young Asian Woman Immersed in Thought · Mixkit · Mixkit Free License",
+   "q": "indoor vertical"
+  },
+  {
+   "source": "mixkit",
+   "id": "50995",
+   "kind": "video",
+   "title": "Zoom out aerial view of a city road intersection",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/zoom-out-aerial-view-of-a-city-road-intersection-50995/",
+   "thumb": "https://assets.mixkit.co/videos/50995/50995-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/50995/50995-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/50995/50995-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/50995/50995-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Zoom out aerial view of a city road intersection · Mixkit · Mixkit Free License",
+   "q": "urban farming"
+  },
+  {
+   "source": "mixkit",
+   "id": "101039",
+   "kind": "video",
+   "title": "Cinematic Urban Nostalgia",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/cinematic-urban-nostalgia-101039/",
+   "thumb": "https://assets.mixkit.co/videos/101039/101039-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/101039/101039-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/101039/101039-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/101039/101039-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Cinematic Urban Nostalgia · Mixkit · Mixkit Free License",
+   "q": "indoor vertical"
+  },
+  {
+   "source": "mixkit",
+   "id": "101087",
+   "kind": "video",
+   "title": "Motherboard Giving Tiny City Vibes",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/motherboard-giving-tiny-city-vibes-101087/",
+   "thumb": "https://assets.mixkit.co/videos/101087/101087-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/101087/101087-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/101087/101087-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/101087/101087-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Motherboard Giving Tiny City Vibes · Mixkit · Mixkit Free License",
+   "q": "urban farming"
+  },
+  {
+   "source": "mixkit",
+   "id": "101044",
+   "kind": "video",
+   "title": "Asian Model on a Street-Smart Scene",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/asian-model-on-a-street-smart-scene-101044/",
+   "thumb": "https://assets.mixkit.co/videos/101044/101044-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/101044/101044-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/101044/101044-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/101044/101044-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Asian Model on a Street-Smart Scene · Mixkit · Mixkit Free License",
+   "q": "indoor vertical"
+  }
+ ]
+}

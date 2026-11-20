@@ -1,0 +1,719 @@
+{
+ "shot": "s15",
+ "text": "Join us, and let's grow together!",
+ "need": "end card background: soft green bokeh leaves / sunlight through leaves",
+ "queries": [
+  "sunlight through leaves bokeh",
+  "green leaves bokeh",
+  "sun rays through trees"
+ ],
+ "kind": "video",
+ "items": [
+  {
+   "source": "mixkit",
+   "id": "34371",
+   "kind": "video",
+   "title": "Sunlight passing through the leaves of a tree",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/sunlight-passing-through-the-leaves-of-a-tree-34371/",
+   "thumb": "https://assets.mixkit.co/videos/34371/34371-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/34371/34371-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/34371/34371-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/34371/34371-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Sunlight passing through the leaves of a tree · Mixkit · Mixkit Free License",
+   "q": "sunlight through leaves bokeh"
+  },
+  {
+   "source": "pixabay",
+   "id": "207584",
+   "kind": "video",
+   "title": "leaves, branches, trees, green, bokeh, sky, nature, spring",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-207584/",
+   "thumb": "https://cdn.pixabay.com/video/2024/04/10/207584_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2024/04/10/207584_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 15,
+   "year": null,
+   "author": "helamangile",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2024/04/10/207584_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 54625991
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2024/04/10/207584_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 27443171
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2024/04/10/207584_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 17863865
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "leaves, branches, trees, green, bokeh, sky, nature, spring · helamangile · Pixabay · Pixabay Content License",
+   "q": "green leaves bokeh"
+  },
+  {
+   "source": "pixabay",
+   "id": "366356",
+   "kind": "video",
+   "title": "trees, sun, sun rays, walk, park, old fortress, branches, shining through, calm, meditation, peaceful, nature",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-366356/",
+   "thumb": "https://cdn.pixabay.com/video/2026/07/25/366356_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2026/07/25/366356_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 12,
+   "year": null,
+   "author": "ChristianBodhi",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2026/07/25/366356_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 163451759
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/07/25/366356_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 94833960
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/07/25/366356_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 55341142
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "trees, sun, sun rays, walk, park, old fortress, branches, shining through, calm, meditation, peaceful, nature · ChristianBodhi · Pixabay · Pixabay Content License",
+   "q": "sun rays through trees"
+  },
+  {
+   "source": "pixabay",
+   "id": "253423",
+   "kind": "video",
+   "title": "tree, sunlight, sunshine, namibia, africa, branches, leaves",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-253423/",
+   "thumb": "https://cdn.pixabay.com/video/2025/01/19/253423_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2025/01/19/253423_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 10,
+   "year": null,
+   "author": "BlenderTimer",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2025/01/19/253423_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 28163939
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/01/19/253423_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 10568926
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/01/19/253423_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 6861285
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "tree, sunlight, sunshine, namibia, africa, branches, leaves · BlenderTimer · Pixabay · Pixabay Content License",
+   "q": "sunlight through leaves bokeh"
+  },
+  {
+   "source": "pixabay",
+   "id": "207583",
+   "kind": "video",
+   "title": "leaves, green, branches, trees, bokeh, sky, nature, spring",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-207583/",
+   "thumb": "https://cdn.pixabay.com/video/2024/04/10/207583_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2024/04/10/207583_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 15,
+   "year": null,
+   "author": "helamangile",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2024/04/10/207583_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 24616419
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2024/04/10/207583_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 11310642
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2024/04/10/207583_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 7169825
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "leaves, green, branches, trees, bokeh, sky, nature, spring · helamangile · Pixabay · Pixabay Content License",
+   "q": "green leaves bokeh"
+  },
+  {
+   "source": "pixabay",
+   "id": "368335",
+   "kind": "video",
+   "title": "bali, indonesia, bali jungle, tropical waterfall, hidden waterfall, jungle waterfall, tropical rainforest, lush jungle, rainforest, waterfall, beautiful waterfall, nature, nature video, tropical nature, jungle landscape, sun rays, sunlight through trees, golden sunlight, sunbeams",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-368335/",
+   "thumb": "https://cdn.pixabay.com/video/2026/08/03/368335_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2026/08/03/368335_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 8,
+   "year": null,
+   "author": "NatureLensStudio",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2026/08/03/368335_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 18948900
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/08/03/368335_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 9266652
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/08/03/368335_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 6609091
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "bali, indonesia, bali jungle, tropical waterfall, hidden waterfall, jungle waterfall, tropical rainforest, lush jungle, rainforest, waterfall, beautiful waterfall, nature, nature video, tropical nature, jungle landscape, sun rays, sunlight through trees, golden sunlight, sunbeams · NatureLensStudio · Pixabay · Pixabay Content License",
+   "q": "sun rays through trees"
+  },
+  {
+   "source": "pixabay",
+   "id": "6155",
+   "kind": "video",
+   "title": "nature, spikes, morning, sunlight, summer, green, bokeh",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-6155/",
+   "thumb": "https://cdn.pixabay.com/video/2016/10/28/6155-189363276_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2016/10/28/6155-189363276_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 16,
+   "year": null,
+   "author": "Mauistik",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2016/10/28/6155-189363276_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 13573804
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2016/10/28/6155-189363276_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 4814894
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2016/10/28/6155-189363276_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 2851364
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "nature, spikes, morning, sunlight, summer, green, bokeh · Mauistik · Pixabay · Pixabay Content License",
+   "q": "sunlight through leaves bokeh"
+  },
+  {
+   "source": "pixabay",
+   "id": "372290",
+   "kind": "video",
+   "title": "ai generated, dense jungle, tropical jungle, sunlight beams, sun rays, rainforest, jungle forest, tropical rainforest, light rays, golden sunlight, lush greenery, forest canopy, nature, wilderness, exotic plants, green forest, sunlight through trees",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-372290/",
+   "thumb": "https://cdn.pixabay.com/video/2026/08/24/372290_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2026/08/24/372290_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 8,
+   "year": null,
+   "author": "NatureLensStudio",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2026/08/24/372290_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 35985166
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/08/24/372290_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 18948618
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/08/24/372290_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 12440992
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "ai generated, dense jungle, tropical jungle, sunlight beams, sun rays, rainforest, jungle forest, tropical rainforest, light rays, golden sunlight, lush greenery, forest canopy, nature, wilderness, exotic plants, green forest, sunlight through trees · NatureLensStudio · Pixabay · Pixabay Content License",
+   "q": "sun rays through trees"
+  },
+  {
+   "source": "pixabay",
+   "id": "49981",
+   "kind": "video",
+   "title": "forest, woods, mystical, morning, fairytale, sunlight, sunbeam, fog, trees, path, scenic, leaves, wood, fantasy, live wallpaper",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-49981/",
+   "thumb": "https://cdn.pixabay.com/video/2020/09/15/49981-459802291_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2020/09/15/49981-459802291_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 41,
+   "year": null,
+   "author": "Matthias_Groeneveld",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2020/09/15/49981-459802291_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 29753626
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/09/15/49981-459802291_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 15566560
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/09/15/49981-459802291_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 8235375
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "forest, woods, mystical, morning, fairytale, sunlight, sunbeam, fog, trees, path, scenic, leaves, wood, fantasy, live wallpaper · Matthias_Groeneveld · Pixabay · Pixabay Content License",
+   "q": "sunlight through leaves bokeh"
+  },
+  {
+   "source": "mixkit",
+   "id": "34376",
+   "kind": "video",
+   "title": "Green leaves and branches of a tree out of focus",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/green-leaves-and-branches-of-a-tree-out-of-focus-34376/",
+   "thumb": "https://assets.mixkit.co/videos/34376/34376-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/34376/34376-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/34376/34376-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/34376/34376-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Green leaves and branches of a tree out of focus · Mixkit · Mixkit Free License",
+   "q": "green leaves bokeh"
+  },
+  {
+   "source": "mixkit",
+   "id": "16915",
+   "kind": "video",
+   "title": "Sun rays through a line of trees",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/sun-rays-through-a-line-of-trees-16915/",
+   "thumb": "https://assets.mixkit.co/videos/16915/16915-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/16915/16915-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/16915/16915-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/16915/16915-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Sun rays through a line of trees · Mixkit · Mixkit Free License",
+   "q": "sun rays through trees"
+  },
+  {
+   "source": "mixkit",
+   "id": "34372",
+   "kind": "video",
+   "title": "Lens flares from the sun through the out-of-focus trees",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/lens-flares-from-the-sun-through-the-out-of-focus-trees-34372/",
+   "thumb": "https://assets.mixkit.co/videos/34372/34372-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/34372/34372-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/34372/34372-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/34372/34372-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Lens flares from the sun through the out-of-focus trees · Mixkit · Mixkit Free License",
+   "q": "sunlight through leaves bokeh"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-dried-leaf-2618",
+   "kind": "video",
+   "title": "Dried leaf",
+   "desc": "Low-angle shot of a dried leaf amongst green leaves. ",
+   "tags": "",
+   "page": "https://coverr.co/videos/dried-leaf-urqodulopv",
+   "thumb": "https://cdn.coverr.co/videos/coverr-dried-leaf-2618/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-dried-leaf-2618/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 10.885875,
+   "year": 2021,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-dried-leaf-2618/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Dried leaf · Coverr · Coverr License",
+   "q": "green leaves bokeh"
+  },
+  {
+   "source": "mixkit",
+   "id": "3013",
+   "kind": "video",
+   "title": "Palm tree covering the sun's rays",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/palm-tree-covering-the-suns-rays-3013/",
+   "thumb": "https://assets.mixkit.co/videos/3013/3013-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/3013/3013-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/3013/3013-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/3013/3013-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Palm tree covering the sun's rays · Mixkit · Mixkit Free License",
+   "q": "sun rays through trees"
+  },
+  {
+   "source": "mixkit",
+   "id": "1709",
+   "kind": "video",
+   "title": "Sunlight crossing the branches of trees",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/sunlight-crossing-the-branches-of-trees-1709/",
+   "thumb": "https://assets.mixkit.co/videos/1709/1709-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/1709/1709-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/1709/1709-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/1709/1709-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Sunlight crossing the branches of trees · Mixkit · Mixkit Free License",
+   "q": "sunlight through leaves"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-trees-with-green-leaves-in-the-park-1669",
+   "kind": "video",
+   "title": "Trees with green leaves in the park",
+   "desc": "Low-angled shot of green trees with the blue sky in the background.\\n",
+   "tags": "",
+   "page": "https://coverr.co/videos/trees-with-green-leaves-in-the-park-wrruzur12h",
+   "thumb": "https://cdn.coverr.co/videos/coverr-trees-with-green-leaves-in-the-park-1669/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-trees-with-green-leaves-in-the-park-1669/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 21.730042,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-trees-with-green-leaves-in-the-park-1669/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Trees with green leaves in the park · Coverr · Coverr License",
+   "q": "green leaves bokeh"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-the-wind-moving-through-some-yellow-autumn-trees-2056",
+   "kind": "video",
+   "title": "The wind moving through some yellow autumn trees",
+   "desc": "Panning shot of some yellow autumn trees with the blue sky in the background on a sunny day.\\n",
+   "tags": "",
+   "page": "https://coverr.co/videos/the-wind-moving-through-some-yellow-autumn-trees-i5jmrsloiv",
+   "thumb": "https://cdn.coverr.co/videos/coverr-the-wind-moving-through-some-yellow-autumn-trees-2056/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-the-wind-moving-through-some-yellow-autumn-trees-2056/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 18.143125,
+   "year": 2021,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-the-wind-moving-through-some-yellow-autumn-trees-2056/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "The wind moving through some yellow autumn trees · Coverr · Coverr License",
+   "q": "sun rays through trees"
+  }
+ ]
+}

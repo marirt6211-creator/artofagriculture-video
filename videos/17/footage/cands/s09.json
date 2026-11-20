@@ -1,0 +1,566 @@
+{
+ "shot": "s09",
+ "text": "برای ترفندهای بیشتر، هنر کشاورزی رو دنبال کن.",
+ "need": "fresh green leafy plants, beautiful closing shot of greenhouse",
+ "queries": [
+  "greenhouse lettuce rows",
+  "green leaves greenhouse",
+  "hydroponic greenhouse"
+ ],
+ "kind": "video",
+ "items": [
+  {
+   "source": "coverr",
+   "id": "coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822",
+   "kind": "video",
+   "title": "A woman cleans soil from lettuce roots",
+   "desc": "A close-up shot of a woman cleaning soil off of the roots of a lettuce plant.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-cleans-soil-from-lettuce-roots-phbqnscvn6",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 20.937583,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman cleans soil from lettuce roots · Coverr · Coverr License",
+   "q": "greenhouse lettuce rows"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-dried-leaf-2618",
+   "kind": "video",
+   "title": "Dried leaf",
+   "desc": "Low-angle shot of a dried leaf amongst green leaves. ",
+   "tags": "",
+   "page": "https://coverr.co/videos/dried-leaf-urqodulopv",
+   "thumb": "https://cdn.coverr.co/videos/coverr-dried-leaf-2618/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-dried-leaf-2618/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 10.885875,
+   "year": 2021,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-dried-leaf-2618/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Dried leaf · Coverr · Coverr License",
+   "q": "green leaves greenhouse"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-beautiful-fountain-in-a-park-2721",
+   "kind": "video",
+   "title": "Beautiful fountain in a park",
+   "desc": "Green park with a fountain in London, UK.",
+   "tags": "",
+   "page": "https://coverr.co/videos/beautiful-fountain-in-a-park-gex4dm4xb0",
+   "thumb": "https://cdn.coverr.co/videos/coverr-beautiful-fountain-in-a-park-2721/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-beautiful-fountain-in-a-park-2721/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 9.5095,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-beautiful-fountain-in-a-park-2721/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Beautiful fountain in a park · Coverr · Coverr License",
+   "q": "hydroponic greenhouse"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0014-6567",
+   "kind": "video",
+   "title": "A man cutting the roots off lettuce",
+   "desc": "A close-up shot of a man cutting off the roots from a head of lettuce.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-man-cutting-the-roots-off-lettuce-cweur1ho0w",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0014-6567/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0014-6567/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 23.690333,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0014-6567/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A man cutting the roots off lettuce · Coverr · Coverr License",
+   "q": "greenhouse lettuce rows"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-trees-with-green-leaves-in-the-park-1669",
+   "kind": "video",
+   "title": "Trees with green leaves in the park",
+   "desc": "Low-angled shot of green trees with the blue sky in the background.\\n",
+   "tags": "",
+   "page": "https://coverr.co/videos/trees-with-green-leaves-in-the-park-wrruzur12h",
+   "thumb": "https://cdn.coverr.co/videos/coverr-trees-with-green-leaves-in-the-park-1669/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-trees-with-green-leaves-in-the-park-1669/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 21.730042,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-trees-with-green-leaves-in-the-park-1669/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Trees with green leaves in the park · Coverr · Coverr License",
+   "q": "green leaves greenhouse"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-fountain-in-a-green-park-4027",
+   "kind": "video",
+   "title": "A fountain in a green park",
+   "desc": "A green park with a fountain in London, UK.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-fountain-in-a-green-park-wldmnbszhm",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-fountain-in-a-green-park-4027/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-fountain-in-a-green-park-4027/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 14.389375,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-fountain-in-a-green-park-4027/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A fountain in a green park · Coverr · Coverr License",
+   "q": "hydroponic greenhouse"
+  },
+  {
+   "source": "nasa",
+   "id": "An Update on the Green Run Hot Fire Test for Artemis I on This Week @NASA – January 8, 2021",
+   "kind": "video",
+   "title": "An Update on the Green Run Hot Fire Test for Artemis I on This Week @NASA – January 8, 2021",
+   "desc": "An update on the Green Run hot fire test for Artemis I, a commercial cargo spacecraft leaves the space station, and innovative ideas for exploring unexplored areas of the Moon … a few of the stories to tell you about – This Week at NASA! Producer: Andre Valentine Editor: Sonnet Apple Music: Universal Production Music",
+   "page": "https://images.nasa.gov/details/An%20Update%20on%20the%20Green%20Run%20Hot%20Fire%20Test%20for%20Artemis%20I%20on%20This%20Week%20%40NASA%20%E2%80%93%20January%208%2C%202021",
+   "thumb": "https://images-assets.nasa.gov/video/An Update on the Green Run Hot Fire Test for Artemis I on This Week @NASA – January 8, 2021/An Update on the Green Run Hot Fire Test for Artemis I on This Week @NASA – January 8, 2021~medium.jpg",
+   "preview": "https://images-assets.nasa.gov/video/An Update on the Green Run Hot Fire Test for Artemis I on This Week @NASA – January 8, 2021/An Update on the Green Run Hot Fire Test for Artemis I on This Week @NASA – January 8, 2021~small.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 217,
+   "year": 2021,
+   "author": "HQ",
+   "licence": {
+    "code": "gov",
+    "name": "Public domain (NASA)",
+    "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://images-assets.nasa.gov/video/An Update on the Green Run Hot Fire Test for Artemis I on This Week @NASA – January 8, 2021/An Update on the Green Run Hot Fire Test for Artemis I on This Week @NASA – January 8, 2021~orig.mp4",
+     "label": "orig",
+     "w": 1920,
+     "h": 1080,
+     "dur": 217,
+     "size": 0
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/An Update on the Green Run Hot Fire Test for Artemis I on This Week @NASA – January 8, 2021/An Update on the Green Run Hot Fire Test for Artemis I on This Week @NASA – January 8, 2021~large.mp4",
+     "label": "large"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/An Update on the Green Run Hot Fire Test for Artemis I on This Week @NASA – January 8, 2021/An Update on the Green Run Hot Fire Test for Artemis I on This Week @NASA – January 8, 2021~medium.mp4",
+     "label": "medium"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/An Update on the Green Run Hot Fire Test for Artemis I on This Week @NASA – January 8, 2021/An Update on the Green Run Hot Fire Test for Artemis I on This Week @NASA – January 8, 2021~small.mp4",
+     "label": "small"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/An Update on the Green Run Hot Fire Test for Artemis I on This Week @NASA – January 8, 2021/An Update on the Green Run Hot Fire Test for Artemis I on This Week @NASA – January 8, 2021~mobile.mp4",
+     "label": "mobile"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/An Update on the Green Run Hot Fire Test for Artemis I on This Week @NASA – January 8, 2021/An Update on the Green Run Hot Fire Test for Artemis I on This Week @NASA – January 8, 2021~preview.mp4",
+     "label": "preview"
+    }
+   ],
+   "collection": "https://images-assets.nasa.gov/video/An Update on the Green Run Hot Fire Test for Artemis I on This Week @NASA – January 8, 2021/collection.json",
+   "notes": [
+    "NASA: no logo or endorsement; check third-party material"
+   ],
+   "flags": [],
+   "credit": "An Update on the Green Run Hot Fire Test for Artemis I on This Week @NASA – January 8, 2021 · HQ · NASA · Public domain (NASA)",
+   "q": "green leaves"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-croft-with-mature-vegetables-4297",
+   "kind": "video",
+   "title": "A croft with mature vegetables",
+   "desc": "A mini farm with a small wooden shed.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-croft-with-mature-vegetables-y6ksobu4m2",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 14.681333,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A croft with mature vegetables · Coverr · Coverr License",
+   "q": "hydroponic greenhouse"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-trunk-of-a-big-tree-5595",
+   "kind": "video",
+   "title": "A trunk of a big tree",
+   "desc": "Close-up, low-angle shot of a big tree in the forest.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-trunk-of-a-big-tree-tzbttiloib",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-trunk-of-a-big-tree-5595/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-trunk-of-a-big-tree-5595/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 10.218542,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-trunk-of-a-big-tree-5595/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A trunk of a big tree · Coverr · Coverr License",
+   "q": "greenhouse lettuce rows"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-banana-leaves-9278",
+   "kind": "video",
+   "title": "Banana leaves",
+   "desc": "Close-up shot of banana leaves. ",
+   "tags": "",
+   "page": "https://coverr.co/videos/banana-leaves-iomizqhayw",
+   "thumb": "https://cdn.coverr.co/videos/coverr-banana-leaves-9278/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-banana-leaves-9278/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 11.76175,
+   "year": 2021,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-banana-leaves-9278/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Banana leaves · Coverr · Coverr License",
+   "q": "green leaves greenhouse"
+  },
+  {
+   "source": "mixkit",
+   "id": "1895",
+   "kind": "video",
+   "title": "Flowers and green plants",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/flowers-and-green-plants-1895/",
+   "thumb": "https://assets.mixkit.co/videos/1895/1895-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/1895/1895-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/1895/1895-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/1895/1895-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Flowers and green plants · Mixkit · Mixkit Free License",
+   "q": "green leaves greenhouse"
+  },
+  {
+   "source": "commons",
+   "id": "File:The Westland (HD).webm",
+   "kind": "video",
+   "title": "The Westland (HD)",
+   "desc": "Please consider leaving a like and subscribing if you enjoyed the content. It helps tremendously, thank you! Content by: Polygoon-Profilti (producent) / Nederlands Instituut voor Beeld en Geluid (beheerder) Source: https://openbeelden.nl/media/956519/Het_Westland_HD.en This content is licensed under Creative Commons. Please visit: https://openbeelden.nl/media/956519/Het_Westland_HD.en to see licen",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Westland_(HD).webm",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/The_Westland_%28HD%29.webm/960px--The_Westland_%28HD%29.webm.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d1/The_Westland_%28HD%29.webm/The_Westland_%28HD%29.webm.240p.vp9.webm",
+   "w": 1920,
+   "h": 1080,
+   "dur": 641.989,
+   "year": 1935,
+   "author": "Creative Commons Media",
+   "licence": {
+    "code": "pd",
+    "name": "Public domain",
+    "url": "",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/The_Westland_%28HD%29.webm",
+     "w": 1920,
+     "h": 1080,
+     "size": 279402737,
+     "mime": "video/webm",
+     "label": "original"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d1/The_Westland_%28HD%29.webm/The_Westland_%28HD%29.webm.240p.vp9.webm",
+     "w": 426,
+     "h": 240,
+     "mime": "video/webm",
+     "label": "240p.vp9.webm"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d1/The_Westland_%28HD%29.webm/The_Westland_%28HD%29.webm.480p.vp9.webm",
+     "w": 854,
+     "h": 480,
+     "mime": "video/webm",
+     "label": "480p.vp9.webm"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d1/The_Westland_%28HD%29.webm/The_Westland_%28HD%29.webm.1080p.vp9.webm",
+     "w": 1920,
+     "h": 1080,
+     "mime": "video/webm",
+     "label": "1080p.vp9.webm"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "The Westland (HD) · Creative Commons Media · Wikimedia Commons · Public domain",
+   "q": "green leaves greenhouse"
+  },
+  {
+   "source": "mixkit",
+   "id": "43709",
+   "kind": "video",
+   "title": "Small flowering plants in a nursery",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/small-flowering-plants-in-a-nursery-43709/",
+   "thumb": "https://assets.mixkit.co/videos/43709/43709-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/43709/43709-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/43709/43709-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/43709/43709-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Small flowering plants in a nursery · Mixkit · Mixkit Free License",
+   "q": "green leaves greenhouse"
+  },
+  {
+   "source": "mixkit",
+   "id": "1896",
+   "kind": "video",
+   "title": "Pretty unopened flowers",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/pretty-unopened-flowers-1896/",
+   "thumb": "https://assets.mixkit.co/videos/1896/1896-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/1896/1896-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/1896/1896-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/1896/1896-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Pretty unopened flowers · Mixkit · Mixkit Free License",
+   "q": "green leaves greenhouse"
+  }
+ ]
+}

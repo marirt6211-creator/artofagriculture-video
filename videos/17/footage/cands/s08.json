@@ -1,0 +1,549 @@
+{
+ "shot": "s08",
+ "text": "کاهو، توت‌فرنگی، گوجه و سبزی‌ها، همه بدون خاک!",
+ "need": "harvested lettuce, strawberries, tomatoes in hydroponic greenhouse",
+ "queries": [
+  "hydroponic strawberries",
+  "hydroponic tomatoes greenhouse",
+  "fresh lettuce harvest"
+ ],
+ "kind": "video",
+ "items": [
+  {
+   "source": "coverr",
+   "id": "coverr-grabbing-a-berry-1305",
+   "kind": "video",
+   "title": "Grabbing a berry ",
+   "desc": "Close-up shot of someone grabbing a berry from a tree branch. ",
+   "tags": "",
+   "page": "https://coverr.co/videos/grabbing-a-berry-valbqlykzy",
+   "thumb": "https://cdn.coverr.co/videos/coverr-grabbing-a-berry-1305/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-grabbing-a-berry-1305/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 11.177833,
+   "year": 2021,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-grabbing-a-berry-1305/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Grabbing a berry  · Coverr · Coverr License",
+   "q": "hydroponic strawberries"
+  },
+  {
+   "source": "nasa",
+   "id": "jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4",
+   "kind": "video",
+   "title": "The Case of the Missing Space Tomatoes",
+   "desc": "Two rogue tomatoes have been recovered nearly a year after astronaut Frank Rubio accidentally lost track of them while harvesting for the XROOTS experiment, proving Rubio did not eat the tomatoes as they previously suspected. The rogue fruit was found in a plastic bag dehydrated and slightly squished with some discoloration but with no visible microbial or fungal growth. XROOTS uses hydroponic and",
+   "page": "https://images.nasa.gov/details/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4",
+   "thumb": "https://images-assets.nasa.gov/video/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4~medium.jpg",
+   "preview": "https://images-assets.nasa.gov/video/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4~small.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 128,
+   "year": 2023,
+   "author": "JSC",
+   "licence": {
+    "code": "gov",
+    "name": "Public domain (NASA)",
+    "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://images-assets.nasa.gov/video/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4~orig.mp4",
+     "label": "orig",
+     "w": 1920,
+     "h": 1080,
+     "dur": 128,
+     "size": 0
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4~orig.mp4",
+     "label": "orig"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4~large.mp4",
+     "label": "large"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4~medium.mp4",
+     "label": "medium"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4~small.mp4",
+     "label": "small"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4~mobile.mp4",
+     "label": "mobile"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4~preview.mp4",
+     "label": "preview"
+    }
+   ],
+   "collection": "https://images-assets.nasa.gov/video/jsc2023m000212_The_Case_of_the_Missing_Space_Tomatoes-MP4/collection.json",
+   "notes": [
+    "NASA: no logo or endorsement; check third-party material"
+   ],
+   "flags": [],
+   "credit": "The Case of the Missing Space Tomatoes · JSC · NASA · Public domain (NASA)",
+   "q": "hydroponic tomatoes"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-woman-picks-lettuce-on-a-farm-2718",
+   "kind": "video",
+   "title": "A woman picks lettuce on a farm",
+   "desc": "A medium shot of a woman harvesting lettuce.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-picks-lettuce-on-a-farm-uhy2z1rlrh",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-woman-picks-lettuce-on-a-farm-2718/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-woman-picks-lettuce-on-a-farm-2718/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 15.015,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-woman-picks-lettuce-on-a-farm-2718/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman picks lettuce on a farm · Coverr · Coverr License",
+   "q": "fresh lettuce harvest"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-guy-rolling-up-a-hosepipe-after-watering-shrubs-9470",
+   "kind": "video",
+   "title": "Guy rolling up a hosepipe after watering shrubs",
+   "desc": "Panning shot of a guy rolling up a hosepipe after watering shrubs.\\n",
+   "tags": "",
+   "page": "https://coverr.co/videos/guy-rolling-up-a-hosepipe-after-watering-shrubs-rwz9auaoqk",
+   "thumb": "https://cdn.coverr.co/videos/coverr-guy-rolling-up-a-hosepipe-after-watering-shrubs-9470/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-guy-rolling-up-a-hosepipe-after-watering-shrubs-9470/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 24.125,
+   "year": 2021,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-guy-rolling-up-a-hosepipe-after-watering-shrubs-9470/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Guy rolling up a hosepipe after watering shrubs · Coverr · Coverr License",
+   "q": "hydroponic strawberries"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-fresh-tomatoes-on-display",
+   "kind": "video",
+   "title": "Close-Up of Fresh Tomatoes Displayed in Abundance",
+   "desc": "A close-up shot of red tomatoes lying on a shelf at a local supermarket. This video captures the appeal of high-quality produce available to shoppers. Ideal for themes of healthy eating, grocery shopping, and fresh food.",
+   "tags": "",
+   "page": "https://coverr.co/videos/fresh-tomatoes-on-display",
+   "thumb": "https://cdn.coverr.co/videos/coverr-fresh-tomatoes-on-display/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-fresh-tomatoes-on-display/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 15.24,
+   "year": 2024,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-fresh-tomatoes-on-display/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Close-Up of Fresh Tomatoes Displayed in Abundance · Coverr · Coverr License",
+   "q": "hydroponic tomatoes greenhouse"
+  },
+  {
+   "source": "mixkit",
+   "id": "52465",
+   "kind": "video",
+   "title": "Slices of red fresh tomatoes fall in slow motion into a fresh lettuce salad in a wooden rustic bowl",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/slices-of-red-fresh-tomatoes-fall-in-slow-motion-into-52465/",
+   "thumb": "https://assets.mixkit.co/videos/52465/52465-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/52465/52465-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/52465/52465-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/52465/52465-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Slices of red fresh tomatoes fall in slow motion into a fresh lettuce salad in a wooden rustic bowl · Mixkit · Mixkit Free License",
+   "q": "fresh lettuce"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-watering-flowers-with-a-hosepipe-3213",
+   "kind": "video",
+   "title": "Watering flowers with a hosepipe",
+   "desc": "Close-up shot of a man watering a flowerbed using a hosepipe.\\n",
+   "tags": "",
+   "page": "https://coverr.co/videos/watering-flowers-with-a-hosepipe-atnjsm1n46",
+   "thumb": "https://cdn.coverr.co/videos/coverr-watering-flowers-with-a-hosepipe-3213/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-watering-flowers-with-a-hosepipe-3213/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 25.708333,
+   "year": 2021,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-watering-flowers-with-a-hosepipe-3213/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Watering flowers with a hosepipe · Coverr · Coverr License",
+   "q": "hydroponic strawberries"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-croft-with-mature-vegetables-4297",
+   "kind": "video",
+   "title": "A croft with mature vegetables",
+   "desc": "A mini farm with a small wooden shed.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-croft-with-mature-vegetables-y6ksobu4m2",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 14.681333,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A croft with mature vegetables · Coverr · Coverr License",
+   "q": "hydroponic tomatoes greenhouse"
+  },
+  {
+   "source": "mixkit",
+   "id": "52458",
+   "kind": "video",
+   "title": "A continuous stream of white salad dressing cascading into a fresh lettuce and tomato salad in slow motion",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/a-continuous-stream-of-white-salad-dressing-cascading-into-a-52458/",
+   "thumb": "https://assets.mixkit.co/videos/52458/52458-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/52458/52458-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/52458/52458-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/52458/52458-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A continuous stream of white salad dressing cascading into a fresh lettuce and tomato salad in slow motion · Mixkit · Mixkit Free License",
+   "q": "fresh lettuce"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-thujas-and-junipers-6715",
+   "kind": "video",
+   "title": "Thujas and junipers",
+   "desc": "Still shot of thujas and junipers.",
+   "tags": "",
+   "page": "https://coverr.co/videos/thujas-and-junipers-9dhb95qbhm",
+   "thumb": "https://cdn.coverr.co/videos/coverr-thujas-and-junipers-6715/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-thujas-and-junipers-6715/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 12.25,
+   "year": 2020,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-thujas-and-junipers-6715/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Thujas and junipers · Coverr · Coverr License",
+   "q": "hydroponic strawberries"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0040-8346",
+   "kind": "video",
+   "title": "Close-up of watering a vegetable garden",
+   "desc": "A close-up shot of a man watering his vegetable garden with a garden hose.",
+   "tags": "",
+   "page": "https://coverr.co/videos/close-up-of-watering-a-vegetable-garden-puysekco1h",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0040-8346/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0040-8346/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 13.138125,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0040-8346/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Close-up of watering a vegetable garden · Coverr · Coverr License",
+   "q": "hydroponic tomatoes greenhouse"
+  },
+  {
+   "source": "mixkit",
+   "id": "52473",
+   "kind": "video",
+   "title": "A stream of olive oil falling in slow motion over a fresh salad with lettuce, tomatoes and crunchy croutons",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/a-stream-of-olive-oil-falling-in-slow-motion-over-52473/",
+   "thumb": "https://assets.mixkit.co/videos/52473/52473-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/52473/52473-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/52473/52473-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/52473/52473-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A stream of olive oil falling in slow motion over a fresh salad with lettuce, tomatoes and crunchy croutons · Mixkit · Mixkit Free License",
+   "q": "fresh lettuce"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0039-5710",
+   "kind": "video",
+   "title": "A man watering a vegetable garden",
+   "desc": "A man watering his vegetable garden with a garden hose.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-man-watering-a-vegetable-garden-kvgan9ipx7",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0039-5710/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0039-5710/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 9.801458,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0039-5710/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A man watering a vegetable garden · Coverr · Coverr License",
+   "q": "hydroponic tomatoes greenhouse"
+  },
+  {
+   "source": "mixkit",
+   "id": "52461",
+   "kind": "video",
+   "title": "Small bits of walnuts falling in slow motion over a fresh green salad in slow motion",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/small-bits-of-walnuts-falling-in-slow-motion-over-a-52461/",
+   "thumb": "https://assets.mixkit.co/videos/52461/52461-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/52461/52461-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/52461/52461-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/52461/52461-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Small bits of walnuts falling in slow motion over a fresh green salad in slow motion · Mixkit · Mixkit Free License",
+   "q": "fresh lettuce"
+  }
+ ]
+}

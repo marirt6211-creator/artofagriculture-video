@@ -1,0 +1,8 @@
+{"positive_global_styles":["inspirational cinematic","nature documentary score","warm felt piano","soft orchestral strings","airy ambient pads","hopeful","sense of wonder","instrumental","90 bpm"],
+ "negative_global_styles":["vocals","dark","dramatic","aggressive drums","edm","dubstep","childish","toy instruments","ukulele","whistling"],
+ "sections":[
+ {"section_name":"Seed","positive_local_styles":["delicate solo piano","soft ambient pad","gentle wonder","sparse"],"negative_local_styles":["drums"],"duration_ms":9700,"lines":[]},
+ {"section_name":"Discovery","positive_local_styles":["piano arpeggios","warm cello and violas enter","light pulse","optimistic"],"negative_local_styles":["loud"],"duration_ms":15300,"lines":[]},
+ {"section_name":"Build","positive_local_styles":["strings swell gradually","soft cinematic percussion","rising energy","uplifting"],"negative_local_styles":["heavy drums"],"duration_ms":14600,"lines":[]},
+ {"section_name":"Brand","positive_local_styles":["full warm orchestra","gentle triumphant swell","shimmering bells"],"negative_local_styles":["aggressive"],"duration_ms":5400,"lines":[]},
+ {"section_name":"Resolve","positive_local_styles":["soft resolution","piano and strings","fade out","warm ending"],"negative_local_styles":["drums"],"duration_ms":6000,"lines":[]}]}

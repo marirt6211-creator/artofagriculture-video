@@ -1,0 +1,761 @@
+{
+ "shot": "s10",
+ "text": "sustainable farming,",
+ "need": "drip irrigation watering crops, water drops",
+ "queries": [
+  "drip irrigation",
+  "irrigation sprinkler field",
+  "watering crops"
+ ],
+ "kind": "video",
+ "items": [
+  {
+   "source": "pixabay",
+   "id": "17013",
+   "kind": "video",
+   "title": "rain, water, wet, drops, drip, raindrop, raindrops, droplets, puddle, reflections, live wallpaper",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-17013/",
+   "thumb": "https://cdn.pixabay.com/video/2018/07/02/17013-278400948_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2018/07/02/17013-278400948_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 37,
+   "year": null,
+   "author": "jeanvdmeulen",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2018/07/02/17013-278400948_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 23252169
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2018/07/02/17013-278400948_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 11628708
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2018/07/02/17013-278400948_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 6969085
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "rain, water, wet, drops, drip, raindrop, raindrops, droplets, puddle, reflections, live wallpaper · jeanvdmeulen · Pixabay · Pixabay Content License",
+   "q": "drip irrigation"
+  },
+  {
+   "source": "pixabay",
+   "id": "44765",
+   "kind": "video",
+   "title": "watering, sprinkler, garden, green, agriculture, bio garden, irrigated, bio, irrigation, plant, water, food, grow, summer, growth, organic, farm, gardening, fresh, healthy, cultures, farmer, sun",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-44765/",
+   "thumb": "https://cdn.pixabay.com/video/2020/07/15/44765-440000959_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2020/07/15/44765-440000959_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 23,
+   "year": null,
+   "author": "FreeCreativeStuff",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2020/07/15/44765-440000959_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 16135710
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/07/15/44765-440000959_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 8118247
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/07/15/44765-440000959_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 4568503
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "watering, sprinkler, garden, green, agriculture, bio garden, irrigated, bio, irrigation, plant, water, food, grow, summer, growth, organic, farm, gardening, fresh, healthy, cultures, farmer, sun · FreeCreativeStuff · Pixabay · Pixabay Content License",
+   "q": "irrigation sprinkler field"
+  },
+  {
+   "source": "mixkit",
+   "id": "24128",
+   "kind": "video",
+   "title": "Watering large crop fields",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/watering-large-crop-fields-24128/",
+   "thumb": "https://assets.mixkit.co/videos/24128/24128-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/24128/24128-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/24128/24128-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/24128/24128-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Watering large crop fields · Mixkit · Mixkit Free License",
+   "q": "watering crops"
+  },
+  {
+   "source": "pixabay",
+   "id": "48233",
+   "kind": "video",
+   "title": "flower, water, watering can, to water, irrigation, slow motion, plant, blossom, bloom, outdoors",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-48233/",
+   "thumb": "https://cdn.pixabay.com/video/2020/08/26/48233-453668099_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2020/08/26/48233-453668099_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 21,
+   "year": null,
+   "author": "NickyPe",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2020/08/26/48233-453668099_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 15441385
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/08/26/48233-453668099_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 8071128
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/08/26/48233-453668099_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 4928996
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "flower, water, watering can, to water, irrigation, slow motion, plant, blossom, bloom, outdoors · NickyPe · Pixabay · Pixabay Content License",
+   "q": "drip irrigation"
+  },
+  {
+   "source": "pixabay",
+   "id": "44758",
+   "kind": "video",
+   "title": "garden, green, sprinkler, agriculture, bio garden, irrigated, bio, irrigation, plant, water, food, eat, agricultural, grow, summer, growth, organic, farm, gardening, fresh, healthy, cultures",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-44758/",
+   "thumb": "https://cdn.pixabay.com/video/2020/07/15/44758-440001019_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2020/07/15/44758-440001019_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 17,
+   "year": null,
+   "author": "FreeCreativeStuff",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2020/07/15/44758-440001019_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 11503661
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/07/15/44758-440001019_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 5738426
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/07/15/44758-440001019_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 3259903
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "garden, green, sprinkler, agriculture, bio garden, irrigated, bio, irrigation, plant, water, food, eat, agricultural, grow, summer, growth, organic, farm, gardening, fresh, healthy, cultures · FreeCreativeStuff · Pixabay · Pixabay Content License",
+   "q": "irrigation sprinkler field"
+  },
+  {
+   "source": "pixabay",
+   "id": "27197",
+   "kind": "video",
+   "title": "clouds, drone, aerial, landscape, photo, sunrise, sunset, nature, summer, field, farm, water, morning, evening, golden, crops, car, road, storm, stormy, calm, cloudy, mountains, hills",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-27197/",
+   "thumb": "https://cdn.pixabay.com/video/2019/09/24/27197-362173819_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2019/09/24/27197-362173819_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 6,
+   "year": null,
+   "author": "NewLayer",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2019/09/24/27197-362173819_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 3693294
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/09/24/27197-362173819_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 1842587
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/09/24/27197-362173819_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 1054841
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "clouds, drone, aerial, landscape, photo, sunrise, sunset, nature, summer, field, farm, water, morning, evening, golden, crops, car, road, storm, stormy, calm, cloudy, mountains, hills · NewLayer · Pixabay · Pixabay Content License",
+   "q": "watering crops"
+  },
+  {
+   "source": "pixabay",
+   "id": "82188",
+   "kind": "video",
+   "title": "flower, to water, watering can, irrigation, wet, water, gardening, slow motion",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-82188/",
+   "thumb": "https://cdn.pixabay.com/video/2021/07/20/82188-577893748_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2021/07/20/82188-577893748_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 17,
+   "year": null,
+   "author": "NickyPe",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2021/07/20/82188-577893748_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 12394479
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/07/20/82188-577893748_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 6430022
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/07/20/82188-577893748_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 3665789
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "flower, to water, watering can, irrigation, wet, water, gardening, slow motion · NickyPe · Pixabay · Pixabay Content License",
+   "q": "drip irrigation"
+  },
+  {
+   "source": "pixabay",
+   "id": "44777",
+   "kind": "video",
+   "title": "garden, green, sprinkler, agriculture, bio garden, irrigated, bio, irrigation, plant, water, food, eat, agricultural, grow, summer, growth, organic, farm, gardening, fresh, healthy, cultures, nature, farmer, sun",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-44777/",
+   "thumb": "https://cdn.pixabay.com/video/2020/07/15/44777-440000828_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2020/07/15/44777-440000828_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 28,
+   "year": null,
+   "author": "FreeCreativeStuff",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2020/07/15/44777-440000828_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 19453734
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/07/15/44777-440000828_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 9722593
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/07/15/44777-440000828_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 5180077
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "garden, green, sprinkler, agriculture, bio garden, irrigated, bio, irrigation, plant, water, food, eat, agricultural, grow, summer, growth, organic, farm, gardening, fresh, healthy, cultures, nature, farmer, sun · FreeCreativeStuff · Pixabay · Pixabay Content License",
+   "q": "irrigation sprinkler field"
+  },
+  {
+   "source": "pixabay",
+   "id": "286770",
+   "kind": "video",
+   "title": "high land lagoon, linear, interior, pond, nature, field, agro, plantations, panorama, cycling, environment, family farming, roça, crop, green, water, sky, horizon, cycle tourism",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-286770/",
+   "thumb": "https://cdn.pixabay.com/video/2025/06/19/286770_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2025/06/19/286770_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 12,
+   "year": null,
+   "author": "AVISOtaON",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2025/06/19/286770_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 65856755
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/06/19/286770_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 24814078
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/06/19/286770_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 16575328
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "high land lagoon, linear, interior, pond, nature, field, agro, plantations, panorama, cycling, environment, family farming, roça, crop, green, water, sky, horizon, cycle tourism · AVISOtaON · Pixabay · Pixabay Content License",
+   "q": "watering crops"
+  },
+  {
+   "source": "pixabay",
+   "id": "29986",
+   "kind": "video",
+   "title": "red flowers, rain, drops, flower, yard, drip, petal, flowers, wet, flora",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-29986/",
+   "thumb": "https://cdn.pixabay.com/video/2019/12/08/29986-378308961_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2019/12/08/29986-378308961_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 55,
+   "year": null,
+   "author": "ElenLackner",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2019/12/08/29986-378308961_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 26992725
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/12/08/29986-378308961_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 12541699
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/12/08/29986-378308961_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 8812396
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "red flowers, rain, drops, flower, yard, drip, petal, flowers, wet, flora · ElenLackner · Pixabay · Pixabay Content License",
+   "q": "drip irrigation"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-pouring-water-4814",
+   "kind": "video",
+   "title": "Pouring water",
+   "desc": "Extreme close-up shot of water pouring into a transparent glass mug.",
+   "tags": "",
+   "page": "https://coverr.co/videos/pouring-water-5gy4mixr3x",
+   "thumb": "https://cdn.coverr.co/videos/coverr-pouring-water-4814/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-pouring-water-4814/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 42.416667,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-pouring-water-4814/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Pouring water · Coverr · Coverr License",
+   "q": "drip irrigation"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-irrigation-equipment-on-the-farming-field-622",
+   "kind": "video",
+   "title": "Irrigation equipment on the farming field",
+   "desc": "Aerial shot of the irrigation equipment on the farming field. ",
+   "tags": "",
+   "page": "https://coverr.co/videos/irrigation-equipment-on-the-farming-field-4knxgyrc7h",
+   "thumb": "https://cdn.coverr.co/videos/coverr-irrigation-equipment-on-the-farming-field-622/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-irrigation-equipment-on-the-farming-field-622/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 14.889875,
+   "year": 2020,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-irrigation-equipment-on-the-farming-field-622/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Irrigation equipment on the farming field · Coverr · Coverr License",
+   "q": "irrigation sprinkler field"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0040-8346",
+   "kind": "video",
+   "title": "Close-up of watering a vegetable garden",
+   "desc": "A close-up shot of a man watering his vegetable garden with a garden hose.",
+   "tags": "",
+   "page": "https://coverr.co/videos/close-up-of-watering-a-vegetable-garden-puysekco1h",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0040-8346/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0040-8346/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 13.138125,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0040-8346/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Close-up of watering a vegetable garden · Coverr · Coverr License",
+   "q": "drip irrigation"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-farming-field-50",
+   "kind": "video",
+   "title": "Farming field",
+   "desc": "Aerial shot of a farming field. ",
+   "tags": "",
+   "page": "https://coverr.co/videos/farming-field-y7ilwkx1lk",
+   "thumb": "https://cdn.coverr.co/videos/coverr-farming-field-50/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-farming-field-50/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 12.846167,
+   "year": 2020,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-farming-field-50/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Farming field · Coverr · Coverr License",
+   "q": "irrigation sprinkler field"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0039-5710",
+   "kind": "video",
+   "title": "A man watering a vegetable garden",
+   "desc": "A man watering his vegetable garden with a garden hose.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-man-watering-a-vegetable-garden-kvgan9ipx7",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0039-5710/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0039-5710/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 9.801458,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0039-5710/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A man watering a vegetable garden · Coverr · Coverr License",
+   "q": "drip irrigation"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-guy-rolling-up-a-hosepipe-after-watering-shrubs-9470",
+   "kind": "video",
+   "title": "Guy rolling up a hosepipe after watering shrubs",
+   "desc": "Panning shot of a guy rolling up a hosepipe after watering shrubs.\\n",
+   "tags": "",
+   "page": "https://coverr.co/videos/guy-rolling-up-a-hosepipe-after-watering-shrubs-rwz9auaoqk",
+   "thumb": "https://cdn.coverr.co/videos/coverr-guy-rolling-up-a-hosepipe-after-watering-shrubs-9470/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-guy-rolling-up-a-hosepipe-after-watering-shrubs-9470/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 24.125,
+   "year": 2021,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-guy-rolling-up-a-hosepipe-after-watering-shrubs-9470/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Guy rolling up a hosepipe after watering shrubs · Coverr · Coverr License",
+   "q": "irrigation sprinkler"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-tree-reflection-in-the-water-8825",
+   "kind": "video",
+   "title": "Tree reflection in the water",
+   "desc": "Close-up shot of a tree reflection in the water.",
+   "tags": "",
+   "page": "https://coverr.co/videos/tree-reflection-in-the-water-lx8ktsynej",
+   "thumb": "https://cdn.coverr.co/videos/coverr-tree-reflection-in-the-water-8825/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-tree-reflection-in-the-water-8825/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 32.198833,
+   "year": 2021,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-tree-reflection-in-the-water-8825/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Tree reflection in the water · Coverr · Coverr License",
+   "q": "drip irrigation"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-watering-flowers-with-a-hose-4036",
+   "kind": "video",
+   "title": "Watering flowers with a hose",
+   "desc": "Medium shot of a man in a garden watering a flowerbed with a hose.\\n",
+   "tags": "",
+   "page": "https://coverr.co/videos/watering-flowers-with-a-hose-ysarui4fpj",
+   "thumb": "https://cdn.coverr.co/videos/coverr-watering-flowers-with-a-hose-4036/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-watering-flowers-with-a-hose-4036/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 15.208333,
+   "year": 2021,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-watering-flowers-with-a-hose-4036/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Watering flowers with a hose · Coverr · Coverr License",
+   "q": "irrigation sprinkler"
+  }
+ ]
+}

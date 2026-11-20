@@ -1,0 +1,367 @@
+{
+ "clips": {
+  "s07a": {
+   "file": "v17/footage/s07a.jpg",
+   "kind": "image",
+   "w": 2258,
+   "h": 2826,
+   "focus": [
+    0.573,
+    0.481
+   ],
+   "source": "nasa",
+   "id": "KSC-388c2096-08",
+   "title": "KSC-388c2096-08",
+   "page": "https://images.nasa.gov/details/KSC-388c2096-08",
+   "author": "KSC",
+   "year": 2000,
+   "licence": {
+    "code": "gov",
+    "name": "Public domain (NASA)",
+    "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "KSC-388c2096-08 · KSC · NASA · Public domain (NASA)",
+   "shot": "s07"
+  },
+  "s07b": {
+   "file": "v17/footage/s07b.jpg",
+   "kind": "image",
+   "w": 3024,
+   "h": 2420,
+   "focus": [
+    0.638,
+    0.418
+   ],
+   "source": "nasa",
+   "id": "jsc2026e409150",
+   "title": "CHAPEA Mission 2 Flight Engineer Tends to Crops Inside the Habitat",
+   "page": "https://images.nasa.gov/details/jsc2026e409150",
+   "author": "JSC",
+   "year": 2026,
+   "licence": {
+    "code": "gov",
+    "name": "Public domain (NASA)",
+    "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "CHAPEA Mission 2 Flight Engineer Tends to Crops Inside the Habitat · JSC · NASA · Public domain (NASA)",
+   "shot": "s07"
+  },
+  "s05a": {
+   "file": "v17/footage/s05a.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 6,
+   "fps": 24,
+   "in": 1,
+   "out": 7,
+   "audio": false,
+   "focus": [
+    0.49,
+    0.5
+   ],
+   "source": "mixkit",
+   "id": "52005",
+   "title": "A close up shot of blue water bubbles reaching the surface over a white background",
+   "page": "https://mixkit.co/free-stock-video/a-close-up-shot-of-blue-water-bubbles-reaching-the-52005/",
+   "author": "",
+   "year": null,
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "A close up shot of blue water bubbles reaching the surface over a white background · Mixkit · Mixkit Free License",
+   "shot": "s05"
+  },
+  "s02a": {
+   "file": "v17/footage/s02a.jpg",
+   "kind": "image",
+   "w": 1920,
+   "h": 1280,
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "source": "commons",
+   "id": "File:20210302-PJK-FPAC-0204 TONED.jpg",
+   "title": "20210302-PJK-FPAC-0204 TONED",
+   "page": "https://commons.wikimedia.org/wiki/File:20210302-PJK-FPAC-0204_TONED.jpg",
+   "author": "USDAgov",
+   "year": 2021,
+   "licence": {
+    "code": "pd",
+    "name": "Public domain",
+    "url": "",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "20210302-PJK-FPAC-0204 TONED · USDAgov · Wikimedia Commons · Public domain",
+   "shot": "s02"
+  },
+  "s08b": {
+   "file": "v17/footage/s08b.jpg",
+   "kind": "image",
+   "w": 1920,
+   "h": 1440,
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "source": "commons",
+   "id": "File:Hydroponic lettuce leaves dark red.jpg",
+   "title": "Hydroponic lettuce leaves dark red",
+   "page": "https://commons.wikimedia.org/wiki/File:Hydroponic_lettuce_leaves_dark_red.jpg",
+   "author": "Leon Brooks",
+   "year": 2013,
+   "licence": {
+    "code": "pd",
+    "name": "Public domain",
+    "url": "",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Hydroponic lettuce leaves dark red · Leon Brooks · Wikimedia Commons · Public domain",
+   "shot": "s08"
+  },
+  "s09a": {
+   "file": "v17/footage/s09a.jpg",
+   "kind": "image",
+   "w": 3840,
+   "h": 2880,
+   "focus": [
+    0.502,
+    0.397
+   ],
+   "source": "nasa",
+   "id": "jsc2026e403177",
+   "title": "Vegetables Grown Inside the CHAPEA Mission 2 Habitat",
+   "page": "https://images.nasa.gov/details/jsc2026e403177",
+   "author": "JSC",
+   "year": 2026,
+   "licence": {
+    "code": "gov",
+    "name": "Public domain (NASA)",
+    "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Vegetables Grown Inside the CHAPEA Mission 2 Habitat · JSC · NASA · Public domain (NASA)",
+   "shot": "s09"
+  },
+  "s01a": {
+   "file": "v17/footage/s01a.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 6.006,
+   "fps": 29.97,
+   "in": 0,
+   "out": 6,
+   "audio": false,
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "150619",
+   "title": "hydroponics, plant, vegetables, food, healthy, fresh",
+   "page": "https://pixabay.com/videos/id-150619/",
+   "author": "u_8xj285xcyf",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "hydroponics, plant, vegetables, food, healthy, fresh · u_8xj285xcyf · Pixabay · Pixabay Content License",
+   "shot": "s01"
+  },
+  "s03a": {
+   "file": "v17/footage/s03a.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 33.033,
+   "fps": 29.97,
+   "in": 6,
+   "out": 39,
+   "audio": false,
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "147196",
+   "title": "seedlings, germination, sprout, mung beans, mung bean sprouts, sowing",
+   "page": "https://pixabay.com/videos/id-147196/",
+   "author": "adege",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "seedlings, germination, sprout, mung beans, mung bean sprouts, sowing · adege · Pixabay · Pixabay Content License",
+   "shot": "s03"
+  },
+  "s04a": {
+   "file": "v17/footage/s04a.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 6.006,
+   "fps": 29.97,
+   "in": 12,
+   "out": 18,
+   "audio": false,
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "150619",
+   "title": "hydroponics, plant, vegetables, food, healthy, fresh",
+   "page": "https://pixabay.com/videos/id-150619/",
+   "author": "u_8xj285xcyf",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "hydroponics, plant, vegetables, food, healthy, fresh · u_8xj285xcyf · Pixabay · Pixabay Content License",
+   "shot": "s04"
+  },
+  "s06a": {
+   "file": "v17/footage/s06a.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 52,
+   "fps": 25,
+   "in": 4,
+   "out": 56,
+   "audio": false,
+   "focus": [
+    0.406,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "265050",
+   "title": "seeds, growth, plant growth, germinate, seedlings, nature, plants, sprouts, sunflower sprouts, side salad, healthy",
+   "page": "https://pixabay.com/videos/id-265050/",
+   "author": "adege",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "seeds, growth, plant growth, germinate, seedlings, nature, plants, sprouts, sunflower sprouts, side salad, healthy · adege · Pixabay · Pixabay Content License",
+   "shot": "s06"
+  },
+  "s08a": {
+   "file": "v17/footage/s08a.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 6,
+   "fps": 25,
+   "in": 0,
+   "out": 6,
+   "audio": false,
+   "focus": [
+    0.302,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "81232",
+   "title": "tomato, mature, greenhouse, agriculture, cultivation, fresh, meal, food",
+   "page": "https://pixabay.com/videos/id-81232/",
+   "author": "My_movie",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "tomato, mature, greenhouse, agriculture, cultivation, fresh, meal, food · My_movie · Pixabay · Pixabay Content License",
+   "shot": "s08"
+  }
+ },
+ "shots": {
+  "s01": {
+   "t0": 0.2,
+   "t1": 4.245,
+   "text": "گیاه بدون خاک؟ آره، با کشت هیدروپونیک!"
+  },
+  "s02": {
+   "t0": 4.595,
+   "t1": 9.851,
+   "text": "اینجا ریشه‌ها به‌جای خاک، توی آبِ پر از مواد مغذی رشد می‌کنن."
+  },
+  "s03": {
+   "t0": 10.201,
+   "t1": 14.217,
+   "text": "اول بذرها توی پشم‌سنگ یا کوکوپیت جوونه می‌زنن."
+  },
+  "s04": {
+   "t0": 14.567,
+   "t1": 19.806,
+   "text": "بعد نشاها رو توی گلدون‌های توری، روی لوله‌ها یا سینی‌های آب می‌ذارن."
+  },
+  "s05": {
+   "t0": 20.156,
+   "t1": 24.677,
+   "text": "یه پمپ کوچیک، محلول غذایی رو مدام دور ریشه‌ها می‌چرخونه."
+  },
+  "s06": {
+   "t0": 25.027,
+   "t1": 31.215,
+   "text": "ریشه‌ها غذا و اکسیژن رو مستقیم می‌گیرن، برای همین گیاه سریع‌تر رشد می‌کنه."
+  },
+  "s07": {
+   "t0": 31.565,
+   "t1": 39.805,
+   "text": "تا نود درصد آب کمتری مصرف می‌شه، و می‌شه طبقه‌طبقه، حتی وسط شهر کشت کرد."
+  },
+  "s08": {
+   "t0": 40.155,
+   "t1": 45.245,
+   "text": "کاهو، توت‌فرنگی، گوجه و سبزی‌ها، همه بدون خاک!"
+  },
+  "s09": {
+   "t0": 45.595,
+   "t1": 49.435,
+   "text": "برای ترفندهای بیشتر، هنر کشاورزی رو دنبال کن."
+  }
+ }
+}

@@ -1,0 +1,450 @@
+{
+ "shot": "s05",
+ "text": "یه پمپ کوچیک، محلول غذایی رو مدام دور ریشه‌ها می‌چرخونه.",
+ "need": "water flowing / circulating through hydroponic channels, pump",
+ "queries": [
+  "hydroponic water flow",
+  "nutrient film technique",
+  "water pump bubbles"
+ ],
+ "kind": "video",
+ "items": [
+  {
+   "source": "commons",
+   "id": "File:Urban hydroponic farms offer sustainable water solutions.webm",
+   "kind": "video",
+   "title": "Urban hydroponic farms offer sustainable water solutions",
+   "desc": "News21 fellows Nicole Tyau and Jackie Wang visited a hydroponic farm in Berkeley, Calif., to see how this sustainable farming practice preserves and conserves water quality.",
+   "page": "https://commons.wikimedia.org/wiki/File:Urban_hydroponic_farms_offer_sustainable_water_solutions.webm",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Urban_hydroponic_farms_offer_sustainable_water_solutions.webm/960px--Urban_hydroponic_farms_offer_sustainable_water_solutions.webm.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/70/Urban_hydroponic_farms_offer_sustainable_water_solutions.webm/Urban_hydroponic_farms_offer_sustainable_water_solutions.webm.240p.vp9.webm",
+   "w": 1920,
+   "h": 1080,
+   "dur": 58.546,
+   "year": 2017,
+   "author": "News21",
+   "licence": {
+    "code": "by",
+    "name": "CC BY 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0",
+    "verdict": "credit",
+    "attr": true,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Urban_hydroponic_farms_offer_sustainable_water_solutions.webm",
+     "w": 1920,
+     "h": 1080,
+     "size": 19748510,
+     "mime": "video/webm",
+     "label": "original"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/70/Urban_hydroponic_farms_offer_sustainable_water_solutions.webm/Urban_hydroponic_farms_offer_sustainable_water_solutions.webm.240p.vp9.webm",
+     "w": 426,
+     "h": 240,
+     "mime": "video/webm",
+     "label": "240p.vp9.webm"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/70/Urban_hydroponic_farms_offer_sustainable_water_solutions.webm/Urban_hydroponic_farms_offer_sustainable_water_solutions.webm.360p.mpeg4.mov",
+     "w": 640,
+     "h": 360,
+     "mime": "video/quicktime",
+     "label": "360p.mpeg4.mov"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/70/Urban_hydroponic_farms_offer_sustainable_water_solutions.webm/Urban_hydroponic_farms_offer_sustainable_water_solutions.webm.480p.vp9.webm",
+     "w": 854,
+     "h": 480,
+     "mime": "video/webm",
+     "label": "480p.vp9.webm"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/70/Urban_hydroponic_farms_offer_sustainable_water_solutions.webm/Urban_hydroponic_farms_offer_sustainable_water_solutions.webm.1080p.vp9.webm",
+     "w": 1920,
+     "h": 1080,
+     "mime": "video/webm",
+     "label": "1080p.vp9.webm"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Urban hydroponic farms offer sustainable water solutions · News21 · Wikimedia Commons · CC BY 3.0",
+   "q": "hydroponic water"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-walnuts-thrown-in-slow-motion-9855",
+   "kind": "video",
+   "title": "Walnuts thrown in slow motion",
+   "desc": "Extreme close-up of walnuts being thrown in slow motion.",
+   "tags": "",
+   "page": "https://coverr.co/videos/walnuts-thrown-in-slow-motion-e2sqj9qcmw",
+   "thumb": "https://cdn.coverr.co/videos/coverr-walnuts-thrown-in-slow-motion-9855/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-walnuts-thrown-in-slow-motion-9855/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 6.083333,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-walnuts-thrown-in-slow-motion-9855/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Walnuts thrown in slow motion · Coverr · Coverr License",
+   "q": "nutrient film technique"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-rehydrating-after-a-workout",
+   "kind": "video",
+   "title": "Young Woman Rehydrating After Her Workout Routine",
+   "desc": "A woman has just finished her fitness practice. She takes a moment to quench her thirst by drinking water from her water bottle. She then smiles with a satisfied look on her face.",
+   "tags": "",
+   "page": "https://coverr.co/videos/rehydrating-after-a-workout",
+   "thumb": "https://cdn.coverr.co/videos/coverr-rehydrating-after-a-workout/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-rehydrating-after-a-workout/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 19.56,
+   "year": 2024,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-rehydrating-after-a-workout/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Young Woman Rehydrating After Her Workout Routine · Coverr · Coverr License",
+   "q": "water pump bubbles"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-transparent-cup-with-a-hot-beverage-5270",
+   "kind": "video",
+   "title": "A transparent cup with a hot beverage",
+   "desc": "Panning shot of  water condensated on a transparent cup containing a hot beverage.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-transparent-cup-with-a-hot-beverage-nll4nxjtqo",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-transparent-cup-with-a-hot-beverage-5270/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-transparent-cup-with-a-hot-beverage-5270/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 17.541667,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-transparent-cup-with-a-hot-beverage-5270/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A transparent cup with a hot beverage · Coverr · Coverr License",
+   "q": "hydroponic water flow"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-croft-with-mature-vegetables-4297",
+   "kind": "video",
+   "title": "A croft with mature vegetables",
+   "desc": "A mini farm with a small wooden shed.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-croft-with-mature-vegetables-y6ksobu4m2",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 14.681333,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A croft with mature vegetables · Coverr · Coverr License",
+   "q": "nutrient film technique"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-hydration-break-during-outdoor-training",
+   "kind": "video",
+   "title": "Young Woman Drinks from a Water Bottle and Smiles",
+   "desc": "During a workout session at the park, an athletic woman wearing a blue tracksuit top opens her water bottle and drinks, then smiles with a satisfied expression on her face. ",
+   "tags": "",
+   "page": "https://coverr.co/videos/hydration-break-during-outdoor-training",
+   "thumb": "https://cdn.coverr.co/videos/coverr-hydration-break-during-outdoor-training/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-hydration-break-during-outdoor-training/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 22.56,
+   "year": 2024,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-hydration-break-during-outdoor-training/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Young Woman Drinks from a Water Bottle and Smiles · Coverr · Coverr License",
+   "q": "water pump bubbles"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-pouring-water-into-a-glass-749",
+   "kind": "video",
+   "title": "Pouring water into a glass",
+   "desc": "Macro shooting of pouring water into a transparent glass.",
+   "tags": "",
+   "page": "https://coverr.co/videos/pouring-water-into-a-glass-eshlhqggo8",
+   "thumb": "https://cdn.coverr.co/videos/coverr-pouring-water-into-a-glass-749/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-pouring-water-into-a-glass-749/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 17.125,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-pouring-water-into-a-glass-749/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Pouring water into a glass · Coverr · Coverr License",
+   "q": "hydroponic water flow"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-ocimum-basilicum-threw-in-slow-motion-8791",
+   "kind": "video",
+   "title": "Basil thrown in slow motion",
+   "desc": "Extreme close-up of basil being thrown in slow motion.",
+   "tags": "",
+   "page": "https://coverr.co/videos/basil-thrown-in-slow-motion-kebsn2vqvp",
+   "thumb": "https://cdn.coverr.co/videos/coverr-ocimum-basilicum-threw-in-slow-motion-8791/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-ocimum-basilicum-threw-in-slow-motion-8791/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 7.583333,
+   "year": 2023,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-ocimum-basilicum-threw-in-slow-motion-8791/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Basil thrown in slow motion · Coverr · Coverr License",
+   "q": "nutrient film technique"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-pouring-water-4814",
+   "kind": "video",
+   "title": "Pouring water",
+   "desc": "Extreme close-up shot of water pouring into a transparent glass mug.",
+   "tags": "",
+   "page": "https://coverr.co/videos/pouring-water-5gy4mixr3x",
+   "thumb": "https://cdn.coverr.co/videos/coverr-pouring-water-4814/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-pouring-water-4814/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 42.416667,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-pouring-water-4814/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Pouring water · Coverr · Coverr License",
+   "q": "hydroponic water flow"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-striped-colored-black-box-slowly-falls-and-popcorn-falls-out-3024",
+   "kind": "video",
+   "title": "A striped colored black box slowly falls, and popcorn falls out",
+   "desc": "Close-up shot of a popcorn box falling on a wooden table with popcorn falling out.\\nJunk food for movies, cinema, and entertainment.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-striped-colored-black-box-slowly-falls-and-popcorn-falls-out-qw9sth36qx",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-striped-colored-black-box-slowly-falls-and-popcorn-falls-out-3024/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-striped-colored-black-box-slowly-falls-and-popcorn-falls-out-3024/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 10.458333,
+   "year": 2023,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-striped-colored-black-box-slowly-falls-and-popcorn-falls-out-3024/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A striped colored black box slowly falls, and popcorn falls out · Coverr · Coverr License",
+   "q": "nutrient film technique"
+  },
+  {
+   "source": "nasa",
+   "id": "van_051305_noaa_scrub2",
+   "kind": "video",
+   "title": "KSC-05-S-00123",
+   "desc": "NASA Commentator George Diller: This is Delta Launch Control at T-51 minutes and holding. We have had a decision by Boeing Mission Director Rich Murphy and NASA Launch Manager Omar Baez that we will scrub for today. There's not enough time to complete the work necessary at the pump house to resolve the electrical problems and still meet our launch window. This is currently planned to be a 24-hour ",
+   "page": "https://images.nasa.gov/details/van_051305_noaa_scrub2",
+   "thumb": "https://images-assets.nasa.gov/video/van_051305_noaa_scrub2/van_051305_noaa_scrub2~small.jpg",
+   "preview": "https://images-assets.nasa.gov/video/van_051305_noaa_scrub2/van_051305_noaa_scrub2~mobile.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": 2005,
+   "author": "NASA or National Aeronautics and Space Administration",
+   "licence": {
+    "code": "gov",
+    "name": "Public domain (NASA)",
+    "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://images-assets.nasa.gov/video/van_051305_noaa_scrub2/van_051305_noaa_scrub2~orig.mp4",
+     "label": "orig",
+     "w": 0,
+     "h": 0,
+     "dur": 0,
+     "size": 0
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/van_051305_noaa_scrub2/van_051305_noaa_scrub2~mobile.mp4",
+     "label": "mobile"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/van_051305_noaa_scrub2/van_051305_noaa_scrub2~preview.mp4",
+     "label": "preview"
+    }
+   ],
+   "collection": "https://images-assets.nasa.gov/video/van_051305_noaa_scrub2/collection.json",
+   "notes": [
+    "NASA: no logo or endorsement; check third-party material"
+   ],
+   "flags": [],
+   "credit": "KSC-05-S-00123 · NASA or National Aeronautics and Space Administration · NASA · Public domain (NASA)",
+   "q": "water pump"
+  }
+ ]
+}

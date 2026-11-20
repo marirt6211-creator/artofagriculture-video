@@ -1,0 +1,769 @@
+{
+ "shot": "s13",
+ "text": "Whether you're a farmer, a nature lover, or simply curious about the world around you, there's something here for you!",
+ "need": "farmer at work; person walking in nature touching plants; curious person looking closely at a plant",
+ "queries": [
+  "farmer working in field",
+  "hand touching wheat field",
+  "woman in nature forest walk",
+  "child looking at plant"
+ ],
+ "kind": "video",
+ "items": [
+  {
+   "source": "pixabay",
+   "id": "10176",
+   "kind": "video",
+   "title": "tractor in field spraying fertilizer, tractor, bulldozer, machine, car, field, meadow, fertilizer, manure, agricultural, motor, farm, fazenda, work, spray, atomization, the soil, land, harvest, furrow, sowing, agriculture, agronomy, landscape, rural, rustic, village, mechanism, farmer, the forest",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-10176/",
+   "thumb": "https://cdn.pixabay.com/video/2017/06/21/10176-223148996_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2017/06/21/10176-223148996_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 7,
+   "year": null,
+   "author": "chayka1270",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2017/06/21/10176-223148996_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 3802101
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2017/06/21/10176-223148996_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 2107442
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2017/06/21/10176-223148996_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 1256267
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "tractor in field spraying fertilizer, tractor, bulldozer, machine, car, field, meadow, fertilizer, manure, agricultural, motor, farm, fazenda, work, spray, atomization, the soil, land, harvest, furrow, sowing, agriculture, agronomy, landscape, rural, rustic, village, mechanism, farmer, the forest · chayka1270 · Pixabay · Pixabay Content License",
+   "q": "farmer working in field"
+  },
+  {
+   "source": "mixkit",
+   "id": "8864",
+   "kind": "video",
+   "title": "Hand touching wheat in golden sunset",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/hand-touching-wheat-in-golden-sunset-8864/",
+   "thumb": "https://assets.mixkit.co/videos/8864/8864-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/8864/8864-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/8864/8864-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/8864/8864-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Hand touching wheat in golden sunset · Mixkit · Mixkit Free License",
+   "q": "hand touching wheat field"
+  },
+  {
+   "source": "pixabay",
+   "id": "112059",
+   "kind": "video",
+   "title": "young woman, road, walk in the woods, pine, forest, nature, landscape",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-112059/",
+   "thumb": "https://cdn.pixabay.com/video/2022/03/27/112059-692839393_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2022/03/27/112059-692839393_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 14,
+   "year": null,
+   "author": "RuslanSikunov",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2022/03/27/112059-692839393_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 34108598
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2022/03/27/112059-692839393_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 15527190
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2022/03/27/112059-692839393_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 8125121
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "young woman, road, walk in the woods, pine, forest, nature, landscape · RuslanSikunov · Pixabay · Pixabay Content License",
+   "q": "woman in nature forest walk"
+  },
+  {
+   "source": "mixkit",
+   "id": "46705",
+   "kind": "video",
+   "title": "Quiet child looking at the camera ",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/quiet-child-looking-at-the-camera-46705/",
+   "thumb": "https://assets.mixkit.co/videos/46705/46705-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/46705/46705-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/46705/46705-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/46705/46705-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Quiet child looking at the camera  · Mixkit · Mixkit Free License",
+   "q": "child looking at"
+  },
+  {
+   "source": "pixabay",
+   "id": "10290",
+   "kind": "video",
+   "title": "harvester, tractor in field harvests, tractor, bulldozer, machine, car, field, meadow, fertilizer, manure, agricultural, motor, farm, fazenda, work, spray, atomization, the soil, land, harvest, furrow, sowing, agriculture, agronomy, landscape, rural, rustic, village, mechanism, farmer, the forest",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-10290/",
+   "thumb": "https://cdn.pixabay.com/video/2017/06/26/10290-223159390_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2017/06/26/10290-223159390_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 23,
+   "year": null,
+   "author": "chayka1270",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2017/06/26/10290-223159390_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 12996484
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2017/06/26/10290-223159390_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 7250500
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2017/06/26/10290-223159390_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 4282681
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "harvester, tractor in field harvests, tractor, bulldozer, machine, car, field, meadow, fertilizer, manure, agricultural, motor, farm, fazenda, work, spray, atomization, the soil, land, harvest, furrow, sowing, agriculture, agronomy, landscape, rural, rustic, village, mechanism, farmer, the forest · chayka1270 · Pixabay · Pixabay Content License",
+   "q": "farmer working in field"
+  },
+  {
+   "source": "pixabay",
+   "id": "17285",
+   "kind": "video",
+   "title": "wheat, wheat field, nature, agriculture, field, summer, grain, cereals, cornfield, spike, plant, close up, staple food, wheat grains, yellow, wind, wind blowing through wheat",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-17285/",
+   "thumb": "https://cdn.pixabay.com/video/2018/07/14/17285-280038627_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2018/07/14/17285-280038627_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 28,
+   "year": null,
+   "author": "ulleo",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2018/07/14/17285-280038627_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 17581708
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2018/07/14/17285-280038627_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 8792545
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2018/07/14/17285-280038627_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 5272952
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "wheat, wheat field, nature, agriculture, field, summer, grain, cereals, cornfield, spike, plant, close up, staple food, wheat grains, yellow, wind, wind blowing through wheat · ulleo · Pixabay · Pixabay Content License",
+   "q": "hand touching wheat field"
+  },
+  {
+   "source": "pixabay",
+   "id": "46906",
+   "kind": "video",
+   "title": "forest, trees, walkway, walk in the woods, nature, idyllic, green, summer, branches, fusion",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-46906/",
+   "thumb": "https://cdn.pixabay.com/video/2020/08/11/46906-449573554_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2020/08/11/46906-449573554_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 15,
+   "year": null,
+   "author": "Rudimaes",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2020/08/11/46906-449573554_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 45576322
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/08/11/46906-449573554_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 24871683
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/08/11/46906-449573554_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 10807413
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "forest, trees, walkway, walk in the woods, nature, idyllic, green, summer, branches, fusion · Rudimaes · Pixabay · Pixabay Content License",
+   "q": "woman in nature forest walk"
+  },
+  {
+   "source": "mixkit",
+   "id": "11441",
+   "kind": "video",
+   "title": "Unhappy child looking at the camera",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/unhappy-child-looking-at-the-camera-11441/",
+   "thumb": "https://assets.mixkit.co/videos/11441/11441-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/11441/11441-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/11441/11441-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/11441/11441-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Unhappy child looking at the camera · Mixkit · Mixkit Free License",
+   "q": "child looking at"
+  },
+  {
+   "source": "pixabay",
+   "id": "10177",
+   "kind": "video",
+   "title": "tractor in field spraying fertilizer, tractor, bulldozer, machine, car, field, meadow, fertilizer, manure, agricultural, motor, farm, fazenda, work, spray, atomization, the soil, land, harvest, furrow, sowing, agriculture, agronomy, landscape, rural, rustic, village, mechanism, farmer, the forest",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-10177/",
+   "thumb": "https://cdn.pixabay.com/video/2017/06/21/10177-223148994_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2017/06/21/10177-223148994_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 11,
+   "year": null,
+   "author": "chayka1270",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2017/06/21/10177-223148994_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 6113750
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2017/06/21/10177-223148994_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 3382342
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2017/06/21/10177-223148994_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 2033017
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "tractor in field spraying fertilizer, tractor, bulldozer, machine, car, field, meadow, fertilizer, manure, agricultural, motor, farm, fazenda, work, spray, atomization, the soil, land, harvest, furrow, sowing, agriculture, agronomy, landscape, rural, rustic, village, mechanism, farmer, the forest · chayka1270 · Pixabay · Pixabay Content License",
+   "q": "farmer working in field"
+  },
+  {
+   "source": "pixabay",
+   "id": "232561",
+   "kind": "video",
+   "title": "tractor, field, wheat, harvest, combine, agriculture, grain, farming, summer, machine, technology, equipment, landscape",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-232561/",
+   "thumb": "https://cdn.pixabay.com/video/2024/09/21/232561_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2024/09/21/232561_tiny.mp4",
+   "w": 2560,
+   "h": 1440,
+   "dur": 19,
+   "year": null,
+   "author": "Ivan267",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2024/09/21/232561_large.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 57628754
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2024/09/21/232561_medium.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 30591181
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2024/09/21/232561_small.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 10983446
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "tractor, field, wheat, harvest, combine, agriculture, grain, farming, summer, machine, technology, equipment, landscape · Ivan267 · Pixabay · Pixabay Content License",
+   "q": "hand touching wheat field"
+  },
+  {
+   "source": "pixabay",
+   "id": "28042",
+   "kind": "video",
+   "title": "person, red hair, woman, taking a walk, a walk in the park, walking, forest, tree, path, bridge, exercise, motion, activity, umbrella, knapsack, lifestyle",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-28042/",
+   "thumb": "https://cdn.pixabay.com/video/2019/10/18/28042-367222503_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2019/10/18/28042-367222503_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 19,
+   "year": null,
+   "author": "MabelAmber",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2019/10/18/28042-367222503_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 14370537
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/10/18/28042-367222503_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 7570530
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/10/18/28042-367222503_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 4457342
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "person, red hair, woman, taking a walk, a walk in the park, walking, forest, tree, path, bridge, exercise, motion, activity, umbrella, knapsack, lifestyle · MabelAmber · Pixabay · Pixabay Content License",
+   "q": "woman in nature forest walk"
+  },
+  {
+   "source": "mixkit",
+   "id": "27821",
+   "kind": "video",
+   "title": "Childs eye looking around",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/childs-eye-looking-around-27821/",
+   "thumb": "https://assets.mixkit.co/videos/27821/27821-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/27821/27821-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/27821/27821-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/27821/27821-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Childs eye looking around · Mixkit · Mixkit Free License",
+   "q": "child looking at"
+  },
+  {
+   "source": "pixabay",
+   "id": "10289",
+   "kind": "video",
+   "title": "harvester, tractor in field harvests, tractor, bulldozer, machine, car, field, meadow, fertilizer, manure, agricultural, motor, farm, fazenda, work, spray, atomization, the soil, land, harvest, furrow, sowing, agriculture, agronomy, landscape, rural, rustic, village, mechanism, farmer, the forest",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-10289/",
+   "thumb": "https://cdn.pixabay.com/video/2017/06/26/10289-223159392_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2017/06/26/10289-223159392_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 13,
+   "year": null,
+   "author": "chayka1270",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2017/06/26/10289-223159392_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 7327940
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2017/06/26/10289-223159392_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 4134702
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2017/06/26/10289-223159392_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 2472270
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "harvester, tractor in field harvests, tractor, bulldozer, machine, car, field, meadow, fertilizer, manure, agricultural, motor, farm, fazenda, work, spray, atomization, the soil, land, harvest, furrow, sowing, agriculture, agronomy, landscape, rural, rustic, village, mechanism, farmer, the forest · chayka1270 · Pixabay · Pixabay Content License",
+   "q": "farmer working in field"
+  },
+  {
+   "source": "mixkit",
+   "id": "33503",
+   "kind": "video",
+   "title": "Woman taking a walk in the autumnal forest",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/woman-taking-a-walk-in-the-autumnal-forest-33503/",
+   "thumb": "https://assets.mixkit.co/videos/33503/33503-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/33503/33503-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/33503/33503-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/33503/33503-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Woman taking a walk in the autumnal forest · Mixkit · Mixkit Free License",
+   "q": "woman in nature forest walk"
+  },
+  {
+   "source": "mixkit",
+   "id": "7693",
+   "kind": "video",
+   "title": "Farmer working on his land",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/farmer-working-on-his-land-7693/",
+   "thumb": "https://assets.mixkit.co/videos/7693/7693-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/7693/7693-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/7693/7693-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/7693/7693-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Farmer working on his land · Mixkit · Mixkit Free License",
+   "q": "farmer working in field"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-serene-stroll-in-urban-park",
+   "kind": "video",
+   "title": "Woman Taking a Serene Stroll in an Urban Park",
+   "desc": "A woman enjoys a peaceful walk in an urban park, surrounded by greenery and cityscapes. The video captures a moment of relaxation and tranquility in the midst of an urban environment. Ideal for themes of nature, city life, and relaxation.",
+   "tags": "",
+   "page": "https://coverr.co/videos/serene-stroll-in-urban-park",
+   "thumb": "https://cdn.coverr.co/videos/coverr-serene-stroll-in-urban-park/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-serene-stroll-in-urban-park/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 17.52,
+   "year": 2024,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-serene-stroll-in-urban-park/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Woman Taking a Serene Stroll in an Urban Park · Coverr · Coverr License",
+   "q": "woman in nature forest walk"
+  },
+  {
+   "source": "mixkit",
+   "id": "2388",
+   "kind": "video",
+   "title": "People working in a field",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/people-working-in-a-field-2388/",
+   "thumb": "https://assets.mixkit.co/videos/2388/2388-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/2388/2388-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/2388/2388-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/2388/2388-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "People working in a field · Mixkit · Mixkit Free License",
+   "q": "farmer working in field"
+  },
+  {
+   "source": "mixkit",
+   "id": "32582",
+   "kind": "video",
+   "title": "POV of a person's hand touching the sun",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/pov-of-a-persons-hand-touching-the-sun-32582/",
+   "thumb": "https://assets.mixkit.co/videos/32582/32582-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/32582/32582-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/32582/32582-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/32582/32582-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "POV of a person's hand touching the sun · Mixkit · Mixkit Free License",
+   "q": "hand touching"
+  }
+ ]
+}
