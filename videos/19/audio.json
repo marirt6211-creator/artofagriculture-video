@@ -1,20 +1,123 @@
-{ "vo": "public/v19/vo.wav", "voJson": "src/v19/vo.json",
-  "music": [["public/v19/music.wav", "0", 0.3, 232.0, 2.5]],
-  "sfx": [
-    ["public/sfx-lib/whoosh.wav", "W:1:lies+0.45", 0.4, 0.33],
-    ["public/sfx-lib/riser.wav", "S:4-0.1", 0.25, 1.5],
-    ["public/sfx-lib/whoosh.wav", "S:8+0.05", 0.3, 0.33],
-    ["public/sfx-lib/whoosh.wav", "S:10", 0.3, 0.33],
-    ["public/sfx-lib/sweep.wav", "W:16:mycorrhizae+0.35", 0.35, 0.23],
-    ["public/sfx-lib/ping.wav", "W:17:phosphorus+0.1", 0.25, 0.01],
-    ["public/sfx-lib/whoosh.wav", "S:24", 0.28, 0.33],
-    ["public/sfx-lib/boom.wav", "W:26:fragile", 0.35, 0.02],
-    ["public/sfx-lib/thud.wav", "W:27:Deforestation", 0.3, 0.01],
-    ["public/sfx-lib/thud.wav", "W:27:soil", 0.3, 0.01],
-    ["public/sfx-lib/thud.wav", "W:27:excessive", 0.3, 0.01],
-    ["public/sfx-lib/thud.wav", "W:27:unsustainable", 0.3, 0.01],
-    ["public/sfx-lib/chime.wav", "S:38-0.3", 0.3, 0.1],
-    ["public/sfx-lib/click.wav", "W:38:subscribe+0.15", 0.35, 0.0]
+{
+ "vo": "public/v19/vo.wav",
+ "voJson": "src/v19/vo.json",
+ "music": [
+  [
+   "public/v19/music.wav",
+   "0",
+   0.3,
+   223.726,
+   1.8
+  ]
+ ],
+ "sfx": [
+  [
+   "public/sfx-lib/whoosh.wav",
+   "W:1:lies+0.45",
+   0.4,
+   0.33
   ],
-  "musicKeys": [[0, 0.32], [0.4, 0.14], ["E:39+0.3", 0.14], ["E:39+1.5", 0.42], [231.5, 0.35]],
-  "sfxGain": 0.45, "length": 232.05 }
+  [
+   "public/sfx-lib/riser.wav",
+   "S:4-0.1",
+   0.25,
+   1.5
+  ],
+  [
+   "public/sfx-lib/whoosh.wav",
+   "S:8+0.05",
+   0.3,
+   0.33
+  ],
+  [
+   "public/sfx-lib/whoosh.wav",
+   "S:10",
+   0.3,
+   0.33
+  ],
+  [
+   "public/sfx-lib/sweep.wav",
+   "W:16:mycorrhizae+0.35",
+   0.35,
+   0.23
+  ],
+  [
+   "public/sfx-lib/ping.wav",
+   "W:17:phosphorus+0.1",
+   0.25,
+   0.01
+  ],
+  [
+   "public/sfx-lib/whoosh.wav",
+   "S:24",
+   0.28,
+   0.33
+  ],
+  [
+   "public/sfx-lib/boom.wav",
+   "W:26:fragile",
+   0.35,
+   0.02
+  ],
+  [
+   "public/sfx-lib/thud.wav",
+   "W:27:Deforestation",
+   0.3,
+   0.01
+  ],
+  [
+   "public/sfx-lib/thud.wav",
+   "W:27:soil",
+   0.3,
+   0.01
+  ],
+  [
+   "public/sfx-lib/thud.wav",
+   "W:27:excessive",
+   0.3,
+   0.01
+  ],
+  [
+   "public/sfx-lib/thud.wav",
+   "W:27:unsustainable",
+   0.3,
+   0.01
+  ],
+  [
+   "public/sfx-lib/chime.wav",
+   "S:38-0.3",
+   0.3,
+   0.1
+  ],
+  [
+   "public/sfx-lib/click.wav",
+   "W:38:subscribe+0.15",
+   0.35,
+   0.0
+  ]
+ ],
+ "musicKeys": [
+  [
+   0,
+   0.32
+  ],
+  [
+   0.4,
+   0.14
+  ],
+  [
+   "E:39+0.2",
+   0.14
+  ],
+  [
+   "E:39+0.9",
+   0.38
+  ],
+  [
+   223.526,
+   0.3
+  ]
+ ],
+ "sfxGain": 0.45,
+ "length": 223.726
+}

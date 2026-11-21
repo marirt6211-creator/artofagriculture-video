@@ -35,7 +35,7 @@ const S = (n: number) => L(n).start;
 const E = (n: number) => L(n).end;
 /** start of the k-th occurrence of a word in line n */
 const Wd = (n: number, word: string, k = 0) => { const m = VO.words.filter((w) => w.line === n && norm(w.w) === norm(word)); return m[k]?.s ?? S(n); };
-const END = E(39) + 10.5;
+const END = E(39) + 2.2;
 
 // ---------- media ----------
 const art = (file: string, w: number, h: number, video = false): FootageClip => ({ file: `v19/art/${file}`, kind: video ? "video" : "image", w, h, dur: video ? 12 : undefined });
@@ -44,6 +44,8 @@ const ART: Record<string, FootageClip> = {
   a10: art("a10-rain-erosion.jpg", 1376, 768), a11: art("a11-wind-erosion.jpg", 1376, 768), a13: art("a13-bacteria-leaf.jpg", 1376, 768),
   g06: art("a06.mp4", 1920, 1080, true), g07: art("a07.mp4", 1920, 1080, true), g08: art("a08.mp4", 1920, 1080, true), g09: art("a09.mp4", 1920, 1080, true),
   g12: art("a12-wind-erosion.mp4", 1920, 1080, true), g14: art("a14-bacteria-leaf.mp4", 1920, 1080, true), g16: art("a16.mp4", 1280, 720, true),
+  b01: art("b01.jpg", 1672, 941), b02: art("b02.jpg", 1376, 768), b06: art("b06.jpg", 1376, 768), b08: art("b08.jpg", 1376, 768), b10: art("b10.jpg", 1376, 768), b12: art("b12.jpg", 1376, 768),
+  g03: art("b03.mp4", 1920, 1080, true), g11: art("b11.mp4", 1920, 1080, true), g13: art("b13.mp4", 1920, 1080, true),
 };
 const clip = (k: string) => ART[k] ?? MAN.clips[k];
 
@@ -58,31 +60,33 @@ const SHOTS: Shot[] = [
   { k: "a01", at: T_DIVE + 0.35, until: S(2) + 0.4, focus: [0.5, 0.5], zoom: 1.25, push: -0.12, tin: "zoom" },
   { k: "g09", at: S(2), until: Wd(2, "mysterious") + 0.3, focus: [0.45, 0.55], zoom: 1.05, push: 0.1, tin: "fade" },
   { k: "g08", at: Wd(2, "mysterious"), until: Wd(2, "incredible") + 0.3, focus: [0.5, 0.65], zoom: 1.02, push: 0.06, tin: "fade" },
-  { k: "a04", at: Wd(2, "incredible"), until: S(3) + 0.3, focus: [0.5, 0.5], zoom: 1.12, push: -0.1, pan: [0.04, 0], tin: "fade" },
+  { k: "b01", at: Wd(2, "incredible"), until: S(3) + 0.3, focus: [0.5, 0.5], zoom: 1.12, push: -0.1, pan: [0.04, 0], tin: "fade" },
   { k: "a03", at: S(4) - 0.2, until: S(5) + 0.4, focus: [0.5, 0.35], zoom: 1.35, push: -0.22, pan: [0, 0.25], tin: "flash" },
   // Scene 2 — more than dirt
   { k: "f21", at: S(6) - 0.4, until: S(7) + 0.4, focus: [0.55, 0.5], push: 0.1, tin: "fade" },
-  { k: "a04", at: S(7), until: E(7) + 0.3, focus: [0.5, 0.5], zoom: 1.1, push: 0.05, filter: "blur(14px) brightness(.42)", tin: "fade" },
+  { k: "f21", at: S(7), until: E(7) + 0.3, from: 3, focus: [0.5, 0.5], zoom: 1.15, push: 0.05, filter: "blur(12px) brightness(.4)", tin: "fade" },
   { k: "f23", at: S(8) - 0.1, until: Wd(8, "returning") + 0.4, focus: [0.55, 0.5], push: 0.14, rate: 0.8, tin: "whip" },
   { k: "a13", at: Wd(8, "returning"), until: E(8) + 0.4, focus: [0.55, 0.5], zoom: 1.4, push: -0.25, tin: "zoom" },
-  { k: "a04", at: S(9) - 0.1, until: E(9) + 0.3, focus: [0.86, 0.74], zoom: 2.6, push: 0.15, tin: "zoom" },
+  { k: "b02", at: S(9) - 0.1, until: Wd(9, "connecting") + 0.3, focus: [0.3, 0.6], zoom: 1.3, push: 0.1, tin: "zoom" },
+  { k: "g03", at: Wd(9, "connecting"), until: E(9) + 0.3, focus: [0.45, 0.6], zoom: 1.08, push: 0.06, tin: "fade" },
   { k: "f25", at: S(10) - 0.2, until: E(11) + 0.4, focus: [0.45, 0.4], push: 0.1, rate: 0.85, tin: "whip" },
   { k: "a04", at: S(12) - 0.1, until: S(13) + 0.4, focus: [0.5, 0.5], zoom: 1.0, push: 0.08, tin: "fade" },
   // Scene 3 — the secret connection
   { k: "a02", at: S(13) - 0.1, until: E(13) + 0.3, focus: [0.5, 0.2], zoom: 1.35, push: 0.0, pan: [0, 0.55], tin: "fade" },
-  { k: "a01", at: S(14) - 0.1, until: E(15) + 0.3, focus: [0.3, 0.6], zoom: 1.7, push: 0.12, pan: [0.15, -0.05], tin: "whip" },
-  { k: "a04", at: S(16) - 0.1, until: Wd(16, "mycorrhizae") + 0.3, focus: [0.86, 0.74], zoom: 2.2, push: 0.25, tin: "fade" },
-  { k: "a04", at: Wd(16, "mycorrhizae"), until: E(16) + 0.4, focus: [0.86, 0.74], zoom: 2.8, push: 0.1, filter: "blur(12px) brightness(.35)", tin: "fade" },
+  { k: "b12", at: S(14) - 0.1, until: S(15) + 0.3, focus: [0.4, 0.4], zoom: 1.15, push: 0.12, pan: [0.1, 0.08], tin: "whip" },
+  { k: "g13", at: S(15), until: E(15) + 0.3, focus: [0.5, 0.5], zoom: 1.04, push: 0.08, tin: "fade" },
+  { k: "g11", at: S(16) - 0.1, until: Wd(16, "mycorrhizae") + 0.3, focus: [0.5, 0.5], zoom: 1.04, push: 0.1, tin: "fade" },
+  { k: "b10", at: Wd(16, "mycorrhizae"), until: E(16) + 0.4, focus: [0.5, 0.5], zoom: 1.3, push: 0.1, filter: "blur(10px) brightness(.38)", tin: "fade" },
   { k: "f35", at: S(18) - 0.2, until: Wd(18, "photosynthesis") + 0.3, focus: [0.5, 0.45], push: 0.1, tin: "flash" },
   { k: "a02", at: Wd(18, "photosynthesis"), until: E(19) + 0.3, focus: [0.5, 0.5], zoom: 1.08, push: 0.05, tin: "fade" },
   { k: "f37", at: S(20) - 0.2, until: E(21) + 0.4, focus: [0.5, 0.5], push: 0.12, rate: 0.9, tin: "fade" },
   { k: "g07", at: S(22) - 0.1, until: E(22) + 0.3, focus: [0.5, 0.6], zoom: 1.04, push: 0.06, tin: "fade" },
   { k: "a05", at: S(23) - 0.1, until: Wd(23, "greatly") + 0.3, focus: [0.4, 0.45], zoom: 1.1, push: 0.15, tin: "zoom" },
   { k: "g06", at: Wd(23, "greatly"), until: E(23) + 0.3, focus: [0.4, 0.45], zoom: 1.02, push: 0.06, tin: "fade" },
-  { k: "a02", at: S(24) - 0.1, until: E(24) + 0.3, focus: [0.5, 0.9], zoom: 1.3, push: 0.0, pan: [0, -0.8], tin: "whip" },
+  { k: "b08", at: S(24) - 0.1, until: E(24) + 0.3, focus: [0.42, 0.85], zoom: 1.25, push: -0.15, pan: [0, -0.5], tin: "whip" },
   { k: "f311", at: S(25) - 0.1, until: S(26) + 0.4, focus: [0.5, 0.5], push: 0.08, tin: "fade" },
   // Scene 4 — fragile
-  { k: "a04", at: S(26), until: E(26) + 0.3, focus: [0.5, 0.5], zoom: 1.12, push: 0.06, filter: "saturate(.25) brightness(.62)", tin: "fade" },
+  { k: "b06", at: S(26), until: E(26) + 0.3, focus: [0.5, 0.6], zoom: 1.12, push: 0.08, filter: "saturate(.7) brightness(.85)", tin: "fade" },
   { k: "f42a", at: Wd(27, "deforestation") - 0.05, until: Wd(27, "soil") + 0.05, focus: [0.5, 0.5], push: 0.08, tin: "cut" },
   { k: "a10", at: Wd(27, "soil"), until: Wd(27, "excessive") + 0.05, focus: [0.5, 0.6], zoom: 1.05, push: 0.08, tin: "cut" },
   { k: "f42c", at: Wd(27, "excessive"), until: Wd(27, "unsustainable") + 0.05, focus: [0.5, 0.5], push: 0.12, tin: "cut" },
@@ -269,6 +273,27 @@ const Watermark: React.FC<{ t: number }> = ({ t }) => {
   return <Img src={staticFile("v19/art/logo.png")} style={{ position: "absolute", left: s.x, top: s.y, width: 110, height: 110, opacity: 0.9 * o, transform: `scale(${0.9 + 0.1 * eo(fin)})`, filter: "drop-shadow(0 3px 10px rgba(0,0,0,.55))" }} />;
 };
 
+/** faint moving "ArtofAgriculture" text mark (channel rule): rides the edge opposite the badge, drifting across */
+const TextMark: React.FC<{ t: number }> = ({ t }) => {
+  if (t > WM_OFF + 0.4) return null;
+  let i = 0; for (let k = 0; k < WM_SPOTS.length; k++) if (t >= WM_SPOTS[k].at) i = k;
+  const s = WM_SPOTS[i], next = WM_SPOTS[i + 1];
+  const end = next ? next.at : WM_OFF;
+  const fin = lin(t, s.at + 0.3, s.at + 1.2), fout = lin(t, end - 0.5, end);
+  const o = Math.min(fin, 1 - fout);
+  if (o <= 0) return null;
+  const top = s.y < H / 2; // badge on top -> text at the bottom
+  const p = lin(t, s.at, end);
+  const fromLeft = s.x > W / 2; // drift away from the badge side
+  const x = fromLeft ? 60 + p * 520 : W - 60 - 560 - p * 520;
+  const sh = ((t * 0.25) % 1) * 160 - 30;
+  return (
+    <div style={{ position: "absolute", left: x, top: top ? H - 70 : 26, width: 560, textAlign: fromLeft ? "left" : "right", fontFamily: DISP, fontWeight: 700, fontSize: 38, letterSpacing: 3 + 1.5 * Math.sin(t * 0.8), color: "#fff", opacity: (0.42 + 0.08 * Math.sin(t * 1.3 + sh * 0)) * o, textShadow: `0 2px 8px rgba(0,0,0,.65), 0 0 18px rgba(242,184,75,${0.25 + 0.2 * Math.sin(t * 1.3)})` }}>
+      Art<span style={{ fontWeight: 400, color: GOLD2 }}>of</span>Agriculture
+    </div>
+  );
+};
+
 // ================= scene-specific motion graphics =================
 
 // 1.1 footsteps: pulses ripple into the ground, then the ground splits along a glowing line
@@ -337,7 +362,8 @@ const RootPulse: React.FC<{ t: number }> = ({ t }) => {
 // 1.5 + 4.5 the web of life on a04 (healthy / breaking)
 const WEB_NODES: Pt[] = [[340, 230], [1100, 470], [1560, 560], [640, 840], [1810, 900], [210, 640]];
 const WEB_EDGES: [number, number][] = [[0, 1], [1, 2], [1, 3], [0, 3], [2, 4], [3, 5], [0, 5]];
-const Web: React.FC<{ t: number; at: number; until: number; broken?: boolean }> = ({ t, at, until, broken }) => {
+const WEB_B01: Pt[] = [[250, 345], [1275, 840], [1490, 600], [345, 690], [1735, 355], [630, 885]];
+const Web: React.FC<{ t: number; at: number; until: number; broken?: boolean; nodes?: Pt[] }> = ({ t, at, until, broken, nodes = WEB_NODES }) => {
   const o = vis(t, at, until, 0.4, 0.4);
   if (o <= 0) return null;
   const z = 1 + (broken ? 0.05 : 0.12) * lin(t, at, until); // follow the bed zoom roughly
@@ -345,7 +371,7 @@ const Web: React.FC<{ t: number; at: number; until: number; broken?: boolean }> 
   return (
     <Svg o={o}>
       {WEB_EDGES.map(([i, j], k) => {
-        const a = P(WEB_NODES[i]), b = P(WEB_NODES[j]);
+        const a = P(nodes[i]), b = P(nodes[j]);
         const p = eo(lin(t, at + k * 0.25, at + k * 0.25 + 0.7));
         const snap = broken ? lin(t, at + 0.8 + k * 0.55, at + 1.1 + k * 0.55) : 0;
         const mx = (a[0] + b[0]) / 2, my = (a[1] + b[1]) / 2 - 60;
@@ -356,7 +382,7 @@ const Web: React.FC<{ t: number; at: number; until: number; broken?: boolean }> 
           </g>
         );
       })}
-      {WEB_NODES.map((n, i) => {
+      {nodes.map((n, i) => {
         const p = P(n); const fade = broken ? 1 - lin(t, at + 0.6 + i * 0.6, at + 1.2 + i * 0.6) * 0.85 : eo(lin(t, at + i * 0.2, at + i * 0.2 + 0.5));
         return <g key={i} opacity={fade}><circle cx={p[0]} cy={p[1]} r={10} fill={broken ? "#9aa" : i === 2 ? GOLD : TEAL} filter="url(#glow)" /><circle cx={p[0]} cy={p[1]} r={34 + 4 * Math.sin(t * 3 + i)} fill="none" stroke={broken ? "#9aa" : TEAL} strokeWidth={2} opacity={0.7} /></g>;
       })}
@@ -376,7 +402,7 @@ const Split: React.FC<{ t: number }> = ({ t }) => {
         <div style={{ position: "absolute", left: 0, top: -H / 4 }}><Media clip={clip("f16")} name="f16" t0={a} len={b - a} w={W} h={H} focus={[0.5, 0.6]} push={0.06} /></div>
       </div>
       <div style={{ position: "absolute", left: 0, top: lineY, width: W, height: H - lineY, overflow: "hidden", transform: `translateY(${(1 - p) * 200}px)` }}>
-        <div style={{ position: "absolute", left: 0, top: -H / 4 }}><Media clip={clip("a01")} name="a01" t0={a} len={b - a} w={W} h={H} focus={[0.5, 0.5]} zoom={1.1} push={0.08} /></div>
+        <div style={{ position: "absolute", left: 0, top: -H / 4 }}><Media clip={clip("f25")} name="f25" t0={a} len={b - a} w={W} h={H} focus={[0.45, 0.45]} zoom={1.1} push={0.08} from={5} /></div>
       </div>
       <Svg><line x1={0} y1={lineY} x2={W * p} y2={lineY} stroke={TEAL} strokeWidth={4} filter="url(#glow)" /></Svg>
       <Motes t={t} n={60} seed={8} color={TEAL2} y={lineY} h={H - lineY} size={2.5} />
@@ -738,10 +764,9 @@ const Climb: React.FC<{ t: number }> = ({ t }) => {
   const b = E(24) + 0.3, up = Wd(24, "upward");
   return (
     <>
-      <Flow t={t} at={Wd(24, "roots") - 0.3} until={b} P={[[690, 1080], [700, 900], [690, 760], [695, 560]]} color={BLUE} width={12} pulses={4} speed={0.7} />
-      <Flow t={t} at={up - 0.3} until={b} P={[[695, 560], [700, 420], [690, 300], [700, 120]]} color={BLUE} width={12} pulses={4} speed={0.7} />
-      <Svg o={vis(t, up + 0.3, b)}><ellipse cx={720} cy={140} rx={420} ry={150} fill={TEAL} opacity={0.18 + 0.1 * Math.sin(t * 4)} filter="url(#soft)" /></Svg>
-      <Word t={t} text="UPWARD" at={up - 0.1} until={b} y={460} x={900} w={900} align="left" size={110} track={20} color={BLUE} glow="rgba(124,200,255,.5)" />
+      <Motes t={t} n={60} seed={131} color={BLUE} x={560} y={200} w={500} h={880} size={3} speed={60} dir={[0, -1]} o={vis(t, S(24), b)} />
+      <Word t={t} text="FROM SOIL TO LEAF" at={Wd(24, "water") - 0.1} until={up - 0.1} y={120} x={60} w={900} align="left" size={62} track={10} />
+      <Word t={t} text="UPWARD" at={up - 0.1} until={b} y={110} x={60} w={900} align="left" size={100} track={24} color={BLUE} glow="rgba(124,200,255,.5)" />
     </>
   );
 };
@@ -874,7 +899,7 @@ const Matters: React.FC<{ t: number }> = ({ t }) => {
   const a = S(32) - 0.2, b = E(32) + 0.35;
   const o = vis(t, a, b, 0.4, 0.4);
   if (o <= 0) return null;
-  const tiles: [string, string, number][] = [["f47a", "FOOD SECURITY", Wd(32, "food")], ["a04", "BIODIVERSITY", Wd(32, "biodiversity")], ["f47c", "CLEAN WATER", Wd(32, "clean")], ["f47d", "OUR PLANET", Wd(32, "planet") - 0.4]];
+  const tiles: [string, string, number][] = [["f47a", "FOOD SECURITY", Wd(32, "food")], ["n-fly", "BIODIVERSITY", Wd(32, "biodiversity")], ["f47c", "CLEAN WATER", Wd(32, "clean")], ["f47d", "OUR PLANET", Wd(32, "planet") - 0.4]];
   const join = eo(lin(t, Wd(32, "planet") + 0.2, Wd(32, "planet") + 0.9));
   return (
     <AbsoluteFill style={{ opacity: o, background: "#0b0907" }}>
@@ -882,7 +907,7 @@ const Matters: React.FC<{ t: number }> = ({ t }) => {
         const p = eo(lin(t, at - 0.3, at + 0.3));
         return (
           <div key={k} style={{ position: "absolute", left: 8 + i * 478, top: 8 + (1 - p) * 60, width: 470, height: 980, overflow: "hidden", borderRadius: 10, opacity: p, boxShadow: p > 0.9 && t < (tiles[i + 1]?.[2] ?? b) ? `0 0 0 3px ${GOLD}` : undefined }}>
-            <Media clip={clip(k)} name={k} t0={a} len={b - a} w={470} h={980} zoom={1.05} push={0.06} focus={k === "a04" ? [0.4, 0.5] : [0.5, 0.5]} />
+            <Media clip={clip(k)} name={k} t0={a} len={b - a} w={470} h={980} zoom={1.05} push={0.06} focus={k === "n-fly" ? [0.38, 0.5] : [0.5, 0.5]} />
             <div style={{ position: "absolute", inset: 0, background: "linear-gradient(transparent 55%, rgba(0,0,0,.8))" }} />
             <div style={{ position: "absolute", left: 0, right: 0, bottom: 70, textAlign: "center", fontFamily: BODY, fontWeight: 800, fontSize: 40, letterSpacing: 5, color: "#fff" }}>{label}</div>
           </div>
@@ -919,7 +944,7 @@ const Montage: React.FC<{ t: number }> = ({ t }) => {
   const a = S(35) - 0.2, b = E(35) + 0.35;
   const o = vis(t, a, b, 0.3, 0.35);
   if (o <= 0) return null;
-  const cuts: [string, string, number][] = [["g09", "TINY ORGANISMS", Wd(35, "tiny") - 0.25], ["g08", "DELICATE NETWORKS", Wd(35, "delicate") - 0.25], ["g07", "FLOWING WATER", Wd(35, "flowing") - 0.25], ["a04", "ENDLESS INTERACTIONS", Wd(35, "endless") - 0.25]];
+  const cuts: [string, string, number][] = [["g14", "TINY ORGANISMS", Wd(35, "tiny") - 0.25], ["g11", "DELICATE NETWORKS", Wd(35, "delicate") - 0.25], ["n-stream", "FLOWING WATER", Wd(35, "flowing") - 0.25], ["n-bee", "ENDLESS INTERACTIONS", Wd(35, "endless") - 0.25]];
   let i = 0; for (let k = 0; k < cuts.length; k++) if (t >= cuts[k][2]) i = k;
   const [k, label, at] = cuts[i];
   const p = eo(lin(t, at, at + 0.4));
@@ -952,10 +977,10 @@ const EndCard: React.FC<{ t: number }> = ({ t }) => {
   const sub = Wd(38, "subscribe"), sh = Wd(38, "share"), tag = S(39);
   const tap = (at: number) => { const q = lin(t, at, at + 0.5); return q > 0 && q < 1 ? 1 - 0.08 * Math.sin(q * Math.PI) : 1; };
   const subbed = t > sub + 0.35;
-  const clean = lin(t, E(39) + 1.5, E(39) + 2.5); // free the lower area for end-screen elements
+  const clean = 0;
   return (
     <AbsoluteFill style={{ opacity: p }}>
-      <AbsoluteFill style={{ filter: "blur(18px) brightness(.32)" }}><Media clip={clip("a03")} name="a03" t0={a} len={END - a} w={W} h={H} zoom={1.15} push={0.08} /></AbsoluteFill>
+      <AbsoluteFill style={{ filter: "blur(18px) brightness(.32)" }}><Media clip={clip("b02")} name="b02" t0={a} len={END - a} w={W} h={H} zoom={1.15} push={0.08} /></AbsoluteFill>
       <Motes t={t} n={90} seed={111} color={GOLD2} size={2.6} speed={10} o={0.7} />
       <div style={{ position: "absolute", left: 960 - 160, top: 120 - clean * 40, width: 320, height: 320, transform: `scale(${0.7 + 0.3 * eo(lin(t, a + 0.2, a + 1.2))})`, filter: "drop-shadow(0 10px 40px rgba(0,0,0,.6))" }}><Img src={staticFile("v19/art/logo.png")} style={{ width: 320, height: 320 }} /></div>
       <Grow t={t} at={a + 0.6} until={END + 1} id="e1" seed={121} x={900} y={430 - clean * 40} ang={2.0} len={90} depth={5} w={3} color={GOLD} spread={0.6} />
@@ -993,7 +1018,7 @@ const Frame: React.FC<{ t: number; preview: boolean }> = ({ t, preview }) => (
       <Motes t={t} n={60} seed={2} color={TEAL2} size={2.2} speed={8} o={vis(t, T_DIVE + 0.8, S(2) + 0.3)} />
       <Millions t={t} />
       <RootPulse t={t} />
-      <Web t={t} at={Wd(2, "incredible")} until={S(3) + 0.3} />
+      <Web t={t} at={Wd(2, "incredible")} until={S(3) + 0.3} nodes={WEB_B01} />
       <Split t={t} />
       <TitleCard t={t} />
       <SoilWord t={t} />
@@ -1029,6 +1054,7 @@ const Frame: React.FC<{ t: number; preview: boolean }> = ({ t, preview }) => (
       <Flash t={t} />
       <EndCard t={t} />
       <Watermark t={t} />
+      <TextMark t={t} />
       <FadeIO t={t} />
       {!preview && <Audio src={staticFile("v19/mix.wav")} />}
     </AbsoluteFill>
