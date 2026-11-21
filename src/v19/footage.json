@@ -552,6 +552,161 @@
    },
    "credit": "Small seedlings sprouting new shoots · Mixkit · Mixkit Free License",
    "shot": "f53"
+  },
+  "n-bee": {
+   "file": "v19/footage/n-bee.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 8,
+   "fps": 24,
+   "in": 0,
+   "out": 8,
+   "audio": false,
+   "focus": [
+    0.51,
+    0.5
+   ],
+   "source": "mixkit",
+   "id": "30797",
+   "title": "Bee pollinating the flowers in slow motion",
+   "page": "https://mixkit.co/free-stock-video/bee-pollinating-the-flowers-in-slow-motion-30797/",
+   "author": "",
+   "year": null,
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Bee pollinating the flowers in slow motion · Mixkit · Mixkit Free License",
+   "shot": "n_bee"
+  },
+  "n-fly": {
+   "file": "v19/footage/n-fly.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 8,
+   "fps": 50,
+   "in": 0,
+   "out": 8,
+   "audio": false,
+   "focus": [
+    0.479,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "224539",
+   "title": "butterfly, insect, flower, macro, close up, blossom, bloom, nature",
+   "page": "https://pixabay.com/videos/id-224539/",
+   "author": "Kaffeesüchtig",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "butterfly, insect, flower, macro, close up, blossom, bloom, nature · Kaffeesüchtig · Pixabay · Pixabay Content License",
+   "shot": "n_fly"
+  },
+  "n-stream": {
+   "file": "v19/footage/n-stream.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 8.008,
+   "fps": 29.97,
+   "in": 4,
+   "out": 12,
+   "audio": false,
+   "focus": [
+    0.438,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "224043",
+   "title": "river, stream, creek, forest, water, flowing, clean, refreshing, nature",
+   "page": "https://pixabay.com/videos/id-224043/",
+   "author": "McPix22",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "river, stream, creek, forest, water, flowing, clean, refreshing, nature · McPix22 · Pixabay · Pixabay Content License",
+   "shot": "n_stream"
+  },
+  "n-bact": {
+   "file": "v19/footage/n-bact.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 8.008,
+   "fps": 23.976,
+   "in": 0,
+   "out": 8,
+   "audio": false,
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "source": "mixkit",
+   "id": "3775",
+   "title": "Bacteria under microscope",
+   "page": "https://mixkit.co/free-stock-video/bacteria-under-microscope-3775/",
+   "author": "",
+   "year": null,
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Bacteria under microscope · Mixkit · Mixkit Free License",
+   "shot": "n_bact"
+  },
+  "n-myc": {
+   "file": "v19/footage/n-myc.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 6,
+   "fps": 30,
+   "in": 0,
+   "out": 6,
+   "audio": false,
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "368986",
+   "title": "ai generated, glowing mushrooms, cyan-green glow, mycelium, fungal network, dark rocky landscape, alien surface, central mushroom, pulsating veins of light, spores in air, mushroom tendrils, misty mountains, bioluminescence, dark blue background, energy streams, root system, luminous filaments, mountain silhouette, organic growth",
+   "page": "https://pixabay.com/videos/id-368986/",
+   "author": "InfinityByte",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "ai generated, glowing mushrooms, cyan-green glow, mycelium, fungal network, dark rocky landscape, alien surface, central mushroom, pulsating veins of light, spores in air, mushroom tendrils, misty mountains, bioluminescence, dark blue background, energy streams, root system, luminous filaments, mountain silhouette, organic growth · InfinityByte · Pixabay · Pixabay Content License",
+   "shot": "n_myc"
   }
  }
 }

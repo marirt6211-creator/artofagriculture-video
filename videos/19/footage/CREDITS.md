@@ -22,3 +22,8 @@
 | f47c | Pixabay | river, water, trees, clean, environment, nature, landscape | McPix22 | Pixabay Content License | https://pixabay.com/videos/id-231639/ |
 | f47d | Pixabay | earth, universe, space, planet, world, globe, science, astronomy, cosmos, planet earth, blue, the atmosphere, light, orbit, horizon | TBIT | Pixabay Content License | https://pixabay.com/videos/id-1175/ |
 | f53 | Mixkit | Small seedlings sprouting new shoots |  | Mixkit Free License | https://mixkit.co/free-stock-video/small-seedlings-sprouting-new-shoots-46091/ |
+| n-bee | Mixkit | Bee pollinating the flowers in slow motion |  | Mixkit Free License | https://mixkit.co/free-stock-video/bee-pollinating-the-flowers-in-slow-motion-30797/ |
+| n-fly | Pixabay | butterfly, insect, flower, macro, close up, blossom, bloom, nature | Kaffeesüchtig | Pixabay Content License | https://pixabay.com/videos/id-224539/ |
+| n-stream | Pixabay | river, stream, creek, forest, water, flowing, clean, refreshing, nature | McPix22 | Pixabay Content License | https://pixabay.com/videos/id-224043/ |
+| n-bact | Mixkit | Bacteria under microscope |  | Mixkit Free License | https://mixkit.co/free-stock-video/bacteria-under-microscope-3775/ |
+| n-myc | Pixabay | ai generated, glowing mushrooms, cyan-green glow, mycelium, fungal network, dark rocky landscape, alien surface, central mushroom, pulsating veins of light, spores in air, mushroom tendrils, misty mountains, bioluminescence, dark blue background, energy streams, root system, luminous filaments, mountain silhouette, organic growth | InfinityByte | Pixabay Content License | https://pixabay.com/videos/id-368986/ |
