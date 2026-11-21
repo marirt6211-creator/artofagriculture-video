@@ -1,0 +1,704 @@
+{
+ "01-3": {
+  "score": 1,
+  "heard": "What if I told you that beneath your feet lies a world more alive and complex than you could ever imagine?",
+  "dur": 7,
+  "events": []
+ },
+ "01-1": {
+  "score": 1,
+  "heard": "What if I told you that beneath your feet lies a world more alive and complex than you could ever imagine?",
+  "dur": 6.92,
+  "events": []
+ },
+ "01-2": {
+  "score": 1,
+  "heard": "What if I told you that beneath your feet lies a world more alive and complex than you could ever imagine?",
+  "dur": 7,
+  "events": []
+ },
+ "02-1": {
+  "score": 1,
+  "heard": "A hidden universe filled with millions of tiny organisms, mysterious networks, and incredible interactions that make life on Earth possible",
+  "dur": 10.45,
+  "events": []
+ },
+ "02-2": {
+  "score": 1,
+  "heard": "A hidden universe filled with millions of tiny organisms, mysterious networks, and incredible interactions that make life on Earth possible",
+  "dur": 10.45,
+  "events": []
+ },
+ "02-3": {
+  "score": 1,
+  "heard": "A hidden universe filled with millions of tiny organisms, mysterious networks, and incredible interactions that make life on Earth possible",
+  "dur": 10.61,
+  "events": []
+ },
+ "03-1": {
+  "score": 1,
+  "heard": "We walk over it every day, often without noticing its importance.",
+  "dur": 4.68,
+  "events": []
+ },
+ "03-2": {
+  "score": 1,
+  "heard": "We walk over it every day often without noticing its importance.",
+  "dur": 4.68,
+  "events": []
+ },
+ "03-3": {
+  "score": 1,
+  "heard": "We walk over it every day often without noticing its importance",
+  "dur": 4.75,
+  "events": []
+ },
+ "04-2": {
+  "score": 1,
+  "heard": "This is the hidden world beneath our feet",
+  "dur": 3.71,
+  "events": []
+ },
+ "04-1": {
+  "score": 1,
+  "heard": "This is the hidden world beneath our feet",
+  "dur": 3.55,
+  "events": []
+ },
+ "04-3": {
+  "score": 1,
+  "heard": "This is the hidden world beneath our feet",
+  "dur": 3.71,
+  "events": []
+ },
+ "05-1": {
+  "score": 1,
+  "heard": "Welcome to the incredible world of soil",
+  "dur": 3.55,
+  "events": []
+ },
+ "05-3": {
+  "score": 1,
+  "heard": "Welcome to the incredible world of soil",
+  "dur": 3.55,
+  "events": []
+ },
+ "05-2": {
+  "score": 1,
+  "heard": "Welcome to the incredible world of soil",
+  "dur": 3.71,
+  "events": []
+ },
+ "06-1": {
+  "score": 1,
+  "heard": "Soil is much more than the dirt we see on the surface",
+  "dur": 4.05,
+  "events": []
+ },
+ "06-3": {
+  "score": 1,
+  "heard": "Soil is much more than the dirt we see on the surface",
+  "dur": 3.79,
+  "events": []
+ },
+ "06-2": {
+  "score": 1,
+  "heard": "Soil is much more than the dirt we see on the surface.",
+  "dur": 3.71,
+  "events": []
+ },
+ "07-2": {
+  "score": 1,
+  "heard": "It is a complex living ecosystem made up of minerals, organic matter, water, air, and countless living organisms.",
+  "dur": 8.67,
+  "events": []
+ },
+ "07-1": {
+  "score": 1,
+  "heard": "It is a complex living ecosystem made up of minerals, organic matter, water, air, and countless living organisms.",
+  "dur": 8.59,
+  "events": []
+ },
+ "07-3": {
+  "score": 1,
+  "heard": "It is a complex living ecosystem made up of minerals, organic matter, water, air, and countless living organisms.",
+  "dur": 8.2,
+  "events": []
+ },
+ "08-1": {
+  "score": 1,
+  "heard": "Bacteria break down dead plant and animal materials, returning valuable nutrients to the environment",
+  "dur": 6.53,
+  "events": []
+ },
+ "08-3": {
+  "score": 1,
+  "heard": "Bacteria break down dead plant and animal materials, returning valuable nutrients to the environment",
+  "dur": 6.53,
+  "events": []
+ },
+ "08-2": {
+  "score": 1,
+  "heard": "Bacteria break down dead plant and animal materials, returning valuable nutrients to the environment",
+  "dur": 6.53,
+  "events": []
+ },
+ "09-2": {
+  "score": 1,
+  "heard": "Fungi spread through the soil like tiny underground networks, connecting with plant roots and helping them access essential nutrients.",
+  "dur": 8.2,
+  "events": []
+ },
+ "09-3": {
+  "score": 1,
+  "heard": "Fungi spread through the soil like tiny underground networks, connecting with plant roots and helping them access essential nutrients.",
+  "dur": 8.2,
+  "events": []
+ },
+ "09-1": {
+  "score": 1,
+  "heard": "Fungi spread through the soil like tiny underground networks, connecting with plant roots and helping them access essential nutrients.",
+  "dur": 8.2,
+  "events": []
+ },
+ "10-2": {
+  "score": 1,
+  "heard": "And earthworms?",
+  "dur": 1.8,
+  "events": []
+ },
+ "10-1": {
+  "score": 1,
+  "heard": "And earthworms?",
+  "dur": 1.72,
+  "events": []
+ },
+ "10-3": {
+  "score": 1,
+  "heard": "And earthworms?",
+  "dur": 1.72,
+  "events": []
+ },
+ "11-3": {
+  "score": 1,
+  "heard": "They are nature's little engineers, creating tunnels that improve soil structure and allow air and water to move more easily",
+  "dur": 7.89,
+  "events": []
+ },
+ "11-2": {
+  "score": 1,
+  "heard": "They are nature's little engineers, creating tunnels that improve soil structure and allow air and water to move more easily.",
+  "dur": 8.12,
+  "events": []
+ },
+ "11-1": {
+  "score": 1,
+  "heard": "They are nature's little engineers, creating tunnels that improve soil structure and allow air and water to move more easily.",
+  "dur": 7.97,
+  "events": []
+ },
+ "12-1": {
+  "score": 1,
+  "heard": "Every tiny organism plays a role in keeping this hidden ecosystem alive and balanced",
+  "dur": 6.19,
+  "events": []
+ },
+ "12-3": {
+  "score": 1,
+  "heard": "Every tiny organism plays a role in keeping this hidden ecosystem alive and balanced.",
+  "dur": 6.43,
+  "events": []
+ },
+ "12-2": {
+  "score": 1,
+  "heard": "Every tiny organism plays a role in keeping this hidden ecosystem alive and balanced.",
+  "dur": 6.43,
+  "events": []
+ },
+ "13-3": {
+  "score": 1,
+  "heard": "But perhaps one of the most fascinating relationships in nature happens between plant roots and the microscopic life surrounding them",
+  "dur": 8.05,
+  "events": []
+ },
+ "13-1": {
+  "score": 1,
+  "heard": "But perhaps one of the most fascinating relationships in nature happens between plant roots and the microscopic life surrounding them",
+  "dur": 7.97,
+  "events": []
+ },
+ "13-2": {
+  "score": 1,
+  "heard": "But perhaps one of the most fascinating relationships in nature happens between plant roots and the microscopic life surrounding them",
+  "dur": 8.12,
+  "events": []
+ },
+ "14-1": {
+  "score": 1,
+  "heard": "Plant roots do not work alone",
+  "dur": 2.51,
+  "events": []
+ },
+ "14-2": {
+  "score": 1,
+  "heard": "Plant roots do not work alone",
+  "dur": 2.59,
+  "events": []
+ },
+ "14-3": {
+  "score": 1,
+  "heard": "Plant roots do not work alone",
+  "dur": 2.51,
+  "events": []
+ },
+ "15-3": {
+  "score": 1,
+  "heard": "They interact with countless microorganisms living in the soil.",
+  "dur": 4.05,
+  "events": []
+ },
+ "15-2": {
+  "score": 1,
+  "heard": "They interact with countless microorganisms living in the soil.",
+  "dur": 4.13,
+  "events": []
+ },
+ "15-1": {
+  "score": 1,
+  "heard": "They interact with countless microorganisms living in the soil.",
+  "dur": 4.05,
+  "events": []
+ },
+ "16-1": {
+  "score": 1,
+  "heard": "Some fungi form special partnerships with plant roots, known as mycorrhizae",
+  "dur": 5.49,
+  "events": []
+ },
+ "16-3": {
+  "score": 1,
+  "heard": "Some fungi form special partnerships with plant roots known as mycorrhizae",
+  "dur": 5.41,
+  "events": []
+ },
+ "16-2": {
+  "score": 1,
+  "heard": "Some fungi form special partnerships with plant roots known as mycorrhizae",
+  "dur": 5.72,
+  "events": []
+ },
+ "17-2": {
+  "score": 1,
+  "heard": "Their delicate filaments extend far beyond the roots, helping plants absorb water and essential nutrients, especially phosphorus",
+  "dur": 8.28,
+  "events": []
+ },
+ "17-3": {
+  "score": 1,
+  "heard": "Their delicate filaments extend far beyond the roots, helping plants absorb water and essential nutrients, especially phosphorus.",
+  "dur": 8.44,
+  "events": []
+ },
+ "17-1": {
+  "score": 1,
+  "heard": "Their delicate filaments extend far beyond the roots, helping plants absorb water and essential nutrients, especially phosphorus",
+  "dur": 8.28,
+  "events": []
+ },
+ "18-1": {
+  "score": 1,
+  "heard": "In return, plants provide these fungi with sugars produced through photosynthesis",
+  "dur": 5.25,
+  "events": []
+ },
+ "18-3": {
+  "score": 1,
+  "heard": "In return, plants provide these fungi with sugars produced through photosynthesis",
+  "dur": 5.25,
+  "events": []
+ },
+ "18-2": {
+  "score": 1,
+  "heard": "In return, plants provide these fungi with sugars produced through photosynthesis",
+  "dur": 5.33,
+  "events": []
+ },
+ "19-2": {
+  "score": 0.989,
+  "heard": "It is a remarkable partnership. Plants supply energy while fungi help them access the resources they need",
+  "dur": 7.39,
+  "events": []
+ },
+ "19-3": {
+  "score": 0.989,
+  "heard": "It is a remarkable partnership. Plants supply energy while fungi help them access the resources they need",
+  "dur": 7.55,
+  "events": []
+ },
+ "19-1": {
+  "score": 0.989,
+  "heard": "It is a remarkable partnership. Plants supply energy while fungi help them access the resources they need",
+  "dur": 7.16,
+  "events": []
+ },
+ "20-1": {
+  "score": 1,
+  "heard": "And there is something else happening beneath the surface",
+  "dur": 3.63,
+  "events": []
+ },
+ "20-2": {
+  "score": 1,
+  "heard": "And there is something else happening beneath the surface",
+  "dur": 3.55,
+  "events": []
+ },
+ "20-3": {
+  "score": 1,
+  "heard": "And there is something else happening beneath the surface",
+  "dur": 3.55,
+  "events": []
+ },
+ "21-3": {
+  "score": 1,
+  "heard": "Water slowly moves through tiny spaces between soil particles.",
+  "dur": 4.91,
+  "events": []
+ },
+ "21-1": {
+  "score": 1,
+  "heard": "Water slowly moves through tiny spaces between soil particles",
+  "dur": 4.91,
+  "events": []
+ },
+ "21-2": {
+  "score": 1,
+  "heard": "Water slowly moves through tiny spaces between soil particles.",
+  "dur": 4.99,
+  "events": []
+ },
+ "22-1": {
+  "score": 1,
+  "heard": "Some of it is stored in the soil, while some travels toward plant roots.",
+  "dur": 4.68,
+  "events": []
+ },
+ "22-3": {
+  "score": 1,
+  "heard": "Some of it is stored in the soil, while some travels toward plant roots.",
+  "dur": 4.83,
+  "events": []
+ },
+ "22-2": {
+  "score": 1,
+  "heard": "Some of it is stored in the soil, while some travels toward plant roots.",
+  "dur": 4.68,
+  "events": []
+ },
+ "23-3": {
+  "score": 1,
+  "heard": "Root hairs, tiny extensions of root cells, greatly increase the surface area available for water and nutrient absorption",
+  "dur": 8.05,
+  "events": []
+ },
+ "23-2": {
+  "score": 1,
+  "heard": "Root hairs, tiny extensions of root cells, greatly increase the surface area available for water and nutrient absorption",
+  "dur": 8.05,
+  "events": []
+ },
+ "23-1": {
+  "score": 1,
+  "heard": "Root hairs, tiny extensions of root cells, greatly increase the surface area available for water and nutrient absorption",
+  "dur": 8.28,
+  "events": []
+ },
+ "24-2": {
+  "score": 1,
+  "heard": "Through this hidden process, water travels from the soil into the roots and then moves upward through the plant",
+  "dur": 6.77,
+  "events": []
+ },
+ "24-1": {
+  "score": 1,
+  "heard": "Through this hidden process, water travels from the soil into the roots and then moves upward through the plant",
+  "dur": 6.77,
+  "events": []
+ },
+ "24-3": {
+  "score": 1,
+  "heard": "Through this hidden process, water travels from the soil into the roots and then moves upward through the plant",
+  "dur": 6.84,
+  "events": []
+ },
+ "25-3": {
+  "score": 1,
+  "heard": "A world of activity, invisible to our eyes but essential to every green leaf above the ground",
+  "dur": 6.92,
+  "events": []
+ },
+ "25-2": {
+  "score": 1,
+  "heard": "A world of activity, invisible to our eyes but essential to every green leaf above the ground",
+  "dur": 7,
+  "events": []
+ },
+ "25-1": {
+  "score": 1,
+  "heard": "A world of activity, invisible to our eyes but essential to every green leaf above the ground.",
+  "dur": 7.16,
+  "events": []
+ },
+ "26-1": {
+  "score": 1,
+  "heard": "But this incredible underground ecosystem is also surprisingly fragile",
+  "dur": 5.15,
+  "events": []
+ },
+ "26-3": {
+  "score": 1,
+  "heard": "But this incredible underground ecosystem is also surprisingly fragile.",
+  "dur": 5.49,
+  "events": []
+ },
+ "26-2": {
+  "score": 1,
+  "heard": "But this incredible underground ecosystem is also surprisingly fragile.",
+  "dur": 5.49,
+  "events": []
+ },
+ "27-2": {
+  "score": 1,
+  "heard": "Deforestation, soil erosion, excessive chemical use, and unsustainable farming practices can damage its delicate balance.",
+  "dur": 8.75,
+  "events": []
+ },
+ "27-3": {
+  "score": 1,
+  "heard": "Deforestation, soil erosion, excessive chemical use, and unsustainable farming practices can damage its delicate balance.",
+  "dur": 8.75,
+  "events": []
+ },
+ "27-1": {
+  "score": 1,
+  "heard": "Deforestation, soil erosion, excessive chemical use, and unsustainable farming practices can damage its delicate balance.",
+  "dur": 8.83,
+  "events": []
+ },
+ "28-1": {
+  "score": 1,
+  "heard": "When soil is left exposed, wind and rain can carry away its most fertile layers.",
+  "dur": 6.03,
+  "events": []
+ },
+ "28-3": {
+  "score": 1,
+  "heard": "When soil is left exposed, wind and rain can carry away its most fertile layers.",
+  "dur": 5.96,
+  "events": []
+ },
+ "28-2": {
+  "score": 1,
+  "heard": "When soil is left exposed, wind and rain can carry away its most fertile layers.",
+  "dur": 5.72,
+  "events": []
+ },
+ "29-1": {
+  "score": 1,
+  "heard": "When soil structure is damaged, water and air movement become more difficult, making life harder for roots and microorganisms",
+  "dur": 8.05,
+  "events": []
+ },
+ "29-3": {
+  "score": 1,
+  "heard": "When soil structure is damaged, water and air movement become more difficult, making life harder for roots and microorganisms",
+  "dur": 8.12,
+  "events": []
+ },
+ "29-2": {
+  "score": 1,
+  "heard": "When soil structure is damaged, water and air movement become more difficult, making life harder for roots and microorganisms",
+  "dur": 8.28,
+  "events": []
+ },
+ "30-3": {
+  "score": 1,
+  "heard": "And when biodiversity declines, the natural processes that keep soil healthy can become weaker.",
+  "dur": 6.53,
+  "events": []
+ },
+ "30-1": {
+  "score": 1,
+  "heard": "And when biodiversity declines, the natural processes that keep soil healthy can become weaker.",
+  "dur": 6.69,
+  "events": []
+ },
+ "30-2": {
+  "score": 1,
+  "heard": "And when biodiversity declines, the natural processes that keep soil healthy can become weaker",
+  "dur": 6.43,
+  "events": []
+ },
+ "31-1": {
+  "score": 1,
+  "heard": "Healthy soil is not just important for agriculture",
+  "dur": 3.63,
+  "events": []
+ },
+ "31-2": {
+  "score": 1,
+  "heard": "Healthy soil is not just important for agriculture",
+  "dur": 3.63,
+  "events": []
+ },
+ "31-3": {
+  "score": 1,
+  "heard": "Healthy soil is not just important for agriculture",
+  "dur": 3.55,
+  "events": []
+ },
+ "32-2": {
+  "score": 1,
+  "heard": "It is essential for food security, biodiversity, clean water, and the future of our planet",
+  "dur": 6.84,
+  "events": []
+ },
+ "32-1": {
+  "score": 1,
+  "heard": "It is essential for food security, biodiversity, clean water, and the future of our planet",
+  "dur": 6.77,
+  "events": []
+ },
+ "32-3": {
+  "score": 1,
+  "heard": "It is essential for food security, biodiversity, clean water, and the future of our planet",
+  "dur": 6.92,
+  "events": []
+ },
+ "33-2": {
+  "score": 1,
+  "heard": "Protecting soil means protecting the foundation of life itself",
+  "dur": 4.91,
+  "events": []
+ },
+ "33-3": {
+  "score": 1,
+  "heard": "Protecting soil means protecting the foundation of life itself",
+  "dur": 4.99,
+  "events": []
+ },
+ "33-1": {
+  "score": 1,
+  "heard": "Protecting soil means protecting the foundation of life itself",
+  "dur": 4.75,
+  "events": []
+ },
+ "34-1": {
+  "score": 1,
+  "heard": "The next time you look at the ground beneath your feet remember what lies hidden below.",
+  "dur": 5.41,
+  "events": []
+ },
+ "34-3": {
+  "score": 1,
+  "heard": "The next time you look at the ground beneath your feet remember what lies hidden below.",
+  "dur": 5.33,
+  "events": []
+ },
+ "34-2": {
+  "score": 1,
+  "heard": "The next time you look at the ground beneath your feet remember what lies hidden below.",
+  "dur": 5.33,
+  "events": []
+ },
+ "35-2": {
+  "score": 1,
+  "heard": "A world of tiny organisms, delicate networks, flowing water, and endless interactions",
+  "dur": 7.08,
+  "events": []
+ },
+ "35-1": {
+  "score": 1,
+  "heard": "A world of tiny organisms, delicate networks, flowing water, and endless interactions",
+  "dur": 7.16,
+  "events": []
+ },
+ "35-3": {
+  "score": 1,
+  "heard": "A world of tiny organisms, delicate networks, flowing water, and endless interactions",
+  "dur": 7.08,
+  "events": []
+ },
+ "36-2": {
+  "score": 1,
+  "heard": "Soil is not simply where life grows",
+  "dur": 3.16,
+  "events": []
+ },
+ "36-1": {
+  "score": 1,
+  "heard": "Soil is not simply where life grows",
+  "dur": 3.24,
+  "events": []
+ },
+ "36-3": {
+  "score": 1,
+  "heard": "Soil is not simply where life grows",
+  "dur": 3.16,
+  "events": []
+ },
+ "37-2": {
+  "score": 1,
+  "heard": "It is one of the places where life begins",
+  "dur": 3.32,
+  "events": []
+ },
+ "37-1": {
+  "score": 1,
+  "heard": "It is one of the places where life begins",
+  "dur": 3.4,
+  "events": []
+ },
+ "37-3": {
+  "score": 1,
+  "heard": "It is one of the places where life begins",
+  "dur": 3.47,
+  "events": []
+ },
+ "38-2": {
+  "score": 0.984,
+  "heard": "If you enjoy discovering this hidden world, subscribe to Art of Agriculture and share this video with someone who cares about nature and agriculture",
+  "dur": 8.67,
+  "events": []
+ },
+ "38-3": {
+  "score": 1,
+  "heard": "If you enjoyed discovering this hidden world, subscribe to Art of Agriculture and share this video with someone who cares about nature and agriculture",
+  "dur": 8.67,
+  "events": []
+ },
+ "38-1": {
+  "score": 0.984,
+  "heard": "If you enjoy discovering this hidden world, subscribe to Art of Agriculture and share this video with someone who cares about nature and agriculture",
+  "dur": 8.59,
+  "events": []
+ },
+ "39-1": {
+  "score": 0.977,
+  "heard": "Art of agriculture. Discover the science behind life",
+  "dur": 4.36,
+  "events": []
+ },
+ "39-2": {
+  "score": 0.977,
+  "heard": "Art of agriculture. Discover the science behind life",
+  "dur": 4.44,
+  "events": []
+ },
+ "39-3": {
+  "score": 0.932,
+  "heard": "Art of Agriculture: Discover the Science Behind Life",
+  "dur": 4.44,
+  "events": []
+ }
+}

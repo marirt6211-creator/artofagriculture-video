@@ -1,0 +1,275 @@
+[
+ {
+  "n": 1,
+  "sp": "A",
+  "fa": "[curious, intimate] What if I told you that beneath your feet lies a world more alive and complex than you could ever imagine?",
+  "check": "What if I told you that beneath your feet lies a world more alive and complex than you could ever imagine?",
+  "gap": 0.45
+ },
+ {
+  "n": 2,
+  "sp": "A",
+  "fa": "[wonder] A hidden universe, filled with millions of tiny organisms, mysterious networks, and incredible interactions that make life on Earth possible.",
+  "check": "A hidden universe, filled with millions of tiny organisms, mysterious networks, and incredible interactions that make life on Earth possible.",
+  "gap": 0.45
+ },
+ {
+  "n": 3,
+  "sp": "A",
+  "fa": "[reflective] We walk over it every day, often without noticing its importance.",
+  "check": "We walk over it every day, often without noticing its importance.",
+  "gap": 0.5
+ },
+ {
+  "n": 4,
+  "sp": "A",
+  "fa": "[warm, slow] This is the hidden world beneath our feet.",
+  "check": "This is the hidden world beneath our feet.",
+  "gap": 0.5
+ },
+ {
+  "n": 5,
+  "sp": "A",
+  "fa": "[warm, inviting] Welcome to the incredible world of soil.",
+  "check": "Welcome to the incredible world of soil.",
+  "gap": 0.9
+ },
+ {
+  "n": 6,
+  "sp": "A",
+  "fa": "[warm] Soil is much more than the dirt we see on the surface.",
+  "check": "Soil is much more than the dirt we see on the surface.",
+  "gap": 0.35
+ },
+ {
+  "n": 7,
+  "sp": "A",
+  "fa": "[informative] It is a complex living ecosystem made up of minerals, organic matter, water, air, and countless living organisms.",
+  "check": "It is a complex living ecosystem made up of minerals, organic matter, water, air, and countless living organisms.",
+  "gap": 0.45
+ },
+ {
+  "n": 8,
+  "sp": "A",
+  "fa": "[informative] Bacteria break down dead plant and animal materials, returning valuable nutrients to the environment.",
+  "check": "Bacteria break down dead plant and animal materials, returning valuable nutrients to the environment.",
+  "gap": 0.45
+ },
+ {
+  "n": 9,
+  "sp": "A",
+  "fa": "[fascinated] Fungi spread through the soil like tiny underground networks, connecting with plant roots and helping them access essential nutrients.",
+  "check": "Fungi spread through the soil like tiny underground networks, connecting with plant roots and helping them access essential nutrients.",
+  "gap": 0.45
+ },
+ {
+  "n": 10,
+  "sp": "A",
+  "fa": "[playful] And earthworms?",
+  "check": "And earthworms?",
+  "gap": 0.25
+ },
+ {
+  "n": 11,
+  "sp": "A",
+  "fa": "[warm] They are nature's little engineers, creating tunnels that improve soil structure and allow air and water to move more easily.",
+  "check": "They are nature's little engineers, creating tunnels that improve soil structure and allow air and water to move more easily.",
+  "gap": 0.45
+ },
+ {
+  "n": 12,
+  "sp": "A",
+  "fa": "[warm] Every tiny organism plays a role in keeping this hidden ecosystem alive and balanced.",
+  "check": "Every tiny organism plays a role in keeping this hidden ecosystem alive and balanced.",
+  "gap": 0.9
+ },
+ {
+  "n": 13,
+  "sp": "A",
+  "fa": "[fascinated] But perhaps one of the most fascinating relationships in nature happens between plant roots and the microscopic life surrounding them.",
+  "check": "But perhaps one of the most fascinating relationships in nature happens between plant roots and the microscopic life surrounding them.",
+  "gap": 0.4
+ },
+ {
+  "n": 14,
+  "sp": "A",
+  "fa": "[informative] Plant roots do not work alone.",
+  "check": "Plant roots do not work alone.",
+  "gap": 0.25
+ },
+ {
+  "n": 15,
+  "sp": "A",
+  "fa": "[informative] They interact with countless microorganisms living in the soil.",
+  "check": "They interact with countless microorganisms living in the soil.",
+  "gap": 0.4
+ },
+ {
+  "n": 16,
+  "sp": "A",
+  "fa": "[curious] Some fungi form special partnerships with plant roots, known as mycorrhizae.",
+  "check": "Some fungi form special partnerships with plant roots, known as mycorrhizae.",
+  "gap": 0.4
+ },
+ {
+  "n": 17,
+  "sp": "A",
+  "fa": "[informative] Their delicate filaments extend far beyond the roots, helping plants absorb water and essential nutrients, especially phosphorus.",
+  "check": "Their delicate filaments extend far beyond the roots, helping plants absorb water and essential nutrients, especially phosphorus.",
+  "gap": 0.4
+ },
+ {
+  "n": 18,
+  "sp": "A",
+  "fa": "[warm] In return, plants provide these fungi with sugars produced through photosynthesis.",
+  "check": "In return, plants provide these fungi with sugars produced through photosynthesis.",
+  "gap": 0.4
+ },
+ {
+  "n": 19,
+  "sp": "A",
+  "fa": "[warm, admiring] It is a remarkable partnership: plants supply energy, while fungi help them access the resources they need.",
+  "check": "It is a remarkable partnership: plants supply energy, while fungi help them access the resources they need.",
+  "gap": 0.6
+ },
+ {
+  "n": 20,
+  "sp": "A",
+  "fa": "[mysterious] And there is something else happening beneath the surface.",
+  "check": "And there is something else happening beneath the surface.",
+  "gap": 0.3
+ },
+ {
+  "n": 21,
+  "sp": "A",
+  "fa": "[calm] Water slowly moves through tiny spaces between soil particles.",
+  "check": "Water slowly moves through tiny spaces between soil particles.",
+  "gap": 0.35
+ },
+ {
+  "n": 22,
+  "sp": "A",
+  "fa": "[calm] Some of it is stored in the soil, while some travels toward plant roots.",
+  "check": "Some of it is stored in the soil, while some travels toward plant roots.",
+  "gap": 0.4
+ },
+ {
+  "n": 23,
+  "sp": "A",
+  "fa": "[informative] Root hairs, tiny extensions of root cells, greatly increase the surface area available for water and nutrient absorption.",
+  "check": "Root hairs, tiny extensions of root cells, greatly increase the surface area available for water and nutrient absorption.",
+  "gap": 0.4
+ },
+ {
+  "n": 24,
+  "sp": "A",
+  "fa": "[informative] Through this hidden process, water travels from the soil into the roots and then moves upward through the plant.",
+  "check": "Through this hidden process, water travels from the soil into the roots and then moves upward through the plant.",
+  "gap": 0.4
+ },
+ {
+  "n": 25,
+  "sp": "A",
+  "fa": "[wonder] A world of activity, invisible to our eyes, but essential to every green leaf above the ground.",
+  "check": "A world of activity, invisible to our eyes, but essential to every green leaf above the ground.",
+  "gap": 0.9
+ },
+ {
+  "n": 26,
+  "sp": "A",
+  "fa": "[serious] But this incredible underground ecosystem is also surprisingly fragile.",
+  "check": "But this incredible underground ecosystem is also surprisingly fragile.",
+  "gap": 0.4
+ },
+ {
+  "n": 27,
+  "sp": "A",
+  "fa": "[serious] Deforestation, soil erosion, excessive chemical use, and unsustainable farming practices can damage its delicate balance.",
+  "check": "Deforestation, soil erosion, excessive chemical use, and unsustainable farming practices can damage its delicate balance.",
+  "gap": 0.45
+ },
+ {
+  "n": 28,
+  "sp": "A",
+  "fa": "[serious] When soil is left exposed, wind and rain can carry away its most fertile layers.",
+  "check": "When soil is left exposed, wind and rain can carry away its most fertile layers.",
+  "gap": 0.4
+ },
+ {
+  "n": 29,
+  "sp": "A",
+  "fa": "[serious] When soil structure is damaged, water and air movement become more difficult, making life harder for roots and microorganisms.",
+  "check": "When soil structure is damaged, water and air movement become more difficult, making life harder for roots and microorganisms.",
+  "gap": 0.4
+ },
+ {
+  "n": 30,
+  "sp": "A",
+  "fa": "[concerned] And when biodiversity declines, the natural processes that keep soil healthy can become weaker.",
+  "check": "And when biodiversity declines, the natural processes that keep soil healthy can become weaker.",
+  "gap": 0.5
+ },
+ {
+  "n": 31,
+  "sp": "A",
+  "fa": "[hopeful] Healthy soil is not just important for agriculture.",
+  "check": "Healthy soil is not just important for agriculture.",
+  "gap": 0.3
+ },
+ {
+  "n": 32,
+  "sp": "A",
+  "fa": "[earnest] It is essential for food security, biodiversity, clean water, and the future of our planet.",
+  "check": "It is essential for food security, biodiversity, clean water, and the future of our planet.",
+  "gap": 0.45
+ },
+ {
+  "n": 33,
+  "sp": "A",
+  "fa": "[heartfelt] Protecting soil means protecting the foundation of life itself.",
+  "check": "Protecting soil means protecting the foundation of life itself.",
+  "gap": 0.9
+ },
+ {
+  "n": 34,
+  "sp": "A",
+  "fa": "[warm, gentle] The next time you look at the ground beneath your feet, remember what lies hidden below.",
+  "check": "The next time you look at the ground beneath your feet, remember what lies hidden below.",
+  "gap": 0.4
+ },
+ {
+  "n": 35,
+  "sp": "A",
+  "fa": "[warm, gentle] A world of tiny organisms, delicate networks, flowing water, and endless interactions.",
+  "check": "A world of tiny organisms, delicate networks, flowing water, and endless interactions.",
+  "gap": 0.45
+ },
+ {
+  "n": 36,
+  "sp": "A",
+  "fa": "[warm] Soil is not simply where life grows.",
+  "check": "Soil is not simply where life grows.",
+  "gap": 0.3
+ },
+ {
+  "n": 37,
+  "sp": "A",
+  "fa": "[inspired] It is one of the places where life begins.",
+  "check": "It is one of the places where life begins.",
+  "gap": 0.8
+ },
+ {
+  "n": 38,
+  "sp": "A",
+  "fa": "[friendly, inviting] If you enjoyed discovering this hidden world, subscribe to Art of Agriculture and share this video with someone who cares about nature and agriculture.",
+  "check": "If you enjoyed discovering this hidden world, subscribe to Art of Agriculture and share this video with someone who cares about nature and agriculture.",
+  "gap": 0.5
+ },
+ {
+  "n": 39,
+  "sp": "A",
+  "fa": "[warm, confident] Art of Agriculture. Discover the science behind life.",
+  "check": "Art of Agriculture. Discover the science behind life.",
+  "gap": 0.6
+ }
+]

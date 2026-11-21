@@ -1,0 +1,557 @@
+{
+ "clips": {
+  "f11": {
+   "file": "v19/footage/f11.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 9,
+   "fps": 25,
+   "in": 0,
+   "out": 9,
+   "audio": false,
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "source": "mixkit",
+   "id": "14774",
+   "title": "Man feet walking through the forest",
+   "page": "https://mixkit.co/free-stock-video/man-feet-walking-through-the-forest-14774/",
+   "author": "",
+   "year": null,
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Man feet walking through the forest · Mixkit · Mixkit Free License",
+   "shot": "f11"
+  },
+  "f16": {
+   "file": "v19/footage/f16.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 8,
+   "fps": 24,
+   "in": 0,
+   "out": 8,
+   "audio": false,
+   "focus": [
+    0.26,
+    0.5
+   ],
+   "source": "mixkit",
+   "id": "32616",
+   "title": "Feet of a couple of people walking in a park",
+   "page": "https://mixkit.co/free-stock-video/feet-of-a-couple-of-people-walking-in-a-park-32616/",
+   "author": "",
+   "year": null,
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Feet of a couple of people walking in a park · Mixkit · Mixkit Free License",
+   "shot": "f16"
+  },
+  "f21": {
+   "file": "v19/footage/f21.mp4",
+   "kind": "video",
+   "w": 2050,
+   "h": 1080,
+   "dur": 8.008,
+   "fps": 23.976,
+   "in": 0,
+   "out": 8,
+   "audio": false,
+   "focus": [
+    0.521,
+    0.5
+   ],
+   "source": "coverr",
+   "id": "coverr-grabbing-soil-4313",
+   "title": "Grabbing soil",
+   "page": "https://coverr.co/videos/grabbing-soil-bafkoypmb4",
+   "author": "",
+   "year": 2021,
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Grabbing soil · Coverr · Coverr License",
+   "shot": "f21"
+  },
+  "f23": {
+   "file": "v19/footage/f23.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 8.008,
+   "fps": 23.976,
+   "in": 0,
+   "out": 8,
+   "audio": false,
+   "focus": [
+    0.156,
+    0.5
+   ],
+   "source": "coverr",
+   "id": "coverr-dried-leaf-2618",
+   "title": "Dried leaf",
+   "page": "https://coverr.co/videos/dried-leaf-urqodulopv",
+   "author": "",
+   "year": 2021,
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Dried leaf · Coverr · Coverr License",
+   "shot": "f23"
+  },
+  "f25": {
+   "file": "v19/footage/f25.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 10.01,
+   "fps": 23.976,
+   "in": 2,
+   "out": 12,
+   "audio": false,
+   "focus": [
+    0.542,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "27636",
+   "title": "biology, worm, earthworm, insect, soil, invertebrates, compost, nature, earth, fertilizer, organic, ecological, humus, trash, recycle",
+   "page": "https://pixabay.com/videos/id-27636/",
+   "author": "padrinan",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "biology, worm, earthworm, insect, soil, invertebrates, compost, nature, earth, fertilizer, organic, ecological, humus, trash, recycle · padrinan · Pixabay · Pixabay Content License",
+   "shot": "f25"
+  },
+  "f35": {
+   "file": "v19/footage/f35.mp4",
+   "kind": "video",
+   "w": 2050,
+   "h": 1080,
+   "dur": 8.008,
+   "fps": 23.976,
+   "in": 2,
+   "out": 10,
+   "audio": false,
+   "focus": [
+    0.854,
+    0.5
+   ],
+   "source": "coverr",
+   "id": "coverr-sunlight-shining-through-green-leaves-3256",
+   "title": "Sunlight shining through green leaves",
+   "page": "https://coverr.co/videos/sunlight-shining-through-green-leaves-95n7qiwzte",
+   "author": "",
+   "year": 2021,
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Sunlight shining through green leaves · Coverr · Coverr License",
+   "shot": "f35"
+  },
+  "f37": {
+   "file": "v19/footage/f37.mp4",
+   "kind": "video",
+   "w": 1936,
+   "h": 1080,
+   "dur": 5,
+   "fps": 30,
+   "in": 0,
+   "out": 5,
+   "audio": false,
+   "focus": [
+    0.531,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "341309",
+   "title": "sprout, growth, seedling, nature, soil, plant, green, rain, drop, life, hope, macro, environment, ecology, garden, agriculture, birth, fresh, earth, contrast, bokeh, cinematic, realistic, moist, organic",
+   "page": "https://pixabay.com/videos/id-341309/",
+   "author": "Solarselle77",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "sprout, growth, seedling, nature, soil, plant, green, rain, drop, life, hope, macro, environment, ecology, garden, agriculture, birth, fresh, earth, contrast, bokeh, cinematic, realistic, moist, organic · Solarselle77 · Pixabay · Pixabay Content License",
+   "shot": "f37"
+  },
+  "f311": {
+   "file": "v19/footage/f311.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 8.008,
+   "fps": 23.976,
+   "in": 4,
+   "out": 12,
+   "audio": false,
+   "focus": [
+    0.844,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "335040",
+   "title": "drone, nature, landscape, flight, forest, aerial, summer, travel, trees, pine, evergreen, woods, green",
+   "page": "https://pixabay.com/videos/id-335040/",
+   "author": "Kamen_A",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "drone, nature, landscape, flight, forest, aerial, summer, travel, trees, pine, evergreen, woods, green · Kamen_A · Pixabay · Pixabay Content License",
+   "shot": "f311"
+  },
+  "f42a": {
+   "file": "v19/footage/f42a.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 6,
+   "fps": 30,
+   "in": 3,
+   "out": 9,
+   "audio": false,
+   "focus": [
+    0.844,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "230496",
+   "title": "forest, woods, deforestation, tree logging, cut trees, fallen trees, environment, wood piles, timber, forest clearance, logging site, climate, woodland, crisis, habitat loss, lumber, timber harvesting, ecological impact, wood industry, natural resources, global warming, sustainability, nature, landscape",
+   "page": "https://pixabay.com/videos/id-230496/",
+   "author": "DrohnenpilotDeutschland",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "forest, woods, deforestation, tree logging, cut trees, fallen trees, environment, wood piles, timber, forest clearance, logging site, climate, woodland, crisis, habitat loss, lumber, timber harvesting, ecological impact, wood industry, natural resources, global warming, sustainability, nature, landscape · DrohnenpilotDeutschland · Pixabay · Pixabay Content License",
+   "shot": "f42a"
+  },
+  "f42c": {
+   "file": "v19/footage/f42c.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 8,
+   "fps": 25,
+   "in": 0,
+   "out": 8,
+   "audio": false,
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "source": "mixkit",
+   "id": "7692",
+   "title": "Tractor spraying crops",
+   "page": "https://mixkit.co/free-stock-video/tractor-spraying-crops-7692/",
+   "author": "",
+   "year": null,
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Tractor spraying crops · Mixkit · Mixkit Free License",
+   "shot": "f42c"
+  },
+  "f42d": {
+   "file": "v19/footage/f42d.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 8,
+   "fps": 24,
+   "in": 2,
+   "out": 10,
+   "audio": false,
+   "focus": [
+    0.24,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "315063",
+   "title": "field, farmland, drone footage, freshly plowed field, crop rows, agricultural landscape, young crops, early growth stage, aerial view, rural scenery, countryside, green field, textured ground, patterns in soil, agriculture from above",
+   "page": "https://pixabay.com/videos/id-315063/",
+   "author": "aerofotografialincoln",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "field, farmland, drone footage, freshly plowed field, crop rows, agricultural landscape, young crops, early growth stage, aerial view, rural scenery, countryside, green field, textured ground, patterns in soil, agriculture from above · aerofotografialincoln · Pixabay · Pixabay Content License",
+   "shot": "f42d"
+  },
+  "f44a": {
+   "file": "v19/footage/f44a.jpg",
+   "kind": "image",
+   "w": 1280,
+   "h": 854,
+   "focus": [
+    0.5,
+    0.499
+   ],
+   "source": "pixabay",
+   "id": "4530957",
+   "title": "sense, prints, tire tracks, fields, nature, rain, mud, tractor tracks",
+   "page": "https://pixabay.com/photos/sense-prints-tire-tracks-fields-4530957/",
+   "author": "Glavo",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "sense, prints, tire tracks, fields, nature, rain, mud, tractor tracks · Glavo · Pixabay · Pixabay Content License",
+   "shot": "f44a"
+  },
+  "f44b": {
+   "file": "v19/footage/f44b.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 8,
+   "fps": 30,
+   "in": 0,
+   "out": 8,
+   "audio": false,
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "source": "mixkit",
+   "id": "9692",
+   "title": "Land soil cracked from drought",
+   "page": "https://mixkit.co/free-stock-video/land-soil-cracked-from-drought-9692/",
+   "author": "",
+   "year": null,
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Land soil cracked from drought · Mixkit · Mixkit Free License",
+   "shot": "f44b"
+  },
+  "f46": {
+   "file": "v19/footage/f46.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 8.008,
+   "fps": 29.97,
+   "in": 6,
+   "out": 14,
+   "audio": false,
+   "focus": [
+    0.667,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "217768",
+   "title": "field, farmer, sunset, rural, netherlands, drenthe, havelte, landscape, nature, summer, outdoors",
+   "page": "https://pixabay.com/videos/id-217768/",
+   "author": "Matthias_Groeneveld",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "field, farmer, sunset, rural, netherlands, drenthe, havelte, landscape, nature, summer, outdoors · Matthias_Groeneveld · Pixabay · Pixabay Content License",
+   "shot": "f46"
+  },
+  "f47a": {
+   "file": "v19/footage/f47a.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 6.006,
+   "fps": 29.97,
+   "in": 0,
+   "out": 6,
+   "audio": false,
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "62390",
+   "title": "wheat, field, barley, grass, sunset, wind, sunrise, golden, harvest, farmer, rural, cereals, grain, countryside, meadow, 4k",
+   "page": "https://pixabay.com/videos/id-62390/",
+   "author": "JoshuaWoroniecki",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "wheat, field, barley, grass, sunset, wind, sunrise, golden, harvest, farmer, rural, cereals, grain, countryside, meadow, 4k · JoshuaWoroniecki · Pixabay · Pixabay Content License",
+   "shot": "f47a"
+  },
+  "f47c": {
+   "file": "v19/footage/f47c.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 6.006,
+   "fps": 29.97,
+   "in": 4,
+   "out": 10,
+   "audio": false,
+   "focus": [
+    0.844,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "231639",
+   "title": "river, water, trees, clean, environment, nature, landscape",
+   "page": "https://pixabay.com/videos/id-231639/",
+   "author": "McPix22",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "river, water, trees, clean, environment, nature, landscape · McPix22 · Pixabay · Pixabay Content License",
+   "shot": "f47c"
+  },
+  "f47d": {
+   "file": "v19/footage/f47d.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 8.008,
+   "fps": 29.97,
+   "in": 2,
+   "out": 10,
+   "audio": false,
+   "focus": [
+    0.802,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "1175",
+   "title": "earth, universe, space, planet, world, globe, science, astronomy, cosmos, planet earth, blue, the atmosphere, light, orbit, horizon",
+   "page": "https://pixabay.com/videos/id-1175/",
+   "author": "TBIT",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "earth, universe, space, planet, world, globe, science, astronomy, cosmos, planet earth, blue, the atmosphere, light, orbit, horizon · TBIT · Pixabay · Pixabay Content License",
+   "shot": "f47d"
+  },
+  "f53": {
+   "file": "v19/footage/f53.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 6.4,
+   "fps": 25,
+   "in": 0,
+   "out": 10,
+   "audio": false,
+   "focus": [
+    0.188,
+    0.5
+   ],
+   "source": "mixkit",
+   "id": "46091",
+   "title": "Small seedlings sprouting new shoots",
+   "page": "https://mixkit.co/free-stock-video/small-seedlings-sprouting-new-shoots-46091/",
+   "author": "",
+   "year": null,
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Small seedlings sprouting new shoots · Mixkit · Mixkit Free License",
+   "shot": "f53"
+  }
+ }
+}

@@ -6,3 +6,4 @@ v2: user answers — narration "subscribe to Art of Agriculture"; keep tagline "
 New assets a10 rain still, a11 wind still, a12 wind gif, a13 bacteria still, a14 bacteria gif, a15 vertical runoff mp4 (720x1280).
 No free HD erosion footage exists (searched all libs). Plan: stills as hero + code rain/dust/water overlays; GIFs only accents.
 v3: visual storyboard frames videos/19/storyboard/*.jpg (render.cjs); music A (piano/strings) & B (marimba/synth) in videos/19/music; new asset a16 rain furrows 1280x720
+Build: public/v19 is not in git. Rebuild: art = uploads/v19 (gifs -> 1920x1080 ping-pong mp4, see session), footage = node tools/footage.mjs get (src/v19/footage.json), vo = tools/doc-build-vo.mjs videos/19/voice ... --lead 0.4 --tail 0.6 --tempo 1.1 then apad to 232.1, music = tail.cjs music-A.mp3 232.2, mix = tools/doc-mix.mjs videos/19/audio.json.
