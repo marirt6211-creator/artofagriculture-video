@@ -2,3 +2,6 @@
 Voice: Sarah (EXAVITQu4vr4xnSDxMaL), eleven_v4, same settings as v18.
 Assets: uploads/v19/a01..a09 (a06-a09 GIFs 640x360).
 Missing: rain erosion on field (4.3a), wind erosion dust off plowed field (4.3b); optional bacteria on decaying leaf (2.3).
+v2: user answers — narration "subscribe to Art of Agriculture"; keep tagline "Discover the science behind life."
+New assets a10 rain still, a11 wind still, a12 wind gif, a13 bacteria still, a14 bacteria gif, a15 vertical runoff mp4 (720x1280).
+No free HD erosion footage exists (searched all libs). Plan: stills as hero + code rain/dust/water overlays; GIFs only accents.
