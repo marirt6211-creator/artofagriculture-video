@@ -5,3 +5,4 @@ Missing: rain erosion on field (4.3a), wind erosion dust off plowed field (4.3b)
 v2: user answers — narration "subscribe to Art of Agriculture"; keep tagline "Discover the science behind life."
 New assets a10 rain still, a11 wind still, a12 wind gif, a13 bacteria still, a14 bacteria gif, a15 vertical runoff mp4 (720x1280).
 No free HD erosion footage exists (searched all libs). Plan: stills as hero + code rain/dust/water overlays; GIFs only accents.
+v3: visual storyboard frames videos/19/storyboard/*.jpg (render.cjs); music A (piano/strings) & B (marimba/synth) in videos/19/music; new asset a16 rain furrows 1280x720

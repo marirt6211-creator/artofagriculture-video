@@ -1,0 +1,123 @@
+{
+ "positive_global_styles": [
+  "organic electronic documentary score",
+  "medium energy",
+  "steady 96 bpm groove",
+  "marimba and plucked synth patterns",
+  "warm analog pads",
+  "soft modern drums",
+  "subtle cello",
+  "curious and modern",
+  "instrumental",
+  "clean polished mix"
+ ],
+ "negative_global_styles": [
+  "vocals",
+  "choir",
+  "epic trailer",
+  "aggressive drums",
+  "edm drop",
+  "dubstep",
+  "childish",
+  "toy instruments",
+  "ukulele",
+  "whistling",
+  "horror"
+ ],
+ "sections": [
+  {
+   "section_name": "Hidden World",
+   "positive_local_styles": [
+    "glassy pads",
+    "gentle pluck pattern",
+    "mysterious and inviting"
+   ],
+   "negative_local_styles": [
+    "heavy drums"
+   ],
+   "duration_ms": 30000,
+   "lines": []
+  },
+  {
+   "section_name": "Living Soil",
+   "positive_local_styles": [
+    "soft drums enter",
+    "marimba groove",
+    "bright and curious"
+   ],
+   "negative_local_styles": [
+    "loud"
+   ],
+   "duration_ms": 40000,
+   "lines": []
+  },
+  {
+   "section_name": "Secret Connection",
+   "positive_local_styles": [
+    "full groove",
+    "warm bass",
+    "cello melody",
+    "fascinating, flowing"
+   ],
+   "negative_local_styles": [
+    "aggressive"
+   ],
+   "duration_ms": 60000,
+   "lines": []
+  },
+  {
+   "section_name": "Fragile",
+   "positive_local_styles": [
+    "drums drop out",
+    "filtered pads",
+    "minor key",
+    "reflective and serious",
+    "quiet pulse"
+   ],
+   "negative_local_styles": [
+    "dramatic hits",
+    "drums"
+   ],
+   "duration_ms": 45000,
+   "lines": []
+  },
+  {
+   "section_name": "Foundation",
+   "positive_local_styles": [
+    "groove returns",
+    "hopeful chord change"
+   ],
+   "negative_local_styles": [
+    "heavy"
+   ],
+   "duration_ms": 15000,
+   "lines": []
+  },
+  {
+   "section_name": "Where Life Begins",
+   "positive_local_styles": [
+    "uplifting full groove",
+    "shimmering bells",
+    "inspiring"
+   ],
+   "negative_local_styles": [
+    "aggressive"
+   ],
+   "duration_ms": 22000,
+   "lines": []
+  },
+  {
+   "section_name": "Outro",
+   "positive_local_styles": [
+    "soft resolution",
+    "pads and marimba",
+    "fade out"
+   ],
+   "negative_local_styles": [
+    "drums"
+   ],
+   "duration_ms": 10000,
+   "lines": []
+  }
+ ]
+}

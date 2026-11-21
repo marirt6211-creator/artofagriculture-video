@@ -1,0 +1,10 @@
+{"positive_global_styles":["cinematic science documentary score","medium energy","steady gentle pulse","felt piano ostinato","warm strings","light organic percussion","sense of wonder and curiosity","instrumental","100 bpm","modern and polished"],
+ "negative_global_styles":["vocals","choir","epic trailer","aggressive drums","edm drop","dubstep","childish","toy instruments","ukulele","whistling","horror"],
+ "sections":[
+ {"section_name":"Hidden World","positive_local_styles":["mysterious shimmering pads","piano ostinato enters","soft pulse","wonder"],"negative_local_styles":["heavy drums"],"duration_ms":30000,"lines":[]},
+ {"section_name":"Living Soil","positive_local_styles":["light shaker and soft kick","pizzicato strings","curious and lively","moving forward"],"negative_local_styles":["loud"],"duration_ms":40000,"lines":[]},
+ {"section_name":"Secret Connection","positive_local_styles":["warm cellos join","flowing arpeggios","fuller but calm","fascination","steady groove"],"negative_local_styles":["aggressive"],"duration_ms":60000,"lines":[]},
+ {"section_name":"Fragile","positive_local_styles":["thinner texture","minor key","low strings and soft piano","serious and reflective","pulse continues quietly"],"negative_local_styles":["dramatic hits","drums"],"duration_ms":45000,"lines":[]},
+ {"section_name":"Foundation","positive_local_styles":["return to major key","hopeful swell","strings and piano"],"negative_local_styles":["heavy"],"duration_ms":15000,"lines":[]},
+ {"section_name":"Where Life Begins","positive_local_styles":["uplifting warm full arrangement","gentle percussion","inspiring","shimmering bells"],"negative_local_styles":["aggressive"],"duration_ms":22000,"lines":[]},
+ {"section_name":"Outro","positive_local_styles":["soft resolution","piano and strings","fade out"],"negative_local_styles":["drums"],"duration_ms":10000,"lines":[]}]}
