@@ -1,0 +1,311 @@
+<title>Hidden World Storyboard</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Layout: one narrow reading column; each shot is a row with a 16:9 frame + notes, stacking on phones. Soil-dark ground, mycelium teal for motion graphics, root amber for footage/assets. */
+:root{
+  --bg:#f3f1ec; --panel:#ffffff; --fg:#1d1a16; --muted:#6b6459; --line:#ddd6ca;
+  --teal:#0f7f78; --amber:#a8661a; --red:#b23a2a; --chip:#ebe6dc;
+  --display:"Fraunces", Georgia, serif; --body:"Inter", system-ui, sans-serif; --mono:"JetBrains Mono", ui-monospace, monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#12100d; --panel:#1b1814; --fg:#ece6db; --muted:#a39a8c; --line:#2f2a23;
+  --teal:#4cc9be; --amber:#e0a24f; --red:#ef7a66; --chip:#26221c; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#12100d; --panel:#1b1814; --fg:#ece6db; --muted:#a39a8c; --line:#2f2a23;
+  --teal:#4cc9be; --amber:#e0a24f; --red:#ef7a66; --chip:#26221c; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font:15px/1.55 var(--body);padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:28px 60px}
+.wrap{max-width:920px;margin:0 auto;display:flex;flex-direction:column;gap:28px}
+h1{font:700 clamp(28px,6vw,44px)/1.08 var(--display);margin:0;text-wrap:balance}
+h2{font:600 24px/1.2 var(--display);margin:0;text-wrap:balance}
+.eyebrow{font:500 12px var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+p{margin:0;max-width:68ch}
+.head{display:flex;gap:16px;align-items:center}
+.head img{width:64px;height:64px;flex:none}
+.spec{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px}
+.spec div{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
+.spec b{display:block;font:500 11px var(--mono);letter-spacing:.07em;text-transform:uppercase;color:var(--muted);margin-bottom:3px}
+.legend{display:flex;flex-wrap:wrap;gap:8px;font-size:13px}
+.tag{display:inline-block;font:500 11px var(--mono);letter-spacing:.04em;padding:2px 8px;border-radius:99px;background:var(--chip);white-space:nowrap}
+.t-mine{color:var(--amber)} .t-mg{color:var(--teal)} .t-foot{color:var(--fg)} .t-miss{color:var(--red)}
+.missing{border:1.5px solid var(--red);border-radius:12px;padding:16px 18px;background:var(--panel);display:flex;flex-direction:column;gap:10px}
+.missing ol{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:8px}
+.scene{display:flex;flex-direction:column;gap:14px;border-top:1px solid var(--line);padding-top:22px}
+.scene .meta{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:baseline}
+.shot{display:grid;grid-template-columns:minmax(0,300px) minmax(0,1fr);gap:16px;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px}
+@media (max-width:640px){.shot{grid-template-columns:minmax(0,1fr)}}
+.frame{position:relative;aspect-ratio:16/9;max-width:100%;border-radius:8px;overflow:hidden;background:#0d0c0a}
+.frame img,.frame video{width:100%;height:100%;object-fit:cover;display:block}
+.frame .ph{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;text-align:center;padding:12px;font:500 12px/1.4 var(--mono);color:#d9d2c5;background:repeating-linear-gradient(135deg,#1c1916 0 10px,#211d19 10px 20px)}
+.frame .ph.mg{color:#7fe3d8;background:radial-gradient(circle at 50% 60%,#0f3a37,#0b0f0f 70%)}
+.frame .ph.miss{color:#ffb4a6;background:repeating-linear-gradient(135deg,#2a1512 0 10px,#331a16 10px 20px)}
+.frame .no{position:absolute;left:8px;top:8px;font:500 11px var(--mono);background:rgba(0,0,0,.6);color:#fff;padding:2px 7px;border-radius:5px}
+.notes{display:flex;flex-direction:column;gap:7px;min-width:0}
+.vo{font-style:italic;color:var(--muted)}
+.row{display:flex;gap:8px;align-items:baseline}
+.row .tag{flex:none}
+.tr{font-size:13px;color:var(--muted)}
+.tr::before{content:"→ ";color:var(--teal)}
+.approve{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:18px;display:flex;flex-direction:column;gap:8px}
+code{font:500 13px var(--mono)}
+</style>
+
+<div class="wrap">
+  <div class="head">
+    <img src="a/logo.png" alt="Art of Agriculture logo">
+    <div>
+      <div class="eyebrow">Art of Agriculture · Video 19 · Storyboard v1</div>
+      <h1>The Hidden World Beneath Our Feet</h1>
+    </div>
+  </div>
+  <p>This is the plan, shot by shot. <b>No video has been made yet.</b> Reply “approved”, or tell me which shots to change.</p>
+
+  <div class="spec">
+    <div><b>Format</b>YouTube 16:9 · 1920×1080 · 30fps · ~3:40</div>
+    <div><b>Voice</b>Same voice as the channel intro: <i>Sarah</i> (ElevenLabs, eleven_v4, same settings). Your script word for word.</div>
+    <div><b>Music</b>Medium energy, about 95–105 BPM: soft pulse, piano and strings, light percussion. I’ll send 2 options. Music stays well under the voice.</div>
+    <div><b>Look</b>NFP footage style: real footage and your art, slow camera moves, and a motion-graphics layer in glowing teal and gold. Kept clean, without small text.</div>
+  </div>
+
+  <div class="legend">
+    <span class="tag t-mine">YOUR ASSET</span>
+    <span class="tag t-mg">MOTION GRAPHICS</span>
+    <span class="tag t-foot">FREE FOOTAGE</span>
+    <span class="tag t-miss">NEEDS MATERIAL</span>
+  </div>
+
+  <div class="missing">
+    <h2>Material I need from you</h2>
+    <p>Most shots are covered. Two moments in Scene 4 only have weak real footage. Free clips of farmland erosion are rare: I found US government (NRCS) photos and old Dust Bowl film, but nothing modern in motion.</p>
+    <ol>
+      <li><b>Shot 4.3a · Rain erosion.</b> Heavy rain on a bare, sloping farm field. Muddy water runs off in small channels and carries dark topsoil away. 16:9, the same realistic style as your images. An animated GIF or MP4 is best.</li>
+      <li><b>Shot 4.3b · Wind erosion.</b> Wind lifting a cloud of brown dust off a dry, freshly plowed field, with a low sun. 16:9, GIF or MP4.</li>
+      <li><b>Optional · Shot 2.3 · Decomposition.</b> A close-up of bacteria (like the green rods in your images) on a decaying leaf in soil. Without it I’ll use real microscope footage plus an animation.</li>
+    </ol>
+    <p><b>Tip:</b> your 4 GIFs are 640×360. They will look soft at 1080p. If you have them as MP4 at 1280px or larger, please send those too. If not, I’ll use them as short accents with a little blur and grain.</p>
+  </div>
+
+  <!-- SCENE 1 -->
+  <section class="scene">
+    <div class="meta"><span class="eyebrow">Scene 1 · 00:00–00:30</span><h2>The Hidden World</h2></div>
+    <p class="tr" style="margin:0">Mood: wonder. The camera literally goes underground in the first 5 seconds.</p>
+
+    <div class="shot"><div class="frame"><div class="ph">Real footage<br>feet walking on a forest path</div><span class="no">1.1</span></div>
+      <div class="notes"><p class="vo">“What if I told you that beneath your feet lies a world…”</p>
+        <div class="row"><span class="tag t-foot">FOOTAGE</span><span>Slow-motion feet stepping on a leafy forest floor (Mixkit).</span></div>
+        <div class="row"><span class="tag t-mg">MG</span><span>On each step a soft teal pulse ripples into the ground, as if something below reacts.</span></div>
+        <div class="tr">The ground splits open along a glowing line, and the camera dives down.</div></div></div>
+
+    <div class="shot"><div class="frame"><img src="a/a01.jpg" alt="Soil micro world"><span class="no">1.2</span></div>
+      <div class="notes"><p class="vo">“…more alive and complex than you could ever imagine.”</p>
+        <div class="row"><span class="tag t-mg">MG</span><span>Dive transition: the camera falls through animated soil layers (leaf litter, then dark crumbs, then mineral grains), with dust particles and depth blur.</span></div>
+        <div class="row"><span class="tag t-mine">ASSET 1</span><span>We land in your micro world. 3D parallax: foreground hyphae slide past faster than the background, and water droplets drift.</span></div></div></div>
+
+    <div class="shot"><div class="frame"><video src="a/a09.mp4" poster="a/a09.jpg" autoplay muted loop playsinline></video><span class="no">1.3</span></div>
+      <div class="notes"><p class="vo">“A hidden universe, filled with millions of tiny organisms,”</p>
+        <div class="row"><span class="tag t-mine">GIF 4</span><span>The animated micro world (your GIF, blended with Asset 1 at full HD).</span></div>
+        <div class="row"><span class="tag t-mg">MG</span><span>Fine scanning rings lock onto bacteria clusters one after another. The big word <b>MILLIONS</b> forms from drifting particles.</span></div></div></div>
+
+    <div class="shot"><div class="frame"><video src="a/a08.mp4" poster="a/a08.jpg" autoplay muted loop playsinline></video><span class="no">1.4</span></div>
+      <div class="notes"><p class="vo">“…mysterious networks,”</p>
+        <div class="row"><span class="tag t-mine">GIF 3</span><span>Tree base with glowing roots.</span></div>
+        <div class="row"><span class="tag t-mg">MG</span><span>Light pulses race along the roots and continue out of the frame as thin network lines.</span></div></div></div>
+
+    <div class="shot"><div class="frame"><img src="a/a04.jpg" alt="Soil biodiversity"><span class="no">1.5</span></div>
+      <div class="notes"><p class="vo">“…and incredible interactions that make life on Earth possible.”</p>
+        <div class="row"><span class="tag t-mine">ASSET 4</span><span>Slow push-in across the busy soil scene.</span></div>
+        <div class="row"><span class="tag t-mg">MG</span><span>Connection lines draw between the worm, bacteria, fungi and roots, like a living web lighting up.</span></div></div></div>
+
+    <div class="shot"><div class="frame"><div class="ph mg">Split screen<br>park above · glowing soil below</div><span class="no">1.6</span></div>
+      <div class="notes"><p class="vo">“We walk over it every day, often without noticing its importance.”</p>
+        <div class="row"><span class="tag t-foot">FOOTAGE</span><span>People walking in a park (Mixkit).</span></div>
+        <div class="row"><span class="tag t-mg">MG</span><span>A horizontal split: the busy surface above, and Asset 1 glowing below the line. The surface half slowly desaturates.</span></div></div></div>
+
+    <div class="shot"><div class="frame"><img src="a/a03.jpg" alt="Tree roots cross-section"><span class="no">1.7</span></div>
+      <div class="notes"><p class="vo">“This is the hidden world beneath our feet.”</p>
+        <div class="row"><span class="tag t-mine">ASSET 3</span><span>The big tree cross-section with a slow crane-down from the canopy to the roots.</span></div>
+        <div class="row"><span class="tag t-mg">MG</span><span>Title card: <b>THE HIDDEN WORLD BENEATH OUR FEET</b> in a large serif, revealed word by word with light sweeping across it.</span></div></div></div>
+
+    <div class="shot"><div class="frame"><div class="ph mg">“SOIL” assembled from soil particles</div><span class="no">1.8</span></div>
+      <div class="notes"><p class="vo">“Welcome to the incredible world of soil.”</p>
+        <div class="row"><span class="tag t-mg">MG</span><span>Thousands of grains fly in and settle into the word <b>SOIL</b>, which then crumbles downward.</span></div>
+        <div class="tr">The crumbling grains become the macro soil footage in 2.1.</div></div></div>
+  </section>
+
+  <!-- SCENE 2 -->
+  <section class="scene">
+    <div class="meta"><span class="eyebrow">Scene 2 · 00:30–01:10</span><h2>Soil Is More Than Just Dirt</h2></div>
+
+    <div class="shot"><div class="frame"><div class="ph">Real footage<br>macro of rich dark soil / hands holding soil</div><span class="no">2.1</span></div>
+      <div class="notes"><p class="vo">“Soil is much more than the dirt we see on the surface.”</p>
+        <div class="row"><span class="tag t-foot">FOOTAGE</span><span>Macro of rich soil (Pixabay 4K).</span></div>
+        <div class="row"><span class="tag t-mg">MG</span><span>The surface layer peels up like a lid, and a glowing interior shows underneath.</span></div></div></div>
+
+    <div class="shot"><div class="frame"><div class="ph mg">Animated ring chart<br>minerals · organic matter · water · air · life</div><span class="no">2.2</span></div>
+      <div class="notes"><p class="vo">“It is a complex living ecosystem made up of minerals, organic matter, water, air, and countless living organisms.”</p>
+        <div class="row"><span class="tag t-mg">MG</span><span>The textbook soil-composition ring (about 45% minerals, 25% water, 25% air, 5% organic matter) builds one segment per spoken word, each with a code-drawn icon. Then a pulsing “life” layer wraps the ring. Behind it: Asset 4, blurred.</span></div></div></div>
+
+    <div class="shot"><div class="frame"><div class="ph">Real footage<br>decaying leaves → bacteria under microscope</div><span class="no">2.3</span></div>
+      <div class="notes"><p class="vo">“Bacteria break down dead plant and animal materials, returning valuable nutrients to the environment.”</p>
+        <div class="row"><span class="tag t-foot">FOOTAGE</span><span>Composting and dry leaf (Coverr), then bacteria under a microscope (Mixkit/Pixabay).</span></div>
+        <div class="row"><span class="tag t-mine">ASSET 4</span><span>A zoom into your bacteria circle inset.</span></div>
+        <div class="row"><span class="tag t-mg">MG</span><span>A leaf outline dissolves into glowing particles tagged <b>N · P · K</b>, which sink back into the soil.</span></div>
+        <div class="row"><span class="tag t-miss">OPTIONAL</span><span>Your own decomposition image would make this stronger (see list above).</span></div></div></div>
+
+    <div class="shot"><div class="frame"><img src="a/a04.jpg" alt="Fungal network inset" style="object-position:95% 75%;transform:scale(1.9);transform-origin:90% 70%"><span class="no">2.4</span></div>
+      <div class="notes"><p class="vo">“Fungi spread through the soil like tiny underground networks, connecting with plant roots…”</p>
+        <div class="row"><span class="tag t-mine">ASSET 4</span><span>The camera flies into the golden hyphae circle.</span></div>
+        <div class="row"><span class="tag t-mg">MG</span><span>Procedural hyphae grow live across the whole frame, branching on the beat, and reach a root on the word “connecting”.</span></div></div></div>
+
+    <div class="shot"><div class="frame"><div class="ph">Real footage<br>earthworm moving through soil (Pixabay 4K)</div><span class="no">2.5</span></div>
+      <div class="notes"><p class="vo">“And earthworms? They are nature’s little engineers, creating tunnels that improve soil structure and allow air and water to move more easily.”</p>
+        <div class="row"><span class="tag t-foot">FOOTAGE</span><span>A real earthworm in soil on “earthworms?”.</span></div>
+        <div class="row"><span class="tag t-mg">MG</span><span>Cut to an animated cross-section: a tunnel is drawn through the layers, then white air bubbles and blue water droplets flow through it. Small engineer-style dimension lines measure the tunnel.</span></div></div></div>
+
+    <div class="shot"><div class="frame"><img src="a/a04.jpg" alt="Soil ecosystem"><span class="no">2.6</span></div>
+      <div class="notes"><p class="vo">“Every tiny organism plays a role in keeping this hidden ecosystem alive and balanced.”</p>
+        <div class="row"><span class="tag t-mine">ASSET 4</span><span>Full frame.</span></div>
+        <div class="row"><span class="tag t-mg">MG</span><span>Each creature gets a ring highlight in turn: worm, springtail, bacteria, fungi, roots. The rings link into one balanced circle on “balanced”.</span></div></div></div>
+  </section>
+
+  <!-- SCENE 3 -->
+  <section class="scene">
+    <div class="meta"><span class="eyebrow">Scene 3 · 01:10–02:10</span><h2>The Secret Connection</h2></div>
+    <p class="tr" style="margin:0">The heart of the video. This scene gets the richest diagram animation.</p>
+
+    <div class="shot"><div class="frame"><img src="a/a02.jpg" alt="Plant roots and water"><span class="no">3.1</span></div>
+      <div class="notes"><p class="vo">“But perhaps one of the most fascinating relationships in nature happens between plant roots and the microscopic life surrounding them.”</p>
+        <div class="row"><span class="tag t-mine">ASSET 2</span><span>Slow push from the leaves down to the root zone.</span></div>
+        <div class="row"><span class="tag t-mg">MG</span><span>A glowing halo of micro-particles gathers around the roots.</span></div></div></div>
+
+    <div class="shot"><div class="frame"><img src="a/a01.jpg" alt="Microorganisms"><span class="no">3.2</span></div>
+      <div class="notes"><p class="vo">“Plant roots do not work alone. They interact with countless microorganisms living in the soil.”</p>
+        <div class="row"><span class="tag t-mine">ASSET 1 + GIF 4</span><span>A different crop and angle from 1.2: a low, close pass along one hypha.</span></div>
+        <div class="row"><span class="tag t-mg">MG</span><span>Tiny signal pulses travel between organisms.</span></div></div></div>
+
+    <div class="shot"><div class="frame"><div class="ph mg">Kinetic title<br>MYCORRHIZAE<br>myco = fungus · rhiza = root</div><span class="no">3.3</span></div>
+      <div class="notes"><p class="vo">“Some fungi form special partnerships with plant roots, known as mycorrhizae.”</p>
+        <div class="row"><span class="tag t-mg">MG</span><span>The word builds from two halves, <b>MYCO</b> (a fungus icon) and <b>RRHIZAE</b> (a root icon), which lock together. Behind it: Asset 4’s golden hyphae, blurred.</span></div></div></div>
+
+    <div class="shot"><div class="frame"><div class="ph mg">Diagram<br>root + hyphae reaching far beyond it<br>P and water flowing in</div><span class="no">3.4</span></div>
+      <div class="notes"><p class="vo">“Their delicate filaments extend far beyond the roots, helping plants absorb water and essential nutrients, especially phosphorus.”</p>
+        <div class="row"><span class="tag t-mg">MG</span><span>A clean, cinematic diagram. A root draws in. Hyphae grow out far past its reach, with a dotted line marking how far the root alone could reach. Blue droplets and a glowing <b>P</b> element tile travel along the hyphae into the root. “Phosphorus” gets an amber flash.</span></div></div></div>
+
+    <div class="shot"><div class="frame"><div class="ph">Real footage<br>sunlight through green leaves</div><span class="no">3.5</span></div>
+      <div class="notes"><p class="vo">“In return, plants provide these fungi with sugars produced through photosynthesis.”</p>
+        <div class="row"><span class="tag t-foot">FOOTAGE</span><span>Sun through leaves (Coverr 4K).</span></div>
+        <div class="row"><span class="tag t-mg">MG</span><span>Sun rays enter the leaf, and amber sugar hexagons form and flow down the stem. A match-cut to Asset 2 continues the flow down the roots to the fungi.</span></div></div></div>
+
+    <div class="shot"><div class="frame"><img src="a/a02.jpg" alt="Exchange loop"><span class="no">3.6</span></div>
+      <div class="notes"><p class="vo">“It is a remarkable partnership: plants supply energy, while fungi help them access the resources they need.”</p>
+        <div class="row"><span class="tag t-mine">ASSET 2</span><span>Wider frame.</span></div>
+        <div class="row"><span class="tag t-mg">MG</span><span>A two-way exchange loop: an amber stream flows down labeled <b>ENERGY</b>, and a blue stream flows up labeled <b>WATER + NUTRIENTS</b>. The two form a circle.</span></div></div></div>
+
+    <div class="shot"><div class="frame"><div class="ph">Real footage<br>rain drops falling on soil and a sprout</div><span class="no">3.7</span></div>
+      <div class="notes"><p class="vo">“And there is something else happening beneath the surface. Water slowly moves through tiny spaces between soil particles.”</p>
+        <div class="row"><span class="tag t-foot">FOOTAGE</span><span>Rain on a seedling (Pixabay 4K).</span></div>
+        <div class="row"><span class="tag t-mg">MG</span><span>A macro cut-away: code-drawn soil grains, with water seeping slowly through the pores between them and filling them like a maze.</span></div></div></div>
+
+    <div class="shot"><div class="frame"><video src="a/a07.mp4" poster="a/a07.jpg" autoplay muted loop playsinline></video><span class="no">3.8</span></div>
+      <div class="notes"><p class="vo">“Some of it is stored in the soil, while some travels toward plant roots.”</p>
+        <div class="row"><span class="tag t-mine">GIF 2 + ASSET 3</span><span>The tree with water streams (animated).</span></div>
+        <div class="row"><span class="tag t-mg">MG</span><span>The water path splits in two. One branch pools and glows softly (<b>STORED</b>), and the other flows to the roots.</span></div></div></div>
+
+    <div class="shot"><div class="frame"><video src="a/a06.mp4" poster="a/a06.jpg" autoplay muted loop playsinline></video><span class="no">3.9</span></div>
+      <div class="notes"><p class="vo">“Root hairs, tiny extensions of root cells, greatly increase the surface area available for water and nutrient absorption.”</p>
+        <div class="row"><span class="tag t-mine">GIF 1 + ASSET 5</span><span>The fuzzy root tip with droplets.</span></div>
+        <div class="row"><span class="tag t-mg">MG</span><span>A magnifier ring on the root hairs. Then a side-by-side: a smooth root and a hairy root, with an absorbing-surface bar that jumps up for the hairy one. There are no numbers, only the visual comparison.</span></div></div></div>
+
+    <div class="shot"><div class="frame"><img src="a/a02.jpg" alt="Water rising through the plant"><span class="no">3.10</span></div>
+      <div class="notes"><p class="vo">“Through this hidden process, water travels from the soil into the roots and then moves upward through the plant.”</p>
+        <div class="row"><span class="tag t-mine">ASSET 2</span><span>The camera tilts up with the water.</span></div>
+        <div class="row"><span class="tag t-mg">MG</span><span>A blue glow pulse traced up the roots, through the stem and into each leaf, which brightens as it arrives.</span></div></div></div>
+
+    <div class="shot"><div class="frame"><div class="ph">Real footage<br>forest canopy / sunlit green leaves</div><span class="no">3.11</span></div>
+      <div class="notes"><p class="vo">“A world of activity, invisible to our eyes, but essential to every green leaf above the ground.”</p>
+        <div class="row"><span class="tag t-foot">FOOTAGE</span><span>A drone rising over a green forest (Pixabay 4K).</span></div>
+        <div class="row"><span class="tag t-mg">MG</span><span>A faint teal root network glows through the ground under the canopy, then fades.</span></div></div></div>
+  </section>
+
+  <!-- SCENE 4 -->
+  <section class="scene">
+    <div class="meta"><span class="eyebrow">Scene 4 · 02:10–03:10</span><h2>A Fragile World Under Threat</h2></div>
+    <p class="tr" style="margin:0">Mood shift: colors cool and desaturate, and the music thins out without getting dramatic. The scene recovers on the last line.</p>
+
+    <div class="shot"><div class="frame"><img src="a/a04.jpg" alt="Ecosystem fragile" style="filter:saturate(.35) brightness(.8)"><span class="no">4.1</span></div>
+      <div class="notes"><p class="vo">“But this incredible underground ecosystem is also surprisingly fragile.”</p>
+        <div class="row"><span class="tag t-mine">ASSET 4</span><span>The color drains out.</span></div>
+        <div class="row"><span class="tag t-mg">MG</span><span>Hairline cracks spread across the frame like glass.</span></div></div></div>
+
+    <div class="shot"><div class="frame"><div class="ph">4 fast cuts, each with one word<br>DEFORESTATION · EROSION · CHEMICALS · OVER-FARMING</div><span class="no">4.2</span></div>
+      <div class="notes"><p class="vo">“Deforestation, soil erosion, excessive chemical use, and unsustainable farming practices can damage its delicate balance.”</p>
+        <div class="row"><span class="tag t-foot">FOOTAGE</span><span>Logging and fallen trees (Pixabay 4K), then the erosion clip (see 4.3a), then a tractor spraying crops (Mixkit), then a huge bare plowed field from a drone (Pixabay 4K).</span></div>
+        <div class="row"><span class="tag t-mg">MG</span><span>Each cut lands on its spoken word, with one big word that slams in. On “balance” the 4 clips shrink into a 2×2 grid and a balance-scale line tips.</span></div></div></div>
+
+    <div class="shot"><div class="frame"><div class="ph miss">NEEDED<br>rain washing topsoil off a field</div><span class="no">4.3a</span></div>
+      <div class="notes"><p class="vo">“When soil is left exposed, wind and rain…”</p>
+        <div class="row"><span class="tag t-miss">NEEDS MATERIAL</span><span>Your GIF or image of rain erosion on farmland. Fallback: the US NRCS photo “Runoff of soil &amp; fertilizer” (public domain, still) with a slow camera move.</span></div></div></div>
+
+    <div class="shot"><div class="frame"><div class="ph miss">NEEDED<br>wind blowing dust off a plowed field</div><span class="no">4.3b</span></div>
+      <div class="notes"><p class="vo">“…can carry away its most fertile layers.”</p>
+        <div class="row"><span class="tag t-miss">NEEDS MATERIAL</span><span>Your GIF or image of wind erosion. Fallback: the public-domain 1930s Dust Bowl film or the “Dust Storm in Eastern Washington” photo.</span></div>
+        <div class="row"><span class="tag t-mg">MG</span><span>Then an animated soil cross-section: the dark fertile top layer (labeled <b>TOPSOIL</b>) peels away in streams of particles, leaving pale subsoil.</span></div></div></div>
+
+    <div class="shot"><div class="frame"><div class="ph mg">Cross-section: pores collapse<br>+ cracked dry soil footage</div><span class="no">4.4</span></div>
+      <div class="notes"><p class="vo">“When soil structure is damaged, water and air movement become more difficult, making life harder for roots and microorganisms.”</p>
+        <div class="row"><span class="tag t-foot">FOOTAGE</span><span>Tractor tire ruts in mud (Pixabay photo), then cracked dry soil (Mixkit).</span></div>
+        <div class="row"><span class="tag t-mg">MG</span><span>The same pore animation as 3.7, reversed: the grains squeeze together, the pores close, and the water and air dots get stuck and turn grey. A root tip pushes and stops.</span></div></div></div>
+
+    <div class="shot"><div class="frame"><img src="a/a04.jpg" alt="Biodiversity declining" style="filter:saturate(.2) brightness(.65)"><span class="no">4.5</span></div>
+      <div class="notes"><p class="vo">“And when biodiversity declines, the natural processes that keep soil healthy can become weaker.”</p>
+        <div class="row"><span class="tag t-mine">ASSET 4</span><span>The callback to the “web of life” from 1.5.</span></div>
+        <div class="row"><span class="tag t-mg">MG</span><span>The same connection web, now with organisms fading out one by one and lines snapping. The glow weakens.</span></div></div></div>
+
+    <div class="shot"><div class="frame"><div class="ph">Real footage<br>farmer in a field at sunset</div><span class="no">4.6</span></div>
+      <div class="notes"><p class="vo">“Healthy soil is not just important for agriculture.”</p>
+        <div class="row"><span class="tag t-foot">FOOTAGE</span><span>A farmer walking a field at golden hour (Pixabay 4K). The color comes back here.</span></div></div></div>
+
+    <div class="shot"><div class="frame"><div class="ph mg">4 icon tiles, each with a matching clip<br>FOOD · BIODIVERSITY · CLEAN WATER · PLANET</div><span class="no">4.7</span></div>
+      <div class="notes"><p class="vo">“It is essential for food security, biodiversity, clean water, and the future of our planet.”</p>
+        <div class="row"><span class="tag t-foot">FOOTAGE</span><span>A golden wheat field, a clear forest river, and the Earth turning in space (all Pixabay).</span></div>
+        <div class="row"><span class="tag t-mine">ASSET 4</span><span>For biodiversity.</span></div>
+        <div class="row"><span class="tag t-mg">MG</span><span>Four tiles open one per word, each with a line icon. All four connect down to a single root line.</span></div></div></div>
+
+    <div class="shot"><div class="frame"><img src="a/a03.jpg" alt="Foundation of life"><span class="no">4.8</span></div>
+      <div class="notes"><p class="vo">“Protecting soil means protecting the foundation of life itself.”</p>
+        <div class="row"><span class="tag t-mine">ASSET 3</span><span>Full color, with a slow pull-back to reveal the whole tree.</span></div>
+        <div class="row"><span class="tag t-mg">MG</span><span>The roots light up gold. <b>THE FOUNDATION OF LIFE</b> rises from beneath the ground line.</span></div></div></div>
+  </section>
+
+  <!-- SCENE 5 -->
+  <section class="scene">
+    <div class="meta"><span class="eyebrow">Scene 5 · 03:10–03:40</span><h2>The World We Must Protect</h2></div>
+
+    <div class="shot"><div class="frame"><div class="ph">Real footage<br>hand gently touching soil / feet on path (callback to 1.1)</div><span class="no">5.1</span></div>
+      <div class="notes"><p class="vo">“The next time you look at the ground beneath your feet, remember what lies hidden below.”</p>
+        <div class="row"><span class="tag t-foot">FOOTAGE</span><span>The same forest walk as the opening, but now we stop and look down.</span></div>
+        <div class="row"><span class="tag t-mg">MG</span><span>The teal pulse from 1.1 returns under the step.</span></div></div></div>
+
+    <div class="shot"><div class="frame"><video src="a/a09.mp4" poster="a/a09.jpg" autoplay muted loop playsinline></video><span class="no">5.2</span></div>
+      <div class="notes"><p class="vo">“A world of tiny organisms, delicate networks, flowing water, and endless interactions.”</p>
+        <div class="row"><span class="tag t-mine">ALL 4 GIFS</span><span>A montage cut on the music, one clip per phrase: organisms (GIF 4), networks (GIF 3), flowing water (GIF 2), interactions (Asset 4).</span></div>
+        <div class="row"><span class="tag t-mg">MG</span><span>Each cut carries one glowing word, and the clips slide in through light-leak wipes.</span></div></div></div>
+
+    <div class="shot"><div class="frame"><div class="ph">Real footage<br>seedling sprouting from soil (timelapse)</div><span class="no">5.3</span></div>
+      <div class="notes"><p class="vo">“Soil is not simply where life grows. It is one of the places where life begins.”</p>
+        <div class="row"><span class="tag t-foot">FOOTAGE</span><span>A seedling pushing out of the ground (Pixabay 4K).</span></div>
+        <div class="row"><span class="tag t-mg">MG</span><span><b>WHERE LIFE BEGINS</b> grows upward with the sprout. A short pause in the music lands on “begins”.</span></div></div></div>
+
+    <div class="shot"><div class="frame" style="background:radial-gradient(circle at 50% 45%,#16302a,#0b0d0c 70%)"><img src="a/logo.png" alt="Channel logo" style="width:26%;height:auto;margin:9% auto 0;object-fit:contain"><span class="no">5.4</span></div>
+      <div class="notes"><p class="vo">“If you enjoyed discovering this hidden world, follow Art of Agriculture and share this video… Art of Agriculture — Discover the science behind life.”</p>
+        <div class="row"><span class="tag t-mg">END CARD</span><span>Your official logo builds in, roots grow from under it, and <b>@ArtofAgriculture</b> appears. Animated Subscribe and Share buttons get a tap animation. The last line shows the tagline <b>Discover the science behind life</b>. The background is Asset 3, blurred and dark. The last 10 s are left clean for YouTube end-screen elements.</span></div></div></div>
+  </section>
+
+  <div class="approve">
+    <h2>Two small questions</h2>
+    <p>1. The script says “follow”. On YouTube, “subscribe” is more natural. Should I change the narration to “subscribe to Art of Agriculture”?</p>
+    <p>2. The script ends with the new tagline “Discover the science behind life” instead of “Knowledge Today, Agriculture Tomorrow”. Should I keep the new one?</p>
+    <p class="tr">After approval: voice, then 2 music options, then sample frames for a final look, then the full render and a watch page.</p>
+  </div>
+</div>
