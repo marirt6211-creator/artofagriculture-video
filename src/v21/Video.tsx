@@ -43,23 +43,31 @@ const SHOTS: Sh[] = [
   { k: "s01a", at: 0, until: S(2) - 0.05, push: 0.12, rate: 0.8 },
   { k: "s02a", at: S(2) - 0.2, until: S(3) + 0.05, zoom: 1.0, push: 0.05 },
   { k: "s03a", at: S(3) - 0.1, until: S(4) - 0.05, zoom: 1.0, push: 0.03, rate: 0.9 },
-  { k: "s04a", at: S(4) - 0.2, until: S(5) - 0.05, push: 0.1 },
-  { k: "s05a", at: S(5) - 0.2, until: S(6) - 0.05, push: 0.08 },
+  { k: "s04a", at: S(4) - 0.2, until: S(5) - 0.05, push: 0.15 },
+  { k: "s05a", at: S(5) - 0.2, until: S(6) - 0.05, push: 0.13 },
   { k: "s06a", at: S(6) - 0.2, until: S(7) - 0.05, push: 0.06, focus: [0.57, 0.3], pan: [0.04, 0], from: 0.3 },
-  { k: "s07a", at: S(7) - 0.2, until: Wd(7, "and"), push: 0.1 },
-  { k: "s07b", at: Wd(7, "and") - 0.15, until: S(8) - 0.05, push: 0.08 },
-  { k: "s08a", at: S(8) - 0.2, until: S(9) - 0.05, zoom: 1.02, push: 0.08 },
-  { k: "s09a", at: S(9) - 0.2, until: S(10) - 0.05, push: 0.06 },
+  { k: "s07a", at: S(7) - 0.2, until: Wd(7, "and"), push: 0.15 },
+  { k: "s07b", at: Wd(7, "and") - 0.15, until: S(8) - 0.05, push: 0.13 },
+  { k: "s08a", at: S(8) - 0.2, until: S(9) - 0.05, zoom: 1.02, push: 0.13 },
+  { k: "s09a", at: S(9) - 0.2, until: S(10) - 0.05, push: 0.11 },
   { k: "s10a", at: S(10) - 0.2, until: Wd(10, "damage"), push: 0.06, from: 8, shake: 1 },
-  { k: "s10b", at: Wd(10, "damage") - 0.15, until: S(11) - 0.05, push: 0.08 },
-  { k: "s11a", at: S(11) - 0.2, until: S(12) - 0.05, push: 0.07 },
+  { k: "s10b", at: Wd(10, "damage") - 0.15, until: S(11) - 0.05, push: 0.13 },
+  { k: "s11a", at: S(11) - 0.2, until: S(12) - 0.05, push: 0.12 },
   { k: "s12a", at: S(12) - 0.2, until: S(13) - 0.05, push: 0.1, rate: 0.85 },
-  { k: "s13a", at: S(13) - 0.2, until: END, push: 0.06 },
+  { k: "s13a", at: S(13) - 0.2, until: END, push: 0.11 },
 ];
 const XF = 0.25;
 
+const PUNCH = () => [Wd(1, "stronger"), Wd(4, "stronger"), Wd(6, "thigmomorphogenesis"), Wd(9, "workout"), Wd(10, "damage"), Wd(11, "resilient")];
+const SWAY: [number, number, number][] = [[0, S(2), 0.6], [S(5), S(6), 0.8], [S(9), S(10), 0.7], [S(10), S(11), 1.6]];
+const camera = (t: number) => {
+  let z = 1, r = 0, dx = 0;
+  for (const a of PUNCH()) { const d = t - a; if (d > -0.05 && d < 0.7) z += 0.05 * Math.exp(-d * 6) * Math.min(1, (d + 0.05) * 20); }
+  for (const [a, b, k] of SWAY) { const o = vis(t, a, b, 0.6, 0.6); r += o * k * 0.7 * Math.sin(t * 1.6); dx += o * k * 10 * Math.sin(t * 1.1 + 1); }
+  return `translateX(${dx}px) rotate(${r}deg) scale(${z * 1.03})`;
+};
 const Bed: React.FC<{ t: number }> = ({ t }) => (
-  <>
+  <div style={{ position: "absolute", inset: 0, transform: camera(t) }}>
     {SHOTS.filter((s) => t >= s.at - 0.05 && t < s.until + 0.05).map((s) => {
       const o = lin(t, s.at, s.at + XF);
       const sh = s.shake ? Math.sin(t * 37) * 6 + Math.sin(t * 23) * 4 : 0;
@@ -69,7 +77,7 @@ const Bed: React.FC<{ t: number }> = ({ t }) => (
         </div>
       );
     })}
-  </>
+  </div>
 );
 
 const Shade: React.FC<{ t: number }> = ({ t }) => {
@@ -89,8 +97,9 @@ const Word: React.FC<{ t: number; text: string; at: number; until: number; y: nu
   const drift = (t - at) * 6;
   return (
     <div style={{ position: "absolute", left: 40, width: W - 80, top: y, textAlign: "center", fontFamily: DISP, fontWeight: 700, fontSize: size, color, letterSpacing: track, lineHeight: 1.05,
-      textShadow: shadow, opacity: p * (1 - out), transform: `translateY(${(1 - p) * 50 - drift + out * -20}px) scale(${0.92 + 0.08 * p})`, filter: `blur(${(1 - p) * 10 + out * 6}px)` }}>
+      textShadow: shadow, opacity: p * (1 - out), transform: `translateY(${(1 - p) * 50 - drift + out * -20}px) scale(${0.85 + 0.15 * back(lin(t, at, at + 0.45))})`, filter: `blur(${(1 - p) * 10 + out * 6}px)` }}>
       {text}
+      {color === GOLD2 && <div style={{ margin: "10px auto 0", height: 8, borderRadius: 4, width: `${Math.min(80, text.length * 9)}%`, background: `linear-gradient(90deg, rgba(246,210,122,0), ${GOLD2}, rgba(246,210,122,0))`, transform: `scaleX(${eio(lin(t, at + 0.15, at + 0.6))})`, boxShadow: "0 0 18px rgba(246,210,122,.8)" }} />}
     </div>
   );
 };
@@ -272,6 +281,48 @@ const Leak: React.FC<{ t: number; at: number }> = ({ t, at }) => {
   return <AbsoluteFill style={{ background: `radial-gradient(circle at 80% 20%, rgba(255,214,120,${0.55 * p}), rgba(255,180,60,0) 60%)`, mixBlendMode: "screen" }} />;
 };
 
+/** star glint: 4-point star flash with soft rays (used twice) */
+const Sparkle: React.FC<{ t: number; at: number; x: number; y: number; size?: number }> = ({ t, at, x, y, size = 1 }) => {
+  const d = t - at;
+  if (d < 0 || d > 1.1) return null;
+  const g = Math.sin(Math.PI * clamp(d / 1.1));
+  const s2 = Math.sin(Math.PI * clamp((d - 0.25) / 0.6));
+  const star = (cx: number, cy: number, r: number, k: number, rot: number) => (
+    <g transform={`translate(${cx} ${cy}) rotate(${rot}) scale(${k})`}>
+      <path d={`M0 ${-r} C ${r * 0.08} ${-r * 0.08} ${r * 0.08} ${-r * 0.08} ${r} 0 C ${r * 0.08} ${r * 0.08} ${r * 0.08} ${r * 0.08} 0 ${r} C ${-r * 0.08} ${r * 0.08} ${-r * 0.08} ${r * 0.08} ${-r} 0 C ${-r * 0.08} ${-r * 0.08} ${-r * 0.08} ${-r * 0.08} 0 ${-r} Z`} fill="#fff" />
+    </g>
+  );
+  return (
+    <svg width={W} height={H} style={{ position: "absolute", inset: 0, mixBlendMode: "screen" }}>
+      <defs><radialGradient id={`sg${at}`}><stop offset="0" stopColor="#fff6d8" stopOpacity=".95" /><stop offset=".35" stopColor="#f6d27a" stopOpacity=".45" /><stop offset="1" stopColor="#f6d27a" stopOpacity="0" /></radialGradient></defs>
+      <circle cx={x} cy={y} r={170 * size * g} fill={`url(#sg${at})`} />
+      {[0, 45].map((a) => <rect key={a} x={x - 420 * size * g} y={y - 2} width={840 * size * g} height={4} fill="#fff" opacity={0.55 * g} transform={`rotate(${a + d * 30} ${x} ${y})`} />)}
+      {star(x, y, 110 * size, g, d * 90)}
+      {star(x + 150 * size, y - 90 * size, 40 * size, s2, -d * 120)}
+      {star(x - 130 * size, y + 70 * size, 28 * size, Math.sin(Math.PI * clamp((d - 0.4) / 0.5)), d * 140)}
+    </svg>
+  );
+};
+
+/** drifting pollen / light motes carried by the wind (whole video, denser in windy shots) */
+const Motes: React.FC<{ t: number }> = ({ t }) => {
+  const o = 1 - lin(t, S(13) - 0.3, S(13) + 0.3);
+  if (o <= 0) return null;
+  const storm = vis(t, Wd(10, "too"), S(11), 0.4, 0.4);
+  return (
+    <svg width={W} height={H} style={{ position: "absolute", inset: 0, opacity: o }}>
+      {Array.from({ length: 34 }).map((_, i) => {
+        const sp = 40 + (i % 7) * 18 + storm * 380;
+        const x = ((i * 211 + t * sp) % (W + 80)) - 40;
+        const y = ((i * 389) % H) + Math.sin(t * (0.6 + (i % 5) * 0.2) + i) * 40 - storm * ((t * 90 + i * 30) % 200);
+        const r = 2 + (i % 4) * 1.6;
+        const tw = 0.35 + 0.35 * Math.sin(t * 2.3 + i * 1.7);
+        return <circle key={i} cx={x} cy={y} r={r} fill={i % 3 ? "#fff6d8" : GOLD2} opacity={tw} style={{ filter: "blur(1px)" }} />;
+      })}
+    </svg>
+  );
+};
+
 // ---------- end card ----------
 const EndCard: React.FC<{ t: number }> = ({ t }) => {
   const a = S(13) - 0.1;
@@ -377,7 +428,10 @@ const Frame: React.FC<{ t: number; preview: boolean }> = ({ t, preview }) => (
       <Wind t={t} a={Wd(10, "too")} b={S(11) - 0.05} k={1.6} />
       <Pill t={t} text="NO WIND" at={Wd(3, "windless") - 0.1} until={S(4) - 0.1} y={300} icon="calm" />
       <Pill t={t} text="GENTLE BREEZE" at={Wd(3, "gentle") - 0.1} until={S(4) - 0.1} y={1260} icon="wind" color={GOLD2} />
+      <Motes t={t} />
       <Leak t={t} at={S(4) - 0.1} />
+      <Leak t={t} at={S(6) - 0.1} />
+      <Leak t={t} at={S(13) - 0.1} />
       <Sense t={t} />
       <Thigmo t={t} />
       <Stems t={t} />
@@ -387,6 +441,8 @@ const Frame: React.FC<{ t: number; preview: boolean }> = ({ t, preview }) => (
       <Leak t={t} at={S(11) - 0.1} />
       <EndCard t={t} />
       {WORDS.map((w) => <Word key={w.text + w.at} t={t} {...w} />)}
+      <Sparkle t={t} at={Wd(4, "stronger") + 0.15} x={880} y={1250} />
+      <Sparkle t={t} at={Wd(11, "resilient") + 0.25} x={890} y={1330} size={1.1} />
       <Watermark t={t} />
       <TextMark t={t} />
       {!preview && <Audio src={staticFile("v21/mix.wav")} />}
@@ -402,9 +458,9 @@ const V21Video: React.FC<{ times?: number[]; silent?: boolean }> = ({ times, sil
 
 export const LOOK = [
   0.5, Wd(1, "gentle") + 0.4, Wd(1, "stronger") + 0.5, Wd(2, "identical") + 0.5, Wd(3, "windless") + 0.6, Wd(3, "breeze") + 0.5,
-  Wd(4, "structure") + 0.5, Wd(5, "sway") + 0.3, Wd(5, "stimulation") + 0.5, Wd(6, "response") + 0.3, Wd(6, "thigmomorphogenesis") + 1.4,
+  Wd(4, "stronger") + 0.7, Wd(4, "structure") + 0.5, Wd(5, "sway") + 0.3, Wd(5, "stimulation") + 0.5, Wd(6, "response") + 0.3, Wd(6, "thigmomorphogenesis") + 1.4,
   Wd(7, "thicker") + 0.5, Wd(7, "tissues") + 0.6, Wd(7, "stress") + 0.4, Wd(8, "roots") + 0.4, Wd(8, "adjust") + 1.5,
-  Wd(9, "workout") + 0.3, Wd(10, "too") + 0.5, Wd(10, "damage") + 0.8, Wd(11, "movement") + 0.4, Wd(11, "resilient") + 0.4,
+  Wd(9, "workout") + 0.3, Wd(10, "too") + 0.5, Wd(10, "damage") + 0.8, Wd(11, "movement") + 0.4, Wd(11, "resilient") + 0.75,
   Wd(12, "building") + 0.3, Wd(13, "art") + 0.5, END - 0.3,
 ].map((x) => +x.toFixed(2));
 export const V21: React.FC = () => (
