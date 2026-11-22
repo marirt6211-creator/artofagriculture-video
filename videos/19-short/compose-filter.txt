@@ -1,0 +1,7 @@
+[0:v]split[a][b];
+[a]scale=-2:1920,crop=1080:1920,boxblur=28:2,eq=brightness=-0.22:saturation=0.85[bg];
+[b]scale=1080:-2[p];
+[bg][p]overlay=0:610[c];
+[2:v]scale=170:170[lg];
+[c][lg]overlay=455:110[d];
+[d]drawbox=x=0:y=606:w=1080:h=4:color=0xF2B84B@0.85:t=fill,drawbox=x=0:y=1214:w=1080:h=4:color=0xF2B84B@0.85:t=fill,subtitles=videos/19-short/captions.ass:fontsdir=public/fonts[v]
