@@ -1,0 +1,795 @@
+{
+ "shot": "s09",
+ "text": "It's almost as if nature is giving plants a gentle workout!",
+ "need": "whole plants/trees rhythmically swaying like exercising",
+ "queries": [
+  "trees swaying wind",
+  "palm trees swaying wind",
+  "forest canopy wind",
+  "sunflowers swaying wind"
+ ],
+ "kind": "video",
+ "items": [
+  {
+   "source": "pixabay",
+   "id": "134398",
+   "kind": "video",
+   "title": "leaves, branch, tree, sunlight, wind, motion, gently swaying, structure",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-134398/",
+   "thumb": "https://cdn.pixabay.com/video/2022/10/11/134398-759734776_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2022/10/11/134398-759734776_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 7,
+   "year": null,
+   "author": "MabelAmber",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2022/10/11/134398-759734776_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 5757001
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2022/10/11/134398-759734776_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 3226301
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2022/10/11/134398-759734776_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 1868554
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "leaves, branch, tree, sunlight, wind, motion, gently swaying, structure · MabelAmber · Pixabay · Pixabay Content License",
+   "q": "trees swaying wind"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-beautiful-palm-trees-blowing-in-the-wind-1769",
+   "kind": "video",
+   "title": "Beautiful palm trees blowing in the wind",
+   "desc": "Traveling, low-angle shot of palm trees blowing in the wind. ",
+   "tags": "",
+   "page": "https://coverr.co/videos/beautiful-palm-trees-blowing-in-the-wind-67wpqn7mih",
+   "thumb": "https://cdn.coverr.co/videos/coverr-beautiful-palm-trees-blowing-in-the-wind-1769/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-beautiful-palm-trees-blowing-in-the-wind-1769/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 13.346667,
+   "year": 2021,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-beautiful-palm-trees-blowing-in-the-wind-1769/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Beautiful palm trees blowing in the wind · Coverr · Coverr License",
+   "q": "palm trees swaying wind"
+  },
+  {
+   "source": "pixabay",
+   "id": "345317",
+   "kind": "video",
+   "title": "nature, sky, cloudscape, clouds, cloudy, trees, forest, weather, covered, filled, canopy, silhouette, motion, outdoors, wind, breeze, horizon, beautiful, calm, peaceful, scene, scenery, view, horizontal, spring",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-345317/",
+   "thumb": "https://cdn.pixabay.com/video/2026/04/08/345317_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2026/04/08/345317_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 20,
+   "year": null,
+   "author": "loswin23",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2026/04/08/345317_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 18379397
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/04/08/345317_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 6199733
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/04/08/345317_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 3495439
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "nature, sky, cloudscape, clouds, cloudy, trees, forest, weather, covered, filled, canopy, silhouette, motion, outdoors, wind, breeze, horizon, beautiful, calm, peaceful, scene, scenery, view, horizontal, spring · loswin23 · Pixabay · Pixabay Content License",
+   "q": "forest canopy wind"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-plant-swaying-in-the-wind-3213",
+   "kind": "video",
+   "title": "Plant swaying in the wind",
+   "desc": "Still shot of a plant swaying in the wind. ",
+   "tags": "",
+   "page": "https://coverr.co/videos/plant-swaying-in-the-wind-9olgftopus",
+   "thumb": "https://cdn.coverr.co/videos/coverr-plant-swaying-in-the-wind-3213/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-plant-swaying-in-the-wind-3213/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 26.568208,
+   "year": 2021,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-plant-swaying-in-the-wind-3213/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Plant swaying in the wind · Coverr · Coverr License",
+   "q": "sunflowers swaying wind"
+  },
+  {
+   "source": "pixabay",
+   "id": "116634",
+   "kind": "video",
+   "title": "leaves, twig, vine, swaying, wind, motion, trees, foliage, nature",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-116634/",
+   "thumb": "https://cdn.pixabay.com/video/2022/05/10/116634-708909760_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2022/05/10/116634-708909760_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 17,
+   "year": null,
+   "author": "MabelAmber",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2022/05/10/116634-708909760_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 10694505
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2022/05/10/116634-708909760_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 5519264
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2022/05/10/116634-708909760_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 3587767
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "leaves, twig, vine, swaying, wind, motion, trees, foliage, nature · MabelAmber · Pixabay · Pixabay Content License",
+   "q": "trees swaying wind"
+  },
+  {
+   "source": "mixkit",
+   "id": "4621",
+   "kind": "video",
+   "title": "Palm trees moving in the wind",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/palm-trees-moving-in-the-wind-4621/",
+   "thumb": "https://assets.mixkit.co/videos/4621/4621-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/4621/4621-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/4621/4621-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/4621/4621-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Palm trees moving in the wind · Mixkit · Mixkit Free License",
+   "q": "palm trees"
+  },
+  {
+   "source": "mixkit",
+   "id": "51584",
+   "kind": "video",
+   "title": "Aerial view of the green forest canopy on a cloudy day",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/aerial-view-of-the-green-forest-canopy-on-a-cloudy-51584/",
+   "thumb": "https://assets.mixkit.co/videos/51584/51584-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/51584/51584-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/51584/51584-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/51584/51584-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Aerial view of the green forest canopy on a cloudy day · Mixkit · Mixkit Free License",
+   "q": "forest canopy"
+  },
+  {
+   "source": "pixabay",
+   "id": "213991",
+   "kind": "video",
+   "title": "trees, forest, leaves, branches, woods, summer, countryside, bugs, insects, flying, sunlight, sunshine, sun, breeze, wind, idyllic, green, summer scene, swaying, blowing, nature",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-213991/",
+   "thumb": "https://cdn.pixabay.com/video/2024/05/27/213991_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2024/05/27/213991_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 15,
+   "year": null,
+   "author": "JoshuaWoroniecki",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2024/05/27/213991_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 43200200
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2024/05/27/213991_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 20775973
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2024/05/27/213991_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 14186527
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "trees, forest, leaves, branches, woods, summer, countryside, bugs, insects, flying, sunlight, sunshine, sun, breeze, wind, idyllic, green, summer scene, swaying, blowing, nature · JoshuaWoroniecki · Pixabay · Pixabay Content License",
+   "q": "trees swaying wind"
+  },
+  {
+   "source": "mixkit",
+   "id": "100339",
+   "kind": "video",
+   "title": "Cars on bridge above lush green forest canopy",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/cars-on-bridge-above-lush-green-forest-canopy-100339/",
+   "thumb": "https://assets.mixkit.co/videos/100339/100339-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/100339/100339-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/100339/100339-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/100339/100339-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Cars on bridge above lush green forest canopy · Mixkit · Mixkit Free License",
+   "q": "forest canopy"
+  },
+  {
+   "source": "pixabay",
+   "id": "119302",
+   "kind": "video",
+   "title": "buttercup, grass, field, flowers, spring, swaying in the wind, nature",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-119302/",
+   "thumb": "https://cdn.pixabay.com/video/2022/06/04/119302-717336883_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2022/06/04/119302-717336883_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 15,
+   "year": null,
+   "author": "MabelAmber",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2022/06/04/119302-717336883_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 10368715
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2022/06/04/119302-717336883_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 5619905
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2022/06/04/119302-717336883_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 3251960
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "buttercup, grass, field, flowers, spring, swaying in the wind, nature · MabelAmber · Pixabay · Pixabay Content License",
+   "q": "sunflowers swaying wind"
+  },
+  {
+   "source": "commons",
+   "id": "File:Centre Frame of a Faculty of Geography Tree, One.webm",
+   "kind": "video",
+   "title": "Centre Frame of a Faculty of Geography Tree, One",
+   "desc": "A view of the top of a tree swaying in the wind.",
+   "page": "https://commons.wikimedia.org/wiki/File:Centre_Frame_of_a_Faculty_of_Geography_Tree,_One.webm",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Centre_Frame_of_a_Faculty_of_Geography_Tree%2C_One.webm/960px--Centre_Frame_of_a_Faculty_of_Geography_Tree%2C_One.webm.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/09/Centre_Frame_of_a_Faculty_of_Geography_Tree%2C_One.webm/Centre_Frame_of_a_Faculty_of_Geography_Tree%2C_One.webm.240p.vp9.webm",
+   "w": 1920,
+   "h": 1080,
+   "dur": 28.168,
+   "year": 2022,
+   "author": "Joaquim Baeta",
+   "licence": {
+    "code": "by",
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0",
+    "verdict": "credit",
+    "attr": true,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Centre_Frame_of_a_Faculty_of_Geography_Tree%2C_One.webm",
+     "w": 1920,
+     "h": 1080,
+     "size": 34897272,
+     "mime": "video/webm",
+     "label": "original"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/09/Centre_Frame_of_a_Faculty_of_Geography_Tree%2C_One.webm/Centre_Frame_of_a_Faculty_of_Geography_Tree%2C_One.webm.240p.vp9.webm",
+     "w": 426,
+     "h": 240,
+     "mime": "video/webm",
+     "label": "240p.vp9.webm"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/09/Centre_Frame_of_a_Faculty_of_Geography_Tree%2C_One.webm/Centre_Frame_of_a_Faculty_of_Geography_Tree%2C_One.webm.360p.mpeg4.mov",
+     "w": 640,
+     "h": 360,
+     "mime": "video/quicktime",
+     "label": "360p.mpeg4.mov"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/09/Centre_Frame_of_a_Faculty_of_Geography_Tree%2C_One.webm/Centre_Frame_of_a_Faculty_of_Geography_Tree%2C_One.webm.480p.vp9.webm",
+     "w": 854,
+     "h": 480,
+     "mime": "video/webm",
+     "label": "480p.vp9.webm"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/09/Centre_Frame_of_a_Faculty_of_Geography_Tree%2C_One.webm/Centre_Frame_of_a_Faculty_of_Geography_Tree%2C_One.webm.1080p.vp9.webm",
+     "w": 1920,
+     "h": 1080,
+     "mime": "video/webm",
+     "label": "1080p.vp9.webm"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Centre Frame of a Faculty of Geography Tree, One · Joaquim Baeta · Wikimedia Commons · CC BY 4.0",
+   "q": "trees swaying wind"
+  },
+  {
+   "source": "mixkit",
+   "id": "51586",
+   "kind": "video",
+   "title": "Mesmerizing timelapse of clouds moving avobe the forest canopy ",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/mesmerizing-timelapse-of-clouds-moving-avobe-the-forest-canopy-51586/",
+   "thumb": "https://assets.mixkit.co/videos/51586/51586-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/51586/51586-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/51586/51586-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/51586/51586-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Mesmerizing timelapse of clouds moving avobe the forest canopy  · Mixkit · Mixkit Free License",
+   "q": "forest canopy"
+  },
+  {
+   "source": "pixabay",
+   "id": "118781",
+   "kind": "video",
+   "title": "flower, petal, stem, insect, swaying, wind, nature",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-118781/",
+   "thumb": "https://cdn.pixabay.com/video/2022/05/31/118781-715736166_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2022/05/31/118781-715736166_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 15,
+   "year": null,
+   "author": "MabelAmber",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2022/05/31/118781-715736166_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 4906141
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2022/05/31/118781-715736166_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 2787078
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2022/05/31/118781-715736166_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 1960913
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "flower, petal, stem, insect, swaying, wind, nature · MabelAmber · Pixabay · Pixabay Content License",
+   "q": "sunflowers swaying wind"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-green-trees-in-the-park-with-a-blue-sky-background-5575",
+   "kind": "video",
+   "title": "Green trees in the park with a blue sky background",
+   "desc": "Green trees are blown by the wind in the park.",
+   "tags": "",
+   "page": "https://coverr.co/videos/green-trees-in-the-park-with-a-blue-sky-background-apq4hd0z4t",
+   "thumb": "https://cdn.coverr.co/videos/coverr-green-trees-in-the-park-with-a-blue-sky-background-5575/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-green-trees-in-the-park-with-a-blue-sky-background-5575/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 21.438083,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-green-trees-in-the-park-with-a-blue-sky-background-5575/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Green trees in the park with a blue sky background · Coverr · Coverr License",
+   "q": "trees swaying wind"
+  },
+  {
+   "source": "pixabay",
+   "id": "132750",
+   "kind": "video",
+   "title": "palm trees, palm fronds, wind",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-132750/",
+   "thumb": "https://cdn.pixabay.com/video/2022/09/27/132750-754551974_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2022/09/27/132750-754551974_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 35,
+   "year": null,
+   "author": "adege",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2022/09/27/132750-754551974_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 26001286
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2022/09/27/132750-754551974_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 13421564
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2022/09/27/132750-754551974_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 8261680
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "palm trees, palm fronds, wind · adege · Pixabay · Pixabay Content License",
+   "q": "palm trees swaying wind"
+  },
+  {
+   "source": "mixkit",
+   "id": "100189",
+   "kind": "video",
+   "title": "Lush Green Forest Canopy from Above",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/lush-green-forest-canopy-from-above-100189/",
+   "thumb": "https://assets.mixkit.co/videos/100189/100189-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/100189/100189-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/100189/100189-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/100189/100189-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Lush Green Forest Canopy from Above · Mixkit · Mixkit Free License",
+   "q": "forest canopy"
+  },
+  {
+   "source": "pixabay",
+   "id": "52848",
+   "kind": "video",
+   "title": "moon, palm tree, wind",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-52848/",
+   "thumb": "https://cdn.pixabay.com/video/2020/10/19/52848-493641210_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2020/10/19/52848-493641210_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 25,
+   "year": null,
+   "author": "Hassas_Arts",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2020/10/19/52848-493641210_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 13513897
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/10/19/52848-493641210_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 7499965
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/10/19/52848-493641210_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 3995136
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "moon, palm tree, wind · Hassas_Arts · Pixabay · Pixabay Content License",
+   "q": "palm trees swaying wind"
+  },
+  {
+   "source": "pixabay",
+   "id": "354006",
+   "kind": "video",
+   "title": "nature, landscape, forest, wind, sky, weather, ecology, mountain",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-354006/",
+   "thumb": "https://cdn.pixabay.com/video/2026/05/21/354006_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2026/05/21/354006_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 19,
+   "year": null,
+   "author": "slava_film",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2026/05/21/354006_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 45844760
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/05/21/354006_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 20367480
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/05/21/354006_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 12166605
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "nature, landscape, forest, wind, sky, weather, ecology, mountain · slava_film · Pixabay · Pixabay Content License",
+   "q": "forest canopy wind"
+  }
+ ]
+}

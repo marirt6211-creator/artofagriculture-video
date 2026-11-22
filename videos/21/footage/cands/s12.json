@@ -1,0 +1,763 @@
+{
+ "shot": "s12",
+ "text": "Nature has its own way of building strength!",
+ "need": "massive strong old tree (oak) from below",
+ "queries": [
+  "big old oak tree",
+  "tree from below looking up",
+  "majestic tree sunlight"
+ ],
+ "kind": "video",
+ "items": [
+  {
+   "source": "pixabay",
+   "id": "43751",
+   "kind": "video",
+   "title": "tree, forest, black, germany, europe, nature, landscape, light, sunset, environment, sun, fog, autumn, sunlight, leaves, morning, mystical, earth, woods, dark, halloween, scary, spooky, big, oak",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-43751/",
+   "thumb": "https://cdn.pixabay.com/video/2020/07/03/43751-436252253_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2020/07/03/43751-436252253_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 16,
+   "year": null,
+   "author": "caelan",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2020/07/03/43751-436252253_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 11521385
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/07/03/43751-436252253_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 5001048
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/07/03/43751-436252253_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 3103578
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "tree, forest, black, germany, europe, nature, landscape, light, sunset, environment, sun, fog, autumn, sunlight, leaves, morning, mystical, earth, woods, dark, halloween, scary, spooky, big, oak · caelan · Pixabay · Pixabay Content License",
+   "q": "big old oak tree"
+  },
+  {
+   "source": "pixabay",
+   "id": "142343",
+   "kind": "video",
+   "title": "leaves, foliage, trees, autumn, fall, falling, nature, sky, winter, season, branches, forest, park, woods, calm, peaceful, up, below, looking up, bare",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-142343/",
+   "thumb": "https://cdn.pixabay.com/video/2022/12/09/142343-779987394_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2022/12/09/142343-779987394_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 30,
+   "year": null,
+   "author": "ChristianBodhi",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2022/12/09/142343-779987394_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 91234764
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2022/12/09/142343-779987394_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 51259102
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2022/12/09/142343-779987394_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 22000299
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "leaves, foliage, trees, autumn, fall, falling, nature, sky, winter, season, branches, forest, park, woods, calm, peaceful, up, below, looking up, bare · ChristianBodhi · Pixabay · Pixabay Content License",
+   "q": "tree from below looking up"
+  },
+  {
+   "source": "pixabay",
+   "id": "257263",
+   "kind": "video",
+   "title": "sun rays, sun flare, tree tops, sunlight, nature, forest, light rays, outdoors, beautiful, landscape, dappled light, greenery, foliage, peaceful, glow, backlight, serene, woodland, sunshine, majestic, shadows, vibrant, environment, breathtaking, bright",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-257263/",
+   "thumb": "https://cdn.pixabay.com/video/2025/02/09/257263_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2025/02/09/257263_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 14,
+   "year": null,
+   "author": "choxyltd",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2025/02/09/257263_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 15521428
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/02/09/257263_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 6207460
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/02/09/257263_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 4167459
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "sun rays, sun flare, tree tops, sunlight, nature, forest, light rays, outdoors, beautiful, landscape, dappled light, greenery, foliage, peaceful, glow, backlight, serene, woodland, sunshine, majestic, shadows, vibrant, environment, breathtaking, bright · choxyltd · Pixabay · Pixabay Content License",
+   "q": "majestic tree sunlight"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-trunk-of-a-big-tree-5595",
+   "kind": "video",
+   "title": "A trunk of a big tree",
+   "desc": "Close-up, low-angle shot of a big tree in the forest.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-trunk-of-a-big-tree-tzbttiloib",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-trunk-of-a-big-tree-5595/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-trunk-of-a-big-tree-5595/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 10.218542,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-trunk-of-a-big-tree-5595/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A trunk of a big tree · Coverr · Coverr License",
+   "q": "big old oak tree"
+  },
+  {
+   "source": "mixkit",
+   "id": "11029",
+   "kind": "video",
+   "title": "Koala in a tree looking around him",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/koala-in-a-tree-looking-around-him-11029/",
+   "thumb": "https://assets.mixkit.co/videos/11029/11029-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/11029/11029-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/11029/11029-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/11029/11029-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Koala in a tree looking around him · Mixkit · Mixkit Free License",
+   "q": "tree from below looking up"
+  },
+  {
+   "source": "pixabay",
+   "id": "278361",
+   "kind": "video",
+   "title": "tree, mountain, peak, nature, landscape, solitary, resilient, sunlight, rock, green, sky, clouds, majestic, scenic, beauty, peaceful, wild, cliff, view, vista, ai, calm, elevation, life, vibrant, ai generated",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-278361/",
+   "thumb": "https://cdn.pixabay.com/video/2025/05/11/278361_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2025/05/11/278361_tiny.mp4",
+   "w": 1440,
+   "h": 2560,
+   "dur": 5,
+   "year": null,
+   "author": "Positive_Hedgehog",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2025/05/11/278361_large.mp4",
+     "w": 1440,
+     "h": 2560,
+     "size": 26677178
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/05/11/278361_medium.mp4",
+     "w": 1080,
+     "h": 1920,
+     "size": 13519440
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/05/11/278361_small.mp4",
+     "w": 720,
+     "h": 1280,
+     "size": 4313653
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "tree, mountain, peak, nature, landscape, solitary, resilient, sunlight, rock, green, sky, clouds, majestic, scenic, beauty, peaceful, wild, cliff, view, vista, ai, calm, elevation, life, vibrant, ai generated · Positive_Hedgehog · Pixabay · Pixabay Content License",
+   "q": "majestic tree sunlight"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-low-angle-shot-of-a-tall-tree-8280",
+   "kind": "video",
+   "title": "Low-angle shot of a tall tree",
+   "desc": "Low-angle shot of a big tree in a nature park.",
+   "tags": "",
+   "page": "https://coverr.co/videos/low-angle-shot-of-a-tall-tree-x0bprs3acf",
+   "thumb": "https://cdn.coverr.co/videos/coverr-low-angle-shot-of-a-tall-tree-8280/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-low-angle-shot-of-a-tall-tree-8280/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 16.26625,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-low-angle-shot-of-a-tall-tree-8280/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Low-angle shot of a tall tree · Coverr · Coverr License",
+   "q": "big old oak tree"
+  },
+  {
+   "source": "mixkit",
+   "id": "46455",
+   "kind": "video",
+   "title": "Hidden photographer behind a tree looking at a couple",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/hidden-photographer-behind-a-tree-looking-at-a-couple-46455/",
+   "thumb": "https://assets.mixkit.co/videos/46455/46455-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/46455/46455-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/46455/46455-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/46455/46455-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Hidden photographer behind a tree looking at a couple · Mixkit · Mixkit Free License",
+   "q": "tree from below looking up"
+  },
+  {
+   "source": "pixabay",
+   "id": "293351",
+   "kind": "video",
+   "title": "ai generated, lion, urban, street, sunlight, trees, wildlife, cinematic, regal, power, nature, animal, city, outdoor, walking, calm, strength, mystery, shadow, summer, park, afternoon, majestic, alone, streetlife",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-293351/",
+   "thumb": "https://cdn.pixabay.com/video/2025/07/24/293351_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2025/07/24/293351_tiny.mp4",
+   "w": 1440,
+   "h": 2557,
+   "dur": 5,
+   "year": null,
+   "author": "Vlad-X",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2025/07/24/293351_large.mp4",
+     "w": 1440,
+     "h": 2557,
+     "size": 7340235
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/07/24/293351_medium.mp4",
+     "w": 1080,
+     "h": 1918,
+     "size": 4445211
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/07/24/293351_small.mp4",
+     "w": 720,
+     "h": 1278,
+     "size": 1646896
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "ai generated, lion, urban, street, sunlight, trees, wildlife, cinematic, regal, power, nature, animal, city, outdoor, walking, calm, strength, mystery, shadow, summer, park, afternoon, majestic, alone, streetlife · Vlad-X · Pixabay · Pixabay Content License",
+   "q": "majestic tree sunlight"
+  },
+  {
+   "source": "pixabay",
+   "id": "280286",
+   "kind": "video",
+   "title": "seedlings, oak seedlings, oak, tree seedlings, nature, germination process, young trees",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-280286/",
+   "thumb": "https://cdn.pixabay.com/video/2025/05/20/280286_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2025/05/20/280286_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 24,
+   "year": null,
+   "author": "adege",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2025/05/20/280286_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 9661885
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/05/20/280286_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 4506931
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/05/20/280286_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 2944625
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "seedlings, oak seedlings, oak, tree seedlings, nature, germination process, young trees · adege · Pixabay · Pixabay Content License",
+   "q": "big old oak tree"
+  },
+  {
+   "source": "pixabay",
+   "id": "170030",
+   "kind": "video",
+   "title": "tree, branches, space, stars, nebula, loop, looking up",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-170030/",
+   "thumb": "https://cdn.pixabay.com/video/2023/07/04/170030-842720091_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2023/07/04/170030-842720091_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 48,
+   "year": null,
+   "author": "cryptoblender",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2023/07/04/170030-842720091_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 33726570
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2023/07/04/170030-842720091_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 16834371
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2023/07/04/170030-842720091_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 9892545
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "tree, branches, space, stars, nebula, loop, looking up · cryptoblender · Pixabay · Pixabay Content License",
+   "q": "tree from below looking up"
+  },
+  {
+   "source": "pixabay",
+   "id": "266273",
+   "kind": "video",
+   "title": "ancient tree, forest, woods, mystical, magical, dreamlike, sunlight, canopy, branches, gnarled, majestic, fantasy, ethereal, otherworldly, nature, surreal, atmosphere, serene, peaceful, tranquility, mystery, ai generated",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-266273/",
+   "thumb": "https://cdn.pixabay.com/video/2025/03/20/266273_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2025/03/20/266273_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 10,
+   "year": null,
+   "author": "AMIMI_Galaxy",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2025/03/20/266273_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 49052205
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/03/20/266273_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 24618172
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/03/20/266273_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 15331026
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "ancient tree, forest, woods, mystical, magical, dreamlike, sunlight, canopy, branches, gnarled, majestic, fantasy, ethereal, otherworldly, nature, surreal, atmosphere, serene, peaceful, tranquility, mystery, ai generated · AMIMI_Galaxy · Pixabay · Pixabay Content License",
+   "q": "majestic tree sunlight"
+  },
+  {
+   "source": "pixabay",
+   "id": "111509",
+   "kind": "video",
+   "title": "tree leaves, sheet, wind, summer, tree, green, nature, oak",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-111509/",
+   "thumb": "https://cdn.pixabay.com/video/2022/03/21/111509-691222997_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2022/03/21/111509-691222997_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 16,
+   "year": null,
+   "author": "RuslanSikunov",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2022/03/21/111509-691222997_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 11071063
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2022/03/21/111509-691222997_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 5617129
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2022/03/21/111509-691222997_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 3441452
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "tree leaves, sheet, wind, summer, tree, green, nature, oak · RuslanSikunov · Pixabay · Pixabay Content License",
+   "q": "big old oak tree"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-tree-reflection-in-the-water-8825",
+   "kind": "video",
+   "title": "Tree reflection in the water",
+   "desc": "Close-up shot of a tree reflection in the water.",
+   "tags": "",
+   "page": "https://coverr.co/videos/tree-reflection-in-the-water-lx8ktsynej",
+   "thumb": "https://cdn.coverr.co/videos/coverr-tree-reflection-in-the-water-8825/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-tree-reflection-in-the-water-8825/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 32.198833,
+   "year": 2021,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-tree-reflection-in-the-water-8825/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Tree reflection in the water · Coverr · Coverr License",
+   "q": "tree from below looking up"
+  },
+  {
+   "source": "mixkit",
+   "id": "50843",
+   "kind": "video",
+   "title": "View of the majestic tree with branches on a sunny day",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/view-of-the-majestic-tree-with-branches-on-a-sunny-50843/",
+   "thumb": "https://assets.mixkit.co/videos/50843/50843-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/50843/50843-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/50843/50843-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/50843/50843-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "View of the majestic tree with branches on a sunny day · Mixkit · Mixkit Free License",
+   "q": "majestic tree sunlight"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-beautiful-forest-in-autumn-5508",
+   "kind": "video",
+   "title": "Beautiful forest in Autumn ",
+   "desc": "Medium shot of a sunbeam piercing golden tree leaves with a blue sky in the background.\\n",
+   "tags": "",
+   "page": "https://coverr.co/videos/beautiful-forest-in-autumn-vln5461z73",
+   "thumb": "https://cdn.coverr.co/videos/coverr-beautiful-forest-in-autumn-5508/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-beautiful-forest-in-autumn-5508/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 19.060708,
+   "year": 2021,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-beautiful-forest-in-autumn-5508/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Beautiful forest in Autumn  · Coverr · Coverr License",
+   "q": "big old oak tree"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-grabbing-a-berry-1305",
+   "kind": "video",
+   "title": "Grabbing a berry ",
+   "desc": "Close-up shot of someone grabbing a berry from a tree branch. ",
+   "tags": "",
+   "page": "https://coverr.co/videos/grabbing-a-berry-valbqlykzy",
+   "thumb": "https://cdn.coverr.co/videos/coverr-grabbing-a-berry-1305/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-grabbing-a-berry-1305/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 11.177833,
+   "year": 2021,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-grabbing-a-berry-1305/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Grabbing a berry  · Coverr · Coverr License",
+   "q": "tree from below looking up"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-sunny-highway-drive-with-tall-palms",
+   "kind": "video",
+   "title": "Scenic Highway Drive with Tall Palm Trees on a Sunny Day",
+   "desc": "Experience a serene drive along a sunny highway lined with tall palm trees. The vibrant blue sky and lush greenery create a picturesque view, perfect for themes of travel, relaxation, and scenic road trips.",
+   "tags": "",
+   "page": "https://coverr.co/videos/sunny-highway-drive-with-tall-palms",
+   "thumb": "https://cdn.coverr.co/videos/coverr-sunny-highway-drive-with-tall-palms/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-sunny-highway-drive-with-tall-palms/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 18.727042,
+   "year": 2024,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-sunny-highway-drive-with-tall-palms/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Scenic Highway Drive with Tall Palm Trees on a Sunny Day · Coverr · Coverr License",
+   "q": "majestic tree sunlight"
+  }
+ ]
+}

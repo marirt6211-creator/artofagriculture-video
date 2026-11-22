@@ -1,0 +1,252 @@
+{
+ "video": "21",
+ "orient": "vertical",
+ "note": "For each shot write need (what must literally be on screen for this sentence), 2-4 English queries (concrete first, then broader), kind (video|image), look (modern = today's colour HD footage, archive = old film and historical pictures, any), min (shortest side in px, optional) and avoid. Then: footage find <NN>.",
+ "shots": [
+  {
+   "id": "s01",
+   "line": 1,
+   "text": "Did you know that a gentle breeze can help plants grow stronger?",
+   "t0": 0.2,
+   "t1": 3.688,
+   "dur": 3.49,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "need": "young plant leaves swaying in gentle breeze, close up",
+   "queries": [
+    "plant leaves gentle breeze close up",
+    "seedling swaying wind",
+    "green leaves wind slow motion",
+    "grass breeze"
+   ],
+   "avoid": "",
+   "picks": []
+  },
+  {
+   "id": "s02",
+   "line": 2,
+   "text": "Imagine two identical trees.",
+   "t0": 4.088,
+   "t1": 6.693,
+   "dur": 2.6,
+   "clips": 1,
+   "kind": "image",
+   "look": "any",
+   "need": "USER IMAGE two trees",
+   "queries": [],
+   "avoid": "",
+   "picks": []
+  },
+  {
+   "id": "s03",
+   "line": 3,
+   "text": "One grows in a completely windless environment, while the other experiences a gentle breeze every day.",
+   "t0": 6.943,
+   "t1": 13.184,
+   "dur": 6.24,
+   "clips": 1,
+   "kind": "image",
+   "look": "any",
+   "need": "USER GIF calm vs windy",
+   "queries": [],
+   "avoid": "",
+   "picks": []
+  },
+  {
+   "id": "s04",
+   "line": 4,
+   "text": "Surprisingly, the second tree may develop a stronger structure!",
+   "t0": 13.534,
+   "t1": 17.307,
+   "dur": 3.77,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "need": "sturdy tree standing firm while wind blows its branches",
+   "queries": [
+    "tree branches blowing strong wind",
+    "tree in wind field",
+    "windy tree"
+   ],
+   "avoid": "",
+   "picks": []
+  },
+  {
+   "id": "s05",
+   "line": 5,
+   "text": "When plants sway in the wind, they sense mechanical stimulation.",
+   "t0": 17.757,
+   "t1": 21.813,
+   "dur": 4.06,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "need": "plant stems bending and swaying in wind, close",
+   "queries": [
+    "wheat swaying wind close up",
+    "plants bending in wind",
+    "stems blowing wind"
+   ],
+   "avoid": "",
+   "picks": []
+  },
+  {
+   "id": "s06",
+   "line": 6,
+   "text": "This triggers a fascinating biological response called Thigmomorphogenesis.",
+   "t0": 22.063,
+   "t1": 26.558,
+   "dur": 4.5,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "need": "hand gently brushing over seedlings / touching plants",
+   "queries": [
+    "hand touching plants",
+    "hand brushing over seedlings",
+    "hand touching leaves",
+    "hand touching wheat field"
+   ],
+   "avoid": "",
+   "picks": []
+  },
+  {
+   "id": "s07",
+   "line": 7,
+   "text": "As a result, plants may develop shorter, thicker stems and stronger supporting tissues, helping them withstand mechanical stress.",
+   "t0": 27.008,
+   "t1": 34.491,
+   "dur": 7.48,
+   "clips": 2,
+   "kind": "video",
+   "look": "modern",
+   "need": "thick sturdy plant stem or young tree trunk close up",
+   "queries": [
+    "tree trunk close up",
+    "plant stem close up",
+    "bark texture tree trunk",
+    "sunflower stem"
+   ],
+   "avoid": "",
+   "picks": []
+  },
+  {
+   "id": "s08",
+   "line": 8,
+   "text": "Even their roots can adjust their growth and development in response to changing environmental conditions.",
+   "t0": 34.841,
+   "t1": 39.98,
+   "dur": 5.14,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "need": "plant roots in soil",
+   "queries": [
+    "plant roots soil",
+    "roots close up",
+    "uprooted plant roots",
+    "seedling roots"
+   ],
+   "avoid": "",
+   "picks": []
+  },
+  {
+   "id": "s09",
+   "line": 9,
+   "text": "It's almost as if nature is giving plants a gentle workout!",
+   "t0": 40.38,
+   "t1": 43.736,
+   "dur": 3.36,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "need": "whole plants/trees rhythmically swaying like exercising",
+   "queries": [
+    "trees swaying wind",
+    "palm trees swaying wind",
+    "forest canopy wind",
+    "sunflowers swaying wind"
+   ],
+   "avoid": "",
+   "picks": []
+  },
+  {
+   "id": "s10",
+   "line": 10,
+   "text": "But remember, too much wind can damage plants rather than strengthen them.",
+   "t0": 44.136,
+   "t1": 48.571,
+   "dur": 4.43,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "need": "storm damage: tree broken or bent by violent wind",
+   "queries": [
+    "storm tree strong wind",
+    "hurricane palm trees",
+    "fallen tree storm",
+    "broken tree storm"
+   ],
+   "avoid": "",
+   "picks": []
+  },
+  {
+   "id": "s11",
+   "line": 11,
+   "text": "Sometimes, a little movement is exactly what helps a plant become more resilient.",
+   "t0": 48.971,
+   "t1": 53.826,
+   "dur": 4.86,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "need": "tree in a field moving lightly in wind, hopeful light",
+   "queries": [
+    "lone tree field sunset wind",
+    "tree meadow breeze golden hour",
+    "tree field sunrise"
+   ],
+   "avoid": "",
+   "picks": []
+  },
+  {
+   "id": "s12",
+   "line": 12,
+   "text": "Nature has its own way of building strength!",
+   "t0": 54.276,
+   "t1": 56.96,
+   "dur": 2.68,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "need": "massive strong old tree (oak) from below",
+   "queries": [
+    "big old oak tree",
+    "tree from below looking up",
+    "majestic tree sunlight"
+   ],
+   "avoid": "",
+   "picks": []
+  },
+  {
+   "id": "s13",
+   "line": 13,
+   "text": "Follow Art of Agriculture for more amazing secrets of the plant world.",
+   "t0": 57.36,
+   "t1": 61.572,
+   "dur": 4.21,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "need": "green crops field aerial, end card background",
+   "queries": [
+    "green field aerial",
+    "crop field drone",
+    "farm field aerial"
+   ],
+   "avoid": "",
+   "picks": []
+  }
+ ]
+}

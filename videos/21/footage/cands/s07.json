@@ -1,0 +1,755 @@
+{
+ "shot": "s07",
+ "text": "As a result, plants may develop shorter, thicker stems and stronger supporting tissues, helping them withstand mechanical stress.",
+ "need": "thick sturdy plant stem or young tree trunk close up",
+ "queries": [
+  "tree trunk close up",
+  "plant stem close up",
+  "bark texture tree trunk",
+  "sunflower stem"
+ ],
+ "kind": "video",
+ "items": [
+  {
+   "source": "coverr",
+   "id": "coverr-a-trunk-of-a-big-tree-5595",
+   "kind": "video",
+   "title": "A trunk of a big tree",
+   "desc": "Close-up, low-angle shot of a big tree in the forest.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-trunk-of-a-big-tree-tzbttiloib",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-trunk-of-a-big-tree-5595/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-trunk-of-a-big-tree-5595/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 10.218542,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-trunk-of-a-big-tree-5595/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A trunk of a big tree · Coverr · Coverr License",
+   "q": "tree trunk close up"
+  },
+  {
+   "source": "pixabay",
+   "id": "174342",
+   "kind": "video",
+   "title": "flower, thistle, plant, stem, grass, flora, bloom, wildflower, macro, spring, blossom, meadow, closeup, field, prickly, garden, close-up, nature",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-174342/",
+   "thumb": "https://cdn.pixabay.com/video/2023/08/02/174342-851128196_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2023/08/02/174342-851128196_tiny.mp4",
+   "w": 1080,
+   "h": 1920,
+   "dur": 14,
+   "year": null,
+   "author": "Starchik",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2023/08/02/174342-851128196_large.mp4",
+     "w": 1080,
+     "h": 1920,
+     "size": 6884490
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2023/08/02/174342-851128196_medium.mp4",
+     "w": 720,
+     "h": 1280,
+     "size": 2162052
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2023/08/02/174342-851128196_small.mp4",
+     "w": 540,
+     "h": 960,
+     "size": 1197846
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "flower, thistle, plant, stem, grass, flora, bloom, wildflower, macro, spring, blossom, meadow, closeup, field, prickly, garden, close-up, nature · Starchik · Pixabay · Pixabay Content License",
+   "q": "plant stem close up"
+  },
+  {
+   "source": "mixkit",
+   "id": "50851",
+   "kind": "video",
+   "title": "Tree trunks with rugged bark and weathered textures in the forest",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/tree-trunks-with-rugged-bark-and-weathered-textures-in-the-50851/",
+   "thumb": "https://assets.mixkit.co/videos/50851/50851-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/50851/50851-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/50851/50851-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/50851/50851-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Tree trunks with rugged bark and weathered textures in the forest · Mixkit · Mixkit Free License",
+   "q": "bark texture tree trunk"
+  },
+  {
+   "source": "pixabay",
+   "id": "231802",
+   "kind": "video",
+   "title": "sunflowers, flowers, plants, agriculture, farming, garden, petals, seeds, bloom, blossom, summer, sun, botany, flora, crop, beauty, green, leaves, stem, biology, horticulture, nature",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-231802/",
+   "thumb": "https://cdn.pixabay.com/video/2024/09/16/231802_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2024/09/16/231802_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 5,
+   "year": null,
+   "author": "haruudu",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2024/09/16/231802_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 6996332
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2024/09/16/231802_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 3098353
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2024/09/16/231802_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 1848108
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "sunflowers, flowers, plants, agriculture, farming, garden, petals, seeds, bloom, blossom, summer, sun, botany, flora, crop, beauty, green, leaves, stem, biology, horticulture, nature · haruudu · Pixabay · Pixabay Content License",
+   "q": "sunflower stem"
+  },
+  {
+   "source": "mixkit",
+   "id": "1465",
+   "kind": "video",
+   "title": "Orange Gecko on a tree trunk closeup shot",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/orange-gecko-on-a-tree-trunk-closeup-shot-1465/",
+   "thumb": "https://assets.mixkit.co/videos/1465/1465-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/1465/1465-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/1465/1465-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/1465/1465-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Orange Gecko on a tree trunk closeup shot · Mixkit · Mixkit Free License",
+   "q": "tree trunk close up"
+  },
+  {
+   "source": "pixabay",
+   "id": "369718",
+   "kind": "video",
+   "title": "dragonfly, red dragonfly, insect, common scarlet darter, macro, nature, wildlife, close up, green background, bokeh, plant, summer, wings, animal, outdoors, wild, detailed, colorful, fauna, natural, stem, macro photography, sunny, beautiful",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-369718/",
+   "thumb": "https://cdn.pixabay.com/video/2026/08/10/369718_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2026/08/10/369718_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 29,
+   "year": null,
+   "author": "55440391",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2026/08/10/369718_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 24802174
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/08/10/369718_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 8859542
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/08/10/369718_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 5638948
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "dragonfly, red dragonfly, insect, common scarlet darter, macro, nature, wildlife, close up, green background, bokeh, plant, summer, wings, animal, outdoors, wild, detailed, colorful, fauna, natural, stem, macro photography, sunny, beautiful · 55440391 · Pixabay · Pixabay Content License",
+   "q": "plant stem close up"
+  },
+  {
+   "source": "pixabay",
+   "id": "10821",
+   "kind": "video",
+   "title": "tree, bark, tree bark, treetop, nature, brown, fir tree, rough, texture, natural, wood, environment, surface, pattern, forest, trunk, wooden, plant",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-10821/",
+   "thumb": "https://cdn.pixabay.com/video/2017/07/23/10821-226624974_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2017/07/23/10821-226624974_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 18,
+   "year": null,
+   "author": "Coverr-Free-Footage",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2017/07/23/10821-226624974_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 10169731
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2017/07/23/10821-226624974_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 5693172
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2017/07/23/10821-226624974_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 3411156
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "tree, bark, tree bark, treetop, nature, brown, fir tree, rough, texture, natural, wood, environment, surface, pattern, forest, trunk, wooden, plant · Coverr-Free-Footage · Pixabay · Pixabay Content License",
+   "q": "bark texture tree trunk"
+  },
+  {
+   "source": "pixabay",
+   "id": "231803",
+   "kind": "video",
+   "title": "sunflowers, flowers, plants, agriculture, farming, garden, petals, seeds, bloom, blossom, summer, sun, botany, flora, crop, beauty, green, leaves, stem, biology, horticulture, nature",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-231803/",
+   "thumb": "https://cdn.pixabay.com/video/2024/09/16/231803_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2024/09/16/231803_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 5,
+   "year": null,
+   "author": "haruudu",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2024/09/16/231803_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 12789724
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2024/09/16/231803_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 7404593
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2024/09/16/231803_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 3589753
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "sunflowers, flowers, plants, agriculture, farming, garden, petals, seeds, bloom, blossom, summer, sun, botany, flora, crop, beauty, green, leaves, stem, biology, horticulture, nature · haruudu · Pixabay · Pixabay Content License",
+   "q": "sunflower stem"
+  },
+  {
+   "source": "pixabay",
+   "id": "31471",
+   "kind": "video",
+   "title": "tree, mushroom, tree mushroom, bark, structure, grow, forest, nature, tree trunk, wood, moss, close up, sponge, mushrooms",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-31471/",
+   "thumb": "https://cdn.pixabay.com/video/2020/01/21/31471-387312359_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2020/01/21/31471-387312359_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 23,
+   "year": null,
+   "author": "TheMarcKnight",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2020/01/21/31471-387312359_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 9116066
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/01/21/31471-387312359_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 5529374
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/01/21/31471-387312359_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 3116933
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "tree, mushroom, tree mushroom, bark, structure, grow, forest, nature, tree trunk, wood, moss, close up, sponge, mushrooms · TheMarcKnight · Pixabay · Pixabay Content License",
+   "q": "tree trunk close up"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822",
+   "kind": "video",
+   "title": "A woman cleans soil from lettuce roots",
+   "desc": "A close-up shot of a woman cleaning soil off of the roots of a lettuce plant.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-cleans-soil-from-lettuce-roots-phbqnscvn6",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 20.937583,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman cleans soil from lettuce roots · Coverr · Coverr License",
+   "q": "plant stem close up"
+  },
+  {
+   "source": "pixabay",
+   "id": "375716",
+   "kind": "video",
+   "title": "tree fungus, bracket fungus, polypore, fungus, mushroom, forest fungus, tree trunk, moss, green moss, wet fungus, water droplets, raindrops, macro, close up, woodland, forest, nature, fungi, bark, damp forest, wild nature, natural texture",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-375716/",
+   "thumb": "https://cdn.pixabay.com/video/2026/09/11/375716_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2026/09/11/375716_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 22,
+   "year": null,
+   "author": "Nils_Vega",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2026/09/11/375716_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 31773497
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/09/11/375716_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 10874828
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/09/11/375716_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 5793651
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "tree fungus, bracket fungus, polypore, fungus, mushroom, forest fungus, tree trunk, moss, green moss, wet fungus, water droplets, raindrops, macro, close up, woodland, forest, nature, fungi, bark, damp forest, wild nature, natural texture · Nils_Vega · Pixabay · Pixabay Content License",
+   "q": "bark texture tree trunk"
+  },
+  {
+   "source": "pixabay",
+   "id": "7924",
+   "kind": "video",
+   "title": "flowers, nature, time, blossom, leaf, petal, plant, summer, green, lapse, blooming, growth, botany, gardening, season, stem, head, new, garden, bud, floral, single, stamen, life, springtime",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-7924/",
+   "thumb": "https://cdn.pixabay.com/video/2017/02/24/7924-205529295_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2017/02/24/7924-205529295_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 10,
+   "year": null,
+   "author": "NicholasDeloitteMedia",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2017/02/24/7924-205529295_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 4476733
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2017/02/24/7924-205529295_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 2510248
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2017/02/24/7924-205529295_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 1777559
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "flowers, nature, time, blossom, leaf, petal, plant, summer, green, lapse, blooming, growth, botany, gardening, season, stem, head, new, garden, bud, floral, single, stamen, life, springtime · NicholasDeloitteMedia · Pixabay · Pixabay Content License",
+   "q": "sunflower stem"
+  },
+  {
+   "source": "pixabay",
+   "id": "197946",
+   "kind": "video",
+   "title": "grass, plant, dry, park, garden, botanical, spring, summer, leaves, wind, close up, green, forest, nature",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-197946/",
+   "thumb": "https://cdn.pixabay.com/video/2024/01/24/197946-906217105_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2024/01/24/197946-906217105_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 55,
+   "year": null,
+   "author": "Engin_Akyurt",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2024/01/24/197946-906217105_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 145011873
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2024/01/24/197946-906217105_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 76202337
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2024/01/24/197946-906217105_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 40070375
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "grass, plant, dry, park, garden, botanical, spring, summer, leaves, wind, close up, green, forest, nature · Engin_Akyurt · Pixabay · Pixabay Content License",
+   "q": "plant stem close up"
+  },
+  {
+   "source": "nasa",
+   "id": "Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092",
+   "kind": "video",
+   "title": "Surprisingly STEM: Microgravity Plant Scientist",
+   "desc": "Matt Mickens, a NASA horticulturalist, is a pretty fun-gi! In his in-tree-guing role, he researches methods for the unique challenge of growing plants in space! Learn more about how Matt uses light to influence plant growth, shape, and even taste! Matt also talks about his roots as a NASA intern and how his early days at the agency helped grow his career to new heights.",
+   "page": "https://images.nasa.gov/details/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092",
+   "thumb": "https://images-assets.nasa.gov/video/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092~medium.jpg",
+   "preview": "https://images-assets.nasa.gov/video/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092~small.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 320,
+   "year": 2024,
+   "author": "Kevin Anderson",
+   "licence": {
+    "code": "gov",
+    "name": "Public domain (NASA)",
+    "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://images-assets.nasa.gov/video/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092~orig.mp4",
+     "label": "orig",
+     "w": 1920,
+     "h": 1080,
+     "dur": 320,
+     "size": 0
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092~orig.mp4",
+     "label": "orig"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092~large.mp4",
+     "label": "large"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092~medium.mp4",
+     "label": "medium"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092~small.mp4",
+     "label": "small"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092~mobile.mp4",
+     "label": "mobile"
+    },
+    {
+     "url": "https://images-assets.nasa.gov/video/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092~preview.mp4",
+     "label": "preview"
+    }
+   ],
+   "collection": "https://images-assets.nasa.gov/video/Surprisingly_STEM_Plant_Scientist_Final_Social_jsc2024m000092/collection.json",
+   "notes": [
+    "NASA: no logo or endorsement; check third-party material"
+   ],
+   "flags": [],
+   "credit": "Surprisingly STEM: Microgravity Plant Scientist · Kevin Anderson · NASA · Public domain (NASA)",
+   "q": "plant stem"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-woman-picks-lettuce-on-a-farm-2718",
+   "kind": "video",
+   "title": "A woman picks lettuce on a farm",
+   "desc": "A medium shot of a woman harvesting lettuce.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-picks-lettuce-on-a-farm-uhy2z1rlrh",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-woman-picks-lettuce-on-a-farm-2718/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-woman-picks-lettuce-on-a-farm-2718/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 15.015,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-woman-picks-lettuce-on-a-farm-2718/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman picks lettuce on a farm · Coverr · Coverr License",
+   "q": "sunflower stem"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-inspecting-branches-of-a-tree-4276",
+   "kind": "video",
+   "title": "Inspecting branches of a tree",
+   "desc": "Close-up shot of a man inspecting branches of a tree. ",
+   "tags": "",
+   "page": "https://coverr.co/videos/inspecting-branches-of-a-tree-tq8jhjgbya",
+   "thumb": "https://cdn.coverr.co/videos/coverr-inspecting-branches-of-a-tree-4276/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-inspecting-branches-of-a-tree-4276/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 21.833333,
+   "year": 2020,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-inspecting-branches-of-a-tree-4276/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Inspecting branches of a tree · Coverr · Coverr License",
+   "q": "tree trunk close up"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-croft-with-mature-vegetables-4297",
+   "kind": "video",
+   "title": "A croft with mature vegetables",
+   "desc": "A mini farm with a small wooden shed.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-croft-with-mature-vegetables-y6ksobu4m2",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 14.681333,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A croft with mature vegetables · Coverr · Coverr License",
+   "q": "sunflower stem"
+  }
+ ]
+}

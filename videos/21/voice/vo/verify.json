@@ -1,0 +1,236 @@
+{
+ "01-3": {
+  "score": 1,
+  "heard": "Did you know that a gentle breeze can help plants grow stronger?",
+  "dur": 4.21,
+  "events": []
+ },
+ "01-2": {
+  "score": 1,
+  "heard": "Did you know that a gentle breeze can help plants grow stronger?",
+  "dur": 3.97,
+  "events": []
+ },
+ "01-1": {
+  "score": 1,
+  "heard": "Did you know that a gentle breeze can help plants grow stronger?",
+  "dur": 4.13,
+  "events": []
+ },
+ "02-1": {
+  "score": 1,
+  "heard": "Imagine two identical trees.",
+  "dur": 2.93,
+  "events": []
+ },
+ "02-2": {
+  "score": 1,
+  "heard": "Imagine two identical trees.",
+  "dur": 2.93,
+  "events": []
+ },
+ "02-3": {
+  "score": 1,
+  "heard": "Imagine two identical trees.",
+  "dur": 2.93,
+  "events": []
+ },
+ "03-2": {
+  "score": 1,
+  "heard": "One grows in a completely windless environment while the other experiences a gentle breeze every day.",
+  "dur": 7.24,
+  "events": []
+ },
+ "03-3": {
+  "score": 1,
+  "heard": "One grows in a completely windless environment, while the other experiences a gentle breeze every day.",
+  "dur": 7.16,
+  "events": []
+ },
+ "03-1": {
+  "score": 1,
+  "heard": "One grows in a completely windless environment, while the other experiences a gentle breeze every day",
+  "dur": 7.08,
+  "events": []
+ },
+ "04-2": {
+  "score": 1,
+  "heard": "Surprisingly, the second tree may develop a stronger structure",
+  "dur": 4.36,
+  "events": []
+ },
+ "04-3": {
+  "score": 1,
+  "heard": "Surprisingly, the second tree may develop a stronger structure",
+  "dur": 4.36,
+  "events": []
+ },
+ "04-1": {
+  "score": 1,
+  "heard": "Surprisingly, the second tree may develop a stronger structure",
+  "dur": 4.44,
+  "events": []
+ },
+ "05-3": {
+  "score": 1,
+  "heard": "When plants sway in the wind, they sense mechanical stimulation.",
+  "dur": 4.6,
+  "events": []
+ },
+ "05-1": {
+  "score": 1,
+  "heard": "When plants sway in the wind, they sense mechanical stimulation.",
+  "dur": 4.52,
+  "events": []
+ },
+ "05-2": {
+  "score": 1,
+  "heard": "When plants sway in the wind, they sense mechanical stimulation.",
+  "dur": 4.52,
+  "events": []
+ },
+ "06-1": {
+  "score": 0.955,
+  "heard": "This triggers a fascinating biological response called thigmorphogenesis",
+  "dur": 5.15,
+  "events": []
+ },
+ "06-2": {
+  "score": 0.985,
+  "heard": "This triggers a fascinating biological response called thigmomorphogenesis",
+  "dur": 5.07,
+  "events": []
+ },
+ "06-3": {
+  "score": 0.985,
+  "heard": "This triggers a fascinating biological response called thigmomorphogenesis",
+  "dur": 5.15,
+  "events": []
+ },
+ "07-3": {
+  "score": 1,
+  "heard": "As a result, plants may develop shorter, thicker stems and stronger supporting tissues, helping them withstand mechanical stress",
+  "dur": 8.28,
+  "events": []
+ },
+ "07-2": {
+  "score": 1,
+  "heard": "As a result, plants may develop shorter, thicker stems and stronger supporting tissues, helping them withstand mechanical stress",
+  "dur": 8.28,
+  "events": []
+ },
+ "07-1": {
+  "score": 1,
+  "heard": "As a result, plants may develop shorter, thicker stems and stronger supporting tissues, helping them withstand mechanical stress.",
+  "dur": 8.44,
+  "events": []
+ },
+ "08-1": {
+  "score": 1,
+  "heard": "Even their roots can adjust their growth and development in response to changing environmental conditions.",
+  "dur": 5.88,
+  "events": []
+ },
+ "08-2": {
+  "score": 1,
+  "heard": "Even their roots can adjust their growth and development in response to changing environmental conditions.",
+  "dur": 5.8,
+  "events": []
+ },
+ "08-3": {
+  "score": 1,
+  "heard": "Even their roots can adjust their growth and development in response to changing environmental conditions.",
+  "dur": 5.8,
+  "events": []
+ },
+ "09-3": {
+  "score": 1,
+  "heard": "It's almost as if nature is giving plants a gentle workout",
+  "dur": 3.87,
+  "events": []
+ },
+ "09-2": {
+  "score": 1,
+  "heard": "It's almost as if nature is giving plants a gentle workout",
+  "dur": 3.97,
+  "events": []
+ },
+ "09-1": {
+  "score": 1,
+  "heard": "It's almost as if nature is giving plants a gentle workout",
+  "dur": 3.79,
+  "events": []
+ },
+ "10-2": {
+  "score": 1,
+  "heard": "But remember, too much wind can damage plants rather than strengthen them",
+  "dur": 5.07,
+  "events": []
+ },
+ "10-3": {
+  "score": 1,
+  "heard": "But remember, too much wind can damage plants rather than strengthen them",
+  "dur": 4.99,
+  "events": []
+ },
+ "10-1": {
+  "score": 1,
+  "heard": "But remember, too much wind can damage plants rather than strengthen them",
+  "dur": 4.91,
+  "events": []
+ },
+ "11-1": {
+  "score": 1,
+  "heard": "Sometimes a little movement is exactly what helps a plant become more resilient",
+  "dur": 5.72,
+  "events": []
+ },
+ "11-3": {
+  "score": 1,
+  "heard": "Sometimes a little movement is exactly what helps a plant become more resilient",
+  "dur": 5.56,
+  "events": []
+ },
+ "11-2": {
+  "score": 1,
+  "heard": "Sometimes a little movement is exactly what helps a plant become more resilient",
+  "dur": 5.49,
+  "events": []
+ },
+ "12-3": {
+  "score": 1,
+  "heard": "Nature has its own way of building strength",
+  "dur": 3.16,
+  "events": []
+ },
+ "12-1": {
+  "score": 1,
+  "heard": "Nature has its own way of building strength",
+  "dur": 3.16,
+  "events": []
+ },
+ "12-2": {
+  "score": 1,
+  "heard": "Nature has its own way of building strength",
+  "dur": 3.16,
+  "events": []
+ },
+ "13-2": {
+  "score": 1,
+  "heard": "Follow Art of Agriculture for more amazing secrets of the plant world",
+  "dur": 4.99,
+  "events": []
+ },
+ "13-1": {
+  "score": 1,
+  "heard": "Follow Art of Agriculture for more amazing secrets of the plant world",
+  "dur": 4.75,
+  "events": []
+ },
+ "13-3": {
+  "score": 1,
+  "heard": "Follow Art of Agriculture for more amazing secrets of the plant world",
+  "dur": 4.83,
+  "events": []
+ }
+}

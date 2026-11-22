@@ -1,0 +1,8 @@
+{"positive_global_styles":["uplifting cinematic nature documentary score","energetic but warm","driving pulse","staccato strings","bright piano ostinato","organic percussion with taiko and claps","sense of wonder and growth","instrumental","118 bpm","modern and polished"],
+ "negative_global_styles":["vocals","choir","sleepy","ambient drone","lullaby","edm drop","dubstep","horror","childish","toy instruments"],
+ "sections":[
+ {"section_name":"Hook","positive_local_styles":["immediate rhythmic start","plucked strings and piano ostinato","light percussion","curious"],"negative_local_styles":["slow intro"],"duration_ms":13000,"lines":[]},
+ {"section_name":"Discovery","positive_local_styles":["full beat enters","driving strings","taiko pulse","building excitement"],"negative_local_styles":["soft"],"duration_ms":14000,"lines":[]},
+ {"section_name":"Strength","positive_local_styles":["powerful and proud","full strings","strong percussion","energetic"],"negative_local_styles":["aggressive distortion"],"duration_ms":17000,"lines":[]},
+ {"section_name":"Warning","positive_local_styles":["tense break","low strings","stormy toms","minor key"],"negative_local_styles":["silence"],"duration_ms":5000,"lines":[]},
+ {"section_name":"Resilient","positive_local_styles":["triumphant return","major key","full arrangement","uplifting","big finish"],"negative_local_styles":["fade too early"],"duration_ms":15000,"lines":[]}]}

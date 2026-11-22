@@ -1,0 +1,784 @@
+{
+ "shot": "s10",
+ "text": "But remember, too much wind can damage plants rather than strengthen them.",
+ "need": "storm damage: tree broken or bent by violent wind",
+ "queries": [
+  "storm tree strong wind",
+  "hurricane palm trees",
+  "fallen tree storm",
+  "broken tree storm"
+ ],
+ "kind": "video",
+ "items": [
+  {
+   "source": "pixabay",
+   "id": "92768",
+   "kind": "video",
+   "title": "fall, trees, storm, strong wind, autumn mood, leaves, nature, landscape, forest, autumn storm",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-92768/",
+   "thumb": "https://cdn.pixabay.com/video/2021/10/21/92768-637690707_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2021/10/21/92768-637690707_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 41,
+   "year": null,
+   "author": "NickyPe",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2021/10/21/92768-637690707_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 127313577
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/10/21/92768-637690707_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 70174651
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/10/21/92768-637690707_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 30057216
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "fall, trees, storm, strong wind, autumn mood, leaves, nature, landscape, forest, autumn storm · NickyPe · Pixabay · Pixabay Content License",
+   "q": "storm tree strong wind"
+  },
+  {
+   "source": "pixabay",
+   "id": "20305",
+   "kind": "video",
+   "title": "wind, palm, palm tree, tree, storm, hurricane, season, winter, autumn, leaf, branch, rainy, cold, thailand, malaysia, asian, indonesia, bali, monsoon, cloudy, view, nature, sky, tropical, trees",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-20305/",
+   "thumb": "https://cdn.pixabay.com/video/2018/12/27/20305-308852836_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2018/12/27/20305-308852836_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 60,
+   "year": null,
+   "author": "Engin_Akyurt",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2018/12/27/20305-308852836_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 185465702
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2018/12/27/20305-308852836_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 101684391
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2018/12/27/20305-308852836_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 42967627
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "wind, palm, palm tree, tree, storm, hurricane, season, winter, autumn, leaf, branch, rainy, cold, thailand, malaysia, asian, indonesia, bali, monsoon, cloudy, view, nature, sky, tropical, trees · Engin_Akyurt · Pixabay · Pixabay Content License",
+   "q": "hurricane palm trees"
+  },
+  {
+   "source": "mixkit",
+   "id": "29491",
+   "kind": "video",
+   "title": "Fallen trees after a bad storm",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/fallen-trees-after-a-bad-storm-29491/",
+   "thumb": "https://assets.mixkit.co/videos/29491/29491-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/29491/29491-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/29491/29491-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/29491/29491-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Fallen trees after a bad storm · Mixkit · Mixkit Free License",
+   "q": "fallen tree storm"
+  },
+  {
+   "source": "commons",
+   "id": "File:Mala morava vojtiskov padla lipa.webm",
+   "kind": "video",
+   "title": "Mala morava vojtiskov padla lipa",
+   "desc": "Mala Morava - Vojtíškov. Lime tree broken probably during a storm. Photographed about 8 days later. In the following picture it is the linden tree on the left.",
+   "page": "https://commons.wikimedia.org/wiki/File:Mala_morava_vojtiskov_padla_lipa.webm",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Mala_morava_vojtiskov_padla_lipa.webm/960px--Mala_morava_vojtiskov_padla_lipa.webm.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6a/Mala_morava_vojtiskov_padla_lipa.webm/Mala_morava_vojtiskov_padla_lipa.webm.240p.vp9.webm",
+   "w": 1920,
+   "h": 1080,
+   "dur": 11.294,
+   "year": 2025,
+   "author": "Nostrifikator",
+   "licence": {
+    "code": "cc0",
+    "name": "CC0",
+    "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Mala_morava_vojtiskov_padla_lipa.webm",
+     "w": 1920,
+     "h": 1080,
+     "size": 49144985,
+     "mime": "video/webm",
+     "label": "original"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6a/Mala_morava_vojtiskov_padla_lipa.webm/Mala_morava_vojtiskov_padla_lipa.webm.240p.vp9.webm",
+     "w": 426,
+     "h": 240,
+     "mime": "video/webm",
+     "label": "240p.vp9.webm"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6a/Mala_morava_vojtiskov_padla_lipa.webm/Mala_morava_vojtiskov_padla_lipa.webm.360p.mpeg4.mov",
+     "w": 640,
+     "h": 360,
+     "mime": "video/quicktime",
+     "label": "360p.mpeg4.mov"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6a/Mala_morava_vojtiskov_padla_lipa.webm/Mala_morava_vojtiskov_padla_lipa.webm.480p.vp9.webm",
+     "w": 854,
+     "h": 480,
+     "mime": "video/webm",
+     "label": "480p.vp9.webm"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6a/Mala_morava_vojtiskov_padla_lipa.webm/Mala_morava_vojtiskov_padla_lipa.webm.1080p.vp9.webm",
+     "w": 1920,
+     "h": 1080,
+     "mime": "video/webm",
+     "label": "1080p.vp9.webm"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Mala morava vojtiskov padla lipa · Nostrifikator · Wikimedia Commons · CC0",
+   "q": "broken tree storm"
+  },
+  {
+   "source": "pixabay",
+   "id": "16160",
+   "kind": "video",
+   "title": "storm, ocean, sky, rain, the waves, wind, dark clouds, rolling sea, anger, a strong wind, clouds, sea, night, darkness, rainy, cloudy, water, lightning",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-16160/",
+   "thumb": "https://cdn.pixabay.com/video/2018/05/11/16160-269534741_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2018/05/11/16160-269534741_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 40,
+   "year": null,
+   "author": "Macb3t",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2018/05/11/16160-269534741_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 25746330
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2018/05/11/16160-269534741_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 10889241
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2018/05/11/16160-269534741_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 8282076
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "storm, ocean, sky, rain, the waves, wind, dark clouds, rolling sea, anger, a strong wind, clouds, sea, night, darkness, rainy, cloudy, water, lightning · Macb3t · Pixabay · Pixabay Content License",
+   "q": "storm tree strong wind"
+  },
+  {
+   "source": "pixabay",
+   "id": "382125",
+   "kind": "video",
+   "title": "tropical storm rachel, hurricane rachel, weather, storm, southern california, palm trees, wind, windy",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-382125/",
+   "thumb": "https://cdn.pixabay.com/video/2026/10/11/382125_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2026/10/11/382125_tiny.mp4",
+   "w": 1440,
+   "h": 2160,
+   "dur": 21,
+   "year": null,
+   "author": "WordyGirl",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2026/10/11/382125_large.mp4",
+     "w": 1440,
+     "h": 2160,
+     "size": 11426347
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/10/11/382125_medium.mp4",
+     "w": 1080,
+     "h": 1620,
+     "size": 7238876
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/10/11/382125_small.mp4",
+     "w": 720,
+     "h": 1080,
+     "size": 2792946
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "tropical storm rachel, hurricane rachel, weather, storm, southern california, palm trees, wind, windy · WordyGirl · Pixabay · Pixabay Content License",
+   "q": "hurricane palm trees"
+  },
+  {
+   "source": "mixkit",
+   "id": "9321",
+   "kind": "video",
+   "title": "Tree fallen on the street by a hurricane",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/tree-fallen-on-the-street-by-a-hurricane-9321/",
+   "thumb": "https://assets.mixkit.co/videos/9321/9321-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/9321/9321-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/9321/9321-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/9321/9321-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Tree fallen on the street by a hurricane · Mixkit · Mixkit Free License",
+   "q": "fallen tree storm"
+  },
+  {
+   "source": "mixkit",
+   "id": "15346",
+   "kind": "video",
+   "title": "Broken tree in a forest",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/broken-tree-in-a-forest-15346/",
+   "thumb": "https://assets.mixkit.co/videos/15346/15346-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/15346/15346-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/15346/15346-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/15346/15346-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Broken tree in a forest · Mixkit · Mixkit Free License",
+   "q": "broken tree"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-sunny-highway-drive-with-tall-palms",
+   "kind": "video",
+   "title": "Scenic Highway Drive with Tall Palm Trees on a Sunny Day",
+   "desc": "Experience a serene drive along a sunny highway lined with tall palm trees. The vibrant blue sky and lush greenery create a picturesque view, perfect for themes of travel, relaxation, and scenic road trips.",
+   "tags": "",
+   "page": "https://coverr.co/videos/sunny-highway-drive-with-tall-palms",
+   "thumb": "https://cdn.coverr.co/videos/coverr-sunny-highway-drive-with-tall-palms/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-sunny-highway-drive-with-tall-palms/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 18.727042,
+   "year": 2024,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-sunny-highway-drive-with-tall-palms/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Scenic Highway Drive with Tall Palm Trees on a Sunny Day · Coverr · Coverr License",
+   "q": "hurricane palm trees"
+  },
+  {
+   "source": "mixkit",
+   "id": "9269",
+   "kind": "video",
+   "title": "Tree fallen on a car on the street",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/tree-fallen-on-a-car-on-the-street-9269/",
+   "thumb": "https://assets.mixkit.co/videos/9269/9269-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/9269/9269-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/9269/9269-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/9269/9269-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Tree fallen on a car on the street · Mixkit · Mixkit Free License",
+   "q": "fallen tree storm"
+  },
+  {
+   "source": "pixabay",
+   "id": "189080",
+   "kind": "video",
+   "title": "tree, storm, rain, forest, water, jungle, woods",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-189080/",
+   "thumb": "https://cdn.pixabay.com/video/2023/11/14/189080-884476556_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2023/11/14/189080-884476556_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 20,
+   "year": null,
+   "author": "Phile-Rain",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2023/11/14/189080-884476556_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 63248797
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2023/11/14/189080-884476556_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 34404628
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2023/11/14/189080-884476556_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 14377969
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "tree, storm, rain, forest, water, jungle, woods · Phile-Rain · Pixabay · Pixabay Content License",
+   "q": "broken tree storm"
+  },
+  {
+   "source": "mixkit",
+   "id": "2197",
+   "kind": "video",
+   "title": "Winter wind storm in forest",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/winter-wind-storm-in-forest-2197/",
+   "thumb": "https://assets.mixkit.co/videos/2197/2197-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/2197/2197-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/2197/2197-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/2197/2197-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Winter wind storm in forest · Mixkit · Mixkit Free License",
+   "q": "storm tree"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-sunny-skies-and-silhouetted-palms",
+   "kind": "video",
+   "title": "Sunny Skies and Silhouetted Palm Trees in Beverly Hills",
+   "desc": "Tall palm trees are silhouetted against a bright, sunny sky in Beverly Hills. The iconic scene captures the essence of Southern California's laid-back, luxurious lifestyle. Ideal for themes of travel, nature, and urban elegance.",
+   "tags": "",
+   "page": "https://coverr.co/videos/sunny-skies-and-silhouetted-palms",
+   "thumb": "https://cdn.coverr.co/videos/coverr-sunny-skies-and-silhouetted-palms/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-sunny-skies-and-silhouetted-palms/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 16.433083,
+   "year": 2024,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-sunny-skies-and-silhouetted-palms/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Sunny Skies and Silhouetted Palm Trees in Beverly Hills · Coverr · Coverr License",
+   "q": "hurricane palm trees"
+  },
+  {
+   "source": "pixabay",
+   "id": "76722",
+   "kind": "video",
+   "title": "tree, leaves, foliage, ginkgo, maple, fallen leaves, autumn",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-76722/",
+   "thumb": "https://cdn.pixabay.com/video/2021/06/07/76722-560201068_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2021/06/07/76722-560201068_tiny.mp4",
+   "w": 4096,
+   "h": 2160,
+   "dur": 25,
+   "year": null,
+   "author": "TravelerJ",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2021/06/07/76722-560201068_large.mp4",
+     "w": 4096,
+     "h": 2160,
+     "size": 74491979
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/06/07/76722-560201068_medium.mp4",
+     "w": 2732,
+     "h": 1440,
+     "size": 39831620
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/06/07/76722-560201068_small.mp4",
+     "w": 2048,
+     "h": 1080,
+     "size": 16999537
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "tree, leaves, foliage, ginkgo, maple, fallen leaves, autumn · TravelerJ · Pixabay · Pixabay Content License",
+   "q": "fallen tree storm"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-stormy-sea-waves-crashing-on-pier",
+   "kind": "video",
+   "title": "Stormy Sea Waves Crashing on Pier",
+   "desc": "Powerful waves crash on the pier under storm clouds.",
+   "tags": "",
+   "page": "https://coverr.co/videos/stormy-sea-waves-crashing-on-pier",
+   "thumb": "https://cdn.coverr.co/videos/coverr-stormy-sea-waves-crashing-on-pier/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-stormy-sea-waves-crashing-on-pier/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 14.833333,
+   "year": 2023,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-stormy-sea-waves-crashing-on-pier/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Stormy Sea Waves Crashing on Pier · Coverr · Coverr License",
+   "q": "broken tree storm"
+  },
+  {
+   "source": "pixabay",
+   "id": "65562",
+   "kind": "video",
+   "title": "waves, ocean, beach, turquoise, sea, water, wind, power, strong, nature, seascape",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-65562/",
+   "thumb": "https://cdn.pixabay.com/video/2021/02/18/65562-515098354_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2021/02/18/65562-515098354_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 24,
+   "year": null,
+   "author": "missdeena",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2021/02/18/65562-515098354_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 16496825
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/02/18/65562-515098354_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 8249343
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/02/18/65562-515098354_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 4068354
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "waves, ocean, beach, turquoise, sea, water, wind, power, strong, nature, seascape · missdeena · Pixabay · Pixabay Content License",
+   "q": "storm tree strong wind"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-palm-tree-landscape-3016",
+   "kind": "video",
+   "title": "Palm tree landscape",
+   "desc": "Long shot of a palm tree landscape.\\n",
+   "tags": "",
+   "page": "https://coverr.co/videos/palm-tree-landscape-mwhb73bkjb",
+   "thumb": "https://cdn.coverr.co/videos/coverr-palm-tree-landscape-3016/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-palm-tree-landscape-3016/360p.mp4",
+   "w": 4096,
+   "h": 2160,
+   "dur": 6.381375,
+   "year": 2021,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-palm-tree-landscape-3016/1080p.mp4",
+     "w": 4096,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Palm tree landscape · Coverr · Coverr License",
+   "q": "hurricane palm trees"
+  },
+  {
+   "source": "pixabay",
+   "id": "311442",
+   "kind": "video",
+   "title": "fall, larches, autumn leaves, wind, autumn storm, autumn wind, windy, coniferous forest, nature, landscape, mountains, autumn colors",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-311442/",
+   "thumb": "https://cdn.pixabay.com/video/2025/10/22/311442_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2025/10/22/311442_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 50,
+   "year": null,
+   "author": "adege",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2025/10/22/311442_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 150197702
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/10/22/311442_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 78872694
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/10/22/311442_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 56629401
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "fall, larches, autumn leaves, wind, autumn storm, autumn wind, windy, coniferous forest, nature, landscape, mountains, autumn colors · adege · Pixabay · Pixabay Content License",
+   "q": "storm tree strong wind"
+  }
+ ]
+}

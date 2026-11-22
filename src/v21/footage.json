@@ -1,0 +1,536 @@
+{
+ "clips": {
+  "s01a": {
+   "file": "v21/footage/s01a.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 7.867,
+   "fps": 60,
+   "in": 0,
+   "out": null,
+   "audio": false,
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "134398",
+   "title": "leaves, branch, tree, sunlight, wind, motion, gently swaying, structure",
+   "page": "https://pixabay.com/videos/id-134398/",
+   "author": "MabelAmber",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "leaves, branch, tree, sunlight, wind, motion, gently swaying, structure · MabelAmber · Pixabay · Pixabay Content License",
+   "shot": "s01"
+  },
+  "s02a": {
+   "file": "v21/footage/s02a.mp4",
+   "kind": "video",
+   "w": 1080,
+   "h": 1920,
+   "dur": 4.0,
+   "fps": 30,
+   "in": 0,
+   "out": null,
+   "audio": false,
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "source": "user",
+   "id": "s02a",
+   "title": "Two identical trees (user image)",
+   "page": "",
+   "author": "Art of Agriculture",
+   "year": null,
+   "licence": {
+    "code": "own",
+    "name": "Own work",
+    "url": "",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Two identical trees (user image) · Art of Agriculture",
+   "shot": "s02"
+  },
+  "s03a": {
+   "file": "v21/footage/s03a.mp4",
+   "kind": "video",
+   "w": 1080,
+   "h": 1920,
+   "dur": 6.0,
+   "fps": 30,
+   "in": 0,
+   "out": null,
+   "audio": false,
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "source": "user",
+   "id": "s03a",
+   "title": "Calm vs windy tree (user animation)",
+   "page": "",
+   "author": "Art of Agriculture",
+   "year": null,
+   "licence": {
+    "code": "own",
+    "name": "Own work",
+    "url": "",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Calm vs windy tree (user animation) · Art of Agriculture",
+   "shot": "s03"
+  },
+  "s04a": {
+   "file": "v21/footage/s04a.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 30.7,
+   "fps": 30,
+   "in": 0,
+   "out": null,
+   "audio": false,
+   "focus": [
+    0.844,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "71739",
+   "title": "tree, leaves, wind, mountain, windy, nature, valley, scenic, outdoors, relaxing, peaceful",
+   "page": "https://pixabay.com/videos/id-71739/",
+   "author": "ChristianBodhi",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "tree, leaves, wind, mountain, windy, nature, valley, scenic, outdoors, relaxing, peaceful · ChristianBodhi · Pixabay · Pixabay Content License",
+   "shot": "s04"
+  },
+  "s05a": {
+   "file": "v21/footage/s05a.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 19.625,
+   "fps": 24,
+   "in": 0,
+   "out": null,
+   "audio": false,
+   "focus": [
+    0.844,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "188912",
+   "title": "grass, plants, wind, sunlight, sunshine, sky, nature",
+   "page": "https://pixabay.com/videos/id-188912/",
+   "author": "BlenderTimer",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "grass, plants, wind, sunlight, sunshine, sky, nature · BlenderTimer · Pixabay · Pixabay Content License",
+   "shot": "s05"
+  },
+  "s06a": {
+   "file": "v21/footage/s06a.mp4",
+   "kind": "video",
+   "w": 2050,
+   "h": 1080,
+   "dur": 10.135,
+   "fps": 23.976,
+   "in": 0,
+   "out": null,
+   "audio": false,
+   "focus": [
+    0.146,
+    0.5
+   ],
+   "source": "coverr",
+   "id": "coverr-touching-plants-7850",
+   "title": "Touching plants",
+   "page": "https://coverr.co/videos/touching-plants-tp96ny7scm",
+   "author": "",
+   "year": 2021,
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Touching plants · Coverr · Coverr License",
+   "shot": "s06"
+  },
+  "s07a": {
+   "file": "v21/footage/s07a.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 10.219,
+   "fps": 23.976,
+   "in": 0,
+   "out": null,
+   "audio": false,
+   "focus": [
+    0.24,
+    0.5
+   ],
+   "source": "coverr",
+   "id": "coverr-a-trunk-of-a-big-tree-5595",
+   "title": "A trunk of a big tree",
+   "page": "https://coverr.co/videos/a-trunk-of-a-big-tree-tzbttiloib",
+   "author": "",
+   "year": 2022,
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "A trunk of a big tree · Coverr · Coverr License",
+   "shot": "s07"
+  },
+  "s07b": {
+   "file": "v21/footage/s07b.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 16.475,
+   "fps": 23.976,
+   "in": 0,
+   "out": null,
+   "audio": false,
+   "focus": [
+    0.417,
+    0.5
+   ],
+   "source": "mixkit",
+   "id": "50851",
+   "title": "Tree trunks with rugged bark and weathered textures in the forest",
+   "page": "https://mixkit.co/free-stock-video/tree-trunks-with-rugged-bark-and-weathered-textures-in-the-50851/",
+   "author": "",
+   "year": null,
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Tree trunks with rugged bark and weathered textures in the forest · Mixkit · Mixkit Free License",
+   "shot": "s07"
+  },
+  "s08a": {
+   "file": "v21/footage/s08a.mp4",
+   "kind": "video",
+   "w": 1080,
+   "h": 1920,
+   "dur": 8.167,
+   "fps": 30,
+   "in": 0,
+   "out": null,
+   "audio": false,
+   "focus": [
+    0.5,
+    0.357
+   ],
+   "source": "pixabay",
+   "id": "339922",
+   "title": "nature, sustainability, eco, green, seedling, plant, environment, earth, growth, ecology, hands, soil, organic, bioluminescent, roots, conservation, climate, clean energy, hope, future, garden, natural, macro, life, renewable",
+   "page": "https://pixabay.com/videos/id-339922/",
+   "author": "haruudu",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "nature, sustainability, eco, green, seedling, plant, environment, earth, growth, ecology, hands, soil, organic, bioluminescent, roots, conservation, climate, clean energy, hope, future, garden, natural, macro, life, renewable · haruudu · Pixabay · Pixabay Content License",
+   "shot": "s08"
+  },
+  "s09a": {
+   "file": "v21/footage/s09a.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 15.065,
+   "fps": 59.94,
+   "in": 0,
+   "out": null,
+   "audio": false,
+   "focus": [
+    0.292,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "213991",
+   "title": "trees, forest, leaves, branches, woods, summer, countryside, bugs, insects, flying, sunlight, sunshine, sun, breeze, wind, idyllic, green, summer scene, swaying, blowing, nature",
+   "page": "https://pixabay.com/videos/id-213991/",
+   "author": "JoshuaWoroniecki",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "trees, forest, leaves, branches, woods, summer, countryside, bugs, insects, flying, sunlight, sunshine, sun, breeze, wind, idyllic, green, summer scene, swaying, blowing, nature · JoshuaWoroniecki · Pixabay · Pixabay Content License",
+   "shot": "s09"
+  },
+  "s10a": {
+   "file": "v21/footage/s10a.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 60.04,
+   "fps": 25,
+   "in": 0,
+   "out": null,
+   "audio": false,
+   "focus": [
+    0.583,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "20305",
+   "title": "wind, palm, palm tree, tree, storm, hurricane, season, winter, autumn, leaf, branch, rainy, cold, thailand, malaysia, asian, indonesia, bali, monsoon, cloudy, view, nature, sky, tropical, trees",
+   "page": "https://pixabay.com/videos/id-20305/",
+   "author": "Engin_Akyurt",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "wind, palm, palm tree, tree, storm, hurricane, season, winter, autumn, leaf, branch, rainy, cold, thailand, malaysia, asian, indonesia, bali, monsoon, cloudy, view, nature, sky, tropical, trees · Engin_Akyurt · Pixabay · Pixabay Content License",
+   "shot": "s10"
+  },
+  "s10b": {
+   "file": "v21/footage/s10b.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 18.318,
+   "fps": 29.97,
+   "in": 0,
+   "out": null,
+   "audio": false,
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "source": "mixkit",
+   "id": "29491",
+   "title": "Fallen trees after a bad storm",
+   "page": "https://mixkit.co/free-stock-video/fallen-trees-after-a-bad-storm-29491/",
+   "author": "",
+   "year": null,
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Fallen trees after a bad storm · Mixkit · Mixkit Free License",
+   "shot": "s10"
+  },
+  "s11a": {
+   "file": "v21/footage/s11a.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 29.997,
+   "fps": 29.97,
+   "in": 0,
+   "out": null,
+   "audio": false,
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "source": "mixkit",
+   "id": "17781",
+   "title": "Trees in a meadow",
+   "page": "https://mixkit.co/free-stock-video/trees-in-a-meadow-17781/",
+   "author": "",
+   "year": null,
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Trees in a meadow · Mixkit · Mixkit Free License",
+   "shot": "s11"
+  },
+  "s12a": {
+   "file": "v21/footage/s12a.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 4.63,
+   "fps": 23.976,
+   "in": 0,
+   "out": null,
+   "audio": false,
+   "focus": [
+    0.844,
+    0.5
+   ],
+   "source": "mixkit",
+   "id": "50843",
+   "title": "View of the majestic tree with branches on a sunny day",
+   "page": "https://mixkit.co/free-stock-video/view-of-the-majestic-tree-with-branches-on-a-sunny-50843/",
+   "author": "",
+   "year": null,
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "View of the majestic tree with branches on a sunny day · Mixkit · Mixkit Free License",
+   "shot": "s12"
+  },
+  "s13a": {
+   "file": "v21/footage/s13a.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 24.08,
+   "fps": 25,
+   "in": 0,
+   "out": null,
+   "audio": false,
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "216620",
+   "title": "field, wheat, green, spring, agriculture, drone, crops, healthy",
+   "page": "https://pixabay.com/videos/id-216620/",
+   "author": "Ivan267",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "field, wheat, green, spring, agriculture, drone, crops, healthy · Ivan267 · Pixabay · Pixabay Content License",
+   "shot": "s13"
+  }
+ },
+ "shots": {
+  "s01": {
+   "t0": 0.2,
+   "t1": 3.688,
+   "text": "Did you know that a gentle breeze can help plants grow stronger?"
+  },
+  "s02": {
+   "t0": 4.088,
+   "t1": 6.693,
+   "text": "Imagine two identical trees."
+  },
+  "s03": {
+   "t0": 6.943,
+   "t1": 13.184,
+   "text": "One grows in a completely windless environment, while the other experiences a gentle breeze every day."
+  },
+  "s04": {
+   "t0": 13.534,
+   "t1": 17.307,
+   "text": "Surprisingly, the second tree may develop a stronger structure!"
+  },
+  "s05": {
+   "t0": 17.757,
+   "t1": 21.813,
+   "text": "When plants sway in the wind, they sense mechanical stimulation."
+  },
+  "s06": {
+   "t0": 22.063,
+   "t1": 26.558,
+   "text": "This triggers a fascinating biological response called Thigmomorphogenesis."
+  },
+  "s07": {
+   "t0": 27.008,
+   "t1": 34.491,
+   "text": "As a result, plants may develop shorter, thicker stems and stronger supporting tissues, helping them withstand mechanical stress."
+  },
+  "s08": {
+   "t0": 34.841,
+   "t1": 39.98,
+   "text": "Even their roots can adjust their growth and development in response to changing environmental conditions."
+  },
+  "s09": {
+   "t0": 40.38,
+   "t1": 43.736,
+   "text": "It's almost as if nature is giving plants a gentle workout!"
+  },
+  "s10": {
+   "t0": 44.136,
+   "t1": 48.571,
+   "text": "But remember, too much wind can damage plants rather than strengthen them."
+  },
+  "s11": {
+   "t0": 48.971,
+   "t1": 53.826,
+   "text": "Sometimes, a little movement is exactly what helps a plant become more resilient."
+  },
+  "s12": {
+   "t0": 54.276,
+   "t1": 56.96,
+   "text": "Nature has its own way of building strength!"
+  },
+  "s13": {
+   "t0": 57.36,
+   "t1": 61.572,
+   "text": "Follow Art of Agriculture for more amazing secrets of the plant world."
+  }
+ }
+}

@@ -1,0 +1,701 @@
+{
+ "shot": "s06",
+ "text": "This triggers a fascinating biological response called Thigmomorphogenesis.",
+ "need": "hand gently brushing over seedlings / touching plants",
+ "queries": [
+  "hand touching plants",
+  "hand brushing over seedlings",
+  "hand touching leaves",
+  "hand touching wheat field"
+ ],
+ "kind": "video",
+ "items": [
+  {
+   "source": "coverr",
+   "id": "coverr-touching-plants-7850",
+   "kind": "video",
+   "title": "Touching plants",
+   "desc": "Close-up shot of a woman touching the plants as she walks. ",
+   "tags": "",
+   "page": "https://coverr.co/videos/touching-plants-tp96ny7scm",
+   "thumb": "https://cdn.coverr.co/videos/coverr-touching-plants-7850/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-touching-plants-7850/360p.mp4",
+   "w": 4096,
+   "h": 2160,
+   "dur": 10.135125,
+   "year": 2021,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-touching-plants-7850/1080p.mp4",
+     "w": 4096,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Touching plants · Coverr · Coverr License",
+   "q": "hand touching plants"
+  },
+  {
+   "source": "mixkit",
+   "id": "100467",
+   "kind": "video",
+   "title": "Painter's Hand Softly Brushing a Canvas",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/painters-hand-softly-brushing-a-canvas-100467/",
+   "thumb": "https://assets.mixkit.co/videos/100467/100467-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/100467/100467-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/100467/100467-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/100467/100467-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Painter's Hand Softly Brushing a Canvas · Mixkit · Mixkit Free License",
+   "q": "hand brushing over"
+  },
+  {
+   "source": "mixkit",
+   "id": "2563",
+   "kind": "video",
+   "title": "Person touching yellow leaves ",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/person-touching-yellow-leaves-2563/",
+   "thumb": "https://assets.mixkit.co/videos/2563/2563-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/2563/2563-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/2563/2563-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/2563/2563-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Person touching yellow leaves  · Mixkit · Mixkit Free License",
+   "q": "hand touching leaves"
+  },
+  {
+   "source": "mixkit",
+   "id": "8864",
+   "kind": "video",
+   "title": "Hand touching wheat in golden sunset",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/hand-touching-wheat-in-golden-sunset-8864/",
+   "thumb": "https://assets.mixkit.co/videos/8864/8864-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/8864/8864-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/8864/8864-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/8864/8864-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Hand touching wheat in golden sunset · Mixkit · Mixkit Free License",
+   "q": "hand touching wheat field"
+  },
+  {
+   "source": "mixkit",
+   "id": "8583",
+   "kind": "video",
+   "title": "Hand brushing through wheat field in slow motion",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/hand-brushing-through-wheat-field-in-slow-motion-8583/",
+   "thumb": "https://assets.mixkit.co/videos/8583/8583-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/8583/8583-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/8583/8583-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/8583/8583-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Hand brushing through wheat field in slow motion · Mixkit · Mixkit Free License",
+   "q": "hand brushing over"
+  },
+  {
+   "source": "mixkit",
+   "id": "32582",
+   "kind": "video",
+   "title": "POV of a person's hand touching the sun",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/pov-of-a-persons-hand-touching-the-sun-32582/",
+   "thumb": "https://assets.mixkit.co/videos/32582/32582-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/32582/32582-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/32582/32582-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/32582/32582-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "POV of a person's hand touching the sun · Mixkit · Mixkit Free License",
+   "q": "hand touching"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-woman-shows-harvested-peas-8954",
+   "kind": "video",
+   "title": "A woman shows harvested peas",
+   "desc": "A close-up shot of a woman’s hand as she shows freshly picked green peas.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-shows-harvested-peas-spfj1r5pcz",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-woman-shows-harvested-peas-8954/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-woman-shows-harvested-peas-8954/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 14.055708,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-woman-shows-harvested-peas-8954/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman shows harvested peas · Coverr · Coverr License",
+   "q": "hand brushing over seedlings"
+  },
+  {
+   "source": "mixkit",
+   "id": "11546",
+   "kind": "video",
+   "title": "Hand touching a virtual screen",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/hand-touching-a-virtual-screen-11546/",
+   "thumb": "https://assets.mixkit.co/videos/11546/11546-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/11546/11546-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/11546/11546-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/11546/11546-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Hand touching a virtual screen · Mixkit · Mixkit Free License",
+   "q": "hand touching"
+  },
+  {
+   "source": "mixkit",
+   "id": "43446",
+   "kind": "video",
+   "title": "Close shot of an artist's hand painting",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/close-shot-of-an-artists-hand-painting-43446/",
+   "thumb": "https://assets.mixkit.co/videos/43446/43446-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/43446/43446-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/43446/43446-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/43446/43446-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Close shot of an artist's hand painting · Mixkit · Mixkit Free License",
+   "q": "hand brushing over"
+  },
+  {
+   "source": "mixkit",
+   "id": "48492",
+   "kind": "video",
+   "title": "Close up of hand touching a wire fence",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/close-up-of-hand-touching-a-wire-fence-48492/",
+   "thumb": "https://assets.mixkit.co/videos/48492/48492-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/48492/48492-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/48492/48492-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/48492/48492-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Close up of hand touching a wire fence · Mixkit · Mixkit Free License",
+   "q": "hand touching"
+  },
+  {
+   "source": "mixkit",
+   "id": "43418",
+   "kind": "video",
+   "title": "Artist brushing paint across a canvas",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/artist-brushing-paint-across-a-canvas-43418/",
+   "thumb": "https://assets.mixkit.co/videos/43418/43418-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/43418/43418-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/43418/43418-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/43418/43418-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Artist brushing paint across a canvas · Mixkit · Mixkit Free License",
+   "q": "hand brushing over"
+  },
+  {
+   "source": "pixabay",
+   "id": "17285",
+   "kind": "video",
+   "title": "wheat, wheat field, nature, agriculture, field, summer, grain, cereals, cornfield, spike, plant, close up, staple food, wheat grains, yellow, wind, wind blowing through wheat",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-17285/",
+   "thumb": "https://cdn.pixabay.com/video/2018/07/14/17285-280038627_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2018/07/14/17285-280038627_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 28,
+   "year": null,
+   "author": "ulleo",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2018/07/14/17285-280038627_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 17581708
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2018/07/14/17285-280038627_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 8792545
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2018/07/14/17285-280038627_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 5272952
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "wheat, wheat field, nature, agriculture, field, summer, grain, cereals, cornfield, spike, plant, close up, staple food, wheat grains, yellow, wind, wind blowing through wheat · ulleo · Pixabay · Pixabay Content License",
+   "q": "hand touching wheat field"
+  },
+  {
+   "source": "pixabay",
+   "id": "260395",
+   "kind": "video",
+   "title": "seedling, germinate, grow, germination, potato seedling, nature, growth, plant",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-260395/",
+   "thumb": "https://cdn.pixabay.com/video/2025/02/23/260395_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2025/02/23/260395_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 40,
+   "year": null,
+   "author": "adege",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2025/02/23/260395_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 42870344
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/02/23/260395_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 12571561
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/02/23/260395_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 6707672
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "seedling, germinate, grow, germination, potato seedling, nature, growth, plant · adege · Pixabay · Pixabay Content License",
+   "q": "hand brushing over seedlings"
+  },
+  {
+   "source": "pixabay",
+   "id": "232561",
+   "kind": "video",
+   "title": "tractor, field, wheat, harvest, combine, agriculture, grain, farming, summer, machine, technology, equipment, landscape",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-232561/",
+   "thumb": "https://cdn.pixabay.com/video/2024/09/21/232561_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2024/09/21/232561_tiny.mp4",
+   "w": 2560,
+   "h": 1440,
+   "dur": 19,
+   "year": null,
+   "author": "Ivan267",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2024/09/21/232561_large.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 57628754
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2024/09/21/232561_medium.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 30591181
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2024/09/21/232561_small.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 10983446
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "tractor, field, wheat, harvest, combine, agriculture, grain, farming, summer, machine, technology, equipment, landscape · Ivan267 · Pixabay · Pixabay Content License",
+   "q": "hand touching wheat field"
+  },
+  {
+   "source": "pixabay",
+   "id": "421",
+   "kind": "video",
+   "title": "hands, wedding, bride, touching, wedding ring, marriage, love, couple, romance, romantic, holding hands, together, bound, promise, groom, husband, wife, loving, 133157334",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-421/",
+   "thumb": "https://cdn.pixabay.com/video/2015/08/13/421-136181633_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2015/08/13/421-136181633_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 5,
+   "year": null,
+   "author": "Vimeo-Free-Videos",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2015/08/13/421-136181633_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 2725519
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2015/08/13/421-136181633_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 1508619
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2015/08/13/421-136181633_small.mp4",
+     "w": 640,
+     "h": 360,
+     "size": 458058
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "hands, wedding, bride, touching, wedding ring, marriage, love, couple, romance, romantic, holding hands, together, bound, promise, groom, husband, wife, loving, 133157334 · Vimeo-Free-Videos · Pixabay · Pixabay Content License",
+   "q": "hand touching plants"
+  },
+  {
+   "source": "pixabay",
+   "id": "22983",
+   "kind": "video",
+   "title": "germinate, germination, seedling, book seedling, plug, grow, sprout, development, grows, growth, sapling, time lapse",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-22983/",
+   "thumb": "https://cdn.pixabay.com/video/2019/04/22/22983-332257703_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2019/04/22/22983-332257703_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 25,
+   "year": null,
+   "author": "adege",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2019/04/22/22983-332257703_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 52414089
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/04/22/22983-332257703_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 24466118
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/04/22/22983-332257703_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 15190578
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "germinate, germination, seedling, book seedling, plug, grow, sprout, development, grows, growth, sapling, time lapse · adege · Pixabay · Pixabay Content License",
+   "q": "hand brushing over seedlings"
+  },
+  {
+   "source": "pixabay",
+   "id": "22070",
+   "kind": "video",
+   "title": "tornado, storm, field, twister, funnel, weather, extreme weather, storm chasing, nature, mother nature, destruction, thunderstorm, hurricane, typhoon, natural disaster, clouds, wheat field, outdoor, live wallpaper",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-22070/",
+   "thumb": "https://cdn.pixabay.com/video/2019/03/18/22070-325253460_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2019/03/18/22070-325253460_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 20,
+   "year": null,
+   "author": "eyesonjason",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2019/03/18/22070-325253460_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 9858932
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/03/18/22070-325253460_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 5849009
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/03/18/22070-325253460_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 3857527
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "tornado, storm, field, twister, funnel, weather, extreme weather, storm chasing, nature, mother nature, destruction, thunderstorm, hurricane, typhoon, natural disaster, clouds, wheat field, outdoor, live wallpaper · eyesonjason · Pixabay · Pixabay Content License",
+   "q": "hand touching wheat field"
+  }
+ ]
+}

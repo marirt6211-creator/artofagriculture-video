@@ -1,0 +1,93 @@
+[
+ {
+  "n": 1,
+  "sp": "A",
+  "fa": "[curious] Did you know that a gentle breeze can help plants grow stronger?",
+  "check": "Did you know that a gentle breeze can help plants grow stronger?",
+  "gap": 0.4
+ },
+ {
+  "n": 2,
+  "sp": "A",
+  "fa": "[warm] Imagine two identical trees.",
+  "check": "Imagine two identical trees.",
+  "gap": 0.25
+ },
+ {
+  "n": 3,
+  "sp": "A",
+  "fa": "[warm] One grows in a completely windless environment, while the other experiences a gentle breeze every day.",
+  "check": "One grows in a completely windless environment, while the other experiences a gentle breeze every day.",
+  "gap": 0.35
+ },
+ {
+  "n": 4,
+  "sp": "A",
+  "fa": "[surprised] Surprisingly, the second tree may develop a stronger structure!",
+  "check": "Surprisingly, the second tree may develop a stronger structure!",
+  "gap": 0.45
+ },
+ {
+  "n": 5,
+  "sp": "A",
+  "fa": "[informative] When plants sway in the wind, they sense mechanical stimulation.",
+  "check": "When plants sway in the wind, they sense mechanical stimulation.",
+  "gap": 0.25
+ },
+ {
+  "n": 6,
+  "sp": "A",
+  "fa": "[fascinated] This triggers a fascinating biological response called Thigmomorphogenesis.",
+  "check": "This triggers a fascinating biological response called Thigmomorphogenesis.",
+  "gap": 0.45
+ },
+ {
+  "n": 7,
+  "sp": "A",
+  "fa": "[informative] As a result, plants may develop shorter, thicker stems and stronger supporting tissues, helping them withstand mechanical stress.",
+  "check": "As a result, plants may develop shorter, thicker stems and stronger supporting tissues, helping them withstand mechanical stress.",
+  "gap": 0.35
+ },
+ {
+  "n": 8,
+  "sp": "A",
+  "fa": "[informative] Even their roots can adjust their growth and development in response to changing environmental conditions.",
+  "check": "Even their roots can adjust their growth and development in response to changing environmental conditions.",
+  "gap": 0.4
+ },
+ {
+  "n": 9,
+  "sp": "A",
+  "fa": "[playful] It's almost as if nature is giving plants a gentle workout!",
+  "check": "It's almost as if nature is giving plants a gentle workout!",
+  "gap": 0.4
+ },
+ {
+  "n": 10,
+  "sp": "A",
+  "fa": "[serious] But remember, too much wind can damage plants rather than strengthen them.",
+  "check": "But remember, too much wind can damage plants rather than strengthen them.",
+  "gap": 0.4
+ },
+ {
+  "n": 11,
+  "sp": "A",
+  "fa": "[reflective] Sometimes, a little movement is exactly what helps a plant become more resilient.",
+  "check": "Sometimes, a little movement is exactly what helps a plant become more resilient.",
+  "gap": 0.45
+ },
+ {
+  "n": 12,
+  "sp": "A",
+  "fa": "[warm] Nature has its own way of building strength!",
+  "check": "Nature has its own way of building strength!",
+  "gap": 0.4
+ },
+ {
+  "n": 13,
+  "sp": "A",
+  "fa": "[warm, inviting] Follow Art of Agriculture for more amazing secrets of the plant world.",
+  "check": "Follow Art of Agriculture for more amazing secrets of the plant world.",
+  "gap": 0.3
+ }
+]
