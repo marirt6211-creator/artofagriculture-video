@@ -587,6 +587,56 @@
    },
    "author": "Art of Agriculture",
    "page": ""
+  },
+  "u_npkg": {
+   "file": "v22/user/npk-anim.mp4",
+   "kind": "video",
+   "w": 1080,
+   "h": 1920,
+   "dur": 6.0,
+   "fps": 30,
+   "in": 0,
+   "out": null,
+   "audio": false,
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "source": "user",
+   "title": "user animation (npk)",
+   "licence": {
+    "code": "own",
+    "name": "User's own image",
+    "url": "",
+    "verdict": "ok"
+   },
+   "author": "Art of Agriculture",
+   "page": ""
+  },
+  "u_treeg": {
+   "file": "v22/user/tree-anim.mp4",
+   "kind": "video",
+   "w": 1080,
+   "h": 1920,
+   "dur": 6.0,
+   "fps": 30,
+   "in": 0,
+   "out": null,
+   "audio": false,
+   "focus": [
+    0.5,
+    0.45
+   ],
+   "source": "user",
+   "title": "user animation (tree)",
+   "licence": {
+    "code": "own",
+    "name": "User's own image",
+    "url": "",
+    "verdict": "ok"
+   },
+   "author": "Art of Agriculture",
+   "page": ""
   }
  },
  "shots": {
