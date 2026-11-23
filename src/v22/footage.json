@@ -1,31 +1,5 @@
 {
  "clips": {
-  "s01a": {
-   "file": "v22/footage/s01a.jpg",
-   "kind": "image",
-   "w": 3000,
-   "h": 1996,
-   "focus": [
-    0.432,
-    0.499
-   ],
-   "source": "unsplash",
-   "id": "cWEVSZhPYm0",
-   "title": "Young boy walks past stacks of bagged goods",
-   "page": "https://unsplash.com/photos/young-boy-walks-past-stacks-of-bagged-goods-cWEVSZhPYm0",
-   "author": "Spencer Plouzek",
-   "year": 2026,
-   "licence": {
-    "code": "unsplash",
-    "name": "Unsplash License",
-    "url": "https://unsplash.com/license",
-    "verdict": "free",
-    "attr": false,
-    "sa": false
-   },
-   "credit": "Young boy walks past stacks of bagged goods \u00b7 Spencer Plouzek \u00b7 Unsplash \u00b7 Unsplash License",
-   "shot": "s01"
-  },
   "s02a": {
    "file": "v22/footage/s02a.jpg",
    "kind": "image",
@@ -590,6 +564,29 @@
    },
    "credit": "Inspecting a plant \u00b7 Coverr \u00b7 Coverr License",
    "shot": "s14"
+  },
+  "u_bags": {
+   "file": "v22/user/bags.jpg",
+   "kind": "image",
+   "w": 941,
+   "h": 1672,
+   "in": 0,
+   "out": null,
+   "audio": false,
+   "focus": [
+    0.5,
+    0.55
+   ],
+   "source": "user",
+   "title": "user image (bags)",
+   "licence": {
+    "code": "own",
+    "name": "User's own image",
+    "url": "",
+    "verdict": "ok"
+   },
+   "author": "Art of Agriculture",
+   "page": ""
   }
  },
  "shots": {

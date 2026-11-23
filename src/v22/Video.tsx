@@ -46,7 +46,7 @@ const shadowDark = "0 4px 18px rgba(0,0,0,.65), 0 1px 3px rgba(0,0,0,.6)";
 // "card" = footage in a tilted rounded card on paper
 type Scene = { id: string; a: number; b: number; mode: "paper" | "full" | "circle" | "card"; clip?: string; from?: number; rate?: number; focus?: [number, number]; push?: number; zoom?: number; tint?: string };
 const SC: Scene[] = [
-  { id: "bags", a: 0, b: Wd(1, "fertilizer") - 0.05, mode: "card", clip: "s01a", push: 0.18, tint: GREEN },
+  { id: "bags", a: 0, b: Wd(1, "fertilizer") - 0.05, mode: "full", clip: "u_bags", zoom: 1.0, push: 0.07, focus: [0.5, 0.55] },
   { id: "bag", a: Wd(1, "fertilizer") - 0.05, b: S(2) - 0.05, mode: "paper", tint: GREEN },
   { id: "random", a: S(2) - 0.05, b: Wd(2, "they") - 0.05, mode: "paper", tint: GOLD },
   { id: "pellets", a: Wd(2, "they") - 0.05, b: Wd(2, "three") - 0.05, mode: "full", clip: "s02a", push: 0.22 },
