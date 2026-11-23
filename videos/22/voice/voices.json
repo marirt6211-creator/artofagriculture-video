@@ -1,0 +1,12 @@
+{
+ "A": "EXAVITQu4vr4xnSDxMaL",
+ "model": "eleven_v4",
+ "takes": 3,
+ "lang": "en",
+ "settings": {
+  "A": {
+   "stability": 0.45,
+   "similarity_boost": 0.8
+  }
+ }
+}

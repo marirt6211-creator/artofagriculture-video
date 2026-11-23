@@ -1,0 +1,272 @@
+{
+ "01-2": {
+  "score": 0.573,
+  "heard": "Have you ever noticed the numbers printed on fertilizer bags? Things like twenty twenty twenty or ten fifty two ten",
+  "dur": 7.63,
+  "events": []
+ },
+ "01-1": {
+  "score": 1,
+  "heard": "Have you ever noticed the numbers printed on fertilizer bags? Things like 20-20-20 or 10-52-10?",
+  "dur": 7.63,
+  "events": []
+ },
+ "01-3": {
+  "score": 1,
+  "heard": "Have you ever noticed the numbers printed on fertilizer bags? Things like 20-20-20 or 10-52-10?",
+  "dur": 7.55,
+  "events": []
+ },
+ "02-2": {
+  "score": 0.979,
+  "heard": "Well, those numbers aren't random. They actually tell us how much of three important nutrients the fertilizer contains, nitrogen, phosphorus, and potassium, also known as NPK",
+  "dur": 12.36,
+  "events": []
+ },
+ "02-3": {
+  "score": 0.979,
+  "heard": "Well, those numbers aren't random. They actually tell us how much of three important nutrients the fertilizer contains, nitrogen, phosphorus, and potassium, also known as NPK",
+  "dur": 12.43,
+  "events": []
+ },
+ "02-1": {
+  "score": 0.979,
+  "heard": "Well, those numbers aren't random. They actually tell us how much of three important nutrients the fertilizer contains: nitrogen, phosphorus, and potassium, also known as NPK",
+  "dur": 11.89,
+  "events": []
+ },
+ "03-3": {
+  "score": 1,
+  "heard": "But what does each of these nutrients actually do for plants?",
+  "dur": 3.79,
+  "events": []
+ },
+ "03-2": {
+  "score": 1,
+  "heard": "But what does each of these nutrients actually do for plants?",
+  "dur": 3.87,
+  "events": []
+ },
+ "03-1": {
+  "score": 1,
+  "heard": "But what does each of these nutrients actually do for plants?",
+  "dur": 3.97,
+  "events": []
+ },
+ "04-1": {
+  "score": 0.993,
+  "heard": "Let's start with nitrogen. It's the nutrient that helps plants grow their leaves and stems. It also helps them produce chlorophyll, keeping their leaves green and healthy",
+  "dur": 10.03,
+  "events": []
+ },
+ "04-3": {
+  "score": 0.993,
+  "heard": "Let's start with nitrogen. It's the nutrient that helps plants grow their leaves and stems. It also helps them produce chlorophyll, keeping their leaves green and healthy",
+  "dur": 10.11,
+  "events": []
+ },
+ "04-2": {
+  "score": 0.993,
+  "heard": "Let's start with nitrogen. It's the nutrient that helps plants grow their leaves and stems. It also helps them produce chlorophyll, keeping their leaves green and healthy",
+  "dur": 10.11,
+  "events": []
+ },
+ "05-1": {
+  "score": 0.992,
+  "heard": "Next comes phosphorus, which plays a major role in the plant's energy processes. It helps roots develop and is also important for flowering and seed formation.",
+  "dur": 10.37,
+  "events": []
+ },
+ "05-3": {
+  "score": 0.992,
+  "heard": "Next comes phosphorus, which plays a major role in the plant's energy processes. It helps roots develop and is also important for flowering and seed formation.",
+  "dur": 10.45,
+  "events": []
+ },
+ "05-2": {
+  "score": 0.985,
+  "heard": "Next comes phosphorus, which plays a major role in the plant's energy processes it helps roots develop and is also important for flowering and seed formation",
+  "dur": 10.37,
+  "events": []
+ },
+ "06-1": {
+  "score": 0.992,
+  "heard": "And then there's potassium. It helps plants regulate water, move sugars throughout their tissues, and become more tolerant of certain environmental stresses",
+  "dur": 9.33,
+  "events": []
+ },
+ "06-3": {
+  "score": 0.992,
+  "heard": "And then there's potassium. It helps plants regulate water, move sugars throughout their tissues, and become more tolerant of certain environmental stresses",
+  "dur": 9.09,
+  "events": []
+ },
+ "06-2": {
+  "score": 0.992,
+  "heard": "And then there's potassium. It helps plants regulate water, move sugars throughout their tissues and become more tolerant of certain environmental stresses",
+  "dur": 9.25,
+  "events": []
+ },
+ "07-2": {
+  "score": 1,
+  "heard": "Now, let's take a look at some of the most commonly used NPK fertilizers",
+  "dur": 5.8,
+  "events": []
+ },
+ "07-3": {
+  "score": 1,
+  "heard": "Now, let's take a look at some of the most commonly used NPK fertilizers",
+  "dur": 5.49,
+  "events": []
+ },
+ "07-1": {
+  "score": 1,
+  "heard": "Now, let's take a look at some of the most commonly used NPK fertilizers",
+  "dur": 5.8,
+  "events": []
+ },
+ "08-2": {
+  "score": 1,
+  "heard": "First, there's 20-20-20. It contains equal amounts of all three nutrients and is commonly used for the general feeding of many different plants",
+  "dur": 9.56,
+  "events": []
+ },
+ "08-3": {
+  "score": 1,
+  "heard": "First, there's 20-20-20. It contains equal amounts of all three nutrients and is commonly used for the general feeding of many different plants",
+  "dur": 9.72,
+  "events": []
+ },
+ "08-1": {
+  "score": 1,
+  "heard": "First, there's 20-20-20. It contains equal amounts of all three nutrients and is commonly used for the general feeding of many different plants",
+  "dur": 9.48,
+  "events": []
+ },
+ "09-3": {
+  "score": 0.991,
+  "heard": "Then we have 30-10-10, which contains more nitrogen. It's often used when plants need to develop more leaves, stems, and green growth",
+  "dur": 9.09,
+  "events": []
+ },
+ "09-2": {
+  "score": 0.991,
+  "heard": "Then we have 30-10-10, which contains more nitrogen. It's often used when plants need to develop more leaves, stems, and green growth",
+  "dur": 8.83,
+  "events": []
+ },
+ "09-1": {
+  "score": 0.991,
+  "heard": "Then we have 30-10-10, which contains more nitrogen. It's often used when plants need to develop more leaves, stems, and green growth",
+  "dur": 8.99,
+  "events": []
+ },
+ "10-2": {
+  "score": 0.885,
+  "heard": "Next is ten fifty two ten. This fertilizer is especially rich in phosphorus and is often used in early growth stages to supply phosphorus and support root development.",
+  "dur": 11.55,
+  "events": []
+ },
+ "10-1": {
+  "score": 0.885,
+  "heard": "Next is ten fifty two ten. This fertilizer is especially rich in phosphorus and is often used in early growth stages to supply phosphorus and support root development.",
+  "dur": 11.23,
+  "events": []
+ },
+ "10-3": {
+  "score": 0.885,
+  "heard": "Next is ten fifty two ten. This fertilizer is especially rich in phosphorus and is often used in early growth stages to supply phosphorus and support root development.",
+  "dur": 11.08,
+  "events": []
+ },
+ "11-1": {
+  "score": 0.842,
+  "heard": "And finally, there's twelve-twelve-thirty-six, which contains a high amount of potassium. It can help with sugar transport and improve fruit quality during fruit development and filling",
+  "dur": 11.23,
+  "events": []
+ },
+ "11-2": {
+  "score": 0.842,
+  "heard": "And finally, there's twelve-twelve thirty-six, which contains a high amount of potassium. It can help with sugar transport and improve fruit quality during fruit development and filling",
+  "dur": 11.55,
+  "events": []
+ },
+ "11-3": {
+  "score": 0.842,
+  "heard": "And finally, there's twelve-twelve-thirty-six, which contains a high amount of potassium. It can help with sugar transport and improve fruit quality during fruit development and filling",
+  "dur": 11.23,
+  "events": []
+ },
+ "12-3": {
+  "score": 1,
+  "heard": "So the main difference between these fertilizers is the amount and ratio of these three nutrients. Depending on whether a plant needs more leafy growth, stronger root development, or support during fruit production, it may need a different NPK formula",
+  "dur": 15.57,
+  "events": []
+ },
+ "12-1": {
+  "score": 1,
+  "heard": "So the main difference between these fertilizers is the amount and ratio of these three nutrients. Depending on whether a plant needs more leafy growth, stronger root development, or support during fruit production, it may need a different NPK formula",
+  "dur": 15.49,
+  "events": []
+ },
+ "12-2": {
+  "score": 1,
+  "heard": "So the main difference between these fertilizers is the amount and ratio of these three nutrients. Depending on whether a plant needs more leafy growth, stronger root development, or support during fruit production, it may need a different NPK formula",
+  "dur": 15.49,
+  "events": []
+ },
+ "13-3": {
+  "score": 1,
+  "heard": "But here's something important to remember. More fertilizer doesn't always mean better growth. Overusing fertilizers can upset the plant's nutrient balance, damage its roots, and even reduce crop quality",
+  "dur": 13.48,
+  "events": []
+ },
+ "13-1": {
+  "score": 1,
+  "heard": "But here's something important to remember More fertilizer doesn't always mean better growth Overusing fertilizers can upset the plant's nutrient balance, damage its roots, and even reduce crop quality",
+  "dur": 13.17,
+  "events": []
+ },
+ "13-2": {
+  "score": 1,
+  "heard": "But here's something important to remember. More fertilizer doesn't always mean better growth. Overusing fertilizers can upset the plant's nutrient balance, damage its roots, and even reduce crop quality",
+  "dur": 13.56,
+  "events": []
+ },
+ "14-2": {
+  "score": 1,
+  "heard": "So before choosing a fertilizer, make sure you know what your plant actually needs",
+  "dur": 5.07,
+  "events": []
+ },
+ "14-3": {
+  "score": 1,
+  "heard": "So before choosing a fertilizer, make sure you know what your plant actually needs",
+  "dur": 5.07,
+  "events": []
+ },
+ "14-1": {
+  "score": 1,
+  "heard": "So before choosing a fertilizer, make sure you know what your plant actually needs",
+  "dur": 5.07,
+  "events": []
+ },
+ "15-2": {
+  "score": 0.922,
+  "heard": "Art of Agriculture: Knowledge today, better farming tomorrow",
+  "dur": 4.91,
+  "events": []
+ },
+ "15-1": {
+  "score": 0.922,
+  "heard": "Art of Agriculture: Knowledge today, better farming tomorrow",
+  "dur": 4.91,
+  "events": []
+ },
+ "15-3": {
+  "score": 0.922,
+  "heard": "Art of Agriculture: Knowledge today, better farming tomorrow",
+  "dur": 4.91,
+  "events": []
+ }
+}

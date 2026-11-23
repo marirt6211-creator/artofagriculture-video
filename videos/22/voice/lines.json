@@ -1,0 +1,107 @@
+[
+ {
+  "n": 1,
+  "sp": "A",
+  "fa": "[curious] Have you ever noticed the numbers printed on fertilizer bags? Things like 20-20-20, or 10-52-10?",
+  "check": "Have you ever noticed the numbers printed on fertilizer bags? Things like 20-20-20, or 10-52-10?",
+  "gap": 0.4
+ },
+ {
+  "n": 2,
+  "sp": "A",
+  "fa": "[warm] Well, those numbers aren't random! They actually tell us how much of three important nutrients the fertilizer contains: Nitrogen, Phosphorus, and Potassium, also known as N-P-K.",
+  "check": "Well, those numbers aren't random! They actually tell us how much of three important nutrients the fertilizer contains: Nitrogen, Phosphorus, and Potassium, also known as N-P-K.",
+  "gap": 0.45
+ },
+ {
+  "n": 3,
+  "sp": "A",
+  "fa": "[curious] But what does each of these nutrients actually do for plants?",
+  "check": "But what does each of these nutrients actually do for plants?",
+  "gap": 0.5
+ },
+ {
+  "n": 4,
+  "sp": "A",
+  "fa": "[warm] Let's start with Nitrogen. It's the nutrient that helps plants grow their leaves and stems. It also helps them produce chlorophyll, keeping their leaves green and healthy.",
+  "check": "Let's start with Nitrogen. It's the nutrient that helps plants grow their leaves and stems. It also helps them produce chlorophyll, keeping their leaves green and healthy.",
+  "gap": 0.4
+ },
+ {
+  "n": 5,
+  "sp": "A",
+  "fa": "[warm] Next comes Phosphorus, which plays a major role in the plant's energy processes. It helps roots develop, and is also important for flowering and seed formation.",
+  "check": "Next comes Phosphorus, which plays a major role in the plant's energy processes. It helps roots develop, and is also important for flowering and seed formation.",
+  "gap": 0.4
+ },
+ {
+  "n": 6,
+  "sp": "A",
+  "fa": "[excited] And then there's Potassium! It helps plants regulate water, move sugars throughout their tissues, and become more tolerant of certain environmental stresses.",
+  "check": "And then there's Potassium! It helps plants regulate water, move sugars throughout their tissues, and become more tolerant of certain environmental stresses.",
+  "gap": 0.5
+ },
+ {
+  "n": 7,
+  "sp": "A",
+  "fa": "[warm] Now, let's take a look at some of the most commonly used N-P-K fertilizers.",
+  "check": "Now, let's take a look at some of the most commonly used N-P-K fertilizers.",
+  "gap": 0.4
+ },
+ {
+  "n": 8,
+  "sp": "A",
+  "fa": "[warm] First, there's 20-20-20. It contains equal amounts of all three nutrients, and is commonly used for the general feeding of many different plants.",
+  "check": "First, there's 20-20-20. It contains equal amounts of all three nutrients, and is commonly used for the general feeding of many different plants.",
+  "gap": 0.35
+ },
+ {
+  "n": 9,
+  "sp": "A",
+  "fa": "[warm] Then we have 30-10-10, which contains more Nitrogen. It's often used when plants need to develop more leaves, stems, and green growth.",
+  "check": "Then we have 30-10-10, which contains more Nitrogen. It's often used when plants need to develop more leaves, stems, and green growth.",
+  "gap": 0.35
+ },
+ {
+  "n": 10,
+  "sp": "A",
+  "fa": "[warm] Next is 10-52-10. This fertilizer is especially rich in Phosphorus, and is often used in early growth stages to supply phosphorus and support root development.",
+  "check": "Next is 10-52-10. This fertilizer is especially rich in Phosphorus, and is often used in early growth stages to supply phosphorus and support root development.",
+  "gap": 0.35
+ },
+ {
+  "n": 11,
+  "sp": "A",
+  "fa": "[warm] And finally, there's 12-12-36, which contains a high amount of Potassium. It can help with sugar transport, and improve fruit quality during fruit development and filling.",
+  "check": "And finally, there's 12-12-36, which contains a high amount of Potassium. It can help with sugar transport, and improve fruit quality during fruit development and filling.",
+  "gap": 0.5
+ },
+ {
+  "n": 12,
+  "sp": "A",
+  "fa": "[warm] So, the main difference between these fertilizers is the amount and ratio of these three nutrients. Depending on whether a plant needs more leafy growth, stronger root development, or support during fruit production, it may need a different N-P-K formula.",
+  "check": "So, the main difference between these fertilizers is the amount and ratio of these three nutrients. Depending on whether a plant needs more leafy growth, stronger root development, or support during fruit production, it may need a different N-P-K formula.",
+  "gap": 0.5
+ },
+ {
+  "n": 13,
+  "sp": "A",
+  "fa": "[serious] But here's something important to remember! More fertilizer doesn't always mean better growth. Overusing fertilizers can upset the plant's nutrient balance, damage its roots, and even reduce crop quality.",
+  "check": "But here's something important to remember! More fertilizer doesn't always mean better growth. Overusing fertilizers can upset the plant's nutrient balance, damage its roots, and even reduce crop quality.",
+  "gap": 0.4
+ },
+ {
+  "n": 14,
+  "sp": "A",
+  "fa": "[warm] So before choosing a fertilizer, make sure you know what your plant actually needs.",
+  "check": "So before choosing a fertilizer, make sure you know what your plant actually needs.",
+  "gap": 0.6
+ },
+ {
+  "n": 15,
+  "sp": "A",
+  "fa": "[excited] Art of Agriculture. Knowledge Today, Better Farming Tomorrow!",
+  "check": "Art of Agriculture. Knowledge Today, Better Farming Tomorrow!",
+  "gap": 0.3
+ }
+]
