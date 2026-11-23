@@ -15,7 +15,7 @@ type VW = { w: string; s: number; e: number; line: number };
 const VO = voJson as unknown as { total: number; segs: { n: number; start: number; end: number }[]; words: VW[] };
 const W = 1080, H = 1920, FPS = 30;
 const PAPER = "#eef2ea", PAPER2 = "#dfe7da", INK = "#12301c", GREEN = "#2fae5b", GREEN2 = "#8fdc74", GOLD = "#e9b949", GOLD2 = "#f6d27a";
-const NC = "#2fae5b", PC = "#f08a24", KC = "#2b8cff";
+const NC = "#2fae5b", PC = "#f08a24", KC = "#8b3fd9";
 const DISP = "Sora", BODY = "InterV";
 const norm = (s: string) => s.toLowerCase().replace(/[^a-z0-9']/g, "");
 const S = (n: number) => VO.segs.find((s) => s.n === n)!.start;
@@ -48,22 +48,22 @@ const SC: Scene[] = [
   { id: "bags", a: 0, b: Wd(1, "fertilizer") - 0.05, mode: "card", clip: "s01a", push: 0.18, tint: GREEN },
   { id: "bag", a: Wd(1, "fertilizer") - 0.05, b: S(2) - 0.05, mode: "paper", tint: GREEN },
   { id: "random", a: S(2) - 0.05, b: Wd(2, "they") - 0.05, mode: "paper", tint: GOLD },
-  { id: "pellets", a: Wd(2, "they") - 0.05, b: Wd(2, "nutrients") - 0.05, mode: "full", clip: "s02a", push: 0.22 },
-  { id: "hand", a: Wd(2, "nutrients") - 0.05, b: Wd(2, "nitrogen") - 0.1, mode: "circle", clip: "s02b", push: 0.15, tint: GREEN },
+  { id: "pellets", a: Wd(2, "they") - 0.05, b: Wd(2, "three") - 0.05, mode: "full", clip: "s02a", push: 0.22 },
+  { id: "npk", a: Wd(2, "three") - 0.05, b: Wd(2, "nitrogen") - 0.1, mode: "full", clip: "u_npk", zoom: 1.0, push: 0.05, focus: [0.5, 0.3] },
   { id: "tiles", a: Wd(2, "nitrogen") - 0.1, b: S(3) - 0.05, mode: "paper" },
-  { id: "sprout", a: S(3) - 0.05, b: S(4) - 0.05, mode: "full", clip: "s03a", push: 0.12, rate: 0.9 },
+  { id: "tree", a: S(3) - 0.05, b: S(4) - 0.05, mode: "full", clip: "u_tree", zoom: 1.0, push: 0.05, focus: [0.5, 0.4] },
   { id: "N", a: S(4) - 0.05, b: Wd(4, "it's") - 0.05, mode: "paper", tint: NC },
-  { id: "vine", a: Wd(4, "it's") - 0.05, b: Wd(4, "it") - 0.05, mode: "full", clip: "s04a", rate: 4, from: 2, push: 0.1, focus: [0.3, 0.62], tint: NC },
+  { id: "npost", a: Wd(4, "it's") - 0.05, b: Wd(4, "it") - 0.05, mode: "full", clip: "u_n", zoom: 1.0, push: 0.05, focus: [0.5, 0.35] },
   { id: "chloro", a: Wd(4, "it") - 0.05, b: Wd(4, "keeping") - 0.05, mode: "paper", tint: NC },
   { id: "leaves", a: Wd(4, "keeping") - 0.05, b: S(5) - 0.05, mode: "full", clip: "s04b", push: 0.14 },
   { id: "P", a: S(5) - 0.05, b: Wd(5, "which") - 0.05, mode: "paper", tint: PC },
   { id: "energy", a: Wd(5, "which") - 0.05, b: Wd(5, "it") - 0.05, mode: "paper", tint: PC },
-  { id: "roots", a: Wd(5, "it") - 0.05, b: Wd(5, "and") - 0.05, mode: "full", clip: "s05a", push: 0.12, focus: [0.5, 0.45] },
+  { id: "ppost", a: Wd(5, "it") - 0.05, b: Wd(5, "and") - 0.05, mode: "full", clip: "u_p", zoom: 1.0, push: 0.05, focus: [0.5, 0.55] },
   { id: "bloom", a: Wd(5, "and") - 0.05, b: S(6) - 0.05, mode: "card", clip: "s05b", rate: 6, from: 8, push: 0.1, tint: PC },
   { id: "K", a: S(6) - 0.05, b: Wd(6, "it") - 0.05, mode: "paper", tint: KC },
   { id: "water", a: Wd(6, "it") - 0.05, b: Wd(6, "move") - 0.05, mode: "full", clip: "s06a", push: 0.14 },
   { id: "sugar", a: Wd(6, "move") - 0.05, b: Wd(6, "and", 1) - 0.05, mode: "paper", tint: KC },
-  { id: "tomato", a: Wd(6, "and", 1) - 0.05, b: S(7) - 0.05, mode: "circle", clip: "s06b", push: 0.12, tint: KC },
+  { id: "kpost", a: Wd(6, "and", 1) - 0.05, b: S(7) - 0.05, mode: "full", clip: "u_k", zoom: 1.0, push: 0.05, focus: [0.5, 0.4] },
   { id: "chart", a: S(7) - 0.05, b: LAST + 0.15, mode: "paper", tint: GREEN },
   { id: "end", a: LAST + 0.15, b: END + 1, mode: "paper", tint: GREEN },
 ];
@@ -546,8 +546,8 @@ const TITLES: Tt[] = [
   { a: Wd(1, "20-20-20") - 0.05, b: Wd(1, "10-52-10") - 0.05, small: "like", big: "20-20-20", y: 200, size: 140, box: GREEN },
   { a: Wd(1, "10-52-10") - 0.05, b: S(2) - 0.05, small: "or", big: "10-52-10", y: 200, size: 140, box: PC },
   { a: Wd(2, "aren't") - 0.05, b: Wd(2, "they") - 0.05, small: "not", big: "RANDOM!", y: 260, size: 160, box: GOLD, smallAt: Wd(2, "aren't") - 0.05 },
-  { a: Wd(2, "three") - 0.05, b: Wd(2, "nutrients") - 0.05, small: "they tell us", big: "HOW MUCH", y: 1420, size: 130 },
-  { a: Wd(2, "nutrients") - 0.05, b: Wd(2, "nitrogen") - 0.1, small: "of three", big: "NUTRIENTS", y: 220, size: 140, box: GREEN },
+  { a: Wd(2, "how") - 0.1, b: Wd(2, "three") - 0.05, small: "they tell us", big: "HOW MUCH", y: 1420, size: 130 },
+  { a: Wd(2, "nutrients") - 0.05, b: Wd(2, "nitrogen") - 0.1, small: "of three", big: "NUTRIENTS", y: 1480, size: 140, box: GREEN },
   { a: Wd(2, "n-p-k") - 0.1, b: S(3) - 0.05, small: "also known as", big: "N P K", y: 300, size: 190, box: INK, smallAt: Wd(2, "also") },
   { a: Wd(3, "each") - 0.05, b: S(4) - 0.05, small: "what does", big: "EACH ONE DO?", y: 1440, size: 120 },
   { a: Wd(4, "nitrogen") - 0.1, b: Wd(4, "it's") - 0.05, small: "let's start with", big: "NITROGEN", y: 1460, size: 128, box: NC },
@@ -559,9 +559,9 @@ const TITLES: Tt[] = [
   { a: Wd(5, "roots") - 0.1, b: Wd(5, "and") - 0.05, small: "helps", big: "ROOTS", y: 1440, size: 170, color: GOLD2 },
   { a: Wd(5, "flowering") - 0.1, b: S(6) - 0.05, small: "flowering &", big: "SEEDS", y: 240, size: 150, box: PC, smallAt: Wd(5, "flowering") - 0.1 },
   { a: Wd(6, "potassium") - 0.1, b: Wd(6, "it") - 0.05, small: "and then", big: "POTASSIUM", y: 1460, size: 120, box: KC },
-  { a: Wd(6, "regulate") - 0.1, b: Wd(6, "move") - 0.05, small: "regulates", big: "WATER", y: 1440, size: 170, color: "#9fd3ff" },
+  { a: Wd(6, "regulate") - 0.1, b: Wd(6, "move") - 0.05, small: "regulates", big: "WATER", y: 1440, size: 170, color: "#d9b8ff" },
   { a: Wd(6, "sugars") - 0.1, b: Wd(6, "and", 1) - 0.05, small: "moves", big: "SUGARS", y: 220, size: 160, box: KC },
-  { a: Wd(6, "tolerant") - 0.1, b: S(7) - 0.05, small: "more tolerant to", big: "STRESS", y: 240, size: 160, box: KC, smallAt: Wd(6, "tolerant") - 0.1 },
+  { a: Wd(6, "tolerant") - 0.1, b: S(7) - 0.05, small: "more tolerant to", big: "STRESS", y: 1480, size: 160, box: KC, smallAt: Wd(6, "tolerant") - 0.1 },
   { a: Wd(7, "commonly") - 0.1, b: LAST + 0.15, small: "most commonly used", big: "NPK FORMULAS", y: 250, size: 116, box: GREEN },
 ];
 
@@ -603,12 +603,9 @@ const Frame: React.FC<{ t: number; preview: boolean }> = ({ t, preview }) => {
         </AbsoluteFill>
         <Motes t={t} dark={dark} />
         {/* icon chips beside the footage */}
-        <Chip t={t} at={Wd(4, "leaves") - 0.05} until={Wd(4, "it") - 0.05} x={190} y={430} color={NC} icon="leaf" />
-        <Chip t={t} at={Wd(4, "stems") - 0.05} until={Wd(4, "it") - 0.05} x={890} y={430} color={NC} icon="stem" />
         <Chip t={t} at={Wd(5, "flowering") - 0.05} until={S(6) - 0.05} x={170} y={1400} color={PC} icon="flower" />
         <Chip t={t} at={Wd(5, "seed") - 0.05} until={S(6) - 0.05} x={910} y={1420} color={PC} icon="seed" />
         <Chip t={t} at={Wd(6, "water") - 0.2} until={Wd(6, "move") - 0.05} x={540} y={420} color={KC} icon="drop" />
-        <Chip t={t} at={Wd(6, "stresses") - 0.1} until={S(7) - 0.05} x={880} y={1420} color={KC} icon="shield" />
         {TITLES.map((w) => <Title key={w.big + w.a} t={t} {...w} dark={sceneAt((w.a + w.b) / 2).mode !== "full"} />)}
         <Sparkle t={t} at={Wd(2, "n-p-k") + 0.15} x={860} y={420} />
         <Sparkle t={t} at={Wd(4, "green") + 0.1} x={860} y={1500} size={1.1} />
