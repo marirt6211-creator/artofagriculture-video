@@ -15,3 +15,19 @@
 | s06a | Pixabay | plant, leaves, foliage, outdoors, environment, water droplets, green, close-up, raindrops, dewdrop, moisture, rain, raining, morning, macro, botany, delicate, spring, nature | YanaHD | Pixabay Content License | https://pixabay.com/videos/id-217708/ |
 | s06b | Pixabay | tomatoes, tomato tree, vegetables, plant, healthy, food, nourishment, fresh, shrub, slow motion | NickyPe | Pixabay Content License | https://pixabay.com/videos/id-180204/ |
 | s07a | Unsplash | Sidedressing nitrogen on 24 rows of corn in one pass. | James Baltz | Unsplash License | https://unsplash.com/photos/a-few-farm-machines-in-a-field-ch1kOhA5_XM |
+| u_npk | user | user image (npk) | Art of Agriculture | User's own image |  |
+| u_n | user | user image (nitrogen) | Art of Agriculture | User's own image |  |
+| u_p | user | user image (phosphorus) | Art of Agriculture | User's own image |  |
+| u_k | user | user image (potassium) | Art of Agriculture | User's own image |  |
+| u_tree | user | user image (tree) | Art of Agriculture | User's own image |  |
+| s08a | Mixkit | Rows of plants inside |  | Mixkit Free License | https://mixkit.co/free-stock-video/rows-of-plants-inside-11978/ |
+| s09a | Mixkit | Worker in a greenhouse watering young plants with a hose |  | Mixkit Free License | https://mixkit.co/free-stock-video/worker-in-a-greenhouse-watering-young-plants-with-a-hose-47274/ |
+| s11a | Pixabay | red, apples, apple tree, orchard, ripe, fruit, apple orchard, healthy food, fruit harvest, nature, tree, agriculture, farming, green leaves, organic food, garden, fruit tree, harvest, seasonal fruit, greenery, natural light, autumn harvest, vegetation, ai generated | izhar-ahamed | Pixabay Content License | https://pixabay.com/videos/id-292292/ |
+| s13a | Mixkit | Person touching yellow leaves  |  | Mixkit Free License | https://mixkit.co/free-stock-video/person-touching-yellow-leaves-2563/ |
+| s14a | Coverr | Inspecting a plant |  | Coverr License | https://coverr.co/videos/inspecting-a-plant-27gu9sl3ro |
+| s08b | Mixkit | Rows of plants inside |  | Mixkit Free License | https://mixkit.co/free-stock-video/rows-of-plants-inside-11978/ |
+| s08c | Mixkit | Rows of plants inside |  | Mixkit Free License | https://mixkit.co/free-stock-video/rows-of-plants-inside-11978/ |
+| s09b | Mixkit | Worker in a greenhouse watering young plants with a hose |  | Mixkit Free License | https://mixkit.co/free-stock-video/worker-in-a-greenhouse-watering-young-plants-with-a-hose-47274/ |
+| s11b | Pixabay | red, apples, apple tree, orchard, ripe, fruit, apple orchard, healthy food, fruit harvest, nature, tree, agriculture, farming, green leaves, organic food, garden, fruit tree, harvest, seasonal fruit, greenery, natural light, autumn harvest, vegetation, ai generated | izhar-ahamed | Pixabay Content License | https://pixabay.com/videos/id-292292/ |
+| s13b | Mixkit | Person touching yellow leaves  |  | Mixkit Free License | https://mixkit.co/free-stock-video/person-touching-yellow-leaves-2563/ |
+| s14b | Coverr | Inspecting a plant |  | Coverr License | https://coverr.co/videos/inspecting-a-plant-27gu9sl3ro |

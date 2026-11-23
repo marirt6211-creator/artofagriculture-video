@@ -334,7 +334,15 @@
     0.45
    ],
    "source": "user",
-   "title": "user image (npk)"
+   "title": "user image (npk)",
+   "licence": {
+    "code": "own",
+    "name": "User's own image",
+    "url": "",
+    "verdict": "ok"
+   },
+   "author": "Art of Agriculture",
+   "page": ""
   },
   "u_n": {
    "file": "v22/user/nitrogen.jpg",
@@ -349,7 +357,15 @@
     0.45
    ],
    "source": "user",
-   "title": "user image (nitrogen)"
+   "title": "user image (nitrogen)",
+   "licence": {
+    "code": "own",
+    "name": "User's own image",
+    "url": "",
+    "verdict": "ok"
+   },
+   "author": "Art of Agriculture",
+   "page": ""
   },
   "u_p": {
    "file": "v22/user/phosphorus.jpg",
@@ -364,7 +380,15 @@
     0.45
    ],
    "source": "user",
-   "title": "user image (phosphorus)"
+   "title": "user image (phosphorus)",
+   "licence": {
+    "code": "own",
+    "name": "User's own image",
+    "url": "",
+    "verdict": "ok"
+   },
+   "author": "Art of Agriculture",
+   "page": ""
   },
   "u_k": {
    "file": "v22/user/potassium.jpg",
@@ -379,7 +403,15 @@
     0.45
    ],
    "source": "user",
-   "title": "user image (potassium)"
+   "title": "user image (potassium)",
+   "licence": {
+    "code": "own",
+    "name": "User's own image",
+    "url": "",
+    "verdict": "ok"
+   },
+   "author": "Art of Agriculture",
+   "page": ""
   },
   "u_tree": {
    "file": "v22/user/tree.jpg",
@@ -394,7 +426,170 @@
     0.45
    ],
    "source": "user",
-   "title": "user image (tree)"
+   "title": "user image (tree)",
+   "licence": {
+    "code": "own",
+    "name": "User's own image",
+    "url": "",
+    "verdict": "ok"
+   },
+   "author": "Art of Agriculture",
+   "page": ""
+  },
+  "s08a": {
+   "file": "v22/footage/s08a.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 13.54,
+   "fps": 50,
+   "in": 0,
+   "out": null,
+   "audio": false,
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "source": "mixkit",
+   "id": "11978",
+   "title": "Rows of plants inside",
+   "page": "https://mixkit.co/free-stock-video/rows-of-plants-inside-11978/",
+   "author": "",
+   "year": null,
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Rows of plants inside \u00b7 Mixkit \u00b7 Mixkit Free License",
+   "shot": "s08"
+  },
+  "s09a": {
+   "file": "v22/footage/s09a.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 28.44,
+   "fps": 25,
+   "in": 0,
+   "out": null,
+   "audio": false,
+   "focus": [
+    0.844,
+    0.5
+   ],
+   "source": "mixkit",
+   "id": "47274",
+   "title": "Worker in a greenhouse watering young plants with a hose",
+   "page": "https://mixkit.co/free-stock-video/worker-in-a-greenhouse-watering-young-plants-with-a-hose-47274/",
+   "author": "",
+   "year": null,
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Worker in a greenhouse watering young plants with a hose \u00b7 Mixkit \u00b7 Mixkit Free License",
+   "shot": "s09"
+  },
+  "s11a": {
+   "file": "v22/footage/s11a.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 9.967,
+   "fps": 30,
+   "in": 0,
+   "out": null,
+   "audio": false,
+   "focus": [
+    0.156,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "292292",
+   "title": "red, apples, apple tree, orchard, ripe, fruit, apple orchard, healthy food, fruit harvest, nature, tree, agriculture, farming, green leaves, organic food, garden, fruit tree, harvest, seasonal fruit, greenery, natural light, autumn harvest, vegetation, ai generated",
+   "page": "https://pixabay.com/videos/id-292292/",
+   "author": "izhar-ahamed",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "red, apples, apple tree, orchard, ripe, fruit, apple orchard, healthy food, fruit harvest, nature, tree, agriculture, farming, green leaves, organic food, garden, fruit tree, harvest, seasonal fruit, greenery, natural light, autumn harvest, vegetation, ai generated \u00b7 izhar-ahamed \u00b7 Pixabay \u00b7 Pixabay Content License",
+   "shot": "s11"
+  },
+  "s13a": {
+   "file": "v22/footage/s13a.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 30.097,
+   "fps": 29.97,
+   "in": 0,
+   "out": null,
+   "audio": false,
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "source": "mixkit",
+   "id": "2563",
+   "title": "Person touching yellow leaves ",
+   "page": "https://mixkit.co/free-stock-video/person-touching-yellow-leaves-2563/",
+   "author": "",
+   "year": null,
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Person touching yellow leaves  \u00b7 Mixkit \u00b7 Mixkit Free License",
+   "shot": "s13"
+  },
+  "s14a": {
+   "file": "v22/footage/s14a.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 21.917,
+   "fps": 24,
+   "in": 0,
+   "out": null,
+   "audio": false,
+   "focus": [
+    0.792,
+    0.5
+   ],
+   "source": "coverr",
+   "id": "coverr-inspecting-a-plant-9886",
+   "title": "Inspecting a plant",
+   "page": "https://coverr.co/videos/inspecting-a-plant-27gu9sl3ro",
+   "author": "",
+   "year": 2020,
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Inspecting a plant \u00b7 Coverr \u00b7 Coverr License",
+   "shot": "s14"
   }
  },
  "shots": {

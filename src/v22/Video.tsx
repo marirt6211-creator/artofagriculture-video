@@ -15,6 +15,7 @@ type VW = { w: string; s: number; e: number; line: number };
 const VO = voJson as unknown as { total: number; segs: { n: number; start: number; end: number }[]; words: VW[] };
 const W = 1080, H = 1920, FPS = 30;
 const PAPER = "#eef2ea", PAPER2 = "#dfe7da", INK = "#12301c", GREEN = "#2fae5b", GREEN2 = "#8fdc74", GOLD = "#e9b949", GOLD2 = "#f6d27a";
+const WARN = "#e5484d";
 const NC = "#2fae5b", PC = "#f08a24", KC = "#8b3fd9";
 const DISP = "Sora", BODY = "InterV";
 const norm = (s: string) => s.toLowerCase().replace(/[^a-z0-9']/g, "");
@@ -64,8 +65,27 @@ const SC: Scene[] = [
   { id: "water", a: Wd(6, "it") - 0.05, b: Wd(6, "move") - 0.05, mode: "full", clip: "s06a", push: 0.14 },
   { id: "sugar", a: Wd(6, "move") - 0.05, b: Wd(6, "and", 1) - 0.05, mode: "paper", tint: KC },
   { id: "kpost", a: Wd(6, "and", 1) - 0.05, b: S(7) - 0.05, mode: "full", clip: "u_k", zoom: 1.0, push: 0.05, focus: [0.5, 0.4] },
-  { id: "chart", a: S(7) - 0.05, b: LAST + 0.15, mode: "paper", tint: GREEN },
-  { id: "end", a: LAST + 0.15, b: END + 1, mode: "paper", tint: GREEN },
+  { id: "chart", a: S(7) - 0.05, b: S(8) - 0.05, mode: "paper", tint: GREEN },
+  { id: "f20", a: S(8) - 0.05, b: Wd(8, "and") - 0.05, mode: "paper", tint: GREEN },
+  { id: "rows", a: Wd(8, "and") - 0.05, b: S(9) - 0.05, mode: "full", clip: "s08a", push: 0.14, rate: 0.8 },
+  { id: "f30", a: S(9) - 0.05, b: Wd(9, "it's") - 0.05, mode: "paper", tint: NC },
+  { id: "seedl", a: Wd(9, "it's") - 0.05, b: S(10) - 0.05, mode: "full", clip: "s09a", push: 0.12, focus: [0.45, 0.6] },
+  { id: "f10", a: S(10) - 0.05, b: Wd(10, "and") - 0.05, mode: "paper", tint: PC },
+  { id: "sprout", a: Wd(10, "and") - 0.05, b: Wd(10, "and", 1) - 0.05, mode: "full", clip: "s03a", push: 0.12, rate: 0.9 },
+  { id: "roots", a: Wd(10, "and", 1) - 0.05, b: S(11) - 0.05, mode: "full", clip: "s05a", zoom: 1.0, push: 0.08, focus: [0.5, 0.45] },
+  { id: "f12", a: S(11) - 0.05, b: Wd(11, "it") - 0.05, mode: "paper", tint: KC },
+  { id: "tomato", a: Wd(11, "it") - 0.05, b: Wd(11, "and", 1) - 0.05, mode: "circle", clip: "s06b", push: 0.12, tint: KC },
+  { id: "apples", a: Wd(11, "and", 1) - 0.05, b: S(12) - 0.05, mode: "full", clip: "s11a", zoom: 1.0, push: 0.08, focus: [0.66, 0.5] },
+  { id: "ratio", a: S(12) - 0.05, b: Wd(12, "depending") - 0.05, mode: "paper", tint: GOLD },
+  { id: "choose", a: Wd(12, "depending") - 0.05, b: Wd(12, "it") - 0.05, mode: "paper", tint: GREEN },
+  { id: "farmer", a: Wd(12, "it") - 0.05, b: S(13) - 0.05, mode: "card", clip: "s07a", push: 0.12, tint: GREEN },
+  { id: "warn", a: S(13) - 0.05, b: Wd(13, "more") - 0.05, mode: "paper", tint: WARN },
+  { id: "more", a: Wd(13, "more") - 0.05, b: Wd(13, "overusing") - 0.05, mode: "paper", tint: WARN },
+  { id: "yellow", a: Wd(13, "overusing") - 0.05, b: Wd(13, "damage") - 0.05, mode: "full", clip: "s13a", push: 0.1 },
+  { id: "damage", a: Wd(13, "damage") - 0.05, b: S(14) - 0.05, mode: "paper", tint: WARN },
+  { id: "inspect", a: S(14) - 0.05, b: Wd(14, "make") - 0.05, mode: "full", clip: "s14a", push: 0.1, focus: [0.3, 0.55] },
+  { id: "know", a: Wd(14, "make") - 0.05, b: S(15) - 0.05, mode: "paper", tint: GREEN },
+  { id: "end", a: S(15) - 0.05, b: END + 1, mode: "paper", tint: GREEN },
 ];
 const sceneAt = (t: number) => SC.find((s) => t >= s.a && t < s.b) ?? SC[SC.length - 1];
 const local = (t: number, id: string) => { const s = SC.find((x) => x.id === id)!; return { s, d: t - s.a, len: s.b - s.a, on: t >= s.a - 0.01 && t < s.b + 0.01 }; };
@@ -80,7 +100,7 @@ const whipOf = (t: number, s: Scene) => {
 };
 
 // keyword punch zoom
-const PUNCH = () => [Wd(1, "20-20-20"), Wd(1, "10-52-10"), Wd(2, "random"), Wd(2, "n-p-k"), Wd(4, "nitrogen"), Wd(4, "chlorophyll"), Wd(5, "phosphorus"), Wd(5, "energy"), Wd(6, "potassium"), Wd(6, "sugars"), Wd(7, "n-p-k")];
+const PUNCH = () => [Wd(1, "20-20-20"), Wd(1, "10-52-10"), Wd(2, "random"), Wd(2, "n-p-k"), Wd(4, "nitrogen"), Wd(4, "chlorophyll"), Wd(5, "phosphorus"), Wd(5, "energy"), Wd(6, "potassium"), Wd(6, "sugars"), Wd(7, "n-p-k"), Wd(8, "20-20-20"), Wd(9, "30-10-10"), Wd(10, "10-52-10"), Wd(11, "12-12-36"), Wd(12, "ratio"), Wd(13, "remember"), Wd(13, "damage"), Wd(14, "needs")];
 const camera = (t: number) => {
   let z = 1;
   for (const a of PUNCH()) { const d = t - a; if (d > -0.05 && d < 0.7) z += 0.045 * Math.exp(-d * 6) * Math.min(1, (d + 0.05) * 20); }
@@ -483,6 +503,224 @@ const Motes: React.FC<{ t: number; dark: boolean }> = ({ t, dark }) => (
   </svg>
 );
 
+// ---------- part 2: formulas, ratio, choose, warnings ----------
+const SYM = ["N", "P", "K"], COLS = [NC, PC, KC];
+/** one formula: big label + three N/P/K bars that grow; hi = the nutrient that stands out (-1 = all equal) */
+const Formula: React.FC<{ t: number; id: string; f: number[]; hi: number }> = ({ t, id, f, hi }) => {
+  const { s, d, on } = local(t, id);
+  if (!on) return null;
+  const lab = back(lin(t, s.a + 0.05, s.a + 0.5));
+  const base = 1420, sc = 11.5, bw = 220, gap = 50;
+  return (
+    <>
+      <Disc t={t} a={s.a} x={540} y={980} r={470} color={hi < 0 ? GREEN : COLS[hi]} o={0.16} />
+      <div style={{ position: "absolute", left: 0, width: W, top: 230, textAlign: "center", transform: `scale(${lab})` }}>
+        <span style={{ display: "inline-block", padding: "6px 44px 14px", borderRadius: 24, background: INK, fontFamily: DISP, fontWeight: 700, fontSize: 170, color: "#fff", letterSpacing: 4, boxShadow: "0 20px 50px rgba(18,48,28,.35)" }}>
+          {f.map((v, k) => <span key={k}>{k ? <span style={{ opacity: 0.5 }}>-</span> : null}<span style={{ color: k === hi || hi < 0 ? [GREEN2, "#ffb46b", "#c79bff"][k] : "#fff" }}>{v}</span></span>)}
+        </span>
+      </div>
+      <svg width={W} height={H} style={{ position: "absolute", inset: 0 }}>
+        <line x1={120} y1={base} x2={960} y2={base} stroke={INK} strokeWidth="8" strokeLinecap="round" />
+        {f.map((v, k) => {
+          const g = back(lin(t, s.a + 0.3 + k * 0.12, s.a + 0.9 + k * 0.12));
+          const h = v * sc * g;
+          const x = 540 + (k - 1) * (bw + gap) - bw / 2;
+          const pulse = k === hi ? 1 + 0.04 * Math.sin(d * 8) : 1;
+          return (
+            <g key={k} transform={`translate(${x + bw / 2} ${base}) scale(${pulse}) translate(${-(x + bw / 2)} ${-base})`}>
+              {k === hi && <rect x={x - 14} y={base - h - 14} width={bw + 28} height={h + 14} rx={30} fill={COLS[k]} opacity={0.25 + 0.15 * Math.sin(d * 6)} />}
+              <rect x={x} y={base - h} width={bw} height={h} rx={24} fill={COLS[k]} />
+              <text x={x + bw / 2} y={base - h - 24} textAnchor="middle" fontFamily={DISP} fontWeight={700} fontSize={70} fill={COLS[k]} opacity={clamp(g)}>{v}</text>
+              <text x={x + bw / 2} y={base + 110} textAnchor="middle" fontFamily={DISP} fontWeight={700} fontSize={96} fill={INK}>{SYM[k]}</text>
+              {hi < 0 && k < 2 && <text x={x + bw + gap / 2} y={base - h / 2 + 30} textAnchor="middle" fontFamily={DISP} fontWeight={700} fontSize={80} fill={INK} opacity={clamp(g)}>=</text>}
+              {k === hi && <path d={`M ${x + bw / 2} ${base - h - 120 - 16 * Math.abs(Math.sin(d * 5))} l -36 -50 l 22 0 l 0 -60 l 28 0 l 0 60 l 22 0 Z`} fill={COLS[k]} opacity={clamp(g)} />}
+            </g>
+          );
+        })}
+      </svg>
+    </>
+  );
+};
+
+/** amount & ratio: the three bars morph through all four formulas */
+const Ratio: React.FC<{ t: number }> = ({ t }) => {
+  const { s, d, on } = local(t, "ratio");
+  if (!on) return null;
+  const step = 1.25, i = Math.floor(d / step) % 4, k2 = (i + 1) % 4;
+  const m = eio(clamp((d % step - 0.75) / 0.45));
+  const cur = FORMULAS[i].map((v, k) => v + (FORMULAS[k2][k] - v) * m);
+  const lbl = m < 0.5 ? FORMULAS[i] : FORMULAS[k2];
+  const base = 1440, sc = 12, bw = 220, gap = 50;
+  const pin = back(lin(t, s.a, s.a + 0.45));
+  return (
+    <>
+      <Disc t={t} a={s.a} x={540} y={1000} r={470} color={GOLD} o={0.18} />
+      <svg width={W} height={H} style={{ position: "absolute", inset: 0 }}>
+        <g transform={`translate(540 ${base}) scale(${pin}) translate(-540 ${-base})`}>
+          <line x1={120} y1={base} x2={960} y2={base} stroke={INK} strokeWidth="8" strokeLinecap="round" />
+          {cur.map((v, k) => { const x = 540 + (k - 1) * (bw + gap) - bw / 2; const h = v * sc; return (
+            <g key={k}><rect x={x} y={base - h} width={bw} height={h} rx={24} fill={COLS[k]} />
+              <text x={x + bw / 2} y={base - h - 24} textAnchor="middle" fontFamily={DISP} fontWeight={700} fontSize={64} fill={COLS[k]}>{Math.round(v)}</text>
+              <text x={x + bw / 2} y={base + 110} textAnchor="middle" fontFamily={DISP} fontWeight={700} fontSize={96} fill={INK}>{SYM[k]}</text></g>); })}
+        </g>
+        <g opacity={pin}><rect x={290} y={1610} width={500} height={110} rx={26} fill={INK} /><text x={540} y={1690} textAnchor="middle" fontFamily={DISP} fontWeight={700} fontSize={76} fill="#fff">{lbl.join("-")}</text></g>
+      </svg>
+    </>
+  );
+};
+
+/** which formula for which need: leafy → 30-10-10 · roots → 10-52-10 · fruit → 12-12-36 */
+const NEED: [string, string, number, string][] = [["leafy", "leaf", 0, "30-10-10"], ["root", "root", 1, "10-52-10"], ["fruit", "fruit", 2, "12-12-36"]];
+const Choose: React.FC<{ t: number }> = ({ t }) => {
+  const { on } = local(t, "choose");
+  if (!on) return null;
+  return (
+    <svg width={W} height={H} style={{ position: "absolute", inset: 0 }}>
+      {NEED.map(([word, icon, k, fm], i) => {
+        const at = Wd(12, word) - 0.15;
+        const p = back(lin(t, at, at + 0.45));
+        const a2 = eio(lin(t, at + 0.25, at + 0.6));
+        const q = back(lin(t, at + 0.45, at + 0.9));
+        const y = 640 + i * 330;
+        return (
+          <g key={word} opacity={clamp(p)}>
+            <g transform={`translate(230 ${y}) scale(${p})`}>
+              <circle r={120} fill={COLS[k]} stroke="#fff" strokeWidth="10" />
+              {icon === "leaf" && <path d="M 0 -70 C 60 -40, 60 40, 0 70 C -60 40, -60 -40, 0 -70 Z M 0 -55 L 0 70" fill="#fff" stroke={COLS[k]} strokeWidth="6" />}
+              {icon === "root" && <path d="M 0 -75 L 0 10 M 0 10 C -20 35, -40 45, -55 75 M 0 10 C 20 35, 40 45, 55 75 M 0 10 L 0 75 M -25 40 L -45 30 M 25 40 L 45 30" stroke="#fff" strokeWidth="12" fill="none" strokeLinecap="round" />}
+              {icon === "fruit" && <g><circle cx={0} cy={12} r={58} fill="#ff5a4e" stroke="#fff" strokeWidth="8" /><path d="M 0 -46 C 10 -70, 30 -76, 46 -70 C 34 -56, 18 -50, 0 -46 Z" fill={GREEN2} /></g>}
+            </g>
+            <line x1={380} y1={y} x2={380 + 150 * a2} y2={y} stroke={INK} strokeWidth="12" strokeLinecap="round" />
+            {a2 > 0.9 && <path d={`M ${545} ${y - 30} L ${585} ${y} L ${545} ${y + 30}`} stroke={INK} strokeWidth="12" fill="none" strokeLinecap="round" strokeLinejoin="round" />}
+            <g transform={`translate(790 ${y}) scale(${q})`}><rect x={-190} y={-75} width={380} height={150} rx={30} fill={INK} /><text y={30} textAnchor="middle" fontFamily={DISP} fontWeight={700} fontSize={84} fill={[GREEN2, "#ffb46b", "#c79bff"][k]}>{fm}</text></g>
+          </g>
+        );
+      })}
+    </svg>
+  );
+};
+
+/** big warning sign */
+const Warn: React.FC<{ t: number }> = ({ t }) => {
+  const { s, d, on } = local(t, "warn");
+  if (!on) return null;
+  const p = back(lin(t, s.a, s.a + 0.45));
+  const shake = Math.sin(d * 40) * 6 * Math.exp(-d * 3);
+  return (
+    <>
+      <Disc t={t} a={s.a} x={540} y={860} r={420} color={WARN} o={0.9} />
+      <svg width={W} height={H} style={{ position: "absolute", inset: 0 }}>
+        <g transform={`translate(${540 + shake} 860) scale(${p * (1 + 0.04 * Math.sin(d * 9))})`}>
+          <path d="M 0 -250 L 280 220 L -280 220 Z" fill="#fff" stroke={INK} strokeWidth="22" strokeLinejoin="round" />
+          <rect x={-22} y={-120} width={44} height={210} rx={20} fill={WARN} />
+          <circle cx={0} cy={160} r={28} fill={WARN} />
+        </g>
+      </svg>
+    </>
+  );
+};
+
+/** more fertilizer ≠ better: sacks pile up next to a plant that wilts */
+const More: React.FC<{ t: number }> = ({ t }) => {
+  const { s, d, on } = local(t, "more");
+  if (!on) return null;
+  const wilt = eio(lin(t, Wd(13, "better") - 0.2, Wd(13, "growth") + 0.4));
+  const sacks = [[0, 0], [1, 0], [2, 0], [0.5, 1], [1.5, 1], [1, 2]];
+  return (
+    <>
+      <Disc t={t} a={s.a} x={540} y={1000} r={470} color={WARN} o={0.14} />
+      <svg width={W} height={H} style={{ position: "absolute", inset: 0 }}>
+        <line x1={80} y1={1420} x2={1000} y2={1420} stroke="#7a5a3a" strokeWidth="16" strokeLinecap="round" />
+        {sacks.map(([cx, row], i) => {
+          const at = s.a + 0.1 + i * 0.28;
+          const p = back(lin(t, at, at + 0.35));
+          const x = 170 + cx * 175, y = 1420 - 80 - row * 145 - (1 - clamp(p)) * 700;
+          return (
+            <g key={i} transform={`translate(${x} ${y}) scale(1.18)`} opacity={clamp(lin(t, at, at + 0.05))}>
+              <path d="M -66 -60 Q -70 -76 -50 -78 L 50 -78 Q 70 -76 66 -60 L 72 56 Q 74 66 60 66 L -60 66 Q -74 66 -72 56 Z" fill="#fbfaf4" stroke={INK} strokeWidth="6" />
+              <rect x={-44} y={-40} width={88} height={34} rx={8} fill={GREEN} />
+              <text y={-15} textAnchor="middle" fontFamily={DISP} fontWeight={700} fontSize={24} fill="#fff">NPK</text>
+            </g>
+          );
+        })}
+        {/* the plant */}
+        <g transform="translate(740 1420) scale(1.5)">
+          <path d={`M 0 0 C 0 -120, ${40 * wilt} -220, ${110 * wilt} ${-330 + 110 * wilt}`} stroke={wilt > 0.5 ? "#9a8a3a" : "#3c9a4a"} strokeWidth="18" fill="none" strokeLinecap="round" />
+          {[0.45, 0.75, 1].map((k, i) => {
+            const x = 110 * wilt * k * k, y = (-330 + 110 * wilt) * k;
+            const c = wilt > 0.4 ? `hsl(${120 - 75 * wilt}, 55%, ${45 + 10 * wilt}%)` : GREEN2;
+            return <ellipse key={i} cx={x + (i % 2 ? 50 : -50)} cy={y + 30 * wilt} rx={70} ry={28} fill={c} stroke={INK} strokeWidth="5" transform={`rotate(${(i % 2 ? -30 : 30) + 60 * wilt * (i % 2 ? 1 : -1)} ${x + (i % 2 ? 50 : -50)} ${y + 30 * wilt})`} />;
+          })}
+        </g>
+        {wilt > 0.3 && <g opacity={wilt} transform={`translate(760 ${700 - 20 * Math.sin(d * 5)})`}><path d="M 0 60 L -50 0 L -20 0 L -20 -70 L 20 -70 L 20 0 L 50 0 Z" fill={WARN} /></g>}
+      </svg>
+    </>
+  );
+};
+
+/** damaged roots + falling quality meter */
+const Damage: React.FC<{ t: number }> = ({ t }) => {
+  const { s, d, on } = local(t, "damage");
+  if (!on) return null;
+  const burn = eio(lin(t, s.a + 0.2, s.a + 1.0));
+  const qa = Wd(13, "reduce") - 0.1;
+  const q = eio(lin(t, qa, qa + 0.9));
+  const show2 = lin(t, qa - 0.2, qa);
+  const roots = ["M 540 620 L 540 900", "M 540 760 C 470 820, 400 860, 330 960", "M 540 760 C 610 820, 680 860, 750 960", "M 540 860 C 500 940, 470 1010, 430 1100", "M 540 860 C 580 940, 610 1010, 650 1100", "M 540 900 L 540 1130"];
+  return (
+    <>
+      <svg width={W} height={H} style={{ position: "absolute", inset: 0 }}>
+        <g opacity={1 - show2} transform={`translate(${Math.sin(d * 30) * 4 * burn} 0)`}>
+          <rect x={140} y={600} width={800} height={620} rx={40} fill="#6b4a2f" />
+          {roots.map((r, i) => <path key={i} d={r} stroke={burn > 0.5 ? "#4a2a1a" : "#f1d9a8"} strokeWidth={16 - i} fill="none" strokeLinecap="round" />)}
+          {roots.map((r, i) => <path key={"b" + i} d={r} stroke={WARN} strokeWidth={10} fill="none" strokeLinecap="round" pathLength={1} strokeDasharray={1} strokeDashoffset={1 - burn} opacity=".85" />)}
+          <path d="M 540 620 L 540 470" stroke="#3c9a4a" strokeWidth="18" strokeLinecap="round" />
+          <g transform={`translate(800 680) scale(${back(lin(t, s.a + 0.6, s.a + 1))})`}><circle r={80} fill={WARN} stroke="#fff" strokeWidth="8" /><path d="M -34 -34 L 34 34 M 34 -34 L -34 34" stroke="#fff" strokeWidth="16" strokeLinecap="round" /></g>
+        </g>
+        <g opacity={show2}>
+          <circle cx={540} cy={880} r={300} fill="#fff" stroke={INK} strokeWidth="10" />
+          {Array.from({ length: 5 }).map((_, i) => { const lit = (1 - q) * 5 > i; return <path key={i} d={`M ${540} ${880} L ${540 + 260 * Math.cos(Math.PI + (i + 0.08) * Math.PI / 5)} ${880 + 260 * Math.sin(Math.PI + (i + 0.08) * Math.PI / 5)} A 260 260 0 0 1 ${540 + 260 * Math.cos(Math.PI + (i + 0.92) * Math.PI / 5)} ${880 + 260 * Math.sin(Math.PI + (i + 0.92) * Math.PI / 5)} Z`} fill={["#e5484d", "#f08a24", "#f6d27a", "#8fdc74", "#2fae5b"][i]} opacity={lit ? 1 : 0.18} />; })}
+          <line x1={540} y1={880} x2={540 + 220 * Math.cos(Math.PI + (0.92 - 0.82 * q) * Math.PI)} y2={880 + 220 * Math.sin(Math.PI + (0.92 - 0.82 * q) * Math.PI)} stroke={INK} strokeWidth="16" strokeLinecap="round" />
+          <circle cx={540} cy={880} r={26} fill={INK} />
+          <g transform="translate(540 1060)"><circle cx={0} cy={0} r={70} fill={q > 0.5 ? "#a8794a" : "#ff5a4e"} stroke={INK} strokeWidth="6" /><path d="M 0 -60 C 10 -86, 30 -92, 46 -86 C 34 -72, 18 -66, 0 -60 Z" fill={q > 0.5 ? "#9a8a3a" : GREEN2} /></g>
+        </g>
+      </svg>
+    </>
+  );
+};
+
+/** know what your plant needs: a plant with N? P? K? bubbles that get ticked */
+const Know: React.FC<{ t: number }> = ({ t }) => {
+  const { s, d, on } = local(t, "know");
+  if (!on) return null;
+  const p = back(lin(t, s.a, s.a + 0.5));
+  return (
+    <>
+      <Disc t={t} a={s.a} x={540} y={1060} r={430} color={GREEN} o={0.85} />
+      <svg width={W} height={H} style={{ position: "absolute", inset: 0 }}>
+        <g transform={`translate(540 1420) scale(${p})`}>
+          <path d="M -150 0 L 150 0 L 120 170 L -120 170 Z" fill="#c9784a" stroke={INK} strokeWidth="8" />
+          <path d={`M 0 0 C 0 -150, ${10 * Math.sin(d * 2)} -300, 0 -460`} stroke="#2f7a3a" strokeWidth="20" fill="none" strokeLinecap="round" />
+          {[[-1, -200], [1, -300], [-1, -380]].map(([sd, y], i) => <ellipse key={i} cx={sd * 80} cy={y} rx={95} ry={38} fill={GREEN2} stroke={INK} strokeWidth="6" transform={`rotate(${sd * -25} ${sd * 80} ${y})`} />)}
+        </g>
+        {SYM.map((sy, k) => {
+          const at = s.a + 0.35 + k * 0.3;
+          const q = back(lin(t, at, at + 0.4));
+          const tick = eio(lin(t, Wd(14, "needs") - 0.2 + k * 0.15, Wd(14, "needs") + 0.2 + k * 0.15));
+          const x = 220 + k * 320, y = 740 + (k === 1 ? -30 : 30) + Math.sin(d * 3 + k) * 12;
+          return (
+            <g key={sy} transform={`translate(${x} ${y}) scale(${q})`}>
+              <circle r={110} fill={COLS[k]} stroke="#fff" strokeWidth="10" />
+              <text y={36} textAnchor="middle" fontFamily={DISP} fontWeight={700} fontSize={100} fill="#fff">{sy}{tick < 0.5 ? "?" : ""}</text>
+              {tick > 0 && <g transform={`translate(80 -80) scale(${back(tick)})`}><circle r={44} fill="#fff" stroke={COLS[k]} strokeWidth="6" /><path d="M -20 0 L -5 16 L 22 -16" stroke={COLS[k]} strokeWidth="10" fill="none" strokeLinecap="round" strokeLinejoin="round" /></g>}
+            </g>
+          );
+        })}
+      </svg>
+    </>
+  );
+};
+
 // ---------- end card ----------
 const EndCard: React.FC<{ t: number }> = ({ t }) => {
   const { s, on } = local(t, "end");
@@ -497,6 +735,10 @@ const EndCard: React.FC<{ t: number }> = ({ t }) => {
       <div style={{ position: "absolute", left: 0, width: W, top: 1330, textAlign: "center", opacity: f }}>
         <span style={{ display: "inline-block", padding: "10px 34px", borderRadius: 60, background: GREEN, fontFamily: BODY, fontWeight: 800, fontSize: 52, color: "#fff" }}>@ArtofAgriculture</span>
       </div>
+      {[["Knowledge Today,", Wd(15, "knowledge"), INK], ["Better Farming Tomorrow!", Wd(15, "better"), GREEN]].map(([txt, at, c], i) => {
+        const q = back(lin(t, (at as number) - 0.05, (at as number) + 0.4));
+        return <div key={i} style={{ position: "absolute", left: 0, width: W, top: 1490 + i * 100, textAlign: "center", fontFamily: DISP, fontWeight: 700, fontSize: 70, color: c as string, opacity: clamp(q), transform: `scale(${0.7 + 0.3 * q})` }}>{txt as string}</div>;
+      })}
     </>
   );
 };
@@ -509,8 +751,15 @@ const WM_SPOTS = [
   { at: S(5) - 0.05, x: 50, y: H - 170 },
   { at: S(6) - 0.05, x: W - 160, y: 60 },
   { at: S(7) - 0.05, x: 50, y: 60 },
+  { at: S(8) - 0.05, x: W - 160, y: 50 },
+  { at: S(9) - 0.05, x: 50, y: 50 },
+  { at: S(10) - 0.05, x: W - 160, y: 50 },
+  { at: S(11) - 0.05, x: 50, y: 50 },
+  { at: S(12) - 0.05, x: W - 160, y: H - 170 },
+  { at: S(13) - 0.05, x: 50, y: H - 170 },
+  { at: S(14) - 0.05, x: W - 160, y: 50 },
 ];
-const WM_OFF = LAST + 0.1;
+const WM_OFF = S(15) - 0.3;
 const spotAt = (t: number) => { let i = 0; for (let k = 0; k < WM_SPOTS.length; k++) if (t >= WM_SPOTS[k].at) i = k; return i; };
 const Watermark: React.FC<{ t: number }> = ({ t }) => {
   if (t > WM_OFF + 0.4) return null;
@@ -562,7 +811,27 @@ const TITLES: Tt[] = [
   { a: Wd(6, "regulate") - 0.1, b: Wd(6, "move") - 0.05, small: "regulates", big: "WATER", y: 1440, size: 170, color: "#d9b8ff" },
   { a: Wd(6, "sugars") - 0.1, b: Wd(6, "and", 1) - 0.05, small: "moves", big: "SUGARS", y: 220, size: 160, box: KC },
   { a: Wd(6, "tolerant") - 0.1, b: S(7) - 0.05, small: "more tolerant to", big: "STRESS", y: 1480, size: 160, box: KC, smallAt: Wd(6, "tolerant") - 0.1 },
-  { a: Wd(7, "commonly") - 0.1, b: LAST + 0.15, small: "most commonly used", big: "NPK FORMULAS", y: 250, size: 116, box: GREEN },
+  { a: Wd(7, "commonly") - 0.1, b: S(8) - 0.05, small: "most commonly used", big: "NPK FORMULAS", y: 250, size: 116, box: GREEN },
+  { a: Wd(8, "equal") - 0.1, b: Wd(8, "and") - 0.05, small: "contains", big: "EQUAL AMOUNTS", y: 1660, size: 104 },
+  { a: Wd(8, "general") - 0.1, b: S(9) - 0.05, small: "general feeding of", big: "MANY PLANTS", y: 1440, size: 130 },
+  { a: Wd(9, "more") - 0.1, b: Wd(9, "it's") - 0.05, small: "contains", big: "MORE NITROGEN", y: 1660, size: 104, color: NC },
+  { a: Wd(9, "leaves") - 0.1, b: S(10) - 0.05, small: "more leaves, stems &", big: "GREEN GROWTH", y: 1440, size: 116, color: GREEN2 },
+  { a: Wd(10, "rich") - 0.1, b: Wd(10, "and") - 0.05, small: "especially rich in", big: "PHOSPHORUS", y: 1660, size: 110, color: PC },
+  { a: Wd(10, "early") - 0.1, b: Wd(10, "and", 1) - 0.05, small: "used in", big: "EARLY GROWTH", y: 1440, size: 124, color: GOLD2 },
+  { a: Wd(10, "root") - 0.1, b: S(11) - 0.05, small: "supports", big: "ROOT DEVELOPMENT", y: 1440, size: 100, color: GOLD2 },
+  { a: Wd(11, "high") - 0.1, b: Wd(11, "it") - 0.05, small: "a high amount of", big: "POTASSIUM", y: 1660, size: 110, color: KC },
+  { a: Wd(11, "sugar") - 0.1, b: Wd(11, "and", 1) - 0.05, small: "helps", big: "SUGAR TRANSPORT", y: 1480, size: 104, box: KC },
+  { a: Wd(11, "fruit") - 0.1, b: S(12) - 0.05, small: "improves", big: "FRUIT QUALITY", y: 1440, size: 124, color: "#ffb4b4" },
+  { a: Wd(12, "difference") - 0.1, b: Wd(12, "depending") - 0.05, small: "the main difference", big: "AMOUNT & RATIO", y: 230, size: 116, box: GOLD },
+  { a: Wd(12, "depending") - 0.1, b: Wd(12, "it") - 0.05, small: "it depends on", big: "WHAT IT NEEDS", y: 230, size: 116, box: GREEN },
+  { a: Wd(12, "different") - 0.1, b: S(13) - 0.05, small: "a different", big: "NPK FORMULA", y: 1520, size: 124, box: GREEN },
+  { a: Wd(13, "important") - 0.1, b: Wd(13, "more") - 0.05, small: "something important to", big: "REMEMBER!", y: 1460, size: 140, box: WARN },
+  { a: Wd(13, "more") - 0.05, b: Wd(13, "overusing") - 0.05, small: "more fertilizer", big: "≠ BETTER GROWTH", y: 230, size: 104, box: WARN },
+  { a: Wd(13, "overusing") - 0.1, b: Wd(13, "damage") - 0.05, small: "overuse upsets the", big: "BALANCE", y: 1440, size: 160, color: "#ffd166" },
+  { a: Wd(13, "damage") - 0.1, b: Wd(13, "even") - 0.05, small: "can", big: "DAMAGE ROOTS", y: 230, size: 120, box: WARN },
+  { a: Wd(13, "reduce") - 0.1, b: S(14) - 0.05, small: "and reduce", big: "CROP QUALITY", y: 230, size: 120, box: WARN },
+  { a: Wd(14, "before") - 0.1, b: Wd(14, "make") - 0.05, small: "before choosing", big: "A FERTILIZER", y: 1440, size: 124 },
+  { a: Wd(14, "know") - 0.1, b: S(15) - 0.05, small: "know what your plant", big: "ACTUALLY NEEDS", y: 230, size: 110, box: GREEN },
 ];
 
 // ---------- frame ----------
@@ -591,6 +860,16 @@ const Frame: React.FC<{ t: number; preview: boolean }> = ({ t, preview }) => {
         {s.id === "sugar" && <Sugar t={t} />}
         {s.id === "chart" && <Chart t={t} />}
         {s.id === "end" && <EndCard t={t} />}
+        {s.id === "f20" && <Formula t={t} id="f20" f={[20, 20, 20]} hi={-1} />}
+        {s.id === "f30" && <Formula t={t} id="f30" f={[30, 10, 10]} hi={0} />}
+        {s.id === "f10" && <Formula t={t} id="f10" f={[10, 52, 10]} hi={1} />}
+        {s.id === "f12" && <Formula t={t} id="f12" f={[12, 12, 36]} hi={2} />}
+        {s.id === "ratio" && <Ratio t={t} />}
+        {s.id === "choose" && <Choose t={t} />}
+        {s.id === "warn" && <Warn t={t} />}
+        {s.id === "more" && <More t={t} />}
+        {s.id === "damage" && <Damage t={t} />}
+        {s.id === "know" && <Know t={t} />}
       </AbsoluteFill>
     );
   };
@@ -609,6 +888,7 @@ const Frame: React.FC<{ t: number; preview: boolean }> = ({ t, preview }) => {
         {TITLES.map((w) => <Title key={w.big + w.a} t={t} {...w} dark={sceneAt((w.a + w.b) / 2).mode !== "full"} />)}
         <Sparkle t={t} at={Wd(2, "n-p-k") + 0.15} x={860} y={420} />
         <Sparkle t={t} at={Wd(4, "green") + 0.1} x={860} y={1500} size={1.1} />
+        <Sparkle t={t} at={Wd(15, "tomorrow") + 0.2} x={880} y={1560} size={0.9} />
         <Watermark t={t} />
         <TextMark t={t} dark={dark} />
         {!preview && <Audio src={staticFile("v22/mix.wav")} />}
@@ -627,7 +907,7 @@ export const LOOK = SC.map((s) => {
   const tt = TITLES.filter((x) => x.a >= s.a - 0.1 && x.a < s.b).pop();
   const at = tt ? Math.min(s.b - 0.08, tt.a + 0.55) : s.a + Math.max(0.6, (s.b - s.a) * 0.6);
   return +Math.min(s.b - 0.08, at).toFixed(2);
-}).concat([+(Wd(1, "20-20-20") + 0.5).toFixed(2), +(Wd(4, "chlorophyll") + 0.9).toFixed(2), +(Wd(5, "processes") + 0.5).toFixed(2), +(S(7) + 2.6).toFixed(2)]).sort((a, b) => a - b);
+}).concat([+(Wd(1, "20-20-20") + 0.5).toFixed(2), +(Wd(4, "chlorophyll") + 0.9).toFixed(2), +(Wd(5, "processes") + 0.5).toFixed(2), +(S(7) + 2.6).toFixed(2), +(Wd(12, "production") + 0.6).toFixed(2), +(Wd(13, "growth") + 0.5).toFixed(2), +(Wd(13, "damage") + 0.9).toFixed(2), +(Wd(14, "needs") + 0.6).toFixed(2), +(Wd(15, "tomorrow") + 0.6).toFixed(2)]).sort((a, b) => a - b);
 export const V22: React.FC = () => (
   <>
     <Composition id="V22-NPK" component={V22Video} durationInFrames={Math.round(END * FPS)} fps={FPS} width={W} height={H} />
