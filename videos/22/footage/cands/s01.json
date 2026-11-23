@@ -1,0 +1,666 @@
+{
+ "shot": "s01",
+ "text": "Have you ever noticed the numbers printed on fertilizer bags? Things like 20-20-20, or 10-52-10?",
+ "need": "stacked fertilizer bags / sacks in a warehouse or farm store",
+ "queries": [
+  "fertilizer bags warehouse",
+  "fertilizer sacks stacked",
+  "fertilizer bag farm"
+ ],
+ "kind": "video",
+ "items": [
+  {
+   "source": "coverr",
+   "id": "coverr-fresh-kiwifruit-selection-at-market",
+   "kind": "video",
+   "title": "Close-Up of Fresh Kiwifruit Selection at Supermarket",
+   "desc": "Kiwi fruits are arranged neatly in a green market crate, showcasing their fresh, fuzzy texture. A woman is selecting ripe kiwis and putting them in a plastic bag. The video is perfect for themes of retail and produce.",
+   "tags": "",
+   "page": "https://coverr.co/videos/fresh-kiwifruit-selection-at-market",
+   "thumb": "https://cdn.coverr.co/videos/coverr-fresh-kiwifruit-selection-at-market/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-fresh-kiwifruit-selection-at-market/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 15.92,
+   "year": 2024,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-fresh-kiwifruit-selection-at-market/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Close-Up of Fresh Kiwifruit Selection at Supermarket · Coverr · Coverr License",
+   "q": "fertilizer bags warehouse"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0037-7179",
+   "kind": "video",
+   "title": "A woman throws organic waste on a pile of manure",
+   "desc": "A couple makes an organic fertilizer for their garden.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-throws-organic-waste-on-a-pile-of-manure-illadlxjal",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0037-7179/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0037-7179/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 22.022,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0037-7179/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman throws organic waste on a pile of manure · Coverr · Coverr License",
+   "q": "fertilizer sacks stacked"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0030-6222",
+   "kind": "video",
+   "title": "A woman puts her harvest in a bag",
+   "desc": "A female farmer puts the vegetables she collected in a bag.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-puts-her-harvest-in-a-bag-b9ly3rerro",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0030-6222/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0030-6222/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 25.316958,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0030-6222/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman puts her harvest in a bag · Coverr · Coverr License",
+   "q": "fertilizer bag farm"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-shopping-for-fresh-produce",
+   "kind": "video",
+   "title": " Woman Taking Plastic Bag while Shopping at Supermarket",
+   "desc": "A female customer selects a plastic bag before picking vegetables in the grocery store's produce section. The video showcases a moment in everyday life. Perfect for themes of retail, healthy living and food.",
+   "tags": "",
+   "page": "https://coverr.co/videos/shopping-for-fresh-produce",
+   "thumb": "https://cdn.coverr.co/videos/coverr-shopping-for-fresh-produce/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-shopping-for-fresh-produce/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 13,
+   "year": 2024,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-shopping-for-fresh-produce/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": " Woman Taking Plastic Bag while Shopping at Supermarket · Coverr · Coverr License",
+   "q": "fertilizer bags warehouse"
+  },
+  {
+   "source": "pixabay",
+   "id": "364401",
+   "kind": "video",
+   "title": "agriculture, slurry, fertilization, fertilizer, field, tractor, farmer, tillage, combine harvester",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-364401/",
+   "thumb": "https://cdn.pixabay.com/video/2026/07/16/364401_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2026/07/16/364401_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 9,
+   "year": null,
+   "author": "Thomas-Ritter",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2026/07/16/364401_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 73540793
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/07/16/364401_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 32452340
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/07/16/364401_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 19953583
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "agriculture, slurry, fertilization, fertilizer, field, tractor, farmer, tillage, combine harvester · Thomas-Ritter · Pixabay · Pixabay Content License",
+   "q": "fertilizer sacks stacked"
+  },
+  {
+   "source": "pixabay",
+   "id": "43044",
+   "kind": "video",
+   "title": "tractor, farmer, agriculture, field, rural, machine, farmhouse, fertilizer, pesticide, farming, vehicle, agricultural, countryside, country, landscape, equipment, plow",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-43044/",
+   "thumb": "https://cdn.pixabay.com/video/2020/06/24/43044-434334169_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2020/06/24/43044-434334169_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 18,
+   "year": null,
+   "author": "xat-ch",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2020/06/24/43044-434334169_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 48061606
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/06/24/43044-434334169_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 26341408
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/06/24/43044-434334169_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 11506146
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "tractor, farmer, agriculture, field, rural, machine, farmhouse, fertilizer, pesticide, farming, vehicle, agricultural, countryside, country, landscape, equipment, plow · xat-ch · Pixabay · Pixabay Content License",
+   "q": "fertilizer bag farm"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-woman-shopping-for-fresh-produce",
+   "kind": "video",
+   "title": "Woman Shopping for Fresh Produce at Local Market",
+   "desc": "A woman selects fresh onions at a store and puts them in a plastic bag. This video captures the essence of healthy eating and the vibrant atmosphere of a market. Ideal for themes of nutrition, shopping, and daily life.",
+   "tags": "",
+   "page": "https://coverr.co/videos/woman-shopping-for-fresh-produce",
+   "thumb": "https://cdn.coverr.co/videos/coverr-woman-shopping-for-fresh-produce/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-woman-shopping-for-fresh-produce/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 14,
+   "year": 2024,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-woman-shopping-for-fresh-produce/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Woman Shopping for Fresh Produce at Local Market · Coverr · Coverr License",
+   "q": "fertilizer bags warehouse"
+  },
+  {
+   "source": "pixabay",
+   "id": "42470",
+   "kind": "video",
+   "title": "rock balance, stacked rocks, balance, harmony, natural, lake, peaceful, waves, wave sounds, relaxation, spiritual",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-42470/",
+   "thumb": "https://cdn.pixabay.com/video/2020/06/18/42470-431738783_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2020/06/18/42470-431738783_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 15,
+   "year": null,
+   "author": "WOKANDAPIX",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2020/06/18/42470-431738783_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 45604487
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/06/18/42470-431738783_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 22645266
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/06/18/42470-431738783_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 11390052
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "rock balance, stacked rocks, balance, harmony, natural, lake, peaceful, waves, wave sounds, relaxation, spiritual · WOKANDAPIX · Pixabay · Pixabay Content License",
+   "q": "fertilizer sacks stacked"
+  },
+  {
+   "source": "pixabay",
+   "id": "27636",
+   "kind": "video",
+   "title": "biology, worm, earthworm, insect, soil, invertebrates, compost, nature, earth, fertilizer, organic, ecological, humus, trash, recycle",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-27636/",
+   "thumb": "https://cdn.pixabay.com/video/2019/10/07/27636-364947582_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2019/10/07/27636-364947582_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 20,
+   "year": null,
+   "author": "padrinan",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2019/10/07/27636-364947582_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 52460296
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/10/07/27636-364947582_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 27813964
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/10/07/27636-364947582_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 13781573
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "biology, worm, earthworm, insect, soil, invertebrates, compost, nature, earth, fertilizer, organic, ecological, humus, trash, recycle · padrinan · Pixabay · Pixabay Content License",
+   "q": "fertilizer sacks stacked"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-croft-with-mature-vegetables-4297",
+   "kind": "video",
+   "title": "A croft with mature vegetables",
+   "desc": "A mini farm with a small wooden shed.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-croft-with-mature-vegetables-y6ksobu4m2",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 14.681333,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A croft with mature vegetables · Coverr · Coverr License",
+   "q": "fertilizer bag farm"
+  },
+  {
+   "source": "pixabay",
+   "id": "91523",
+   "kind": "video",
+   "title": "temple, pagoda, warehouse, saigon, vietnam, buddhism",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-91523/",
+   "thumb": "https://cdn.pixabay.com/video/2021/10/10/91523-629213811_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2021/10/10/91523-629213811_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 8,
+   "year": null,
+   "author": "Lecuoc78",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2021/10/10/91523-629213811_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 22849759
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/10/10/91523-629213811_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 12517434
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/10/10/91523-629213811_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 5218600
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "temple, pagoda, warehouse, saigon, vietnam, buddhism · Lecuoc78 · Pixabay · Pixabay Content License",
+   "q": "fertilizer bags warehouse"
+  },
+  {
+   "source": "pixabay",
+   "id": "174452",
+   "kind": "video",
+   "title": "cow herd, cows, farm, animals, drone, vietnam",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-174452/",
+   "thumb": "https://cdn.pixabay.com/video/2023/08/03/174452-851475304_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2023/08/03/174452-851475304_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 19,
+   "year": null,
+   "author": "Ponnguyenduy",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2023/08/03/174452-851475304_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 62291934
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2023/08/03/174452-851475304_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 33924271
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2023/08/03/174452-851475304_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 14230121
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "cow herd, cows, farm, animals, drone, vietnam · Ponnguyenduy · Pixabay · Pixabay Content License",
+   "q": "fertilizer bag farm"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0038-4128",
+   "kind": "video",
+   "title": "A woman pours water from a bucket",
+   "desc": "A woman pours out dirty water from a bucket on the plants.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-pours-water-from-a-bucket-dfpucowhd5",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0038-4128/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0038-4128/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 15.640625,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0038-4128/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman pours water from a bucket · Coverr · Coverr License",
+   "q": "fertilizer sacks stacked"
+  },
+  {
+   "source": "pixabay",
+   "id": "66810",
+   "kind": "video",
+   "title": "grass, dew, field, fog, morning, nature, sunshine, green, grassland, farm, sunlight, sunrise, sun",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-66810/",
+   "thumb": "https://cdn.pixabay.com/video/2021/03/03/66810-520427372_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2021/03/03/66810-520427372_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 28,
+   "year": null,
+   "author": "JustYøu",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2021/03/03/66810-520427372_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 68134517
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/03/03/66810-520427372_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 41900107
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/03/03/66810-520427372_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 20356412
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "grass, dew, field, fog, morning, nature, sunshine, green, grassland, farm, sunlight, sunrise, sun · JustYøu · Pixabay · Pixabay Content License",
+   "q": "fertilizer bag farm"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-fresh-onions-in-market-bin",
+   "kind": "video",
+   "title": "Close-Up of Fresh Onions in Market Bin at Grocery Store",
+   "desc": "A close-up of fresh onions piled in a market bin, showcasing their freshness. A woman picks out several onions and puts them in her basket. Perfect for themes of fresh food, grocery shopping, and healthy eating.",
+   "tags": "",
+   "page": "https://coverr.co/videos/fresh-onions-in-market-bin",
+   "thumb": "https://cdn.coverr.co/videos/coverr-fresh-onions-in-market-bin/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-fresh-onions-in-market-bin/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 24.4,
+   "year": 2024,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-fresh-onions-in-market-bin/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Close-Up of Fresh Onions in Market Bin at Grocery Store · Coverr · Coverr License",
+   "q": "fertilizer bags warehouse"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0036-9423",
+   "kind": "video",
+   "title": "Composting",
+   "desc": "A woman brings a bucket with organic waste to a pile of manure.",
+   "tags": "",
+   "page": "https://coverr.co/videos/composting-gswrel8zm3",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0036-9423/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0036-9423/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 23.565208,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0036-9423/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Composting · Coverr · Coverr License",
+   "q": "fertilizer sacks stacked"
+  }
+ ]
+}

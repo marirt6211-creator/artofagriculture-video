@@ -1,0 +1,742 @@
+{
+ "shot": "s07",
+ "text": "Now, let's take a look at some of the most commonly used N-P-K fertilizers.",
+ "need": "farmer spreading fertilizer in a field",
+ "queries": [
+  "farmer spreading fertilizer",
+  "fertilizer spreader tractor field"
+ ],
+ "kind": "video",
+ "items": [
+  {
+   "source": "mixkit",
+   "id": "4739",
+   "kind": "video",
+   "title": "Farmer spreading pesticide on a tree",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/farmer-spreading-pesticide-on-a-tree-4739/",
+   "thumb": "https://assets.mixkit.co/videos/4739/4739-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/4739/4739-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/4739/4739-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/4739/4739-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Farmer spreading pesticide on a tree · Mixkit · Mixkit Free License",
+   "q": "farmer spreading"
+  },
+  {
+   "source": "pixabay",
+   "id": "364401",
+   "kind": "video",
+   "title": "agriculture, slurry, fertilization, fertilizer, field, tractor, farmer, tillage, combine harvester",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-364401/",
+   "thumb": "https://cdn.pixabay.com/video/2026/07/16/364401_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2026/07/16/364401_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 9,
+   "year": null,
+   "author": "Thomas-Ritter",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2026/07/16/364401_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 73540793
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/07/16/364401_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 32452340
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/07/16/364401_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 19953583
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "agriculture, slurry, fertilization, fertilizer, field, tractor, farmer, tillage, combine harvester · Thomas-Ritter · Pixabay · Pixabay Content License",
+   "q": "fertilizer spreader tractor field"
+  },
+  {
+   "source": "pixabay",
+   "id": "43044",
+   "kind": "video",
+   "title": "tractor, farmer, agriculture, field, rural, machine, farmhouse, fertilizer, pesticide, farming, vehicle, agricultural, countryside, country, landscape, equipment, plow",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-43044/",
+   "thumb": "https://cdn.pixabay.com/video/2020/06/24/43044-434334169_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2020/06/24/43044-434334169_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 18,
+   "year": null,
+   "author": "xat-ch",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2020/06/24/43044-434334169_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 48061606
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/06/24/43044-434334169_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 26341408
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/06/24/43044-434334169_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 11506146
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "tractor, farmer, agriculture, field, rural, machine, farmhouse, fertilizer, pesticide, farming, vehicle, agricultural, countryside, country, landscape, equipment, plow · xat-ch · Pixabay · Pixabay Content License",
+   "q": "fertilizer spreader tractor field"
+  },
+  {
+   "source": "pixabay",
+   "id": "232561",
+   "kind": "video",
+   "title": "tractor, field, wheat, harvest, combine, agriculture, grain, farming, summer, machine, technology, equipment, landscape",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-232561/",
+   "thumb": "https://cdn.pixabay.com/video/2024/09/21/232561_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2024/09/21/232561_tiny.mp4",
+   "w": 2560,
+   "h": 1440,
+   "dur": 19,
+   "year": null,
+   "author": "Ivan267",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2024/09/21/232561_large.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 57628754
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2024/09/21/232561_medium.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 30591181
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2024/09/21/232561_small.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 10983446
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "tractor, field, wheat, harvest, combine, agriculture, grain, farming, summer, machine, technology, equipment, landscape · Ivan267 · Pixabay · Pixabay Content License",
+   "q": "fertilizer spreader tractor field"
+  },
+  {
+   "source": "pixabay",
+   "id": "47905",
+   "kind": "video",
+   "title": "windmill, landscape, energy, sky, france, power, green power, wind energy, farmer, green energy, live wallpaper, Nouvelle-Aquitaine, France, Saint-Félix",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-47905/",
+   "thumb": "https://cdn.pixabay.com/video/2020/08/23/47905-452168431_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2020/08/23/47905-452168431_tiny.mp4",
+   "w": 2560,
+   "h": 1440,
+   "dur": 38,
+   "year": null,
+   "author": "WestNL",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2020/08/23/47905-452168431_large.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 52648266
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/08/23/47905-452168431_medium.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 19529557
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/08/23/47905-452168431_small.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 5363427
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "windmill, landscape, energy, sky, france, power, green power, wind energy, farmer, green energy, live wallpaper, Nouvelle-Aquitaine, France, Saint-Félix · WestNL · Pixabay · Pixabay Content License",
+   "q": "farmer spreading fertilizer"
+  },
+  {
+   "source": "pixabay",
+   "id": "251869",
+   "kind": "video",
+   "title": "tractor, field, crop, agriculture, rural",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-251869/",
+   "thumb": "https://cdn.pixabay.com/video/2025/01/10/251869_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2025/01/10/251869_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 8,
+   "year": null,
+   "author": "andersonsilvaneto",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2025/01/10/251869_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 31454690
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/01/10/251869_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 13727804
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/01/10/251869_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 8185689
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "tractor, field, crop, agriculture, rural · andersonsilvaneto · Pixabay · Pixabay Content License",
+   "q": "fertilizer spreader tractor field"
+  },
+  {
+   "source": "pixabay",
+   "id": "161726",
+   "kind": "video",
+   "title": "cat, kitten, playing cat, playing kitten, animal, pet, play, kitty, farmer kitty, farmer kitten",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-161726/",
+   "thumb": "https://cdn.pixabay.com/video/2023/05/05/161726-824133858_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2023/05/05/161726-824133858_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 10,
+   "year": null,
+   "author": "JawadAliKhan",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2023/05/05/161726-824133858_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 17784551
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2023/05/05/161726-824133858_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 9278358
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2023/05/05/161726-824133858_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 5930765
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "cat, kitten, playing cat, playing kitten, animal, pet, play, kitty, farmer kitty, farmer kitten · JawadAliKhan · Pixabay · Pixabay Content License",
+   "q": "farmer spreading fertilizer"
+  },
+  {
+   "source": "pixabay",
+   "id": "12799",
+   "kind": "video",
+   "title": "tractor, field, cleaning, storks",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-12799/",
+   "thumb": "https://cdn.pixabay.com/video/2017/11/07/12799-241717767_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2017/11/07/12799-241717767_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 11,
+   "year": null,
+   "author": "Mixmaster_Andy",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2017/11/07/12799-241717767_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 7157821
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2017/11/07/12799-241717767_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 3779770
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2017/11/07/12799-241717767_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 2402400
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "tractor, field, cleaning, storks · Mixmaster_Andy · Pixabay · Pixabay Content License",
+   "q": "fertilizer spreader tractor field"
+  },
+  {
+   "source": "pixabay",
+   "id": "27636",
+   "kind": "video",
+   "title": "biology, worm, earthworm, insect, soil, invertebrates, compost, nature, earth, fertilizer, organic, ecological, humus, trash, recycle",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-27636/",
+   "thumb": "https://cdn.pixabay.com/video/2019/10/07/27636-364947582_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2019/10/07/27636-364947582_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 20,
+   "year": null,
+   "author": "padrinan",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2019/10/07/27636-364947582_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 52460296
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/10/07/27636-364947582_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 27813964
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/10/07/27636-364947582_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 13781573
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "biology, worm, earthworm, insect, soil, invertebrates, compost, nature, earth, fertilizer, organic, ecological, humus, trash, recycle · padrinan · Pixabay · Pixabay Content License",
+   "q": "farmer spreading fertilizer"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0037-7179",
+   "kind": "video",
+   "title": "A woman throws organic waste on a pile of manure",
+   "desc": "A couple makes an organic fertilizer for their garden.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-throws-organic-waste-on-a-pile-of-manure-illadlxjal",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0037-7179/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0037-7179/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 22.022,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0037-7179/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman throws organic waste on a pile of manure · Coverr · Coverr License",
+   "q": "fertilizer spreader tractor field"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-woman-picks-lettuce-on-a-farm-2718",
+   "kind": "video",
+   "title": "A woman picks lettuce on a farm",
+   "desc": "A medium shot of a woman harvesting lettuce.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-picks-lettuce-on-a-farm-uhy2z1rlrh",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-woman-picks-lettuce-on-a-farm-2718/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-woman-picks-lettuce-on-a-farm-2718/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 15.015,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-woman-picks-lettuce-on-a-farm-2718/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman picks lettuce on a farm · Coverr · Coverr License",
+   "q": "fertilizer spreader tractor field"
+  },
+  {
+   "source": "commons",
+   "id": "File:Water Treaty Roundtable-Clip Low Bit Rate (55100033341).webm",
+   "kind": "video",
+   "title": "Water Treaty Roundtable-Clip Low Bit Rate (55100033341)",
+   "desc": "Lone Star Citrus Growers hosts a roundtable discussion in their packing warehouse with Secretary of Agriculture Brooke Rollins and Texas Governor Greg Abbott in Edinburg, Texas, on Feb. 9, 2026. The meeting focused on a new commitment between the United States and Mexico to strengthen implementation of the 1944 Water Treaty, ensuring reliable water deliveries for South Texas farmers and ranchers. ",
+   "page": "https://commons.wikimedia.org/wiki/File:Water_Treaty_Roundtable-Clip_Low_Bit_Rate_(55100033341).webm",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Water_Treaty_Roundtable-Clip_Low_Bit_Rate_%2855100033341%29.webm/960px--Water_Treaty_Roundtable-Clip_Low_Bit_Rate_%2855100033341%29.webm.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0b/Water_Treaty_Roundtable-Clip_Low_Bit_Rate_%2855100033341%29.webm/Water_Treaty_Roundtable-Clip_Low_Bit_Rate_%2855100033341%29.webm.240p.vp9.webm",
+   "w": 1920,
+   "h": 1080,
+   "dur": 530.997,
+   "year": 2026,
+   "author": "USDAgov",
+   "licence": {
+    "code": "pd",
+    "name": "Public domain",
+    "url": "",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Water_Treaty_Roundtable-Clip_Low_Bit_Rate_%2855100033341%29.webm",
+     "w": 1920,
+     "h": 1080,
+     "size": 165685873,
+     "mime": "video/webm",
+     "label": "original"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0b/Water_Treaty_Roundtable-Clip_Low_Bit_Rate_%2855100033341%29.webm/Water_Treaty_Roundtable-Clip_Low_Bit_Rate_%2855100033341%29.webm.240p.vp9.webm",
+     "w": 426,
+     "h": 240,
+     "mime": "video/webm",
+     "label": "240p.vp9.webm"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0b/Water_Treaty_Roundtable-Clip_Low_Bit_Rate_%2855100033341%29.webm/Water_Treaty_Roundtable-Clip_Low_Bit_Rate_%2855100033341%29.webm.360p.mpeg4.mov",
+     "w": 640,
+     "h": 360,
+     "mime": "video/quicktime",
+     "label": "360p.mpeg4.mov"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0b/Water_Treaty_Roundtable-Clip_Low_Bit_Rate_%2855100033341%29.webm/Water_Treaty_Roundtable-Clip_Low_Bit_Rate_%2855100033341%29.webm.480p.vp9.webm",
+     "w": 854,
+     "h": 480,
+     "mime": "video/webm",
+     "label": "480p.vp9.webm"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0b/Water_Treaty_Roundtable-Clip_Low_Bit_Rate_%2855100033341%29.webm/Water_Treaty_Roundtable-Clip_Low_Bit_Rate_%2855100033341%29.webm.1080p.vp9.webm",
+     "w": 1920,
+     "h": 1080,
+     "mime": "video/webm",
+     "label": "1080p.vp9.webm"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Water Treaty Roundtable-Clip Low Bit Rate (55100033341) · USDAgov · Wikimedia Commons · Public domain",
+   "q": "farmer spreading"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-croft-with-mature-vegetables-4297",
+   "kind": "video",
+   "title": "A croft with mature vegetables",
+   "desc": "A mini farm with a small wooden shed.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-croft-with-mature-vegetables-y6ksobu4m2",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 14.681333,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A croft with mature vegetables · Coverr · Coverr License",
+   "q": "fertilizer spreader tractor field"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0039-5710",
+   "kind": "video",
+   "title": "A man watering a vegetable garden",
+   "desc": "A man watering his vegetable garden with a garden hose.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-man-watering-a-vegetable-garden-kvgan9ipx7",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0039-5710/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0039-5710/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 9.801458,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0039-5710/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A man watering a vegetable garden · Coverr · Coverr License",
+   "q": "fertilizer spreader tractor field"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0036-9423",
+   "kind": "video",
+   "title": "Composting",
+   "desc": "A woman brings a bucket with organic waste to a pile of manure.",
+   "tags": "",
+   "page": "https://coverr.co/videos/composting-gswrel8zm3",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0036-9423/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0036-9423/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 23.565208,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0036-9423/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Composting · Coverr · Coverr License",
+   "q": "fertilizer spreader tractor field"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0040-8346",
+   "kind": "video",
+   "title": "Close-up of watering a vegetable garden",
+   "desc": "A close-up shot of a man watering his vegetable garden with a garden hose.",
+   "tags": "",
+   "page": "https://coverr.co/videos/close-up-of-watering-a-vegetable-garden-puysekco1h",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0040-8346/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0040-8346/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 13.138125,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0040-8346/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Close-up of watering a vegetable garden · Coverr · Coverr License",
+   "q": "farmer spreading fertilizer"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0038-4128",
+   "kind": "video",
+   "title": "A woman pours water from a bucket",
+   "desc": "A woman pours out dirty water from a bucket on the plants.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-pours-water-from-a-bucket-dfpucowhd5",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0038-4128/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0038-4128/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 15.640625,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0038-4128/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman pours water from a bucket · Coverr · Coverr License",
+   "q": "farmer spreading fertilizer"
+  }
+ ]
+}

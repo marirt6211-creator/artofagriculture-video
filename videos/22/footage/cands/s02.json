@@ -1,0 +1,789 @@
+{
+ "shot": "s02",
+ "text": "Well, those numbers aren't random! They actually tell us how much of three important nutrients the fertilizer contains: Nitrogen, Phosphorus, and Potassium, also known as N-P-K.",
+ "need": "close-up of granular fertilizer pellets in a hand or being spread on soil",
+ "queries": [
+  "granular fertilizer hand",
+  "fertilizer granules close up",
+  "spreading fertilizer field"
+ ],
+ "kind": "video",
+ "items": [
+  {
+   "source": "coverr",
+   "id": "coverr-a-woman-shows-harvested-peas-8954",
+   "kind": "video",
+   "title": "A woman shows harvested peas",
+   "desc": "A close-up shot of a woman’s hand as she shows freshly picked green peas.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-shows-harvested-peas-spfj1r5pcz",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-woman-shows-harvested-peas-8954/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-woman-shows-harvested-peas-8954/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 14.055708,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-woman-shows-harvested-peas-8954/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman shows harvested peas · Coverr · Coverr License",
+   "q": "granular fertilizer hand"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-walnuts-thrown-in-slow-motion-9855",
+   "kind": "video",
+   "title": "Walnuts thrown in slow motion",
+   "desc": "Extreme close-up of walnuts being thrown in slow motion.",
+   "tags": "",
+   "page": "https://coverr.co/videos/walnuts-thrown-in-slow-motion-e2sqj9qcmw",
+   "thumb": "https://cdn.coverr.co/videos/coverr-walnuts-thrown-in-slow-motion-9855/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-walnuts-thrown-in-slow-motion-9855/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 6.083333,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-walnuts-thrown-in-slow-motion-9855/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Walnuts thrown in slow motion · Coverr · Coverr License",
+   "q": "fertilizer granules close up"
+  },
+  {
+   "source": "pixabay",
+   "id": "364401",
+   "kind": "video",
+   "title": "agriculture, slurry, fertilization, fertilizer, field, tractor, farmer, tillage, combine harvester",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-364401/",
+   "thumb": "https://cdn.pixabay.com/video/2026/07/16/364401_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2026/07/16/364401_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 9,
+   "year": null,
+   "author": "Thomas-Ritter",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2026/07/16/364401_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 73540793
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/07/16/364401_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 32452340
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/07/16/364401_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 19953583
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "agriculture, slurry, fertilization, fertilizer, field, tractor, farmer, tillage, combine harvester · Thomas-Ritter · Pixabay · Pixabay Content License",
+   "q": "spreading fertilizer field"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0037-7179",
+   "kind": "video",
+   "title": "A woman throws organic waste on a pile of manure",
+   "desc": "A couple makes an organic fertilizer for their garden.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-throws-organic-waste-on-a-pile-of-manure-illadlxjal",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0037-7179/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0037-7179/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 22.022,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0037-7179/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman throws organic waste on a pile of manure · Coverr · Coverr License",
+   "q": "granular fertilizer hand"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-milk-being-frothed-7416",
+   "kind": "video",
+   "title": "Milk being frothed",
+   "desc": "Extreme close-up shot of milk being frothed with a frother.",
+   "tags": "",
+   "page": "https://coverr.co/videos/milk-being-frothed-we9y2ko3ye",
+   "thumb": "https://cdn.coverr.co/videos/coverr-milk-being-frothed-7416/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-milk-being-frothed-7416/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 28.208333,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-milk-being-frothed-7416/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Milk being frothed · Coverr · Coverr License",
+   "q": "fertilizer granules close up"
+  },
+  {
+   "source": "pixabay",
+   "id": "43044",
+   "kind": "video",
+   "title": "tractor, farmer, agriculture, field, rural, machine, farmhouse, fertilizer, pesticide, farming, vehicle, agricultural, countryside, country, landscape, equipment, plow",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-43044/",
+   "thumb": "https://cdn.pixabay.com/video/2020/06/24/43044-434334169_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2020/06/24/43044-434334169_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 18,
+   "year": null,
+   "author": "xat-ch",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2020/06/24/43044-434334169_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 48061606
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/06/24/43044-434334169_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 26341408
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/06/24/43044-434334169_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 11506146
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "tractor, farmer, agriculture, field, rural, machine, farmhouse, fertilizer, pesticide, farming, vehicle, agricultural, countryside, country, landscape, equipment, plow · xat-ch · Pixabay · Pixabay Content License",
+   "q": "spreading fertilizer field"
+  },
+  {
+   "source": "pixabay",
+   "id": "73847",
+   "kind": "video",
+   "title": "sand, hand, beach, dessert, sea, live wallpaper",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-73847/",
+   "thumb": "https://cdn.pixabay.com/video/2021/05/11/73847-549547533_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2021/05/11/73847-549547533_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 14,
+   "year": null,
+   "author": "JustYøu",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2021/05/11/73847-549547533_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 44349306
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/05/11/73847-549547533_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 23896503
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/05/11/73847-549547533_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 9665784
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "sand, hand, beach, dessert, sea, live wallpaper · JustYøu · Pixabay · Pixabay Content License",
+   "q": "granular fertilizer hand"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0040-8346",
+   "kind": "video",
+   "title": "Close-up of watering a vegetable garden",
+   "desc": "A close-up shot of a man watering his vegetable garden with a garden hose.",
+   "tags": "",
+   "page": "https://coverr.co/videos/close-up-of-watering-a-vegetable-garden-puysekco1h",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0040-8346/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0040-8346/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 13.138125,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0040-8346/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Close-up of watering a vegetable garden · Coverr · Coverr License",
+   "q": "fertilizer granules close up"
+  },
+  {
+   "source": "pixabay",
+   "id": "203923",
+   "kind": "video",
+   "title": "grass, field, wind, flowers, nature",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-203923/",
+   "thumb": "https://cdn.pixabay.com/video/2024/03/12/203923-922675870_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2024/03/12/203923-922675870_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 21,
+   "year": null,
+   "author": "RuslanSikunov",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2024/03/12/203923-922675870_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 15960537
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2024/03/12/203923-922675870_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 8267509
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2024/03/12/203923-922675870_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 5046668
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "grass, field, wind, flowers, nature · RuslanSikunov · Pixabay · Pixabay Content License",
+   "q": "spreading fertilizer field"
+  },
+  {
+   "source": "pixabay",
+   "id": "189018",
+   "kind": "video",
+   "title": "lipstick, make up, bride, woman, fashion, wedding, close up, texture",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-189018/",
+   "thumb": "https://cdn.pixabay.com/video/2023/11/13/189018-884234917_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2023/11/13/189018-884234917_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 14,
+   "year": null,
+   "author": "choxyltd",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2023/11/13/189018-884234917_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 3973712
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2023/11/13/189018-884234917_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 2036546
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2023/11/13/189018-884234917_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 1283198
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "lipstick, make up, bride, woman, fashion, wedding, close up, texture · choxyltd · Pixabay · Pixabay Content License",
+   "q": "fertilizer granules close up"
+  },
+  {
+   "source": "pixabay",
+   "id": "182517",
+   "kind": "video",
+   "title": "cosmos, flowers, wind, field, meadow, autumn, spring",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-182517/",
+   "thumb": "https://cdn.pixabay.com/video/2023/09/27/182517-868916307_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2023/09/27/182517-868916307_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 28,
+   "year": null,
+   "author": "KIMDAEJEUNG",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2023/09/27/182517-868916307_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 67362276
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2023/09/27/182517-868916307_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 38702078
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2023/09/27/182517-868916307_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 21102093
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "cosmos, flowers, wind, field, meadow, autumn, spring · KIMDAEJEUNG · Pixabay · Pixabay Content License",
+   "q": "spreading fertilizer field"
+  },
+  {
+   "source": "pixabay",
+   "id": "34091",
+   "kind": "video",
+   "title": "washing hands, coronavirus, stop the spread, covid 19, water, hands, female, hygiene, cleanliness, technique, running water, handwashing, hand washing",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-34091/",
+   "thumb": "https://cdn.pixabay.com/video/2020/03/22/34091-399913636_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2020/03/22/34091-399913636_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 24,
+   "year": null,
+   "author": "jLasWilson",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2020/03/22/34091-399913636_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 42594893
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/03/22/34091-399913636_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 23362068
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/03/22/34091-399913636_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 15223013
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "washing hands, coronavirus, stop the spread, covid 19, water, hands, female, hygiene, cleanliness, technique, running water, handwashing, hand washing · jLasWilson · Pixabay · Pixabay Content License",
+   "q": "granular fertilizer hand"
+  },
+  {
+   "source": "pixabay",
+   "id": "26493",
+   "kind": "video",
+   "title": "colours, pattern, texture, abstract, macro, close-up",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-26493/",
+   "thumb": "https://cdn.pixabay.com/video/2019/09/03/26493-360248645_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2019/09/03/26493-360248645_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 74,
+   "year": null,
+   "author": "StefWithAnF",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2019/09/03/26493-360248645_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 51184915
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/09/03/26493-360248645_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 21982330
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/09/03/26493-360248645_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 12964456
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "colours, pattern, texture, abstract, macro, close-up · StefWithAnF · Pixabay · Pixabay Content License",
+   "q": "fertilizer granules close up"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822",
+   "kind": "video",
+   "title": "A woman cleans soil from lettuce roots",
+   "desc": "A close-up shot of a woman cleaning soil off of the roots of a lettuce plant.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-cleans-soil-from-lettuce-roots-phbqnscvn6",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 20.937583,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman cleans soil from lettuce roots · Coverr · Coverr License",
+   "q": "spreading fertilizer field"
+  },
+  {
+   "source": "pixabay",
+   "id": "27636",
+   "kind": "video",
+   "title": "biology, worm, earthworm, insect, soil, invertebrates, compost, nature, earth, fertilizer, organic, ecological, humus, trash, recycle",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-27636/",
+   "thumb": "https://cdn.pixabay.com/video/2019/10/07/27636-364947582_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2019/10/07/27636-364947582_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 20,
+   "year": null,
+   "author": "padrinan",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2019/10/07/27636-364947582_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 52460296
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/10/07/27636-364947582_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 27813964
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/10/07/27636-364947582_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 13781573
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "biology, worm, earthworm, insect, soil, invertebrates, compost, nature, earth, fertilizer, organic, ecological, humus, trash, recycle · padrinan · Pixabay · Pixabay Content License",
+   "q": "granular fertilizer hand"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-woman-picks-lettuce-on-a-farm-2718",
+   "kind": "video",
+   "title": "A woman picks lettuce on a farm",
+   "desc": "A medium shot of a woman harvesting lettuce.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-picks-lettuce-on-a-farm-uhy2z1rlrh",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-woman-picks-lettuce-on-a-farm-2718/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-woman-picks-lettuce-on-a-farm-2718/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 15.015,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-woman-picks-lettuce-on-a-farm-2718/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman picks lettuce on a farm · Coverr · Coverr License",
+   "q": "spreading fertilizer field"
+  },
+  {
+   "source": "commons",
+   "id": "File:Die Wirkung von Dünger.webm",
+   "kind": "video",
+   "title": "Die Wirkung von Dünger",
+   "desc": "The advantage of organic over mineral fertilizer is that not only does it deliver nutrients, it also helps improve soil structure and provides food for the microorganisms in the soil.",
+   "page": "https://commons.wikimedia.org/wiki/File:Die_Wirkung_von_D%C3%BCnger.webm",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Die_Wirkung_von_D%C3%BCnger.webm/960px--Die_Wirkung_von_D%C3%BCnger.webm.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/66/Die_Wirkung_von_D%C3%BCnger.webm/Die_Wirkung_von_D%C3%BCnger.webm.240p.vp9.webm",
+   "w": 1920,
+   "h": 1080,
+   "dur": 56.621,
+   "year": 2023,
+   "author": "3sat/NANO/Labo M/Anja Kollruß/Damaris Becker/Christian Gruber/Maximilian Mohr",
+   "licence": {
+    "code": "by",
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0",
+    "verdict": "credit",
+    "attr": true,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Die_Wirkung_von_D%C3%BCnger.webm",
+     "w": 1920,
+     "h": 1080,
+     "size": 78127552,
+     "mime": "video/webm",
+     "label": "original"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/66/Die_Wirkung_von_D%C3%BCnger.webm/Die_Wirkung_von_D%C3%BCnger.webm.240p.vp9.webm",
+     "w": 426,
+     "h": 240,
+     "mime": "video/webm",
+     "label": "240p.vp9.webm"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/66/Die_Wirkung_von_D%C3%BCnger.webm/Die_Wirkung_von_D%C3%BCnger.webm.360p.mpeg4.mov",
+     "w": 640,
+     "h": 360,
+     "mime": "video/quicktime",
+     "label": "360p.mpeg4.mov"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/66/Die_Wirkung_von_D%C3%BCnger.webm/Die_Wirkung_von_D%C3%BCnger.webm.480p.vp9.webm",
+     "w": 854,
+     "h": 480,
+     "mime": "video/webm",
+     "label": "480p.vp9.webm"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/66/Die_Wirkung_von_D%C3%BCnger.webm/Die_Wirkung_von_D%C3%BCnger.webm.1080p.vp9.webm",
+     "w": 1920,
+     "h": 1080,
+     "mime": "video/webm",
+     "label": "1080p.vp9.webm"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Die Wirkung von Dünger · 3sat/NANO/Labo M/Anja Kollruß/Damaris Becker/Christian Gruber/Maximilian Mohr · Wikimedia Commons · CC BY 4.0",
+   "q": "granular fertilizer"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-man-prepares-to-launch-a-kite-2730",
+   "kind": "video",
+   "title": "A man prepares to launch a kite",
+   "desc": "Panning shot of a man preparing to launch a kite.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-man-prepares-to-launch-a-kite-dgk5ys2u5y",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-man-prepares-to-launch-a-kite-2730/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-man-prepares-to-launch-a-kite-2730/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 15.166667,
+   "year": 2021,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-man-prepares-to-launch-a-kite-2730/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A man prepares to launch a kite · Coverr · Coverr License",
+   "q": "spreading fertilizer field"
+  }
+ ]
+}
