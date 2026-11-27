@@ -8,6 +8,14 @@ Tracks:
 - "Village Dawn"            — light piano
 - "Friday Morning"          — calm open piano
 - "Fireflies and Stardust"  — upbeat rural americana (banjo, mandolin)
+- "Life of Riley"           — medium folk, accordion & strings, cheerful (~103 BPM)
+- "Carefree"                — ukulele & whistle, light bouncy (~96 BPM)
+- "Wholesome"               — acoustic guitar, warm & positive (~129 BPM, relaxed feel)
+- "Pleasant Porridge"       — rustic folk, fiddle & guitar (~117 BPM)
+- "Folk Round"              — medieval/folk round, flute & lute (~99 BPM)
+- "Daily Beetle"            — playful acoustic, mid tempo (~99 BPM)
+- "Cheery Monday"           — bright acoustic, short (1:18)
+- "Fretless"                — mellow-groove guitar, steady mid tempo
 
 Caption text for YouTube description (replace TRACK):
 "TRACK" Kevin MacLeod (incompetech.com)
