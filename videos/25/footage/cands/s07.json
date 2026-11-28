@@ -1,0 +1,763 @@
+{
+ "shot": "s07",
+ "text": "Each form has its own application method, so the right amount depends on the product concentration, plant type, and soil conditions.",
+ "need": "farmer applying fertilizer to field / sprayer",
+ "queries": [
+  "farmer spreading fertilizer",
+  "tractor spraying field",
+  "farmer watering plants"
+ ],
+ "kind": "video",
+ "items": [
+  {
+   "source": "mixkit",
+   "id": "4739",
+   "kind": "video",
+   "title": "Farmer spreading pesticide on a tree",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/farmer-spreading-pesticide-on-a-tree-4739/",
+   "thumb": "https://assets.mixkit.co/videos/4739/4739-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/4739/4739-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/4739/4739-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/4739/4739-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Farmer spreading pesticide on a tree · Mixkit · Mixkit Free License",
+   "q": "farmer spreading"
+  },
+  {
+   "source": "pixabay",
+   "id": "10176",
+   "kind": "video",
+   "title": "tractor in field spraying fertilizer, tractor, bulldozer, machine, car, field, meadow, fertilizer, manure, agricultural, motor, farm, fazenda, work, spray, atomization, the soil, land, harvest, furrow, sowing, agriculture, agronomy, landscape, rural, rustic, village, mechanism, farmer, the forest",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-10176/",
+   "thumb": "https://cdn.pixabay.com/video/2017/06/21/10176-223148996_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2017/06/21/10176-223148996_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 7,
+   "year": null,
+   "author": "chayka1270",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2017/06/21/10176-223148996_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 3802101
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2017/06/21/10176-223148996_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 2107442
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2017/06/21/10176-223148996_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 1256267
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "tractor in field spraying fertilizer, tractor, bulldozer, machine, car, field, meadow, fertilizer, manure, agricultural, motor, farm, fazenda, work, spray, atomization, the soil, land, harvest, furrow, sowing, agriculture, agronomy, landscape, rural, rustic, village, mechanism, farmer, the forest · chayka1270 · Pixabay · Pixabay Content License",
+   "q": "tractor spraying field"
+  },
+  {
+   "source": "pixabay",
+   "id": "44765",
+   "kind": "video",
+   "title": "watering, sprinkler, garden, green, agriculture, bio garden, irrigated, bio, irrigation, plant, water, food, grow, summer, growth, organic, farm, gardening, fresh, healthy, cultures, farmer, sun",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-44765/",
+   "thumb": "https://cdn.pixabay.com/video/2020/07/15/44765-440000959_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2020/07/15/44765-440000959_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 23,
+   "year": null,
+   "author": "FreeCreativeStuff",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2020/07/15/44765-440000959_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 16135710
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/07/15/44765-440000959_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 8118247
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/07/15/44765-440000959_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 4568503
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "watering, sprinkler, garden, green, agriculture, bio garden, irrigated, bio, irrigation, plant, water, food, grow, summer, growth, organic, farm, gardening, fresh, healthy, cultures, farmer, sun · FreeCreativeStuff · Pixabay · Pixabay Content License",
+   "q": "farmer watering plants"
+  },
+  {
+   "source": "pixabay",
+   "id": "364401",
+   "kind": "video",
+   "title": "agriculture, slurry, fertilization, fertilizer, field, tractor, farmer, tillage, combine harvester",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-364401/",
+   "thumb": "https://cdn.pixabay.com/video/2026/07/16/364401_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2026/07/16/364401_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 9,
+   "year": null,
+   "author": "Thomas-Ritter",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2026/07/16/364401_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 73540793
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/07/16/364401_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 32452340
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/07/16/364401_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 19953583
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "agriculture, slurry, fertilization, fertilizer, field, tractor, farmer, tillage, combine harvester · Thomas-Ritter · Pixabay · Pixabay Content License",
+   "q": "farmer spreading fertilizer"
+  },
+  {
+   "source": "pixabay",
+   "id": "10177",
+   "kind": "video",
+   "title": "tractor in field spraying fertilizer, tractor, bulldozer, machine, car, field, meadow, fertilizer, manure, agricultural, motor, farm, fazenda, work, spray, atomization, the soil, land, harvest, furrow, sowing, agriculture, agronomy, landscape, rural, rustic, village, mechanism, farmer, the forest",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-10177/",
+   "thumb": "https://cdn.pixabay.com/video/2017/06/21/10177-223148994_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2017/06/21/10177-223148994_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 11,
+   "year": null,
+   "author": "chayka1270",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2017/06/21/10177-223148994_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 6113750
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2017/06/21/10177-223148994_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 3382342
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2017/06/21/10177-223148994_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 2033017
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "tractor in field spraying fertilizer, tractor, bulldozer, machine, car, field, meadow, fertilizer, manure, agricultural, motor, farm, fazenda, work, spray, atomization, the soil, land, harvest, furrow, sowing, agriculture, agronomy, landscape, rural, rustic, village, mechanism, farmer, the forest · chayka1270 · Pixabay · Pixabay Content License",
+   "q": "tractor spraying field"
+  },
+  {
+   "source": "pixabay",
+   "id": "44767",
+   "kind": "video",
+   "title": "plant, grass, garden, green, agriculture, bio garden, irrigated, bio, irrigation, water, food, eat, agricultural, grow, summer, growth, organic, farm, gardening, fresh, healthy, cultures, nature, farmer, sun",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-44767/",
+   "thumb": "https://cdn.pixabay.com/video/2020/07/15/44767-440059562_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2020/07/15/44767-440059562_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 14,
+   "year": null,
+   "author": "FreeCreativeStuff",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2020/07/15/44767-440059562_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 7679031
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/07/15/44767-440059562_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 3259096
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/07/15/44767-440059562_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 1642995
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "plant, grass, garden, green, agriculture, bio garden, irrigated, bio, irrigation, water, food, eat, agricultural, grow, summer, growth, organic, farm, gardening, fresh, healthy, cultures, nature, farmer, sun · FreeCreativeStuff · Pixabay · Pixabay Content License",
+   "q": "farmer watering plants"
+  },
+  {
+   "source": "pixabay",
+   "id": "43044",
+   "kind": "video",
+   "title": "tractor, farmer, agriculture, field, rural, machine, farmhouse, fertilizer, pesticide, farming, vehicle, agricultural, countryside, country, landscape, equipment, plow",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-43044/",
+   "thumb": "https://cdn.pixabay.com/video/2020/06/24/43044-434334169_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2020/06/24/43044-434334169_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 18,
+   "year": null,
+   "author": "xat-ch",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2020/06/24/43044-434334169_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 48061606
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/06/24/43044-434334169_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 26341408
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/06/24/43044-434334169_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 11506146
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "tractor, farmer, agriculture, field, rural, machine, farmhouse, fertilizer, pesticide, farming, vehicle, agricultural, countryside, country, landscape, equipment, plow · xat-ch · Pixabay · Pixabay Content License",
+   "q": "farmer spreading fertilizer"
+  },
+  {
+   "source": "mixkit",
+   "id": "7692",
+   "kind": "video",
+   "title": "Tractor spraying crops",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/tractor-spraying-crops-7692/",
+   "thumb": "https://assets.mixkit.co/videos/7692/7692-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/7692/7692-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/7692/7692-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/7692/7692-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Tractor spraying crops · Mixkit · Mixkit Free License",
+   "q": "tractor spraying field"
+  },
+  {
+   "source": "pixabay",
+   "id": "44777",
+   "kind": "video",
+   "title": "garden, green, sprinkler, agriculture, bio garden, irrigated, bio, irrigation, plant, water, food, eat, agricultural, grow, summer, growth, organic, farm, gardening, fresh, healthy, cultures, nature, farmer, sun",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-44777/",
+   "thumb": "https://cdn.pixabay.com/video/2020/07/15/44777-440000828_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2020/07/15/44777-440000828_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 28,
+   "year": null,
+   "author": "FreeCreativeStuff",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2020/07/15/44777-440000828_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 19453734
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/07/15/44777-440000828_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 9722593
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/07/15/44777-440000828_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 5180077
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "garden, green, sprinkler, agriculture, bio garden, irrigated, bio, irrigation, plant, water, food, eat, agricultural, grow, summer, growth, organic, farm, gardening, fresh, healthy, cultures, nature, farmer, sun · FreeCreativeStuff · Pixabay · Pixabay Content License",
+   "q": "farmer watering plants"
+  },
+  {
+   "source": "pixabay",
+   "id": "47905",
+   "kind": "video",
+   "title": "windmill, landscape, energy, sky, france, power, green power, wind energy, farmer, green energy, live wallpaper, Nouvelle-Aquitaine, France, Saint-Félix",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-47905/",
+   "thumb": "https://cdn.pixabay.com/video/2020/08/23/47905-452168431_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2020/08/23/47905-452168431_tiny.mp4",
+   "w": 2560,
+   "h": 1440,
+   "dur": 38,
+   "year": null,
+   "author": "WestNL",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2020/08/23/47905-452168431_large.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 52648266
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/08/23/47905-452168431_medium.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 19529557
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/08/23/47905-452168431_small.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 5363427
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "windmill, landscape, energy, sky, france, power, green power, wind energy, farmer, green energy, live wallpaper, Nouvelle-Aquitaine, France, Saint-Félix · WestNL · Pixabay · Pixabay Content License",
+   "q": "farmer spreading fertilizer"
+  },
+  {
+   "source": "pixabay",
+   "id": "10290",
+   "kind": "video",
+   "title": "harvester, tractor in field harvests, tractor, bulldozer, machine, car, field, meadow, fertilizer, manure, agricultural, motor, farm, fazenda, work, spray, atomization, the soil, land, harvest, furrow, sowing, agriculture, agronomy, landscape, rural, rustic, village, mechanism, farmer, the forest",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-10290/",
+   "thumb": "https://cdn.pixabay.com/video/2017/06/26/10290-223159390_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2017/06/26/10290-223159390_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 23,
+   "year": null,
+   "author": "chayka1270",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2017/06/26/10290-223159390_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 12996484
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2017/06/26/10290-223159390_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 7250500
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2017/06/26/10290-223159390_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 4282681
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "harvester, tractor in field harvests, tractor, bulldozer, machine, car, field, meadow, fertilizer, manure, agricultural, motor, farm, fazenda, work, spray, atomization, the soil, land, harvest, furrow, sowing, agriculture, agronomy, landscape, rural, rustic, village, mechanism, farmer, the forest · chayka1270 · Pixabay · Pixabay Content License",
+   "q": "tractor spraying field"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0040-8346",
+   "kind": "video",
+   "title": "Close-up of watering a vegetable garden",
+   "desc": "A close-up shot of a man watering his vegetable garden with a garden hose.",
+   "tags": "",
+   "page": "https://coverr.co/videos/close-up-of-watering-a-vegetable-garden-puysekco1h",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0040-8346/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0040-8346/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 13.138125,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0040-8346/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Close-up of watering a vegetable garden · Coverr · Coverr License",
+   "q": "farmer watering plants"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-woman-picks-lettuce-on-a-farm-2718",
+   "kind": "video",
+   "title": "A woman picks lettuce on a farm",
+   "desc": "A medium shot of a woman harvesting lettuce.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-picks-lettuce-on-a-farm-uhy2z1rlrh",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-woman-picks-lettuce-on-a-farm-2718/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-woman-picks-lettuce-on-a-farm-2718/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 15.015,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-woman-picks-lettuce-on-a-farm-2718/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman picks lettuce on a farm · Coverr · Coverr License",
+   "q": "farmer spreading fertilizer"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-man-spraying-water-on-a-woman-6200",
+   "kind": "video",
+   "title": "Man spraying water on a woman",
+   "desc": "Panning shot of a man spraying water on a woman at a car wash. ",
+   "tags": "",
+   "page": "https://coverr.co/videos/man-spraying-water-on-a-woman-sddp3nyhxe",
+   "thumb": "https://cdn.coverr.co/videos/coverr-man-spraying-water-on-a-woman-6200/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-man-spraying-water-on-a-woman-6200/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 10.125,
+   "year": 2020,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-man-spraying-water-on-a-woman-6200/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Man spraying water on a woman · Coverr · Coverr License",
+   "q": "tractor spraying field"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0039-5710",
+   "kind": "video",
+   "title": "A man watering a vegetable garden",
+   "desc": "A man watering his vegetable garden with a garden hose.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-man-watering-a-vegetable-garden-kvgan9ipx7",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0039-5710/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0039-5710/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 9.801458,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0039-5710/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A man watering a vegetable garden · Coverr · Coverr License",
+   "q": "farmer watering plants"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-croft-with-mature-vegetables-4297",
+   "kind": "video",
+   "title": "A croft with mature vegetables",
+   "desc": "A mini farm with a small wooden shed.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-croft-with-mature-vegetables-y6ksobu4m2",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 14.681333,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A croft with mature vegetables · Coverr · Coverr License",
+   "q": "farmer spreading fertilizer"
+  },
+  {
+   "source": "mixkit",
+   "id": "8176",
+   "kind": "video",
+   "title": "Spraying crops",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/spraying-crops-8176/",
+   "thumb": "https://assets.mixkit.co/videos/8176/8176-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/8176/8176-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/8176/8176-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/8176/8176-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Spraying crops · Mixkit · Mixkit Free License",
+   "q": "tractor spraying"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0038-4128",
+   "kind": "video",
+   "title": "A woman pours water from a bucket",
+   "desc": "A woman pours out dirty water from a bucket on the plants.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-pours-water-from-a-bucket-dfpucowhd5",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0038-4128/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0038-4128/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 15.640625,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0038-4128/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman pours water from a bucket · Coverr · Coverr License",
+   "q": "farmer watering plants"
+  }
+ ]
+}

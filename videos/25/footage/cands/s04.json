@@ -1,0 +1,605 @@
+{
+ "shot": "s04",
+ "text": "It plays an important role in improving soil structure, helping the soil retain moisture, and making certain nutrients more available to plants.",
+ "need": "water soaking into soil, crumbly moist soil",
+ "queries": [
+  "watering soil",
+  "water drops on soil",
+  "moist soil close up"
+ ],
+ "kind": "video",
+ "items": [
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0040-8346",
+   "kind": "video",
+   "title": "Close-up of watering a vegetable garden",
+   "desc": "A close-up shot of a man watering his vegetable garden with a garden hose.",
+   "tags": "",
+   "page": "https://coverr.co/videos/close-up-of-watering-a-vegetable-garden-puysekco1h",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0040-8346/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0040-8346/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 13.138125,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0040-8346/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Close-up of watering a vegetable garden · Coverr · Coverr License",
+   "q": "watering soil"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-water-drops-falling-from-a-coconut-tree-6643",
+   "kind": "video",
+   "title": "Water drops falling from a coconut tree",
+   "desc": "Low-angle shot of water drops falling from a coconut tree. ",
+   "tags": "",
+   "page": "https://coverr.co/videos/water-drops-falling-from-a-coconut-tree-l6vvhgr9ao",
+   "thumb": "https://cdn.coverr.co/videos/coverr-water-drops-falling-from-a-coconut-tree-6643/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-water-drops-falling-from-a-coconut-tree-6643/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 19.76975,
+   "year": 2021,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-water-drops-falling-from-a-coconut-tree-6643/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Water drops falling from a coconut tree · Coverr · Coverr License",
+   "q": "water drops on soil"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0039-5710",
+   "kind": "video",
+   "title": "A man watering a vegetable garden",
+   "desc": "A man watering his vegetable garden with a garden hose.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-man-watering-a-vegetable-garden-kvgan9ipx7",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0039-5710/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0039-5710/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 9.801458,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0039-5710/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A man watering a vegetable garden · Coverr · Coverr License",
+   "q": "watering soil"
+  },
+  {
+   "source": "mixkit",
+   "id": "100910",
+   "kind": "video",
+   "title": "Water Drops Falling on Wishbone Flowers",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/water-drops-falling-on-wishbone-flowers-100910/",
+   "thumb": "https://assets.mixkit.co/videos/100910/100910-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/100910/100910-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/100910/100910-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/100910/100910-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Water Drops Falling on Wishbone Flowers · Mixkit · Mixkit Free License",
+   "q": "water drops on"
+  },
+  {
+   "source": "pixabay",
+   "id": "266644",
+   "kind": "video",
+   "title": "iceland, geyser, hot water, landmark, travel, tourists, geology, reykjanes, hot, heat, energy, red soil, tourism",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-266644/",
+   "thumb": "https://cdn.pixabay.com/video/2025/03/22/266644_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2025/03/22/266644_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 22,
+   "year": null,
+   "author": "Gylfi",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2025/03/22/266644_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 84476188
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/03/22/266644_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 37343419
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/03/22/266644_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 22803457
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "iceland, geyser, hot water, landmark, travel, tourists, geology, reykjanes, hot, heat, energy, red soil, tourism · Gylfi · Pixabay · Pixabay Content License",
+   "q": "watering soil"
+  },
+  {
+   "source": "mixkit",
+   "id": "100924",
+   "kind": "video",
+   "title": "Water Drops Falling on Flowers",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/water-drops-falling-on-flowers-100924/",
+   "thumb": "https://assets.mixkit.co/videos/100924/100924-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/100924/100924-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/100924/100924-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/100924/100924-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Water Drops Falling on Flowers · Mixkit · Mixkit Free License",
+   "q": "water drops on"
+  },
+  {
+   "source": "pixabay",
+   "id": "43637",
+   "kind": "video",
+   "title": "boots, shoes, puddle, walk, walking, rubber boots, yellow, countryside, outdoors, rain, muddy, ground, nature, soil, mud, hiking, wet, child, legs, water, dirty, reflection",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-43637/",
+   "thumb": "https://cdn.pixabay.com/video/2020/07/02/43637-436237664_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2020/07/02/43637-436237664_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 6,
+   "year": null,
+   "author": "GreenCardShow",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2020/07/02/43637-436237664_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 3800569
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/07/02/43637-436237664_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 1994358
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/07/02/43637-436237664_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 1251184
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "boots, shoes, puddle, walk, walking, rubber boots, yellow, countryside, outdoors, rain, muddy, ground, nature, soil, mud, hiking, wet, child, legs, water, dirty, reflection · GreenCardShow · Pixabay · Pixabay Content License",
+   "q": "watering soil"
+  },
+  {
+   "source": "mixkit",
+   "id": "100915",
+   "kind": "video",
+   "title": "Water Drops Bouncing on Tulips",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/water-drops-bouncing-on-tulips-100915/",
+   "thumb": "https://assets.mixkit.co/videos/100915/100915-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/100915/100915-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/100915/100915-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/100915/100915-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Water Drops Bouncing on Tulips · Mixkit · Mixkit Free License",
+   "q": "water drops on"
+  },
+  {
+   "source": "commons",
+   "id": "File:Six-spotted tiger beetle ovipositing.webm",
+   "kind": "video",
+   "title": "Six-spotted tiger beetle ovipositing",
+   "desc": "Six-spotted tiger beetle ( Cicindela sexguttata ), female, ovipositing into moist soil caught between the roots of a fallen tree. Rock Creek Park, Washington, DC, USA In this video, the original material has been stabilised.",
+   "page": "https://commons.wikimedia.org/wiki/File:Six-spotted_tiger_beetle_ovipositing.webm",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Six-spotted_tiger_beetle_ovipositing.webm/960px-Six-spotted_tiger_beetle_ovipositing.webm.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e6/Six-spotted_tiger_beetle_ovipositing.webm/Six-spotted_tiger_beetle_ovipositing.webm.240p.vp9.webm",
+   "w": 1920,
+   "h": 1080,
+   "dur": 179.446,
+   "year": 2014,
+   "author": "Katja Schulz",
+   "licence": {
+    "code": "by",
+    "name": "CC BY 2.0",
+    "url": "https://creativecommons.org/licenses/by/2.0",
+    "verdict": "credit",
+    "attr": true,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Six-spotted_tiger_beetle_ovipositing.webm",
+     "w": 1920,
+     "h": 1080,
+     "size": 26930573,
+     "mime": "video/webm",
+     "label": "original"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e6/Six-spotted_tiger_beetle_ovipositing.webm/Six-spotted_tiger_beetle_ovipositing.webm.240p.vp9.webm",
+     "w": 426,
+     "h": 240,
+     "mime": "video/webm",
+     "label": "240p.vp9.webm"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e6/Six-spotted_tiger_beetle_ovipositing.webm/Six-spotted_tiger_beetle_ovipositing.webm.360p.mpeg4.mov",
+     "w": 640,
+     "h": 360,
+     "mime": "video/quicktime",
+     "label": "360p.mpeg4.mov"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e6/Six-spotted_tiger_beetle_ovipositing.webm/Six-spotted_tiger_beetle_ovipositing.webm.480p.vp9.webm",
+     "w": 854,
+     "h": 480,
+     "mime": "video/webm",
+     "label": "480p.vp9.webm"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e6/Six-spotted_tiger_beetle_ovipositing.webm/Six-spotted_tiger_beetle_ovipositing.webm.1080p.vp9.webm",
+     "w": 1920,
+     "h": 1080,
+     "mime": "video/webm",
+     "label": "1080p.vp9.webm"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Six-spotted tiger beetle ovipositing · Katja Schulz · Wikimedia Commons · CC BY 2.0",
+   "q": "moist soil"
+  },
+  {
+   "source": "pixabay",
+   "id": "25882",
+   "kind": "video",
+   "title": "source, water, nature, soil, green, forest, zen, natural, rocks",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-25882/",
+   "thumb": "https://cdn.pixabay.com/video/2019/08/08/25882-352978502_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2019/08/08/25882-352978502_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 32,
+   "year": null,
+   "author": "Domianick",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2019/08/08/25882-352978502_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 23426855
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/08/08/25882-352978502_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 12208648
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/08/08/25882-352978502_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 7597084
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "source, water, nature, soil, green, forest, zen, natural, rocks · Domianick · Pixabay · Pixabay Content License",
+   "q": "watering soil"
+  },
+  {
+   "source": "mixkit",
+   "id": "106",
+   "kind": "video",
+   "title": "Water drops creating ripples",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/water-drops-creating-ripples-106/",
+   "thumb": "https://assets.mixkit.co/videos/106/106-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/106/106-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/106/106-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/106/106-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Water drops creating ripples · Mixkit · Mixkit Free License",
+   "q": "water drops on"
+  },
+  {
+   "source": "pixabay",
+   "id": "20283",
+   "kind": "video",
+   "title": "drain, rain, wet, hole, soil, water, drops, rainy, storm, downpour, gutter, moisture, raining, slow motion",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-20283/",
+   "thumb": "https://cdn.pixabay.com/video/2018/12/26/20283-308335653_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2018/12/26/20283-308335653_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 29,
+   "year": null,
+   "author": "ElenLackner",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2018/12/26/20283-308335653_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 20868172
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2018/12/26/20283-308335653_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 10453957
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2018/12/26/20283-308335653_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 6133525
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "drain, rain, wet, hole, soil, water, drops, rainy, storm, downpour, gutter, moisture, raining, slow motion · ElenLackner · Pixabay · Pixabay Content License",
+   "q": "watering soil"
+  },
+  {
+   "source": "pixabay",
+   "id": "21536",
+   "kind": "video",
+   "title": "ink, paint, water, acrylic, smoke, watercolor, abstract, drop, color, art, colors, painting",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-21536/",
+   "thumb": "https://cdn.pixabay.com/video/2019/02/19/21536-318978190_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2019/02/19/21536-318978190_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 60,
+   "year": null,
+   "author": "Engin_Akyurt",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2019/02/19/21536-318978190_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 145630565
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/02/19/21536-318978190_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 51960833
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/02/19/21536-318978190_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 31476396
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "ink, paint, water, acrylic, smoke, watercolor, abstract, drop, color, art, colors, painting · Engin_Akyurt · Pixabay · Pixabay Content License",
+   "q": "water drops on soil"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-couple-with-serious-expressions-on-their-faces-is-on-a-bed-in-a-field-5859",
+   "kind": "video",
+   "title": "A couple with serious expressions on their faces is on a bed in a field",
+   "desc": "Close-up shot of red-head girl sitting on a bed, with her male partner lying on her lap.\\n",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-couple-with-serious-expressions-on-their-faces-is-on-a-bed-in-a-field-2hgacgzke4",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-couple-with-serious-expressions-on-their-faces-is-on-a-bed-in-a-field-5859/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-couple-with-serious-expressions-on-their-faces-is-on-a-bed-in-a-field-5859/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 10.802458,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-couple-with-serious-expressions-on-their-faces-is-on-a-bed-in-a-field-5859/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A couple with serious expressions on their faces is on a bed in a field · Coverr · Coverr License",
+   "q": "moist soil close up"
+  }
+ ]
+}

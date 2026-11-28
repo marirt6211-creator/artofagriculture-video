@@ -1,0 +1,537 @@
+{
+ "clips": {
+  "s01a": {
+   "file": "v25/footage/s01a.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 8.008,
+   "fps": 23.976,
+   "in": 0,
+   "out": 8,
+   "audio": false,
+   "focus": [
+    0.427,
+    0.5
+   ],
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0040-8346",
+   "title": "Close-up of watering a vegetable garden",
+   "page": "https://coverr.co/videos/close-up-of-watering-a-vegetable-garden-puysekco1h",
+   "author": "",
+   "year": 2022,
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Close-up of watering a vegetable garden · Coverr · Coverr License",
+   "shot": "s01"
+  },
+  "s02a": {
+   "file": "v25/footage/s02a.mp4",
+   "kind": "video",
+   "w": 2050,
+   "h": 1080,
+   "dur": 7.007,
+   "fps": 23.976,
+   "in": 0,
+   "out": 7,
+   "audio": false,
+   "focus": [
+    0.521,
+    0.5
+   ],
+   "source": "coverr",
+   "id": "coverr-grabbing-soil-4313",
+   "title": "Grabbing soil",
+   "page": "https://coverr.co/videos/grabbing-soil-bafkoypmb4",
+   "author": "",
+   "year": 2021,
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Grabbing soil · Coverr · Coverr License",
+   "shot": "s02"
+  },
+  "s03a": {
+   "file": "v25/footage/s03a.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 8.008,
+   "fps": 23.976,
+   "in": 2,
+   "out": 10,
+   "audio": false,
+   "focus": [
+    0.542,
+    0.5
+   ],
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0037-7179",
+   "title": "A woman throws organic waste on a pile of manure",
+   "page": "https://coverr.co/videos/a-woman-throws-organic-waste-on-a-pile-of-manure-illadlxjal",
+   "author": "",
+   "year": 2022,
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "A woman throws organic waste on a pile of manure · Coverr · Coverr License",
+   "shot": "s03"
+  },
+  "s03b": {
+   "file": "v25/footage/s03b.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 7.007,
+   "fps": 23.976,
+   "in": 0,
+   "out": 7,
+   "audio": false,
+   "focus": [
+    0.156,
+    0.5
+   ],
+   "source": "coverr",
+   "id": "coverr-dried-leaf-2618",
+   "title": "Dried leaf",
+   "page": "https://coverr.co/videos/dried-leaf-urqodulopv",
+   "author": "",
+   "year": 2021,
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Dried leaf · Coverr · Coverr License",
+   "shot": "s03"
+  },
+  "s04a": {
+   "file": "v25/footage/s04a.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 7,
+   "fps": 30,
+   "in": 3,
+   "out": 10,
+   "audio": false,
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "20283",
+   "title": "drain, rain, wet, hole, soil, water, drops, rainy, storm, downpour, gutter, moisture, raining, slow motion",
+   "page": "https://pixabay.com/videos/id-20283/",
+   "author": "ElenLackner",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "drain, rain, wet, hole, soil, water, drops, rainy, storm, downpour, gutter, moisture, raining, slow motion · ElenLackner · Pixabay · Pixabay Content License",
+   "shot": "s04"
+  },
+  "s05a": {
+   "file": "v25/footage/s05a.mp4",
+   "kind": "video",
+   "w": 1080,
+   "h": 1920,
+   "dur": 7,
+   "fps": 30,
+   "in": 0,
+   "out": 7,
+   "audio": false,
+   "focus": [
+    0.5,
+    0.357
+   ],
+   "source": "pixabay",
+   "id": "339922",
+   "title": "nature, sustainability, eco, green, seedling, plant, environment, earth, growth, ecology, hands, soil, organic, bioluminescent, roots, conservation, climate, clean energy, hope, future, garden, natural, macro, life, renewable",
+   "page": "https://pixabay.com/videos/id-339922/",
+   "author": "haruudu",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "nature, sustainability, eco, green, seedling, plant, environment, earth, growth, ecology, hands, soil, organic, bioluminescent, roots, conservation, climate, clean energy, hope, future, garden, natural, macro, life, renewable · haruudu · Pixabay · Pixabay Content License",
+   "shot": "s05"
+  },
+  "s05b": {
+   "file": "v25/footage/s05b.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 7.007,
+   "fps": 23.976,
+   "in": 4,
+   "out": 11,
+   "audio": false,
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "27626",
+   "title": "biology, worm, earthworm, insect, soil, invertebrates, compost, nature, earth, fertilizer, organic, ecological, humus, trash, recycle",
+   "page": "https://pixabay.com/videos/id-27626/",
+   "author": "padrinan",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "biology, worm, earthworm, insect, soil, invertebrates, compost, nature, earth, fertilizer, organic, ecological, humus, trash, recycle · padrinan · Pixabay · Pixabay Content License",
+   "shot": "s05"
+  },
+  "s06a": {
+   "file": "v25/footage/s06a.jpg",
+   "kind": "image",
+   "w": 3000,
+   "h": 2000,
+   "focus": [
+    0.5,
+    0.445
+   ],
+   "source": "unsplash",
+   "id": "guKZhjmfero",
+   "title": "black powder on white surface",
+   "page": "https://unsplash.com/photos/black-powder-on-white-surface-guKZhjmfero",
+   "author": "Mockupo",
+   "year": 2020,
+   "licence": {
+    "code": "unsplash",
+    "name": "Unsplash License",
+    "url": "https://unsplash.com/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "black powder on white surface · Mockupo · Unsplash · Unsplash License",
+   "shot": "s06"
+  },
+  "s06b": {
+   "file": "v25/footage/s06b.jpg",
+   "kind": "image",
+   "w": 3000,
+   "h": 3000,
+   "focus": [
+    0.5,
+    0.501
+   ],
+   "source": "unsplash",
+   "id": "5-LBYIucVGM",
+   "title": "Pile of small, light brown granular material on black",
+   "page": "https://unsplash.com/photos/pile-of-small-light-brown-granular-material-on-black-5-LBYIucVGM",
+   "author": "Zemos",
+   "year": 2025,
+   "licence": {
+    "code": "unsplash",
+    "name": "Unsplash License",
+    "url": "https://unsplash.com/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Pile of small, light brown granular material on black · Zemos · Unsplash · Unsplash License",
+   "shot": "s06"
+  },
+  "s07a": {
+   "file": "v25/footage/s07a.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 6.84,
+   "fps": 25,
+   "in": 0,
+   "out": 7,
+   "audio": false,
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "10176",
+   "title": "tractor in field spraying fertilizer, tractor, bulldozer, machine, car, field, meadow, fertilizer, manure, agricultural, motor, farm, fazenda, work, spray, atomization, the soil, land, harvest, furrow, sowing, agriculture, agronomy, landscape, rural, rustic, village, mechanism, farmer, the forest",
+   "page": "https://pixabay.com/videos/id-10176/",
+   "author": "chayka1270",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "tractor in field spraying fertilizer, tractor, bulldozer, machine, car, field, meadow, fertilizer, manure, agricultural, motor, farm, fazenda, work, spray, atomization, the soil, land, harvest, furrow, sowing, agriculture, agronomy, landscape, rural, rustic, village, mechanism, farmer, the forest · chayka1270 · Pixabay · Pixabay Content License",
+   "shot": "s07"
+  },
+  "s07b": {
+   "file": "v25/footage/s07b.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 7.007,
+   "fps": 29.97,
+   "in": 0,
+   "out": 7,
+   "audio": false,
+   "focus": [
+    0.646,
+    0.5
+   ],
+   "source": "mixkit",
+   "id": "4739",
+   "title": "Farmer spreading pesticide on a tree",
+   "page": "https://mixkit.co/free-stock-video/farmer-spreading-pesticide-on-a-tree-4739/",
+   "author": "",
+   "year": null,
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Farmer spreading pesticide on a tree · Mixkit · Mixkit Free License",
+   "shot": "s07"
+  },
+  "s08a": {
+   "file": "v25/footage/s08a.jpg",
+   "kind": "image",
+   "w": 1280,
+   "h": 722,
+   "focus": [
+    0.344,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "5201380",
+   "title": "fertilizer, white, nature, balls, pearls, agriculture, garden, agricultural engineering, nitrogen, grow, nourishment, food supply, haber bosch process, Eppingen, Germany, Baden-Württemberg",
+   "page": "https://pixabay.com/photos/fertilizer-white-balls-pearls-5201380/",
+   "author": "fabersam",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "fertilizer, white, nature, balls, pearls, agriculture, garden, agricultural engineering, nitrogen, grow, nourishment, food supply, haber bosch process, Eppingen, Germany, Baden-Württemberg · fabersam · Pixabay · Pixabay Content License",
+   "shot": "s08"
+  },
+  "s09a": {
+   "file": "v25/footage/s09a.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 7,
+   "fps": 25,
+   "in": 0,
+   "out": 7,
+   "audio": false,
+   "focus": [
+    0.438,
+    0.5
+   ],
+   "source": "pixabay",
+   "id": "364401",
+   "title": "agriculture, slurry, fertilization, fertilizer, field, tractor, farmer, tillage, combine harvester",
+   "page": "https://pixabay.com/videos/id-364401/",
+   "author": "Thomas-Ritter",
+   "year": null,
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "agriculture, slurry, fertilization, fertilizer, field, tractor, farmer, tillage, combine harvester · Thomas-Ritter · Pixabay · Pixabay Content License",
+   "shot": "s09"
+  },
+  "s09b": {
+   "file": "v25/footage/s09b.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 8,
+   "fps": 30,
+   "in": 0,
+   "out": 8,
+   "audio": false,
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "source": "mixkit",
+   "id": "47540",
+   "title": "Time lapse of seedlings growing ",
+   "page": "https://mixkit.co/free-stock-video/time-lapse-of-seedlings-growing-47540/",
+   "author": "",
+   "year": null,
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Time lapse of seedlings growing  · Mixkit · Mixkit Free License",
+   "shot": "s09"
+  },
+  "s10a": {
+   "file": "v25/footage/s10a.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 6,
+   "fps": 25,
+   "in": 0,
+   "out": 6,
+   "audio": false,
+   "focus": [
+    0.396,
+    0.5
+   ],
+   "source": "mixkit",
+   "id": "20633",
+   "title": "Rain falling across healthy plants",
+   "page": "https://mixkit.co/free-stock-video/rain-falling-across-healthy-plants-20633/",
+   "author": "",
+   "year": null,
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Rain falling across healthy plants · Mixkit · Mixkit Free License",
+   "shot": "s10"
+  },
+  "s10b": {
+   "file": "v25/footage/s10b.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 6,
+   "fps": 60,
+   "in": 0,
+   "out": 6,
+   "audio": false,
+   "focus": [
+    0.26,
+    0.5
+   ],
+   "source": "mixkit",
+   "id": "9842",
+   "title": "Green fields and trees on a plateau",
+   "page": "https://mixkit.co/free-stock-video/green-fields-and-trees-on-a-plateau-9842/",
+   "author": "",
+   "year": null,
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Green fields and trees on a plateau · Mixkit · Mixkit Free License",
+   "shot": "s10"
+  }
+ },
+ "shots": {
+  "s01": {
+   "t0": null,
+   "t1": null,
+   "text": "Have you ever wondered why some soils struggle to grow healthy plants, even when they receive enough water and fertilizer?"
+  },
+  "s02": {
+   "t0": null,
+   "t1": null,
+   "text": "One substance that can help improve soil conditions is humic acid."
+  },
+  "s03": {
+   "t0": null,
+   "t1": null,
+   "text": "Humic acid is an organic substance formed through the long-term decomposition of plant and animal materials in the soil."
+  },
+  "s04": {
+   "t0": null,
+   "t1": null,
+   "text": "It plays an important role in improving soil structure, helping the soil retain moisture, and making certain nutrients more available to plants."
+  },
+  "s05": {
+   "t0": null,
+   "t1": null,
+   "text": "It can also support root development and increase beneficial biological activity in the soil."
+  },
+  "s06": {
+   "t0": null,
+   "t1": null,
+   "text": "Humic acid is commonly available in three forms: liquid, powder, and granules."
+  },
+  "s07": {
+   "t0": null,
+   "t1": null,
+   "text": "Each form has its own application method, so the right amount depends on the product concentration, plant type, and soil conditions."
+  },
+  "s08": {
+   "t0": null,
+   "t1": null,
+   "text": "But remember, humic acid is not a replacement for NPK fertilizers."
+  },
+  "s09": {
+   "t0": null,
+   "t1": null,
+   "text": "It works alongside them to create better conditions for plant growth."
+  },
+  "s10": {
+   "t0": null,
+   "t1": null,
+   "text": "So, healthy plants start with healthy soil!"
+  }
+ }
+}

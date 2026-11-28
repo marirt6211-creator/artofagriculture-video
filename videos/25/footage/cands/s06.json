@@ -1,0 +1,762 @@
+{
+ "shot": "s06",
+ "text": "Humic acid is commonly available in three forms: liquid, powder, and granules.",
+ "need": "pouring liquid fertilizer, powder, granules",
+ "queries": [
+  "fertilizer granules",
+  "pouring liquid fertilizer",
+  "fertilizer powder"
+ ],
+ "kind": "video",
+ "items": [
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0037-7179",
+   "kind": "video",
+   "title": "A woman throws organic waste on a pile of manure",
+   "desc": "A couple makes an organic fertilizer for their garden.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-throws-organic-waste-on-a-pile-of-manure-illadlxjal",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0037-7179/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0037-7179/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 22.022,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0037-7179/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman throws organic waste on a pile of manure · Coverr · Coverr License",
+   "q": "fertilizer granules"
+  },
+  {
+   "source": "pixabay",
+   "id": "4315",
+   "kind": "video",
+   "title": "milk, bottle, pouring, organic milk, almond milk, drink, white, glass, dairy, calcium, product, fresh, liquid, natural, indoors, ingredient, breakfast",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-4315/",
+   "thumb": "https://cdn.pixabay.com/video/2016/08/08/4315-178218581_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2016/08/08/4315-178218581_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 27,
+   "year": null,
+   "author": "bottlein",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2016/08/08/4315-178218581_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 7808249
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2016/08/08/4315-178218581_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 3401679
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2016/08/08/4315-178218581_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 1984726
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "milk, bottle, pouring, organic milk, almond milk, drink, white, glass, dairy, calcium, product, fresh, liquid, natural, indoors, ingredient, breakfast · bottlein · Pixabay · Pixabay Content License",
+   "q": "pouring liquid fertilizer"
+  },
+  {
+   "source": "pixabay",
+   "id": "364401",
+   "kind": "video",
+   "title": "agriculture, slurry, fertilization, fertilizer, field, tractor, farmer, tillage, combine harvester",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-364401/",
+   "thumb": "https://cdn.pixabay.com/video/2026/07/16/364401_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2026/07/16/364401_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 9,
+   "year": null,
+   "author": "Thomas-Ritter",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2026/07/16/364401_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 73540793
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/07/16/364401_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 32452340
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/07/16/364401_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 19953583
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "agriculture, slurry, fertilization, fertilizer, field, tractor, farmer, tillage, combine harvester · Thomas-Ritter · Pixabay · Pixabay Content License",
+   "q": "fertilizer granules"
+  },
+  {
+   "source": "pixabay",
+   "id": "23955",
+   "kind": "video",
+   "title": "tea, kettle, hot, pour, glass, drink, liquid, pouring, water, natural",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-23955/",
+   "thumb": "https://cdn.pixabay.com/video/2019/05/25/23955-338863711_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2019/05/25/23955-338863711_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 24,
+   "year": null,
+   "author": "moshehar",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2019/05/25/23955-338863711_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 12603222
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/05/25/23955-338863711_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 6016014
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/05/25/23955-338863711_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 3352356
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "tea, kettle, hot, pour, glass, drink, liquid, pouring, water, natural · moshehar · Pixabay · Pixabay Content License",
+   "q": "pouring liquid fertilizer"
+  },
+  {
+   "source": "pixabay",
+   "id": "27636",
+   "kind": "video",
+   "title": "biology, worm, earthworm, insect, soil, invertebrates, compost, nature, earth, fertilizer, organic, ecological, humus, trash, recycle",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-27636/",
+   "thumb": "https://cdn.pixabay.com/video/2019/10/07/27636-364947582_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2019/10/07/27636-364947582_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 20,
+   "year": null,
+   "author": "padrinan",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2019/10/07/27636-364947582_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 52460296
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/10/07/27636-364947582_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 27813964
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/10/07/27636-364947582_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 13781573
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "biology, worm, earthworm, insect, soil, invertebrates, compost, nature, earth, fertilizer, organic, ecological, humus, trash, recycle · padrinan · Pixabay · Pixabay Content License",
+   "q": "fertilizer granules"
+  },
+  {
+   "source": "pixabay",
+   "id": "257265",
+   "kind": "video",
+   "title": "pouring vine, vine, pouring, drink, glass, pour, liquid, beverage, alcohol, bottle, red, closeup, event, festival, celebration, banquet, lifestyle, bokeh",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-257265/",
+   "thumb": "https://cdn.pixabay.com/video/2025/02/09/257265_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2025/02/09/257265_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 19,
+   "year": null,
+   "author": "choxyltd",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2025/02/09/257265_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 12907191
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/02/09/257265_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 5302714
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/02/09/257265_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 3486162
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "pouring vine, vine, pouring, drink, glass, pour, liquid, beverage, alcohol, bottle, red, closeup, event, festival, celebration, banquet, lifestyle, bokeh · choxyltd · Pixabay · Pixabay Content License",
+   "q": "pouring liquid fertilizer"
+  },
+  {
+   "source": "pixabay",
+   "id": "188934",
+   "kind": "video",
+   "title": "ai generated, powder, sand, structure, texture, pattern, abstract, waves, colorful",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-188934/",
+   "thumb": "https://cdn.pixabay.com/video/2023/11/13/188934-884185297_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2023/11/13/188934-884185297_tiny.mp4",
+   "w": 1944,
+   "h": 1080,
+   "dur": 8,
+   "year": null,
+   "author": "MiraMorph",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2023/11/13/188934-884185297_large.mp4",
+     "w": 1944,
+     "h": 1080,
+     "size": 4718684
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2023/11/13/188934-884185297_medium.mp4",
+     "w": 1296,
+     "h": 720,
+     "size": 2458591
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2023/11/13/188934-884185297_small.mp4",
+     "w": 960,
+     "h": 533,
+     "size": 1505405
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "ai generated, powder, sand, structure, texture, pattern, abstract, waves, colorful · MiraMorph · Pixabay · Pixabay Content License",
+   "q": "fertilizer powder"
+  },
+  {
+   "source": "pixabay",
+   "id": "43044",
+   "kind": "video",
+   "title": "tractor, farmer, agriculture, field, rural, machine, farmhouse, fertilizer, pesticide, farming, vehicle, agricultural, countryside, country, landscape, equipment, plow",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-43044/",
+   "thumb": "https://cdn.pixabay.com/video/2020/06/24/43044-434334169_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2020/06/24/43044-434334169_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 18,
+   "year": null,
+   "author": "xat-ch",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2020/06/24/43044-434334169_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 48061606
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/06/24/43044-434334169_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 26341408
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/06/24/43044-434334169_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 11506146
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "tractor, farmer, agriculture, field, rural, machine, farmhouse, fertilizer, pesticide, farming, vehicle, agricultural, countryside, country, landscape, equipment, plow · xat-ch · Pixabay · Pixabay Content License",
+   "q": "fertilizer granules"
+  },
+  {
+   "source": "pixabay",
+   "id": "71745",
+   "kind": "video",
+   "title": "cake, pour, pouring, artist, art, sauce, colour, liquid, food",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-71745/",
+   "thumb": "https://cdn.pixabay.com/video/2021/04/21/71745-539969566_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2021/04/21/71745-539969566_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 10,
+   "year": null,
+   "author": "mds524680",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2021/04/21/71745-539969566_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 8263474
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/04/21/71745-539969566_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 3913745
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/04/21/71745-539969566_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 2527245
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "cake, pour, pouring, artist, art, sauce, colour, liquid, food · mds524680 · Pixabay · Pixabay Content License",
+   "q": "pouring liquid fertilizer"
+  },
+  {
+   "source": "pixabay",
+   "id": "13666",
+   "kind": "video",
+   "title": "okanagan, aerial, winter wonderland, landscape, scenic, powder, snow, conifer, forest",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-13666/",
+   "thumb": "https://cdn.pixabay.com/video/2018/01/02/13666-250154004_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2018/01/02/13666-250154004_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 30,
+   "year": null,
+   "author": "extemporalist",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2018/01/02/13666-250154004_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 68589700
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2018/01/02/13666-250154004_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 43230679
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2018/01/02/13666-250154004_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 19809871
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "okanagan, aerial, winter wonderland, landscape, scenic, powder, snow, conifer, forest · extemporalist · Pixabay · Pixabay Content License",
+   "q": "fertilizer powder"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-pouring-water-into-a-glass-749",
+   "kind": "video",
+   "title": "Pouring water into a glass",
+   "desc": "Macro shooting of pouring water into a transparent glass.",
+   "tags": "",
+   "page": "https://coverr.co/videos/pouring-water-into-a-glass-eshlhqggo8",
+   "thumb": "https://cdn.coverr.co/videos/coverr-pouring-water-into-a-glass-749/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-pouring-water-into-a-glass-749/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 17.125,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-pouring-water-into-a-glass-749/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Pouring water into a glass · Coverr · Coverr License",
+   "q": "pouring liquid fertilizer"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-croft-with-mature-vegetables-4297",
+   "kind": "video",
+   "title": "A croft with mature vegetables",
+   "desc": "A mini farm with a small wooden shed.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-croft-with-mature-vegetables-y6ksobu4m2",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 14.681333,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A croft with mature vegetables · Coverr · Coverr License",
+   "q": "fertilizer granules"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-pouring-water-4814",
+   "kind": "video",
+   "title": "Pouring water",
+   "desc": "Extreme close-up shot of water pouring into a transparent glass mug.",
+   "tags": "",
+   "page": "https://coverr.co/videos/pouring-water-5gy4mixr3x",
+   "thumb": "https://cdn.coverr.co/videos/coverr-pouring-water-4814/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-pouring-water-4814/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 42.416667,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-pouring-water-4814/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Pouring water · Coverr · Coverr License",
+   "q": "pouring liquid fertilizer"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0036-9423",
+   "kind": "video",
+   "title": "Composting",
+   "desc": "A woman brings a bucket with organic waste to a pile of manure.",
+   "tags": "",
+   "page": "https://coverr.co/videos/composting-gswrel8zm3",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0036-9423/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0036-9423/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 23.565208,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0036-9423/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Composting · Coverr · Coverr License",
+   "q": "fertilizer granules"
+  },
+  {
+   "source": "mixkit",
+   "id": "101738",
+   "kind": "video",
+   "title": "Psychedelic Liquid Marble Background",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/psychedelic-liquid-marble-background-101738/",
+   "thumb": "https://assets.mixkit.co/videos/101738/101738-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/101738/101738-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/101738/101738-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/101738/101738-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Psychedelic Liquid Marble Background · Mixkit · Mixkit Free License",
+   "q": "pouring liquid"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0038-4128",
+   "kind": "video",
+   "title": "A woman pours water from a bucket",
+   "desc": "A woman pours out dirty water from a bucket on the plants.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-pours-water-from-a-bucket-dfpucowhd5",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0038-4128/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0038-4128/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 15.640625,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0038-4128/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman pours water from a bucket · Coverr · Coverr License",
+   "q": "fertilizer powder"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-irrigation-equipment-on-the-farming-field-622",
+   "kind": "video",
+   "title": "Irrigation equipment on the farming field",
+   "desc": "Aerial shot of the irrigation equipment on the farming field. ",
+   "tags": "",
+   "page": "https://coverr.co/videos/irrigation-equipment-on-the-farming-field-4knxgyrc7h",
+   "thumb": "https://cdn.coverr.co/videos/coverr-irrigation-equipment-on-the-farming-field-622/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-irrigation-equipment-on-the-farming-field-622/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 14.889875,
+   "year": 2020,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-irrigation-equipment-on-the-farming-field-622/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Irrigation equipment on the farming field · Coverr · Coverr License",
+   "q": "fertilizer granules"
+  },
+  {
+   "source": "mixkit",
+   "id": "101739",
+   "kind": "video",
+   "title": "Bright Neon Psychedelic Liquid",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/bright-neon-psychedelic-liquid-101739/",
+   "thumb": "https://assets.mixkit.co/videos/101739/101739-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/101739/101739-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/101739/101739-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/101739/101739-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Bright Neon Psychedelic Liquid · Mixkit · Mixkit Free License",
+   "q": "pouring liquid"
+  }
+ ]
+}

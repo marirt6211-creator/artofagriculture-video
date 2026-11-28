@@ -1,0 +1,197 @@
+{
+ "video": "25",
+ "orient": "vertical",
+ "note": "For each shot write need (what must literally be on screen for this sentence), 2-4 English queries (concrete first, then broader), kind (video|image), look (modern = today's colour HD footage, archive = old film and historical pictures, any), min (shortest side in px, optional) and avoid. Then: footage find <NN>.",
+ "shots": [
+  {
+   "id": "s01",
+   "line": 1,
+   "text": "Have you ever wondered why some soils struggle to grow healthy plants, even when they receive enough water and fertilizer?",
+   "t0": null,
+   "t1": null,
+   "dur": null,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "need": "dry cracked soil with wilting struggling crop",
+   "queries": [
+    "dry cracked soil plants",
+    "wilting plants dry field",
+    "drought farmland cracked earth"
+   ],
+   "avoid": "",
+   "picks": []
+  },
+  {
+   "id": "s02",
+   "line": 2,
+   "text": "One substance that can help improve soil conditions is humic acid.",
+   "t0": null,
+   "t1": null,
+   "dur": null,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "need": "hands holding dark rich fertile soil",
+   "queries": [
+    "hands holding soil",
+    "farmer hands dark soil",
+    "fertile black soil"
+   ],
+   "avoid": "",
+   "picks": []
+  },
+  {
+   "id": "s03",
+   "line": 3,
+   "text": "Humic acid is an organic substance formed through the long-term decomposition of plant and animal materials in the soil.",
+   "t0": null,
+   "t1": null,
+   "dur": null,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "need": "fallen leaves decomposing on forest floor, compost",
+   "queries": [
+    "decomposing leaves forest floor",
+    "compost pile",
+    "rotting leaves soil"
+   ],
+   "avoid": "",
+   "picks": []
+  },
+  {
+   "id": "s04",
+   "line": 4,
+   "text": "It plays an important role in improving soil structure, helping the soil retain moisture, and making certain nutrients more available to plants.",
+   "t0": null,
+   "t1": null,
+   "dur": null,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "need": "water soaking into soil, crumbly moist soil",
+   "queries": [
+    "watering soil",
+    "water drops on soil",
+    "moist soil close up"
+   ],
+   "avoid": "",
+   "picks": []
+  },
+  {
+   "id": "s05",
+   "line": 5,
+   "text": "It can also support root development and increase beneficial biological activity in the soil.",
+   "t0": null,
+   "t1": null,
+   "dur": null,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "need": "plant roots and earthworms in soil",
+   "queries": [
+    "plant roots soil",
+    "earthworm in soil",
+    "seedling roots"
+   ],
+   "avoid": "",
+   "picks": []
+  },
+  {
+   "id": "s06",
+   "line": 6,
+   "text": "Humic acid is commonly available in three forms: liquid, powder, and granules.",
+   "t0": null,
+   "t1": null,
+   "dur": null,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "need": "pouring liquid fertilizer, powder, granules",
+   "queries": [
+    "fertilizer granules",
+    "pouring liquid fertilizer",
+    "fertilizer powder"
+   ],
+   "avoid": "",
+   "picks": []
+  },
+  {
+   "id": "s07",
+   "line": 7,
+   "text": "Each form has its own application method, so the right amount depends on the product concentration, plant type, and soil conditions.",
+   "t0": null,
+   "t1": null,
+   "dur": null,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "need": "farmer applying fertilizer to field / sprayer",
+   "queries": [
+    "farmer spreading fertilizer",
+    "tractor spraying field",
+    "farmer watering plants"
+   ],
+   "avoid": "",
+   "picks": []
+  },
+  {
+   "id": "s08",
+   "line": 8,
+   "text": "But remember, humic acid is not a replacement for NPK fertilizers.",
+   "t0": null,
+   "t1": null,
+   "dur": null,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "need": "NPK fertilizer granules spread on field",
+   "queries": [
+    "fertilizer pellets hand",
+    "fertilizer spreading field",
+    "granular fertilizer"
+   ],
+   "avoid": "",
+   "picks": []
+  },
+  {
+   "id": "s09",
+   "line": 9,
+   "text": "It works alongside them to create better conditions for plant growth.",
+   "t0": null,
+   "t1": null,
+   "dur": null,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "need": "seedlings growing in fertile soil",
+   "queries": [
+    "seedling growing soil",
+    "young plants growing field",
+    "sprout timelapse"
+   ],
+   "avoid": "",
+   "picks": []
+  },
+  {
+   "id": "s10",
+   "line": 10,
+   "text": "So, healthy plants start with healthy soil!",
+   "t0": null,
+   "t1": null,
+   "dur": null,
+   "clips": 1,
+   "kind": "video",
+   "look": "modern",
+   "need": "lush green healthy crop field",
+   "queries": [
+    "green crop field",
+    "lush vegetable garden",
+    "healthy plants field sunlight"
+   ],
+   "avoid": "",
+   "picks": []
+  }
+ ]
+}

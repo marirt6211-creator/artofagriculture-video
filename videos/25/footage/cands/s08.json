@@ -1,0 +1,713 @@
+{
+ "shot": "s08",
+ "text": "But remember, humic acid is not a replacement for NPK fertilizers.",
+ "need": "NPK fertilizer granules spread on field",
+ "queries": [
+  "fertilizer pellets hand",
+  "fertilizer spreading field",
+  "granular fertilizer"
+ ],
+ "kind": "video",
+ "items": [
+  {
+   "source": "coverr",
+   "id": "coverr-drone-pilot-at-controller-close-up",
+   "kind": "video",
+   "title": "Close-Up of a Young Woman Preparing a VR Headset in the Forest",
+   "desc": "A close-up shot of a woman's hands connecting a cable to a virtual reality headset. She is standing outdoors in a forest environment. After setting up the headset, she puts in on.",
+   "tags": "",
+   "page": "https://coverr.co/videos/drone-pilot-at-controller-close-up",
+   "thumb": "https://cdn.coverr.co/videos/coverr-drone-pilot-at-controller-close-up/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-drone-pilot-at-controller-close-up/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 19.36,
+   "year": 2024,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-drone-pilot-at-controller-close-up/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Close-Up of a Young Woman Preparing a VR Headset in the Forest · Coverr · Coverr License",
+   "q": "fertilizer pellets hand"
+  },
+  {
+   "source": "pixabay",
+   "id": "364401",
+   "kind": "video",
+   "title": "agriculture, slurry, fertilization, fertilizer, field, tractor, farmer, tillage, combine harvester",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-364401/",
+   "thumb": "https://cdn.pixabay.com/video/2026/07/16/364401_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2026/07/16/364401_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 9,
+   "year": null,
+   "author": "Thomas-Ritter",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2026/07/16/364401_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 73540793
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/07/16/364401_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 32452340
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/07/16/364401_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 19953583
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "agriculture, slurry, fertilization, fertilizer, field, tractor, farmer, tillage, combine harvester · Thomas-Ritter · Pixabay · Pixabay Content License",
+   "q": "fertilizer spreading field"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0037-7179",
+   "kind": "video",
+   "title": "A woman throws organic waste on a pile of manure",
+   "desc": "A couple makes an organic fertilizer for their garden.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-throws-organic-waste-on-a-pile-of-manure-illadlxjal",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0037-7179/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0037-7179/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 22.022,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0037-7179/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman throws organic waste on a pile of manure · Coverr · Coverr License",
+   "q": "granular fertilizer"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-close-up-of-a-coffee-machine-3001",
+   "kind": "video",
+   "title": "Close-Up of a Coffee Machine ",
+   "desc": "A man’s hand puts the coffee capsule in the coffee machine.\\n\\nCoffee machine, coffee capsule, closeup, man, hand, coffee, coffee break, espresso",
+   "tags": "",
+   "page": "https://coverr.co/videos/close-up-of-a-coffee-machine",
+   "thumb": "https://cdn.coverr.co/videos/coverr-close-up-of-a-coffee-machine-3001/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-close-up-of-a-coffee-machine-3001/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 12.68,
+   "year": 2023,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-close-up-of-a-coffee-machine-3001/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Close-Up of a Coffee Machine  · Coverr · Coverr License",
+   "q": "fertilizer pellets hand"
+  },
+  {
+   "source": "pixabay",
+   "id": "43044",
+   "kind": "video",
+   "title": "tractor, farmer, agriculture, field, rural, machine, farmhouse, fertilizer, pesticide, farming, vehicle, agricultural, countryside, country, landscape, equipment, plow",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-43044/",
+   "thumb": "https://cdn.pixabay.com/video/2020/06/24/43044-434334169_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2020/06/24/43044-434334169_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 18,
+   "year": null,
+   "author": "xat-ch",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2020/06/24/43044-434334169_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 48061606
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/06/24/43044-434334169_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 26341408
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/06/24/43044-434334169_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 11506146
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "tractor, farmer, agriculture, field, rural, machine, farmhouse, fertilizer, pesticide, farming, vehicle, agricultural, countryside, country, landscape, equipment, plow · xat-ch · Pixabay · Pixabay Content License",
+   "q": "fertilizer spreading field"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-woman-shows-harvested-peas-8954",
+   "kind": "video",
+   "title": "A woman shows harvested peas",
+   "desc": "A close-up shot of a woman’s hand as she shows freshly picked green peas.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-shows-harvested-peas-spfj1r5pcz",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-woman-shows-harvested-peas-8954/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-woman-shows-harvested-peas-8954/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 14.055708,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-woman-shows-harvested-peas-8954/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman shows harvested peas · Coverr · Coverr License",
+   "q": "fertilizer pellets hand"
+  },
+  {
+   "source": "pixabay",
+   "id": "203923",
+   "kind": "video",
+   "title": "grass, field, wind, flowers, nature",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-203923/",
+   "thumb": "https://cdn.pixabay.com/video/2024/03/12/203923-922675870_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2024/03/12/203923-922675870_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 21,
+   "year": null,
+   "author": "RuslanSikunov",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2024/03/12/203923-922675870_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 15960537
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2024/03/12/203923-922675870_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 8267509
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2024/03/12/203923-922675870_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 5046668
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "grass, field, wind, flowers, nature · RuslanSikunov · Pixabay · Pixabay Content License",
+   "q": "fertilizer spreading field"
+  },
+  {
+   "source": "pixabay",
+   "id": "27636",
+   "kind": "video",
+   "title": "biology, worm, earthworm, insect, soil, invertebrates, compost, nature, earth, fertilizer, organic, ecological, humus, trash, recycle",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-27636/",
+   "thumb": "https://cdn.pixabay.com/video/2019/10/07/27636-364947582_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2019/10/07/27636-364947582_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 20,
+   "year": null,
+   "author": "padrinan",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2019/10/07/27636-364947582_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 52460296
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/10/07/27636-364947582_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 27813964
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/10/07/27636-364947582_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 13781573
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "biology, worm, earthworm, insect, soil, invertebrates, compost, nature, earth, fertilizer, organic, ecological, humus, trash, recycle · padrinan · Pixabay · Pixabay Content License",
+   "q": "granular fertilizer"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-close-up-of-the-airpot-coffee-carafe-5294",
+   "kind": "video",
+   "title": "Close-Up of an Airpot (Coffee Dispenser)",
+   "desc": "Close-up of a tattooed hand holding a coffee cup while the coffee is being poured from the Airpot coffee dispenser.",
+   "tags": "",
+   "page": "https://coverr.co/videos/close-up-of-an-airpot-coffee-dispenser-c8gyim6tzp",
+   "thumb": "https://cdn.coverr.co/videos/coverr-close-up-of-the-airpot-coffee-carafe-5294/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-close-up-of-the-airpot-coffee-carafe-5294/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 17.416667,
+   "year": 2023,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-close-up-of-the-airpot-coffee-carafe-5294/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Close-Up of an Airpot (Coffee Dispenser) · Coverr · Coverr License",
+   "q": "fertilizer pellets hand"
+  },
+  {
+   "source": "pixabay",
+   "id": "182517",
+   "kind": "video",
+   "title": "cosmos, flowers, wind, field, meadow, autumn, spring",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-182517/",
+   "thumb": "https://cdn.pixabay.com/video/2023/09/27/182517-868916307_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2023/09/27/182517-868916307_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 28,
+   "year": null,
+   "author": "KIMDAEJEUNG",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2023/09/27/182517-868916307_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 67362276
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2023/09/27/182517-868916307_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 38702078
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2023/09/27/182517-868916307_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 21102093
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "cosmos, flowers, wind, field, meadow, autumn, spring · KIMDAEJEUNG · Pixabay · Pixabay Content License",
+   "q": "fertilizer spreading field"
+  },
+  {
+   "source": "pixabay",
+   "id": "73847",
+   "kind": "video",
+   "title": "sand, hand, beach, dessert, sea, live wallpaper",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-73847/",
+   "thumb": "https://cdn.pixabay.com/video/2021/05/11/73847-549547533_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2021/05/11/73847-549547533_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 14,
+   "year": null,
+   "author": "JustYøu",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2021/05/11/73847-549547533_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 44349306
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/05/11/73847-549547533_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 23896503
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/05/11/73847-549547533_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 9665784
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "sand, hand, beach, dessert, sea, live wallpaper · JustYøu · Pixabay · Pixabay Content License",
+   "q": "fertilizer pellets hand"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822",
+   "kind": "video",
+   "title": "A woman cleans soil from lettuce roots",
+   "desc": "A close-up shot of a woman cleaning soil off of the roots of a lettuce plant.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-cleans-soil-from-lettuce-roots-phbqnscvn6",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 20.937583,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman cleans soil from lettuce roots · Coverr · Coverr License",
+   "q": "fertilizer spreading field"
+  },
+  {
+   "source": "pixabay",
+   "id": "27620",
+   "kind": "video",
+   "title": "biology, worm, earthworm, insect, soil, invertebrates, compost, nature, earth, fertilizer, organic, ecological, humus, trash, recycle",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-27620/",
+   "thumb": "https://cdn.pixabay.com/video/2019/10/07/27620-364947555_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2019/10/07/27620-364947555_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 25,
+   "year": null,
+   "author": "padrinan",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2019/10/07/27620-364947555_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 76437849
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/10/07/27620-364947555_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 40609751
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2019/10/07/27620-364947555_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 17531544
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "biology, worm, earthworm, insect, soil, invertebrates, compost, nature, earth, fertilizer, organic, ecological, humus, trash, recycle · padrinan · Pixabay · Pixabay Content License",
+   "q": "granular fertilizer"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-woman-picks-lettuce-on-a-farm-2718",
+   "kind": "video",
+   "title": "A woman picks lettuce on a farm",
+   "desc": "A medium shot of a woman harvesting lettuce.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-picks-lettuce-on-a-farm-uhy2z1rlrh",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-woman-picks-lettuce-on-a-farm-2718/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-woman-picks-lettuce-on-a-farm-2718/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 15.015,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-woman-picks-lettuce-on-a-farm-2718/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman picks lettuce on a farm · Coverr · Coverr License",
+   "q": "fertilizer spreading field"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-croft-with-mature-vegetables-4297",
+   "kind": "video",
+   "title": "A croft with mature vegetables",
+   "desc": "A mini farm with a small wooden shed.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-croft-with-mature-vegetables-y6ksobu4m2",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 14.681333,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A croft with mature vegetables · Coverr · Coverr License",
+   "q": "granular fertilizer"
+  },
+  {
+   "source": "pixabay",
+   "id": "34091",
+   "kind": "video",
+   "title": "washing hands, coronavirus, stop the spread, covid 19, water, hands, female, hygiene, cleanliness, technique, running water, handwashing, hand washing",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-34091/",
+   "thumb": "https://cdn.pixabay.com/video/2020/03/22/34091-399913636_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2020/03/22/34091-399913636_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 24,
+   "year": null,
+   "author": "jLasWilson",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2020/03/22/34091-399913636_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 42594893
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/03/22/34091-399913636_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 23362068
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/03/22/34091-399913636_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 15223013
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "washing hands, coronavirus, stop the spread, covid 19, water, hands, female, hygiene, cleanliness, technique, running water, handwashing, hand washing · jLasWilson · Pixabay · Pixabay Content License",
+   "q": "fertilizer pellets hand"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr--07-022-22-gardening_0036-9423",
+   "kind": "video",
+   "title": "Composting",
+   "desc": "A woman brings a bucket with organic waste to a pile of manure.",
+   "tags": "",
+   "page": "https://coverr.co/videos/composting-gswrel8zm3",
+   "thumb": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0036-9423/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0036-9423/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 23.565208,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr--07-022-22-gardening_0036-9423/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Composting · Coverr · Coverr License",
+   "q": "granular fertilizer"
+  }
+ ]
+}

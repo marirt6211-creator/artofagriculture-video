@@ -1,0 +1,765 @@
+{
+ "shot": "s10",
+ "text": "So, healthy plants start with healthy soil!",
+ "need": "lush green healthy crop field",
+ "queries": [
+  "green crop field",
+  "lush vegetable garden",
+  "healthy plants field sunlight"
+ ],
+ "kind": "video",
+ "items": [
+  {
+   "source": "mixkit",
+   "id": "9674",
+   "kind": "video",
+   "title": "Aerial view of green crop fields by the lake",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/aerial-view-of-green-crop-fields-by-the-lake-9674/",
+   "thumb": "https://assets.mixkit.co/videos/9674/9674-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/9674/9674-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/9674/9674-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/9674/9674-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Aerial view of green crop fields by the lake · Mixkit · Mixkit Free License",
+   "q": "green crop field"
+  },
+  {
+   "source": "pixabay",
+   "id": "369845",
+   "kind": "video",
+   "title": "hibiscus, red hibiscus, hibiscus flower, red flower, purple flower, flowering plant, tropical flowers, tropical plants, flowers, flower, green leaves, leaves, lush greenery, tropical vegetation, garden, botanical, botany, nature, natural landscape, waterfall, small waterfall, cascading water, flowing water",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-369845/",
+   "thumb": "https://cdn.pixabay.com/video/2026/08/10/369845_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2026/08/10/369845_tiny.mp4",
+   "w": 2160,
+   "h": 3840,
+   "dur": 11,
+   "year": null,
+   "author": "Marsel_beijing",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2026/08/10/369845_large.mp4",
+     "w": 2160,
+     "h": 3840,
+     "size": 41060816
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/08/10/369845_medium.mp4",
+     "w": 1440,
+     "h": 2560,
+     "size": 21910147
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/08/10/369845_small.mp4",
+     "w": 1080,
+     "h": 1920,
+     "size": 14026496
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "hibiscus, red hibiscus, hibiscus flower, red flower, purple flower, flowering plant, tropical flowers, tropical plants, flowers, flower, green leaves, leaves, lush greenery, tropical vegetation, garden, botanical, botany, nature, natural landscape, waterfall, small waterfall, cascading water, flowing water · Marsel_beijing · Pixabay · Pixabay Content License",
+   "q": "lush vegetable garden"
+  },
+  {
+   "source": "mixkit",
+   "id": "20633",
+   "kind": "video",
+   "title": "Rain falling across healthy plants",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/rain-falling-across-healthy-plants-20633/",
+   "thumb": "https://assets.mixkit.co/videos/20633/20633-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/20633/20633-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/20633/20633-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/20633/20633-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Rain falling across healthy plants · Mixkit · Mixkit Free License",
+   "q": "healthy plants"
+  },
+  {
+   "source": "mixkit",
+   "id": "7580",
+   "kind": "video",
+   "title": "Green hills behind a crop field",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/green-hills-behind-a-crop-field-7580/",
+   "thumb": "https://assets.mixkit.co/videos/7580/7580-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/7580/7580-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/7580/7580-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/7580/7580-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Green hills behind a crop field · Mixkit · Mixkit Free License",
+   "q": "green crop field"
+  },
+  {
+   "source": "pixabay",
+   "id": "355637",
+   "kind": "video",
+   "title": "bamboo forest, bamboo leaves, tropical vegetation, natural scenery, exotic plants, lush greenery, green foliage, nature background, tropical landscape, dense forest, bamboo grove, stream, riverbank, botanical garden, fresh green, rainforest, eco nature, peaceful environment, environmental conservation, outdoor landscape, vegetation, woodland, natural beauty, scenic view, green texture",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-355637/",
+   "thumb": "https://cdn.pixabay.com/video/2026/05/31/355637_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2026/05/31/355637_tiny.mp4",
+   "w": 1080,
+   "h": 1920,
+   "dur": 30,
+   "year": null,
+   "author": "nasrullahmacro",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2026/05/31/355637_large.mp4",
+     "w": 1080,
+     "h": 1920,
+     "size": 71138106
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/05/31/355637_medium.mp4",
+     "w": 720,
+     "h": 1280,
+     "size": 25939096
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2026/05/31/355637_small.mp4",
+     "w": 540,
+     "h": 960,
+     "size": 17365418
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "bamboo forest, bamboo leaves, tropical vegetation, natural scenery, exotic plants, lush greenery, green foliage, nature background, tropical landscape, dense forest, bamboo grove, stream, riverbank, botanical garden, fresh green, rainforest, eco nature, peaceful environment, environmental conservation, outdoor landscape, vegetation, woodland, natural beauty, scenic view, green texture · nasrullahmacro · Pixabay · Pixabay Content License",
+   "q": "lush vegetable garden"
+  },
+  {
+   "source": "pixabay",
+   "id": "66810",
+   "kind": "video",
+   "title": "grass, dew, field, fog, morning, nature, sunshine, green, grassland, farm, sunlight, sunrise, sun",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-66810/",
+   "thumb": "https://cdn.pixabay.com/video/2021/03/03/66810-520427372_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2021/03/03/66810-520427372_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 28,
+   "year": null,
+   "author": "JustYøu",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2021/03/03/66810-520427372_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 68134517
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/03/03/66810-520427372_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 41900107
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/03/03/66810-520427372_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 20356412
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "grass, dew, field, fog, morning, nature, sunshine, green, grassland, farm, sunlight, sunrise, sun · JustYøu · Pixabay · Pixabay Content License",
+   "q": "healthy plants field sunlight"
+  },
+  {
+   "source": "pixabay",
+   "id": "167842",
+   "kind": "video",
+   "title": "hemp, field, crop, agriculture, hemp field, leaves, green, medicinal plant, nature",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-167842/",
+   "thumb": "https://cdn.pixabay.com/video/2023/06/19/167842-837754509_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2023/06/19/167842-837754509_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 29,
+   "year": null,
+   "author": "NickyPe",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2023/06/19/167842-837754509_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 93273138
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2023/06/19/167842-837754509_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 51100632
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2023/06/19/167842-837754509_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 21747155
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "hemp, field, crop, agriculture, hemp field, leaves, green, medicinal plant, nature · NickyPe · Pixabay · Pixabay Content License",
+   "q": "green crop field"
+  },
+  {
+   "source": "pixabay",
+   "id": "39270",
+   "kind": "video",
+   "title": "jungle, rainforest, forest, rain, trail, path, gravel, garden, botanical, nature, vines, exotic, tropic, vine, ivy, green, leaf, lush, amazon, brazil, borneo",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-39270/",
+   "thumb": "https://cdn.pixabay.com/video/2020/05/17/39270-422620693_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2020/05/17/39270-422620693_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 24,
+   "year": null,
+   "author": "caelan",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2020/05/17/39270-422620693_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 16422195
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/05/17/39270-422620693_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 8317517
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2020/05/17/39270-422620693_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 4413890
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "jungle, rainforest, forest, rain, trail, path, gravel, garden, botanical, nature, vines, exotic, tropic, vine, ivy, green, leaf, lush, amazon, brazil, borneo · caelan · Pixabay · Pixabay Content License",
+   "q": "lush vegetable garden"
+  },
+  {
+   "source": "pixabay",
+   "id": "188912",
+   "kind": "video",
+   "title": "grass, plants, wind, sunlight, sunshine, sky, nature",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-188912/",
+   "thumb": "https://cdn.pixabay.com/video/2023/11/13/188912-884171167_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2023/11/13/188912-884171167_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 19,
+   "year": null,
+   "author": "BlenderTimer",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2023/11/13/188912-884171167_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 14285615
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2023/11/13/188912-884171167_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 7464839
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2023/11/13/188912-884171167_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 4308951
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "grass, plants, wind, sunlight, sunshine, sky, nature · BlenderTimer · Pixabay · Pixabay Content License",
+   "q": "healthy plants field sunlight"
+  },
+  {
+   "source": "pixabay",
+   "id": "61192",
+   "kind": "video",
+   "title": "hemp, plant, green, nature, crop, hemp field, plantation, wind",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-61192/",
+   "thumb": "https://cdn.pixabay.com/video/2021/01/05/61192-497948215_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2021/01/05/61192-497948215_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 18,
+   "year": null,
+   "author": "NickyPe",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2021/01/05/61192-497948215_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 56756919
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/01/05/61192-497948215_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 30808876
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2021/01/05/61192-497948215_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 13225245
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "hemp, plant, green, nature, crop, hemp field, plantation, wind · NickyPe · Pixabay · Pixabay Content License",
+   "q": "green crop field"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-urban-oasis-city-beyond-the-trees",
+   "kind": "video",
+   "title": "Panoramic Urban Oasis: Cityscape Beyond Lush Trees",
+   "desc": "A panoramic view of the city skyline framed by lush green trees. The wide-angle shot highlights the harmonious blend of nature and the bustling city in the background.",
+   "tags": "",
+   "page": "https://coverr.co/videos/panoramic-urban-oasis-cityscape-beyond-lush-trees",
+   "thumb": "https://cdn.coverr.co/videos/coverr-urban-oasis-city-beyond-the-trees/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-urban-oasis-city-beyond-the-trees/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 16.433083,
+   "year": 2024,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-urban-oasis-city-beyond-the-trees/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Panoramic Urban Oasis: Cityscape Beyond Lush Trees · Coverr · Coverr License",
+   "q": "lush vegetable garden"
+  },
+  {
+   "source": "pixabay",
+   "id": "16453",
+   "kind": "video",
+   "title": "poppy field, poppy, field, red flower, flower, plant, summer, poppies, red poppy, nature, summer plants, summer flowers, wildflower, spring, summer flower, red, flora, sunset",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-16453/",
+   "thumb": "https://cdn.pixabay.com/video/2018/05/26/16453-272487468_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2018/05/26/16453-272487468_tiny.mp4",
+   "w": 1920,
+   "h": 1080,
+   "dur": 30,
+   "year": null,
+   "author": "adonyig",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2018/05/26/16453-272487468_large.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 18717171
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2018/05/26/16453-272487468_medium.mp4",
+     "w": 1280,
+     "h": 720,
+     "size": 9367155
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2018/05/26/16453-272487468_small.mp4",
+     "w": 960,
+     "h": 540,
+     "size": 5612220
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "poppy field, poppy, field, red flower, flower, plant, summer, poppies, red poppy, nature, summer plants, summer flowers, wildflower, spring, summer flower, red, flora, sunset · adonyig · Pixabay · Pixabay Content License",
+   "q": "healthy plants field sunlight"
+  },
+  {
+   "source": "pixabay",
+   "id": "313652",
+   "kind": "video",
+   "title": "corn field, maize field, young corn, sprouting corn, planted field, crop rows, agriculture, farmland, aerial view, drone footage, low altitude drone, rural landscape, farming, agricultural field, new crop, spring planting, perspective lines, green crops, crop growth, fields from above, nature, countryside, landscape drone, farmland aerial, soil rows",
+   "desc": "",
+   "page": "https://pixabay.com/videos/id-313652/",
+   "thumb": "https://cdn.pixabay.com/video/2025/11/03/313652_tiny.jpg",
+   "preview": "https://cdn.pixabay.com/video/2025/11/03/313652_tiny.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 18,
+   "year": null,
+   "author": "aerofotografialincoln",
+   "licence": {
+    "code": "pixabay",
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.pixabay.com/video/2025/11/03/313652_large.mp4",
+     "w": 3840,
+     "h": 2160,
+     "size": 38863340
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/11/03/313652_medium.mp4",
+     "w": 2560,
+     "h": 1440,
+     "size": 17732286
+    },
+    {
+     "url": "https://cdn.pixabay.com/video/2025/11/03/313652_small.mp4",
+     "w": 1920,
+     "h": 1080,
+     "size": 11593288
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "corn field, maize field, young corn, sprouting corn, planted field, crop rows, agriculture, farmland, aerial view, drone footage, low altitude drone, rural landscape, farming, agricultural field, new crop, spring planting, perspective lines, green crops, crop growth, fields from above, nature, countryside, landscape drone, farmland aerial, soil rows · aerofotografialincoln · Pixabay · Pixabay Content License",
+   "q": "green crop field"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-croft-with-mature-vegetables-4297",
+   "kind": "video",
+   "title": "A croft with mature vegetables",
+   "desc": "A mini farm with a small wooden shed.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-croft-with-mature-vegetables-y6ksobu4m2",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 14.681333,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-croft-with-mature-vegetables-4297/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A croft with mature vegetables · Coverr · Coverr License",
+   "q": "lush vegetable garden"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-healthy-snack-time-outdoors",
+   "kind": "video",
+   "title": "Woman Enjoying Healthy Snack in Sunlit Forest",
+   "desc": "A woman sits at a wooden table in a sunlit forest, holding a handful of nuts while surrounded by nature. The video captures a serene moment of relaxation and well-being, ideal for themes of outdoor activities, health, and mindfulness.",
+   "tags": "",
+   "page": "https://coverr.co/videos/healthy-snack-time-outdoors",
+   "thumb": "https://cdn.coverr.co/videos/coverr-healthy-snack-time-outdoors/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-healthy-snack-time-outdoors/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 13.52,
+   "year": 2024,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-healthy-snack-time-outdoors/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Woman Enjoying Healthy Snack in Sunlit Forest · Coverr · Coverr License",
+   "q": "healthy plants field sunlight"
+  },
+  {
+   "source": "mixkit",
+   "id": "9995",
+   "kind": "video",
+   "title": "People harvesting in a green field",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/people-harvesting-in-a-green-field-9995/",
+   "thumb": "https://assets.mixkit.co/videos/9995/9995-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/9995/9995-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/9995/9995-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/9995/9995-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "People harvesting in a green field · Mixkit · Mixkit Free License",
+   "q": "green crop field"
+  },
+  {
+   "source": "coverr",
+   "id": "coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822",
+   "kind": "video",
+   "title": "A woman cleans soil from lettuce roots",
+   "desc": "A close-up shot of a woman cleaning soil off of the roots of a lettuce plant.",
+   "tags": "",
+   "page": "https://coverr.co/videos/a-woman-cleans-soil-from-lettuce-roots-phbqnscvn6",
+   "thumb": "https://cdn.coverr.co/videos/coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822/thumbnail?width=640",
+   "preview": "https://cdn.coverr.co/videos/coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822/360p.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 20.937583,
+   "year": 2022,
+   "author": "",
+   "licence": {
+    "code": "coverr",
+    "name": "Coverr License",
+    "url": "https://coverr.co/license",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://cdn.coverr.co/videos/coverr-a-woman-cleans-the-lettuce-roots-from-the-ground-8822/1080p.mp4",
+     "w": 3840,
+     "h": 2160,
+     "label": "1080p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "A woman cleans soil from lettuce roots · Coverr · Coverr License",
+   "q": "lush vegetable garden"
+  },
+  {
+   "source": "mixkit",
+   "id": "9842",
+   "kind": "video",
+   "title": "Green fields and trees on a plateau",
+   "desc": "",
+   "page": "https://mixkit.co/free-stock-video/green-fields-and-trees-on-a-plateau-9842/",
+   "thumb": "https://assets.mixkit.co/videos/9842/9842-thumb-360-0.jpg",
+   "preview": "https://assets.mixkit.co/videos/9842/9842-360.mp4",
+   "w": 0,
+   "h": 0,
+   "dur": 0,
+   "year": null,
+   "author": "",
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "files": [
+    {
+     "url": "https://assets.mixkit.co/videos/9842/9842-1080.mp4",
+     "label": "1080p"
+    },
+    {
+     "url": "https://assets.mixkit.co/videos/9842/9842-720.mp4",
+     "label": "720p"
+    }
+   ],
+   "notes": [],
+   "flags": [],
+   "credit": "Green fields and trees on a plateau · Mixkit · Mixkit Free License",
+   "q": "green crop field"
+  }
+ ]
+}
