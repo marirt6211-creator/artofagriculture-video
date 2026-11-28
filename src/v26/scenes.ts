@@ -1,6 +1,6 @@
 // v26 scenes — each draws a full 1080×1920 frame for global time T (seconds).
 import {
-  C, H, W, acorn, blade, bokeh, canvas, clamp, cloudSheet, cut, drop, ei, eio, eo, eob, flare, glow, lin, memo, mix, mixHex,
+  C, H, W, acorn, cloudBank, blade, bokeh, canvas, clamp, cloudSheet, cut, drop, ei, eio, eo, eob, flare, glow, lin, memo, mix, mixHex,
   noise1, oakLeaf, plen, rays, rgba, rng, root, soilPattern, spline, taper, bird,
 } from "./paint";
 import { Season, drawTree, fallingLeaf } from "./tree";
@@ -218,14 +218,14 @@ export function scene2Sky(c: C, T: number) {
   g.addColorStop(0, mixHex("#5e8fc4", "#2d3640", storm)); g.addColorStop(0.6, mixHex("#a9c4dc", "#56606a", storm)); g.addColorStop(1, mixHex("#e9d6a8", "#707670", storm));
   c.fillStyle = g; c.fillRect(0, 0, W, H);
   // clouds gather: two layers converge from both sides
-  const fair = cloudSheet("fair", 1), st = cloudSheet("storm", 2);
+  const fair = cloudBank("fair", 1), st = cloudBank("storm", 2), st2 = cloudBank("storm", 5);
   c.filter = "blur(3px)";
   const drift = t * 18;
   c.globalAlpha = 1 - storm * 0.6;
-  c.drawImage(fair, -220 + drift - (1 - storm) * 160, -100, 1560, 1850);
+  c.drawImage(fair, -220 + drift - (1 - storm) * 160, -100, 1520, 1900);
   c.globalAlpha = storm;
-  c.drawImage(st, -300 - drift * 0.6 + (1 - storm) * 400, -160, 1680, 1990);
-  c.drawImage(st, -100 + drift * 0.4 - (1 - storm) * 500, 300, 1400, 1660);
+  c.drawImage(st, -300 - drift * 0.6 + (1 - storm) * 500, -160, 1600, 2000);
+  c.drawImage(st2, -200 + drift * 0.4 - (1 - storm) * 600, 200, 1500, 1880);
   c.globalAlpha = 1; c.filter = "none";
   // oak canopy edge looking up (soft, framing)
   c.save(); c.filter = "blur(4px)";
@@ -988,9 +988,8 @@ export function scene7(c: C, T: number) {
   const tips = drawTree(c, 560, 1960, 0.6, { g: 1, season: "summer", density: 1, t: T, wind: 0.8 });
   // perches: three sturdy outer twigs in view
   if (!PERCH) {
-    const cand = tips.map((p, i) => ({ ...p, i })).filter((p) => p.y > 380 && p.y < 1150 && p.x > 170 && p.x < 910);
-    cand.sort((a, b) => a.y - b.y);
-    PERCH = [cand[Math.floor(cand.length * 0.15)]?.i ?? 0, cand[Math.floor(cand.length * 0.5)]?.i ?? 1, cand[Math.floor(cand.length * 0.8)]?.i ?? 2];
+    const near = (tx: number, ty: number) => { let bi = 0, bd = 1e9; tips.forEach((p, i) => { const d = Math.hypot(p.x - tx, p.y - ty); if (d < bd) { bd = d; bi = i; } }); return bi; };
+    PERCH = [near(840, 1030), near(300, 1010), near(600, 900)];
   }
   // light through the leaves: rays drawn over the crown, additive
   rays(c, sunX, sunY, 2400, -0.3, 1.6, 16, "#ffe2a8", 0.13, T, 12);
@@ -1004,7 +1003,7 @@ export function scene7(c: C, T: number) {
     const x = mix(b.from[0], tip.x, e), y = mix(b.from[1], tip.y - 18, e) - Math.sin(p * Math.PI) * 120;
     const flip = b.from[0] > tip.x ? -1 : 1;
     c.save(); c.translate(x, y);
-    bird(c, 72, T * 26 + k, lin(p, 0.9, 1), flip);
+    bird(c, 92, T * 26 + k, lin(p, 0.9, 1), flip);
     c.restore();
   });
   // the circle of life: an acorn drops from the crown at the very end

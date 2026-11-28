@@ -567,7 +567,7 @@ export function bird(c: C, s: number, phase: number, perch: number, flip = 1) {
   c.beginPath(); c.moveTo(-s * 0.35, 0); c.lineTo(-s * 0.85, -s * 0.06 + perch * s * 0.12); c.lineTo(-s * 0.8, s * 0.1 + perch * s * 0.14); c.closePath(); c.fill();
   // body
   const g = c.createLinearGradient(0, -s * 0.25, 0, s * 0.25);
-  g.addColorStop(0, "#5a4632"); g.addColorStop(0.55, "#8a6a48"); g.addColorStop(1, "#d8c3a0");
+  g.addColorStop(0, "#6a5038"); g.addColorStop(0.5, "#a9825a"); g.addColorStop(1, "#f0dcc0");
   c.fillStyle = g;
   c.beginPath(); c.ellipse(0, 0, s * 0.42, s * 0.2, -0.1 - perch * 0.25, 0, 6.29); c.fill();
   // head
@@ -587,4 +587,56 @@ export function bird(c: C, s: number, phase: number, perch: number, flip = 1) {
   }
   c.closePath(); c.fill();
   c.restore();
+}
+
+/** volumetric cloud bank built from shaded puffs (sunlit tops, shadowed bellies). 800×1000 sprite. */
+export function cloudBank(kind: "fair" | "storm", seed = 1) {
+  return memo(`bank-${kind}-${seed}`, () => {
+    const w = 800, h = 1000, cv = canvas(w, h), c = cv.getContext("2d")!;
+    const r = rng(seed * 101 + (kind === "storm" ? 7 : 0));
+    const storm = kind === "storm";
+    // a few cumulus masses, each a cluster of puffs
+    const masses = storm ? 9 : 6;
+    type P = { x: number; y: number; r: number };
+    const puffs: P[] = [];
+    for (let m = 0; m < masses; m++) {
+      const mx = r() * w, my = (storm ? 60 : 120) + r() * (h - (storm ? 250 : 400)), mr = (storm ? 150 : 110) + r() * 120;
+      const n = 26 + Math.floor(r() * 20);
+      for (let i = 0; i < n; i++) {
+        const a = r() * 6.283, d = Math.sqrt(r()) * mr;
+        // flatter bottoms: squash puffs that fall below the mass centre
+        const y = my + Math.sin(a) * d * 0.55;
+        puffs.push({ x: mx + Math.cos(a) * d * 1.3, y: Math.min(y, my + mr * 0.25), r: (storm ? 46 : 36) + r() * (storm ? 70 : 55) });
+      }
+    }
+    // shadow pass (bellies), then lit pass offset up-left: gives each puff a lit cap
+    puffs.sort((a, b) => a.y - b.y);
+    for (const p of puffs) {
+      const g = c.createRadialGradient(p.x, p.y + p.r * 0.2, 0, p.x, p.y + p.r * 0.2, p.r);
+      const col = storm ? "#3d444d" : "#b9c3cf";
+      g.addColorStop(0, rgba(col, 0.95)); g.addColorStop(0.7, rgba(col, 0.6)); g.addColorStop(1, rgba(col, 0));
+      c.fillStyle = g; c.beginPath(); c.arc(p.x, p.y + p.r * 0.2, p.r, 0, 6.29); c.fill();
+    }
+    for (const p of puffs) {
+      const lx = p.x - p.r * 0.22, ly = p.y - p.r * 0.28, lr = p.r * 0.78;
+      const g = c.createRadialGradient(lx - lr * 0.2, ly - lr * 0.25, 0, lx, ly, lr);
+      const col = storm ? "#8d96a2" : "#ffffff";
+      g.addColorStop(0, rgba(col, storm ? 0.7 : 0.95)); g.addColorStop(0.55, rgba(col, storm ? 0.32 : 0.55)); g.addColorStop(1, rgba(col, 0));
+      c.fillStyle = g; c.beginPath(); c.arc(lx, ly, lr, 0, 6.29); c.fill();
+    }
+    // wispy fbm detail on top, then a gentle soften
+    const img = c.getImageData(0, 0, w, h), d = img.data;
+    for (let y = 0; y < h; y++)
+      for (let x = 0; x < w; x++) {
+        const i = (y * w + x) * 4;
+        if (d[i + 3] < 4) continue;
+        const n = fbm(x / 38, y / 30, 64, seed + 3, 4) - 0.5;
+        d[i] = clamp(d[i] + n * 60, 0, 255); d[i + 1] = clamp(d[i + 1] + n * 60, 0, 255); d[i + 2] = clamp(d[i + 2] + n * 62, 0, 255);
+        d[i + 3] = clamp(d[i + 3] * (1 + n * 0.8), 0, 255);
+      }
+    c.putImageData(img, 0, 0);
+    const out = canvas(w, h), oc = out.getContext("2d")!;
+    oc.filter = "blur(2px)"; oc.drawImage(cv, 0, 0);
+    return out;
+  });
 }

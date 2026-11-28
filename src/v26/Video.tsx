@@ -1,7 +1,7 @@
 // v26 · THE STORY OF A SEED — 60 s vertical short, no narration. Painted American-hyperrealism look, all code.
 import React, { useLayoutEffect, useRef, useState } from "react";
 import { AbsoluteFill, Composition, continueRender, delayRender, Html5Audio, Img, staticFile, useCurrentFrame } from "remotion";
-import { C, H, W, canvas, clamp, eio, eo, glow, grain, lin, memo, mix, reset, rng, roundRect, vignette } from "./paint";
+import { C, H, W, canvas, clamp, eio, eo, eob, glow, grain, lin, memo, mix, reset, rng, roundRect, vignette } from "./paint";
 import { DUR, T2, T6, T7, TEND, scene1, scene2Macro, scene2Sky, scene5, scene6, scene7, underground } from "./scenes";
 
 const FPS = 30;
@@ -58,7 +58,7 @@ function endBackdrop(c: C, T: number) {
   const g = c.createLinearGradient(0, 0, 0, H);
   g.addColorStop(0, "#14261a"); g.addColorStop(0.55, "#1d3522"); g.addColorStop(1, "#0d1810");
   c.fillStyle = g; c.fillRect(0, 0, W, H);
-  glow(c, W / 2, 760, 900, "#e9c46a", 0.16);
+  glow(c, W / 2, 620, 900, "#e9c46a", 0.16);
   const r = rng(9);
   c.save(); c.globalCompositeOperation = "lighter";
   for (let i = 0; i < 60; i++) {
@@ -133,7 +133,7 @@ export function compose(c: C, T: number) {
     // branded ending: the oak becomes a framed print above the logo
     endBackdrop(c, T); reset(c);
     const p = eio(lin(T, TEND, TEND + 1.0));
-    layer(c, A, (x) => scene7(x, T), lerpBox(FULL, { cx: W / 2, cy: 740, s: 0.6, o: 1, r: 36 }, p));
+    layer(c, A, (x) => scene7(x, T), lerpBox(FULL, { cx: W / 2, cy: 600, s: 0.5, o: 1, r: 34 }, p));
   }
   reset(c);
   // the light bridge S6 -> S7 (bloom swells on the music, the great oak is revealed)
@@ -158,7 +158,7 @@ const PHRASES: Phrase[] = [
   { a: 34.0, b: 37.3, y: 330, text: "Towards the light." },
   { a: 43.0, b: 47.8, y: 230, text: "Patience turns small beginnings|into something extraordinary.", size: 56 },
 ];
-const FINAL: Phrase = { a: 53.0, b: 99, y: 1420, text: "Every great tree|was once a tiny seed.", size: 66 };
+const FINAL: Phrase = { a: 53.0, b: 99, y: 1420, text: "Every great tree|was once a tiny seed.", size: 60 };
 
 const Words: React.FC<{ p: Phrase; t: number }> = ({ p, t }) => {
   if (t < p.a - 0.1 || t > p.b + 0.7) return null;
@@ -227,16 +227,19 @@ const TextMark: React.FC<{ t: number }> = ({ t }) => {
 };
 
 const EndCard: React.FC<{ t: number }> = ({ t }) => {
-  const p = lin(t, TEND + 0.7, TEND + 1.6);
+  const p = lin(t, TEND + 0.6, TEND + 1.5);
   if (p <= 0) return null;
   const q = eo(p);
+  const sp = eo(lin(t, TEND + 1.3, TEND + 2.0));
+  const pulse = 1 + 0.04 * Math.max(0, Math.sin((t - TEND - 2.2) * 4)) * lin(t, TEND + 2.2, TEND + 2.5);
   return (
-    <div style={{ position: "absolute", left: 0, right: 0, top: 1600, display: "flex", alignItems: "center", justifyContent: "center", gap: 28, opacity: q, transform: `translateY(${(1 - q) * 30}px)` }}>
-      <Img src={staticFile("brand/aoa-logo.png")} style={{ width: 170, height: 170, filter: "drop-shadow(0 6px 18px rgba(0,0,0,.5))", transform: `scale(${0.85 + 0.15 * q}) rotate(${(1 - q) * -20}deg)` }} />
-      <div style={{ fontFamily: DISP, fontWeight: 700, fontSize: 60, color: "#fffaf0", letterSpacing: 1 }}>
-        Art<span style={{ color: GOLD }}>of</span>Agriculture
-        <div style={{ fontFamily: SERIF, fontWeight: 400, fontSize: 30, color: "rgba(255,250,240,0.75)", letterSpacing: 1, marginTop: 6 }}>@ArtofAgriculture</div>
+    <div style={{ position: "absolute", left: 0, right: 0, top: 1300, display: "flex", flexDirection: "column", alignItems: "center", gap: 22 }}>
+      <Img src={staticFile("brand/aoa-logo.png")} style={{ width: 230, height: 230, opacity: q, filter: "drop-shadow(0 8px 22px rgba(0,0,0,.55))", transform: `scale(${0.8 + 0.2 * eob(q)}) rotate(${(1 - q) * -25}deg)` }} />
+      <div style={{ opacity: sp, transform: `translateY(${(1 - sp) * 24}px) scale(${pulse})`, display: "flex", alignItems: "center", gap: 16, background: "#d92a20", color: "#fff", fontFamily: DISP, fontWeight: 700, fontSize: 46, letterSpacing: 3, padding: "16px 44px", borderRadius: 999, boxShadow: "0 10px 30px rgba(0,0,0,.45), inset 0 2px 0 rgba(255,255,255,.25)" }}>
+        <svg width="40" height="40" viewBox="0 0 24 24"><path fill="#fff" d="M12 22a2.5 2.5 0 0 0 2.45-2h-4.9A2.5 2.5 0 0 0 12 22Zm7-6V11a7 7 0 0 0-5.5-6.84V3.5a1.5 1.5 0 0 0-3 0v.66A7 7 0 0 0 5 11v5l-2 2v1h18v-1Z"/></svg>
+        SUBSCRIBE
       </div>
+      <div style={{ opacity: sp * 0.85, fontFamily: SERIF, fontSize: 30, color: "#fffaf0", letterSpacing: 1 }}>@ArtofAgriculture</div>
     </div>
   );
 };
@@ -257,7 +260,7 @@ const Inner: React.FC<{ t: number; audio?: string }> = ({ t, audio }) => {
       {ok && (
         <>
           {PHRASES.map((p, i) => <Words key={i} p={p} t={t} />)}
-          <Words p={{ ...FINAL, y: t > TEND ? mix(FINAL.y, 1390, eio(lin(t, TEND, TEND + 1))) : FINAL.y }} t={t} />
+          <Words p={{ ...FINAL, y: t > TEND ? mix(FINAL.y, 1118, eio(lin(t, TEND, TEND + 1))) : FINAL.y }} t={t} />
           <Watermark t={t} />
           <TextMark t={t} />
           <EndCard t={t} />
