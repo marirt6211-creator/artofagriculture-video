@@ -29,6 +29,7 @@ import { V19 } from "./v19/Video";
 import { V21 } from "./v21/Video";
 import { V22 } from "./v22/Video";
 import { V24 } from "./v24/Video";
+import { V26 } from "./v26/Video";
 import { FootageReelComps } from "./footage-starter/FootageReel";
 
 // Every video = one <Composition>. The style demos below are the reference films / starter templates (see STYLES.md).
@@ -76,6 +77,7 @@ export const RemotionRoot: React.FC = () => {
       <V21 />
       <V22 />
       <V24 />
+      <V26 />
       {/* your videos: <Composition id="V01" component={Video01} durationInFrames={…} fps={30} width={1080} height={1920} /> */}
       <V01 />
       <Composition id="V12-Silent" component={V12} durationInFrames={V12_FRAMES} fps={V12_FPS} width={1080} height={1920} />
