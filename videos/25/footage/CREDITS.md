@@ -20,3 +20,5 @@
 | s09b | Mixkit | Time lapse of seedlings growing  |  | Mixkit Free License | https://mixkit.co/free-stock-video/time-lapse-of-seedlings-growing-47540/ |
 | s10a | Mixkit | Rain falling across healthy plants |  | Mixkit Free License | https://mixkit.co/free-stock-video/rain-falling-across-healthy-plants-20633/ |
 | s10b | Mixkit | Green fields and trees on a plateau |  | Mixkit Free License | https://mixkit.co/free-stock-video/green-fields-and-trees-on-a-plateau-9842/ |
+| s07c | Mixkit | Worker in a greenhouse watering young plants with a hose |  | Mixkit Free License | https://mixkit.co/free-stock-video/worker-in-a-greenhouse-watering-young-plants-with-a-hose-47274/ |
+| s09c | Mixkit | Fertilizing the flowers near the window |  | Mixkit Free License | https://mixkit.co/free-stock-video/fertilizing-the-flowers-near-the-window-23812/ |

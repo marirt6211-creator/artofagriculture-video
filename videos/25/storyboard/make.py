@@ -105,8 +105,6 @@ caption(b, 'why some soils struggle to grow healthy plants', {'soils', 'struggle
 
 # ---------- 02 hook b: watering + PiP plant ----------
 b = Image.new('RGBA', (W, H)); b.paste(cover(grab('public/v25/footage/s01a.mp4', 3), W, H, fx=.3))
-pip = rounded(cover(grab('uploads/v25/clip1.mp4', 1.0), 190, 300, fy=.45), 20, GOLD, 5)
-shadow_paste(b, pip, (W - 220, 90))
 caption(b, 'even when they receive enough water and fertilizer?', {'water', 'fertilizer'}); watermark(b, 'tl'); save(b, 2)
 
 # ---------- 03 humic acid reveal ----------
@@ -156,21 +154,17 @@ d = ImageDraw.Draw(b)
 text(d, (W / 2, 110), 'LIFE IN THE SOIL', ANTON(64), fill=CREAM, stroke=4)
 caption(b, 'increase beneficial biological activity in the soil', {'biological', 'activity'}); watermark(b, 'br'); save(b, 8)
 
-# ---------- 09 three forms triptych ----------
-b = Image.new('RGBA', (W, H), (26, 20, 14, 255))
-b.paste(cover(grab('uploads/v25/tree-flow.jpg'), W, H, fy=.8).filter(ImageFilter.GaussianBlur(14)))
-b = Image.alpha_composite(b, Image.new('RGBA', (W, H), (0, 0, 0, 120))); d = ImageDraw.Draw(b)
+# ---------- 09 three forms: user image with callouts ----------
+b = Image.new('RGBA', (W, H)); b.paste(cover(grab('uploads/v25/three-forms.png'), W, H))
+grad(b, True, 260, 170); d = ImageDraw.Draw(b)
 text(d, (W / 2, 70), '3 FORMS', ANTON(70), fill=GOLD, stroke=4)
-forms = [('uploads/v25/clip1.mp4', 3.2, .7, 'LIQUID'), ('public/v25/footage/s06a.jpg', 0, .5, 'POWDER'), ('public/v25/footage/s06b.jpg', 0, .5, 'GRANULES')]
-for i, (p, t, fx, lab) in enumerate(forms):
-    im = rounded(cover(grab(p, t), 300, 200, fx=fx), 20, CREAM, 4)
-    x = 40 if i % 2 == 0 else W - 340
-    shadow_paste(b, im, (x, 140 + i * 205))
-    plate(b, x + 150, 140 + i * 205 + 200, lab, ANTON(32))
-caption(b, 'liquid, powder, and granules', {'liquid', 'powder', 'granules'}); save(b, 9)
+for (x, y, r, lab, ly) in ((132, 500, 95, 'LIQUID', 370), (395, 470, 85, 'POWDER', 355), (280, 805, 110, 'GRANULES', 670)):
+    d.ellipse((x - r, y - r, x + r, y + r), outline=GOLD, width=5)
+    plate(b, x, ly, lab, ANTON(34))
+caption(b, 'liquid, powder, and granules', {'liquid', 'powder', 'granules'}); watermark(b, 'tr'); save(b, 9)
 
 # ---------- 10 application: tractor + big keywords ----------
-b = Image.new('RGBA', (W, H)); b.paste(cover(grab('public/v25/footage/s07a.mp4', 3), W, H, fx=.55))
+b = Image.new('RGBA', (W, H)); b.paste(cover(grab('public/v25/footage/s07c.mp4', 3), W, H, fx=.45))
 grad(b, True, 460); d = ImageDraw.Draw(b)
 text(d, (W / 2, 110), 'THE RIGHT AMOUNT', ANTON(54), fill=GOLD, stroke=4)
 for i, s in enumerate(('CONCENTRATION', 'PLANT TYPE', 'SOIL')):
@@ -188,7 +182,7 @@ caption(b, 'humic acid is not a replacement for NPK fertilizers', {'not', 'repla
 
 # ---------- 12 work together: split left/right ----------
 b = Image.new('RGBA', (W, H))
-L = cover(grab('public/v25/footage/s09a.mp4', 3), W // 2, H, fx=.5); Rr = cover(grab('uploads/v25/tree-flow.jpg'), W // 2, H, fy=.55)
+L = cover(grab('public/v25/footage/s09c.mp4', 3), W // 2, H, fx=.3); Rr = cover(grab('uploads/v25/tree-flow.jpg'), W // 2, H, fy=.55)
 b.paste(L, (0, 0)); b.paste(Rr, (W // 2, 0)); d = ImageDraw.Draw(b)
 d.rectangle((W // 2 - 3, 0, W // 2 + 3, H), fill=GOLD)
 plate(b, W / 4, 150, 'NPK', ANTON(54), bg=CREAM); plate(b, 3 * W / 4, 150, 'HUMIC', ANTON(54))
@@ -200,20 +194,30 @@ b = Image.new('RGBA', (W, H)); b.paste(cover(grab('public/v25/footage/s09b.mp4',
 caption(b, 'better conditions for plant growth', {'growth'}); watermark(b, 'br'); save(b, 13)
 
 # ---------- 14 ending: transformed plant ----------
-b = Image.new('RGBA', (W, H)); b.paste(cover(grab('uploads/v25/clip1.mp4', 7.6), W, H, fy=.45, zoom=1.05))
+b = Image.new('RGBA', (W, H)); b.paste(cover(grab('public/v25/footage/s10a.mp4', 3), W, H, fx=.5))
 grad(b, True, 420); d = ImageDraw.Draw(b)
 text(d, (W / 2, 120), 'HEALTHY SOIL', ANTON(76), fill=GOLD, stroke=4)
 text(d, (W / 2, 205), '=', ANTON(60), fill=CREAM, stroke=3)
 text(d, (W / 2, 285), 'HEALTHY PLANTS', ANTON(76), fill=CREAM, stroke=4)
 caption(b, 'healthy plants start with healthy soil!', {'healthy', 'soil!'}); watermark(b, 'tl'); save(b, 14)
 
-# ---------- 15 end card (short) ----------
+# ---------- 15 end card: follow line + subscribe ----------
 b = Image.new('RGBA', (W, H)); b.paste(cover(grab('public/v25/footage/s10b.mp4', 3), W, H).filter(ImageFilter.GaussianBlur(10)))
-b = Image.alpha_composite(b, Image.new('RGBA', (W, H), (0, 0, 0, 110))); d = ImageDraw.Draw(b)
-big = Image.open(f'{R}/public/brand/aoa-logo.png').convert('RGBA').resize((250, 250), Image.LANCZOS)
-b.alpha_composite(big, ((W - 250) // 2, 260))
-text(d, (W / 2, 590), '@ArtofAgriculture', ANTON(46), fill=GOLD, stroke=3)
-text(d, (W / 2, 650), 'Knowledge Today, Agriculture Tomorrow', INTER(22), fill=CREAM)
-plate(b, W / 2, 740, 'SUBSCRIBE', ANTON(40), fg=(255, 255, 255), bg=RED)
+b = Image.alpha_composite(b, Image.new('RGBA', (W, H), (0, 0, 0, 120))); d = ImageDraw.Draw(b)
+big = Image.open(f'{R}/public/brand/aoa-logo.png').convert('RGBA').resize((220, 220), Image.LANCZOS)
+b.alpha_composite(big, ((W - 220) // 2, 150))
+text(d, (W / 2, 425), 'Enjoy this kind of content?', font('Oswald.ttf', 36), fill=CREAM, stroke=2)
+text(d, (W / 2, 480), 'FOLLOW', ANTON(56), fill=GOLD, stroke=3)
+text(d, (W / 2, 545), '@ArtofAgriculture', ANTON(48), fill=CREAM, stroke=3)
+d.rounded_rectangle((W / 2 - 150, 600, W / 2 + 150, 676), 38, fill=RED)
+text(d, (W / 2 - 12, 638), 'SUBSCRIBE', ANTON(40), fill=(255, 255, 255))
+# bell
+bx, by = W / 2 + 190, 638
+d.ellipse((bx - 34, by - 34, bx + 34, by + 34), fill=CREAM)
+d.pieslice((bx - 16, by - 20, bx + 16, by + 14), 180, 360, fill=(30, 30, 30)); d.rectangle((bx - 16, by - 4, bx + 16, by + 10), fill=(30, 30, 30))
+d.ellipse((bx - 5, by + 10, bx + 5, by + 20), fill=(30, 30, 30))
+# hand cursor tapping the button
+d.polygon([(W/2+70, 660), (W/2+70, 712), (W/2+82, 700), (W/2+92, 722), (W/2+100, 718), (W/2+90, 696), (W/2+106, 696)], fill=(255, 255, 255), outline=(0, 0, 0))
+caption(b, 'If you enjoy this kind of content, follow the Art of Agriculture channel.', {'follow', 'art', 'agriculture'})
 save(b, 15)
 print('ok')

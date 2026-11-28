@@ -480,6 +480,68 @@
    },
    "credit": "Green fields and trees on a plateau · Mixkit · Mixkit Free License",
    "shot": "s10"
+  },
+  "s07c": {
+   "file": "v25/footage/s07c.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 7,
+   "fps": 25,
+   "in": 0,
+   "out": 7,
+   "audio": false,
+   "focus": [
+    0.74,
+    0.5
+   ],
+   "source": "mixkit",
+   "id": "47274",
+   "title": "Worker in a greenhouse watering young plants with a hose",
+   "page": "https://mixkit.co/free-stock-video/worker-in-a-greenhouse-watering-young-plants-with-a-hose-47274/",
+   "author": "",
+   "year": null,
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Worker in a greenhouse watering young plants with a hose · Mixkit · Mixkit Free License",
+   "shot": "s07"
+  },
+  "s09c": {
+   "file": "v25/footage/s09c.mp4",
+   "kind": "video",
+   "w": 1920,
+   "h": 1080,
+   "dur": 7,
+   "fps": 25,
+   "in": 0,
+   "out": 7,
+   "audio": false,
+   "focus": [
+    0.24,
+    0.5
+   ],
+   "source": "mixkit",
+   "id": "23812",
+   "title": "Fertilizing the flowers near the window",
+   "page": "https://mixkit.co/free-stock-video/fertilizing-the-flowers-near-the-window-23812/",
+   "author": "",
+   "year": null,
+   "licence": {
+    "code": "mixkit",
+    "name": "Mixkit Free License",
+    "url": "https://mixkit.co/license/#videoFree",
+    "verdict": "free",
+    "attr": false,
+    "sa": false
+   },
+   "credit": "Fertilizing the flowers near the window · Mixkit · Mixkit Free License",
+   "shot": "s09"
   }
  },
  "shots": {
